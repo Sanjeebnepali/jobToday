@@ -15,7 +15,7 @@ Usage:
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
@@ -25,6 +25,12 @@ ROOT = Path(__file__).parent
 SEEN_FILE = ROOT / "seen_jobs.json"      # {id: first_seen_iso}
 JOBS_JS = ROOT / "jobs.js"               # window.JOBS payload for the dashboard
 META_FILE = ROOT / "meta.json"           # last run timestamp + counts
+CACHE_FILE = ROOT / "jobs_cache.json"    # {id: full_job_dict} — retention store
+
+# How long a job stays visible in jobs.js after we first saw it, even if the
+# source has since dropped it. Gives the user a guaranteed application window
+# regardless of when they happen to open the dashboard.
+RETENTION_HOURS = 10
 
 ROLE_KEYWORDS = [
     "react native", "react-native",
@@ -439,10 +445,13 @@ def main():
         return
 
     seed = "--seed" in sys.argv
-    now_iso = datetime.now(timezone.utc).isoformat()
+    now_dt = datetime.now(timezone.utc)
+    now_iso = now_dt.isoformat()
+    retention_cutoff = now_dt - timedelta(hours=RETENTION_HOURS)
 
     seen = load_seen()
-    current_jobs = []
+    cache = load_json(CACHE_FILE, {})   # previous run's emitted jobs, by id
+    live_jobs = {}                       # id → job seen in *this* run's sources
     counts = {}
 
     for name, fetcher in PLATFORMS:
@@ -458,8 +467,9 @@ def main():
                 if FILTER_JOBS and not matches(job):
                     continue
                 job["first_seen"] = seen[job["id"]]
+                job["last_seen"] = now_iso
                 job["categories"] = categorize(job)
-                current_jobs.append(job)
+                live_jobs[job["id"]] = job
                 platform_matched += 1
             print(f"[{name}] {platform_total} scanned, {platform_matched} included")
             counts[name] = {"scanned": platform_total, "matched": platform_matched}
@@ -467,24 +477,50 @@ def main():
             print(f"[{name}] error: {e}", file=sys.stderr)
             counts[name] = {"error": str(e)}
 
-    print(f"Total matching jobs: {len(current_jobs)}")
+    # Merge live + cache: live entries are the source of truth for jobs currently
+    # posted; cache entries fill in jobs that *were* posted recently but have
+    # since dropped off. A cache entry is kept only if its first_seen is still
+    # within the retention window.
+    emission = dict(live_jobs)
+    retained = 0
+    for jid, cached in cache.items():
+        if jid in emission:
+            continue
+        first_seen_iso = cached.get("first_seen", "")
+        try:
+            first_seen_dt = datetime.fromisoformat(first_seen_iso) if first_seen_iso else None
+        except ValueError:
+            first_seen_dt = None
+        if first_seen_dt and first_seen_dt >= retention_cutoff:
+            cached["retained"] = True   # flag so the UI could badge these if you want
+            emission[jid] = cached
+            retained += 1
+
+    print(f"Live this run: {len(live_jobs)}  |  retained from cache: {retained}  "
+          f"|  total emitted: {len(emission)}")
 
     save_json(SEEN_FILE, seen)
+    # Cache = exactly what we just emitted. Next run starts from this snapshot,
+    # which keeps the cache self-pruning (anything past retention falls out).
+    save_json(CACHE_FILE, emission)
 
     if seed:
         print("Seed mode — skipping jobs.js write.")
         return
 
-    current_jobs.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
+    jobs_list = sorted(emission.values(), key=lambda j: j.get("first_seen", ""), reverse=True)
 
     meta = {
         "last_updated": now_iso,
-        "total_jobs": len(current_jobs),
+        "total_jobs": len(jobs_list),
+        "live_count": len(live_jobs),
+        "retained_count": retained,
+        "retention_hours": RETENTION_HOURS,
         "sources": counts,
     }
-    write_jobs_js(current_jobs, meta)
+    write_jobs_js(jobs_list, meta)
     save_json(META_FILE, meta)
-    print(f"Wrote {JOBS_JS.name} with {len(current_jobs)} jobs.")
+    print(f"Wrote {JOBS_JS.name} with {len(jobs_list)} jobs.")
 
 
 if __name__ == "__main__":

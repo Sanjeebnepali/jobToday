@@ -1,6 +1,9 @@
 {
-  "last_updated": "2026-05-11T13:06:58.667132+00:00",
-  "total_jobs": 574,
+  "last_updated": "2026-05-11T13:19:26.985248+00:00",
+  "total_jobs": 585,
+  "live_count": 585,
+  "retained_count": 0,
+  "retention_hours": 10,
   "sources": {
     "Remotive": {
       "scanned": 20,
@@ -19,7 +22,8 @@
       "matched": 50
     },
     "Working Nomads": {
-      "error": "HTTPSConnectionPool(host='www.workingnomads.com', port=443): Read timed out. (read timeout=20)"
+      "scanned": 36,
+      "matched": 36
     },
     "RemoteOK": {
       "scanned": 97,
