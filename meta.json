@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-11T13:30:06.814203+00:00",
-  "total_jobs": 585,
-  "live_count": 585,
-  "retained_count": 0,
+  "last_updated": "2026-05-11T16:35:29.867891+00:00",
+  "total_jobs": 635,
+  "live_count": 583,
+  "retained_count": 52,
   "retention_hours": 10,
   "sources": {
     "Remotive": {
@@ -10,8 +10,8 @@
       "matched": 20
     },
     "WeWorkRemotely": {
-      "scanned": 186,
-      "matched": 186
+      "scanned": 185,
+      "matched": 185
     },
     "Arbeitnow": {
       "scanned": 100,
@@ -26,8 +26,8 @@
       "matched": 36
     },
     "RemoteOK": {
-      "scanned": 97,
-      "matched": 97
+      "scanned": 96,
+      "matched": 96
     },
     "Himalayas": {
       "scanned": 96,
