@@ -1,0 +1,55 @@
+name: Refresh jobs
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour at minute 0 (UTC)
+  workflow_dispatch:        # manual "Run workflow" button on GitHub
+
+permissions:
+  contents: write           # required to commit the updated jobs.js back
+
+concurrency:
+  group: refresh-jobs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      # CI can't carry the logged-in browser_profile/, so skip the Playwright
+      # scrapers (arc.dev / LinkedIn / Indeed KR) entirely. They run locally only.
+      SKIP_PLAYWRIGHT: "1"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies (skip Playwright)
+        # Install everything except playwright — saves ~30s per run and Playwright
+        # would just sit unused because SKIP_PLAYWRIGHT=1.
+        run: |
+          grep -v '^playwright' requirements.txt > requirements.ci.txt
+          pip install -r requirements.ci.txt
+
+      - name: Poll job sources
+        run: python agent.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs.js seen_jobs.json meta.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh jobs ($(date -u +'%Y-%m-%d %H:%MZ'))"
+            git push
+          fi

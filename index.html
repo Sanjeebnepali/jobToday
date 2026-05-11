@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Radar — Remote Dev Jobs</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <span class="logo">JR</span>
+        <h1>Your Remote Dev Job Radar</h1>
+        <p class="tagline">
+          Fresh remote-friendly developer jobs, pulled from four public job boards and filtered for
+          <strong>junior</strong>, <strong>React Native</strong>, <strong>Android</strong>,
+          <strong>frontend</strong>, <strong>backend</strong>, and <strong>full-stack</strong> roles.
+        </p>
+        <p class="sub">No signups, no spam. Updates every hour while your agent is running.</p>
+      </div>
+
+      <div class="stats">
+        <div class="stat">
+          <div class="stat-value" id="stat-total">—</div>
+          <div class="stat-label">Total Jobs</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="stat-fresh">—</div>
+          <div class="stat-label">Posted Today</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="stat-sources">5</div>
+          <div class="stat-label">Sources</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="stat-updated">—</div>
+          <div class="stat-label">Last Updated</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters">
+      <div class="filter-row">
+        <input
+          type="text"
+          id="search"
+          placeholder="Search by title or company…"
+          autocomplete="off"
+        />
+
+        <select id="source-filter" aria-label="Filter by source">
+          <option value="">All sources</option>
+        </select>
+
+        <label class="toggle">
+          <input type="checkbox" id="fresh-only" />
+          <span>Fresh (last 24h) only</span>
+        </label>
+
+        <button class="reset" id="reset-filters">Clear filters</button>
+      </div>
+
+      <div class="chips" id="category-chips">
+        <span class="chips-label">Roles:</span>
+      </div>
+    </section>
+
+    <section class="results">
+      <div class="results-header">
+        <h2 id="results-count">Loading jobs…</h2>
+        <span class="sort-hint">Newest first</span>
+      </div>
+      <div class="job-grid" id="job-grid"></div>
+      <div id="empty-state" class="empty hidden">
+        <h3>No jobs match these filters</h3>
+        <p>Try clearing some filters, or wait for the next agent run.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>
+        Built locally with Python + vanilla JS. Sources: Remotive, WeWorkRemotely, Arbeitnow, Jobicy, Working Nomads — all free, no signup required.
+        Run <code>python agent.py</code> to refresh, then reload this page.
+      </p>
+    </div>
+  </footer>
+
+  <script src="jobs.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

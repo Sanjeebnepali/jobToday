@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-05-11T13:06:58.667132+00:00",
+  "total_jobs": 574,
+  "sources": {
+    "Remotive": {
+      "scanned": 20,
+      "matched": 20
+    },
+    "WeWorkRemotely": {
+      "scanned": 186,
+      "matched": 186
+    },
+    "Arbeitnow": {
+      "scanned": 100,
+      "matched": 100
+    },
+    "Jobicy": {
+      "scanned": 50,
+      "matched": 50
+    },
+    "Working Nomads": {
+      "error": "HTTPSConnectionPool(host='www.workingnomads.com', port=443): Read timed out. (read timeout=20)"
+    },
+    "RemoteOK": {
+      "scanned": 97,
+      "matched": 97
+    },
+    "Himalayas": {
+      "scanned": 96,
+      "matched": 96
+    },
+    "Hacker News": {
+      "scanned": 25,
+      "matched": 25
+    }
+  }
+}
