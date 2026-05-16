@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-16T06:26:35.365721+00:00",
-  "total_jobs": 569,
-  "live_count": 569,
+  "last_updated": "2026-05-16T08:51:11.129650+00:00",
+  "total_jobs": 556,
+  "live_count": 556,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 17
     },
     "WeWorkRemotely": {
-      "scanned": 171,
-      "matched": 171
+      "scanned": 158,
+      "matched": 158
     },
     "Arbeitnow": {
       "scanned": 100,
