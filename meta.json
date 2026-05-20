@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-20T04:08:13.626355+00:00",
-  "total_jobs": 571,
-  "live_count": 571,
+  "last_updated": "2026-05-20T08:30:22.739940+00:00",
+  "total_jobs": 573,
+  "live_count": 573,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
     "Remotive": {
-      "scanned": 18,
-      "matched": 18
+      "scanned": 19,
+      "matched": 19
     },
     "WeWorkRemotely": {
       "scanned": 169,
@@ -22,8 +22,8 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 37,
-      "matched": 37
+      "scanned": 38,
+      "matched": 38
     },
     "RemoteOK": {
       "scanned": 99,
