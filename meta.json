@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01T10:26:53.514697+00:00",
-  "total_jobs": 473,
-  "live_count": 473,
+  "last_updated": "2026-06-01T16:44:31.953223+00:00",
+  "total_jobs": 472,
+  "live_count": 472,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -22,12 +22,12 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 22,
-      "matched": 22
+      "scanned": 23,
+      "matched": 23
     },
     "RemoteOK": {
-      "scanned": 95,
-      "matched": 95
+      "scanned": 93,
+      "matched": 93
     },
     "Himalayas": {
       "scanned": 100,
