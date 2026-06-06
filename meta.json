@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05T23:14:58.138114+00:00",
-  "total_jobs": 508,
-  "live_count": 508,
+  "last_updated": "2026-06-06T04:01:46.293968+00:00",
+  "total_jobs": 511,
+  "live_count": 511,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -26,8 +26,8 @@
       "matched": 44
     },
     "RemoteOK": {
-      "scanned": 95,
-      "matched": 95
+      "scanned": 98,
+      "matched": 98
     },
     "Himalayas": {
       "scanned": 98,
