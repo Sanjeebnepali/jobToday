@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-09T12:09:05.944253+00:00",
-  "total_jobs": 522,
-  "live_count": 522,
+  "last_updated": "2026-06-09T16:07:38.766829+00:00",
+  "total_jobs": 521,
+  "live_count": 521,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
     "Remotive": {
-      "scanned": 28,
-      "matched": 28
+      "scanned": 27,
+      "matched": 27
     },
     "WeWorkRemotely": {
       "scanned": 106,
