@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-11T10:52:15.472378+00:00",
-  "total_jobs": 537,
-  "live_count": 537,
+  "last_updated": "2026-06-11T14:43:36.075009+00:00",
+  "total_jobs": 488,
+  "live_count": 488,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -18,12 +18,11 @@
       "matched": 100
     },
     "Jobicy": {
-      "scanned": 50,
-      "matched": 50
+      "error": "403 Client Error: Forbidden for url: https://jobicy.com/api/v2/remote-jobs?count=50"
     },
     "Working Nomads": {
-      "scanned": 47,
-      "matched": 47
+      "scanned": 48,
+      "matched": 48
     },
     "RemoteOK": {
       "scanned": 100,
