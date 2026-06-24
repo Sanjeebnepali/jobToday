@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-24T14:43:59.378504+00:00",
-  "total_jobs": 548,
-  "live_count": 548,
+  "last_updated": "2026-06-24T17:08:59.689339+00:00",
+  "total_jobs": 549,
+  "live_count": 549,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -22,8 +22,8 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 46,
-      "matched": 46
+      "scanned": 47,
+      "matched": 47
     },
     "RemoteOK": {
       "scanned": 100,
