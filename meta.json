@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-28T16:44:38.452248+00:00",
-  "total_jobs": 656,
-  "live_count": 656,
+  "last_updated": "2026-07-28T18:18:50.571172+00:00",
+  "total_jobs": 722,
+  "live_count": 722,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -14,16 +14,16 @@
       "matched": 227
     },
     "Arbeitnow": {
-      "scanned": 110,
-      "matched": 110
+      "scanned": 175,
+      "matched": 175
     },
     "Jobicy": {
       "scanned": 50,
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 43,
-      "matched": 43
+      "scanned": 44,
+      "matched": 44
     },
     "RemoteOK": {
       "scanned": 100,
