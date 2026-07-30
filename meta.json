@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-30T20:17:59.530610+00:00",
-  "total_jobs": 715,
-  "live_count": 715,
+  "last_updated": "2026-07-30T22:11:10.292803+00:00",
+  "total_jobs": 694,
+  "live_count": 694,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 35
     },
     "WeWorkRemotely": {
-      "scanned": 224,
-      "matched": 224
+      "scanned": 201,
+      "matched": 201
     },
     "Arbeitnow": {
       "scanned": 175,
@@ -34,8 +34,8 @@
       "matched": 98
     },
     "Hacker News": {
-      "scanned": 24,
-      "matched": 24
+      "scanned": 25,
+      "matched": 25
     }
   }
 }
