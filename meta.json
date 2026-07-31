@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-31T13:00:10.291593+00:00",
-  "total_jobs": 622,
-  "live_count": 622,
+  "last_updated": "2026-07-31T16:03:10.322447+00:00",
+  "total_jobs": 636,
+  "live_count": 636,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 34
     },
     "WeWorkRemotely": {
-      "scanned": 200,
-      "matched": 200
+      "scanned": 201,
+      "matched": 201
     },
     "Arbeitnow": {
       "error": "unsupported operand type(s) for +: 'dict' and 'list'"
@@ -21,16 +21,16 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 43,
-      "matched": 43
+      "scanned": 42,
+      "matched": 42
     },
     "RemoteOK": {
       "scanned": 100,
       "matched": 100
     },
     "Himalayas": {
-      "scanned": 99,
-      "matched": 99
+      "scanned": 100,
+      "matched": 100
     },
     "Hacker News": {
       "scanned": 25,
