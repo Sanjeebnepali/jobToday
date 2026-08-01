@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-01T04:23:33.710046+00:00",
-  "total_jobs": 671,
-  "live_count": 671,
+  "last_updated": "2026-08-01T07:30:25.950275+00:00",
+  "total_jobs": 672,
+  "live_count": 672,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 34
     },
     "WeWorkRemotely": {
-      "scanned": 201,
-      "matched": 201
+      "scanned": 200,
+      "matched": 200
     },
     "Arbeitnow": {
       "error": "unsupported operand type(s) for +: 'dict' and 'list'"
