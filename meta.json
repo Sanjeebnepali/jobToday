@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-02T15:06:37.235513+00:00",
-  "total_jobs": 677,
-  "live_count": 677,
+  "last_updated": "2026-08-02T17:06:19.179749+00:00",
+  "total_jobs": 674,
+  "live_count": 674,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -34,8 +34,8 @@
       "matched": 94
     },
     "Hacker News": {
-      "scanned": 25,
-      "matched": 25
+      "scanned": 22,
+      "matched": 22
     }
   }
 }
