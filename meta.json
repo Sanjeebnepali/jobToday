@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-05T16:45:06.269853+00:00",
-  "total_jobs": 604,
-  "live_count": 604,
+  "last_updated": "2026-08-05T18:25:11.947297+00:00",
+  "total_jobs": 680,
+  "live_count": 680,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -14,15 +14,16 @@
       "matched": 201
     },
     "Arbeitnow": {
-      "error": "can only concatenate list (not \"dict\") to list"
+      "scanned": 175,
+      "matched": 175
     },
     "Jobicy": {
       "scanned": 50,
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 27,
-      "matched": 27
+      "scanned": 31,
+      "matched": 31
     },
     "RemoteOK": {
       "scanned": 100,
