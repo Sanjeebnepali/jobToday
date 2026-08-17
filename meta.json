@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T13:42:27.642662+00:00",
-  "total_jobs": 624,
-  "live_count": 624,
+  "last_updated": "2026-08-17T14:33:11.457541+00:00",
+  "total_jobs": 626,
+  "live_count": 626,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 16
     },
     "WeWorkRemotely": {
-      "scanned": 183,
-      "matched": 183
+      "scanned": 185,
+      "matched": 185
     },
     "Arbeitnow": {
       "error": "can only concatenate list (not \"dict\") to list"
