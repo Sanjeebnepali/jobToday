@@ -1,8 +1,8 @@
 window.JOB_DATA = {
   "meta": {
-    "last_updated": "2026-08-17T20:32:22.535564+00:00",
-    "total_jobs": 652,
-    "live_count": 652,
+    "last_updated": "2026-08-17T21:30:07.450957+00:00",
+    "total_jobs": 654,
+    "live_count": 654,
     "retained_count": 0,
     "retention_hours": 10,
     "sources": {
@@ -30,8 +30,8 @@ window.JOB_DATA = {
         "matched": 100
       },
       "Himalayas": {
-        "scanned": 99,
-        "matched": 99
+        "scanned": 100,
+        "matched": 100
       },
       "Hacker News": {
         "scanned": 25,
@@ -40,6 +40,24 @@ window.JOB_DATA = {
     }
   },
   "jobs": [
+    {
+      "id": "arbeitnow:designer-geschenkartikel-print-erkrath-298741",
+      "title": "Designer (w/m/d) Geschenkartikel & Print",
+      "company": "b.sonders GmbH",
+      "location": "Erkrath",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsonders-gmbh/designer-geschenkartikel-print-erkrath-298741",
+      "tags": "Marketing and Communication",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "Wir sind b.sonders – wir zaubern anderen ein Lächeln in Gesicht! Seit unserer Gründung im Jahr 2008 entwickeln wir Geschenkartikel, die mit viel Herz und Liebe zum Detail gestaltet sind. Dazu gehören liebevoll…",
+      "posted_date": 1786995027,
+      "first_seen": "2026-08-17T21:30:07.450957+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
     {
       "id": "arbeitnow:graduate-sales-executive-at-retail-insights-london-349541",
       "title": "Graduate Sales Executive at Retail Insights",
@@ -53,7 +71,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p class=&quot;PDq2pG_selectionAnchorContainer&quot; data-start=&quot;16195&quot; data-end=&quot;16436&quot;&gt;&lt;em data-start=&quot;16195&quot; data-end=&quot;16436&quot;&gt;Do you thrive in a fast-paced…",
       "posted_date": 1786992971,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -71,7 +89,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span class=&quot;TextRun SCXW142035299 BCX0&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW142035299…",
       "posted_date": 1786992968,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -89,7 +107,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Us&lt;/span&gt;&lt;/strong&gt;&lt;span…",
       "posted_date": 1786992967,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -107,7 +125,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption.…",
       "posted_date": 1786992939,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -125,7 +143,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption.…",
       "posted_date": 1786992939,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -143,7 +161,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI…",
       "posted_date": 1786992905,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -161,7 +179,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI…",
       "posted_date": 1786992905,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -179,7 +197,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI…",
       "posted_date": 1786992905,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -197,7 +215,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done…",
       "posted_date": 1786992903,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -215,7 +233,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Hudl, we build great teams. We hire the best of the best to ensure you’re working with people you can constantly learn from. You’re trusted to get your work done…",
       "posted_date": 1786992903,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -233,7 +251,7 @@ window.JOB_DATA = {
       "excerpt": "Director, Commercial Enablement We're looking for a Director, Commercial Enablement to build and lead our Commercial Enablement function across 37 EMEA markets. Sitting at the heart of our EMEA Merchant organisation,…",
       "posted_date": 1786992030,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -251,7 +269,7 @@ window.JOB_DATA = {
       "excerpt": "About Founders Factory: Founders Factory is a venture studio and accelerator. We build technology companies from scratch, working with leading corporate partners to identify opportunities, develop new products and…",
       "posted_date": 1786992018,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -266,10 +284,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find Jobs in United Kingdom on Arbeitnow",
+      "excerpt": "Find more English Speaking Jobs in United Kingdom on Arbeitnow",
       "posted_date": 1786991404,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -284,10 +302,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "excerpt": "Find Jobs in United Kingdom on Arbeitnow",
       "posted_date": 1786991384,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -305,7 +323,7 @@ window.JOB_DATA = {
       "excerpt": "Senior Vet Surgeon Salary up to £75,000 DOE Relocation Allowance up to £5,000 plus a Welcome Bonus of up to £5000 &nbsp; Dragon Vets, part of inspiring vet care, are seeking an enthusiastic Veterinary Surgeon to join…",
       "posted_date": 1786991058,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -323,7 +341,7 @@ window.JOB_DATA = {
       "excerpt": "At&nbsp; CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and…",
       "posted_date": 1786989868,
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -341,7 +359,7 @@ window.JOB_DATA = {
       "excerpt": "Are you enthusiastic? A self-starter? Looking for a job to test how far your skills will take you? Then, we want to hear from YOU! The West Linn Market of Choice is hiring! Positions start at $17.50 an hour. In addition…",
       "posted_date": "2026-08-11T22:40:27+00:00",
       "first_seen": "2026-08-17T20:32:22.535564+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -359,1593 +377,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit…",
       "posted_date": "Mon, 17 Aug 2026 19:21:19 +0000",
       "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:circular-action-alliance:Procurement Coordinator",
-      "title": "Procurement Coordinator",
-      "company": "Circular Action Alliance",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/circular-action-alliance",
-      "tags": "Procurement-Coordinator Procurement-Operations Contract-Administration Supply-Chain-Support Purchasing Purchasing-Coordinator Procurement-Specialist Purchase-Order-Coordinator Procurement-Officer Procurement-Support-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$27 – $30",
-      "employment_type": "Full Time",
-      "excerpt": "Role OverviewThe Procurement Coordinator supports the day-to-day operations of the Procurement function by coordinating procurement activities, maintaining procurement systems and records, supporting contract…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:bjak:Lead Engineer - Wealth Management Apps",
-      "title": "Lead Engineer - Wealth Management Apps",
-      "company": "Bjak",
-      "location": "China",
-      "url": "https://himalayas.app/jobs/bjak",
-      "tags": "Senior-App-Engineer Lead-UI-Engineer Senior-Software-Engineer---Financial-Services UI-Engineering-Lead Lead-Software-Development-Engineer Lead-Software-Engineering Senior-Engineering-Lead Financial-Software-Engineer Senior-Lead-Engineering Capital-Markets-Software-Engineer Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:lifelancer:AVP, Application Security",
-      "title": "AVP, Application Security",
-      "company": "Lifelancer",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/lifelancer",
-      "tags": "Application-Security Security-Leadership Cybersecurity-Management Infosec Software-Security-Engineering Application-Security-Leadership Director Full Time",
-      "source": "Himalayas",
-      "salary": "$185k – $376k",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: AVP, Application Security Job Location: Work at Home, Rhode Island, United States Job Location Type: Remote Job Contract Type: Full time Job Seniority Level: We’re building a world of health around every…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Banking Operations Expert - Fully Remote | Upto $120/hr",
-      "title": "Banking Operations Expert - Fully Remote | Upto $120/hr",
-      "company": "mercor",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Banking-Operations Credit-Risk Core-Banking Financial-Services Oracle-Flexcube Banking-Operations-Analyst Banking-Operations-Manager Remote-Financial-Operations-Specialist Remote-Banking-Specialist Virtual-Banking-Operations-Manager Banking-Ops Operations Senior Contractor",
-      "source": "Himalayas",
-      "salary": "$75 – $120",
-      "employment_type": "Contractor",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:rezdy:Senior Product Manager",
-      "title": "Senior Product Manager",
-      "company": "Rezdy",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/rezdy",
-      "tags": "Product-Manager Product-Management B2B-SaaS-Product-Management Technical-Product-Management Product-Owner Senior-Product-Management Senior-Product-Manager---UX-UI Senior-Product-Lead Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Senior Product Manager — ManifestAbout ManifestManifest is building modern software for the tours and activities industry.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:goto:Managed Services Field Engineer",
-      "title": "Managed Services Field Engineer",
-      "company": "GoTo",
-      "location": "Brazil",
-      "url": "https://himalayas.app/jobs/goto",
-      "tags": "Field-Engineering Network-Support Managed-Services Unified-Communications Technical-Support-Engineer Managed-Services-Engineer Field-Services-Engineer Field-Service-Engineer Field-Support-Engineer Field-Engineer Network-Field-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Where you’ll work: Remote (Brazil)Customer Care & Success at GoToAt GoTo, our Customer Care & Success team helps people get the most out of technology.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:steno:Court Filing Manager",
-      "title": "Court Filing Manager",
-      "company": "Steno",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/steno",
-      "tags": "Court-Filing-Manager Litigation-Support-Leadership Legal-Operations-Manager Legal-Services-Management EFiling-Operations-Manager Court-Case-Management Filing-Coordinator Litigation-Case-Manager Litigation-Manager Court-Administrator Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$100k – $130k",
-      "employment_type": "Full Time",
-      "excerpt": "Court Filing Manager, Litigation Support Full-Time, Remote / Salary, Exempt / Includes Benefits, PTO, Flexible Schedule, Equity Steno is growing!",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Research Consultant - Fully Remote | Upto $70/hr",
-      "title": "Research Consultant - Fully Remote | Upto $70/hr",
-      "company": "mercor",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "AI-Content-Evaluation AI-Training-Data Research-Consultant Quality-Assurance Evaluation-Specialist Part-Time-Research-Consultant Research-Consulting Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "$40 – $70",
-      "employment_type": "Contractor",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:usaa:Sr. TLE Auto Appraiser",
-      "title": "Sr. TLE Auto Appraiser",
-      "company": "USAA",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/usaa",
-      "tags": "Auto-Appraiser Claims-Adjuster Property-and-Casualty-Insurance Vehicle-Damage-Appraiser Auto-Insurance Automotive-Appraiser Auto-Damage-Appraiser Senior-Auto-Total-Loss-Adjuster Auto-Insurance-Appraiser Auto-Physical-Damage-Appraiser Automotive-Appraisal Auto-Appraisal Automotive-Claims-Adjuster Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$64k – $122k",
-      "employment_type": "Full Time",
-      "excerpt": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:highmark-health:Associate Data Solutions Analyst",
-      "title": "Associate Data Solutions Analyst",
-      "company": "Highmark Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/highmark-health",
-      "tags": "Business-Analysis Data-Solutions Data-Engineering Reporting Data-Solutions-Analyst Associate-Data-Analyst Data-Operations-Associate Entry-level Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$58k – $90k",
-      "employment_type": "Full Time",
-      "excerpt": "Company :enGenJob Description : JOB SUMMARY***CANDIDATE MUST BE US Citizen (due to contractual/access requirements)*** This job supports one or more analytical aspects of the business products and services life cycle,…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:candescent:Digital Strategy Executive",
-      "title": "Digital Strategy Executive",
-      "company": "Candescent",
-      "location": "Georgia",
-      "url": "https://himalayas.app/jobs/candescent",
-      "tags": "Digital-Strategy Account-Management Business-Development SaaS-Sales Client-Success Executive-Digital-Strategy Executive Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Candescent is a forward-thinking technology company transforming how financial institutions deliver Intelligent Banking experiences.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:st-jude-children-s-research-hospital:Trial Documentation Associate I",
-      "title": "Trial Documentation Associate I",
-      "company": "St. Jude Children's Research Hospital",
-      "location": "Tunisia",
-      "url": "https://himalayas.app/jobs/st-jude-children-s-research-hospital",
-      "tags": "Clinical-Trial-Documentation Regulatory-Affairs Clinical-Research Trial-Master-File-Management Clinical-Operations Clinical-Documentation-Associate Clinical-Trials-Associate Clinical-Trial-Associate Clinical-Trial-Documentation-Reviewer Clinical-Trials-Assistant Clinical-Trial-Assistant Clinical-Documentation-Analyst Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$66k – $114k",
-      "employment_type": "Full Time",
-      "excerpt": "St. Jude Children’s Research Hospital is seeking a Trial Documentation Associate I to join their Clinical Trials Administration department.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:nachhilfeunterricht:Rentner:innen als Nachhilfelehrer:in gesucht – Zum Schulstart",
-      "title": "Rentner:innen als Nachhilfelehrer:in gesucht – Zum Schulstart",
-      "company": "Nachhilfeunterricht",
-      "location": "Germany",
-      "url": "https://himalayas.app/jobs/nachhilfeunterricht",
-      "tags": "Tutoring Private-Tutoring Education online-tutoring Teaching Nachhilfe-Lehrer Privater-Nachhilfeunterricht Nachhilfe-Und-Tutoring Nachhilfe Private-Nachhilfe Senior Full Time",
-      "source": "Himalayas",
-      "salary": "EUR 20 – EUR 40",
-      "employment_type": "Full Time",
-      "excerpt": "Du bist im Ruhestand und hast Lust, dein Wissen weiterzugeben?",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:medline-industries-lp:Product Servicing Spec",
-      "title": "Product Servicing Spec",
-      "company": "Medline Industries, LP",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/medline-industries-lp",
-      "tags": "Product-Services Customer-Service Technical-Support Quality-Assurance Product-Support-Specialist Servicing Product-Service-Engineering Servicing-Specialist Product-Service-Management Service-Specialist Service-Technical-Support Service-Support Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$31 – $45",
-      "employment_type": "Full Time",
-      "excerpt": "Job SummaryCoordinate and facilitate the product servicing process providing support to customers, vendors and Division.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:washington-university-in-st-louis:Billing/Scheduling Associate II - Neurology",
-      "title": "Billing/Scheduling Associate II - Neurology",
-      "company": "Washington University in St. Louis",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/washington-university-in-st-louis",
-      "tags": "Medical-Billing Healthcare-Scheduling Patient-Services Neurology-Administrative Healthcare-Administration Billing-Associate Medical-Billing-Support-Associate Scheduling-and-Billing-Specialist Healthcare-Billing-Associate Billing-And-Scheduling-Coordinator Entry-level Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$17 – $27",
-      "employment_type": "Full Time",
-      "excerpt": "LocationRemote, USScheduled Hours40Position SummaryObtains insurance information, referral forms and counsels patients on financial assistance over the phone.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:proper-voltage:NPI Prototype Procurement Manager",
-      "title": "NPI Prototype Procurement Manager",
-      "company": "Proper Voltage",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/proper-voltage",
-      "tags": "Procurement-Manager NPI-Sourcing Supply-Chain-Management Prototype-Procurement New-Product-Development NPI-Supply-Chain Procurement-Program-Manager NPI-Buyer Project-Procurement-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$155k – $175k",
-      "employment_type": "Full Time",
-      "excerpt": "Please note that we are unable to provide visa sponsorship for this position.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:lifelancer:MedTech Site Manager 1",
-      "title": "MedTech Site Manager 1",
-      "company": "Lifelancer",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/lifelancer",
-      "tags": "Clinical-Research-Associate Site-management Clinical-Trial-Management Medical-Device-Research Clinical-Affairs Medtech-Project-Manager Clinical-Site-Manager Medical-Technology-Project-Manager Med-Tech-Management Site-Management-Lead Site-Management-Associate Site-Management-Specialist Clinical-Site-Monitoring-Lead Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$74k – $124k",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: MedTech Site Manager 1 Job Location: Washington, District of Columbia, United States of America Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: MCRA is part of IQVIA MedTech.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:air-infosec-llc:Senior Reports Developer",
-      "title": "Senior Reports Developer",
-      "company": "Air InfoSec, LLC",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/air-infosec-llc",
-      "tags": "Report-Development Jasper-Reports-Developer Database-Development SQL-Developer Government-and-Public-Sector Senior-Business-Intelligence-Developer Senior-BI-Developer Senior-Reporting-Analyst BI-Senior-Developer Report-Development-Analyst Reporting-Developer Senior-Reporting-Specialist Senior-Power-BI-Developer Senior-Data-Visualization-Developer Senior Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "This is a remote position. The Senior Reports Developer will support the Texas Education Agency (TEA) on the IT-SEDS (Information Technology – Statewide Education Data System) project.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:CS Benchmark Expert - Fully Remote | Upto $84/hr",
-      "title": "CS Benchmark Expert - Fully Remote | Upto $84/hr",
-      "company": "mercor",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Computer-Science-Education Technical-Content-Writing Assessment-Development AI-Education-Technology Test-Development CS-QA-Specialist AI-Benchmark-Specialist Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$66 – $84",
-      "employment_type": "Full Time",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:relx:Sales Executive, Nursing and Health Education",
-      "title": "Sales Executive, Nursing and Health Education",
-      "company": "RELX",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/relx",
-      "tags": "Healthcare-Sales Education-Technology-Sales B2B-Sales Medical-Device-Sales Educational-Content-Sales Healthcare-Sales-Executive Education-Sales-Executive Medical-Sales-Executive Higher-Education-Sales-Executive Health-Systems-Sales-Executive Senior-Medical-Sales-Executive Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$60k – $99k",
-      "employment_type": "Full Time",
-      "excerpt": "Would you like to play a critical role in the future of our digital healthcare technology sales strategy?",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:expedock:Senior Healthcare Marketing Associate",
-      "title": "Senior Healthcare Marketing Associate",
-      "company": "Expedock",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/expedock",
-      "tags": "Healthcare-Marketing Email-Marketing Digital-Marketing Content-Marketing Marketing-Associate Senior-Marketing-Associate Senior-Associate-Marketing Healthcare-Marketing-Specialist Senior Other",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Other",
-      "excerpt": "About ExpedockWe are a tech-enabled workforce augmentation platform leveraging top 1% offshore talent & cutting edge technology to enable businesses to unlock their full potential.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:smartyads:Head of SSP",
-      "title": "Head of SSP",
-      "company": "SmartyAds",
-      "location": "Remote",
-      "url": "https://himalayas.app/jobs/smartyads",
-      "tags": "SSP-Leadership Supply-Side-Platform Programmatic-Advertising Publisher-Monetization AdTech SSP-Manager SSP-Management SSP-Operations SSP-Partnerships SSP-Sales Director Executive Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "We are looking for an experienced Head of SSP to lead and scale the supply-side business of SmartyAds.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:epicor:Territory Manager, Sr - CPQ",
-      "title": "Territory Manager, Sr - CPQ",
-      "company": "Epicor",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/epicor",
-      "tags": "Territory-Sales-Manager Sales CPQ-Sales SaaS-Sales B2B-Enterprise-Sales Senior-Territory-Manager Senior-Territory-Sales-Executive Territory-Manager Territory-Business-Manager Management Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Duties & Responsibilities• Develop and execute a strategic territory plan that delivers new customer acquisition, pipeline growth, and revenue objectives for Epicor CPQ solutions.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:aurum:Engenheiro de Dados Pleno | Remoto",
-      "title": "Engenheiro de Dados Pleno | Remoto",
-      "company": "Aurum",
-      "location": "Brazil",
-      "url": "https://himalayas.app/jobs/aurum",
-      "tags": "Data-Engineering Data-Engineer Cloud-Data-Engineering Pipeline-Development Data-Infrastructure Engenheiro-De-Dados Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Em primeiro lugar, queremos te contar um pouco mais sobre quem somos.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:the-ritz-carlton-yacht-collection:Design Lead",
-      "title": "Design Lead",
-      "company": "The Ritz-Carlton Yacht Collection",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/the-ritz-carlton-yacht-collection",
-      "tags": "Design-Lead Creative-Leadership Visual-Design Brand-Design Art-Direction Lead-Designer Design-Team-Lead Design-Leader UX-Design-Lead UI-Design-Lead Product-Designer Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Join the Ritz-Carlton Yacht Collection: Where Every Voyage is a Symphony of Luxury Embark on an extraordinary journey with the Ritz-Carlton Yacht Collection, an exquisite extension of the renowned Ritz-Carlton brand,…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:3iq:Quantitative Analyst",
-      "title": "Quantitative Analyst",
-      "company": "3iQ",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/3iq",
-      "tags": "Quantitative-Analysis Investment-Analysis Risk-Analysis Portfolio-Management Digital-Asset-Investment Quantitative-Analyst Quantitative-Research-Analyst Quantitative-Analyst-Jobs Quantitative-Risk-Analyst Quantitative-Business-Analyst Quantitative-Analytics Data-Science Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$87k – $100k",
-      "employment_type": "Full Time",
-      "excerpt": "Founded in 2012, 3iQ is one of the world's leading alternative digital asset managers, pioneering institutional-grade investments.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:eulerity:Mobile iOS Developer",
-      "title": "Mobile iOS Developer",
-      "company": "Eulerity",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/eulerity",
-      "tags": "Mobile-IOS-Development IOS-Engineering Swift-Development Mobile-Engineering AI-Augmented-Development Mobile-IOS-Developer iOS-Developer IOS-Mobile-Development iOS-Development IOS-Mobile-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Why This Role ExistsEulerity-GACS is an AI-native marketing automation platform — not a legacy tool with AI bolted on.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:the-hartford:Assistant Investment Analyst",
-      "title": "Assistant Investment Analyst",
-      "company": "The Hartford",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/the-hartford",
-      "tags": "Investment-Analyst Credit-Research Fixed-Income-Analysis Financial-Analysis Investment-Research Investment-Research-Assistant Entry-Level-Investment-Analyst Investment-Analyst-Intern Investment-Analyst-Jobs Investment-Analysis-Jobs Investment-Intern Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$80k – $95k",
-      "employment_type": "Full Time",
-      "excerpt": "Assistant Investment Analyst - DFH801We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:amerisave-mortgage-corp:Mortgage Condo Project Review Underwriter",
-      "title": "Mortgage Condo Project Review Underwriter",
-      "company": "AmeriSave Mortgage Corp.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/amerisave-mortgage-corp",
-      "tags": "Underwriting Mortgage-Underwriting Condo-Project-Review Real-Estate-Lending Mortgage-Processing Condo-Project-Underwriting Condo-Underwriter Condo-Underwriting Condo-Desk-Underwriter Mortgage-Underwriter Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$70k – $75k",
-      "employment_type": "Full Time",
-      "excerpt": "AmeriSave Mortgage has set the standard in online mortgage lending with over $130 billion in funded loan volume.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:taproot-foundation:Senior Manager, Marketing & Communications",
-      "title": "Senior Manager, Marketing & Communications",
-      "company": "Taproot Foundation",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/taproot-foundation",
-      "tags": "Marketing Communication-Skills Social-Media-Marketing Content-Marketing Campaign-Management Senior-Marketing-Communications-Manager Marketing-Communications-Manager Communications-Manager Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$90k – $105k",
-      "employment_type": "Full Time",
-      "excerpt": "About TaprootTaproot Foundation is a national nonprofit powering the next generation of pro bono service.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:pvm-inc:Forward Deployed Engineer",
-      "title": "Forward Deployed Engineer",
-      "company": "PVM, Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/pvm-inc",
-      "tags": "Forward-Deployed-Engineer Palantir-Engineer-Services Data-Engineering Software-Engineer Systems-Integrations Remote-Forward-Deployed-Engineer Forward-Deployment-Engineer Forward-Deploy-Engineer Forward-Deployed-Engineering Mid-Level-Forward-Deployed-Engineer Forward-Deployed-Software-Engineer Deployed-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Forward Deployed Engineer (FDE)Remote: Fully remote – MUST live in or near Atlanta, GA Reports to: Echo / Deployment Strategist Direct reports: None.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:regeneron:Regional Director - Neurology (2)",
-      "title": "Regional Director - Neurology (2)",
-      "company": "Regeneron",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/regeneron",
-      "tags": "Regional-Director Neurology-Sales-Leadership Pharmaceutical-Sales-Management Rare-Disease-Sales Sales-Team-Management Neurology-Medical-Affairs-Director Regional-Director-(RD) Regional-Director-Medical-Affairs Director Full Time",
-      "source": "Himalayas",
-      "salary": "$211k – $266k",
-      "employment_type": "Full Time",
-      "excerpt": "Build our future together: The Regional Director (RD), Rare Neurology will report to the Executive Director, Strategic Customer Engagement, Rare Neurology and be responsible for recruiting, leading, developing and…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:commandlink:Vendor Operations Analyst",
-      "title": "Vendor Operations Analyst",
-      "company": "CommandLink",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/commandlink",
-      "tags": "Vendor-Management-and-Pricing Vendor-Operations Operations-Analyst Pricing-Analyst Vendor-Relations Vendor-Operations-Associate Vendor-Management-Analyst Vendor-Operations-Coordinator Vendor-Program-Analyst Vendor-Ops Procurement-Operations-Analyst Vendor-Management-Associate Vendor-Management-and-Operations Vendor-Analysis-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$80k – $120k",
-      "employment_type": "Full Time",
-      "excerpt": "About Command|Link Command|Link is a global SaaS Platform providing network, voice services, and IT security solutions, helping corporations consolidate their core infrastructure into a single vendor and layering on a…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:ezcater:Senior Product Manager, Reporting & Insights",
-      "title": "Senior Product Manager, Reporting & Insights",
-      "company": "ezCater",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/ezcater",
-      "tags": "Product-Management Product-Manager Reporting-and-Analytics Data-Product-Management Business-Intelligence Senior-Data-Product-Management Data-Insights-Product-Manager Analytics-Product-Manager Senior-Product-Lead Product Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$161k – $213k",
-      "employment_type": "Full Time",
-      "excerpt": "ezCater is the #1 food tech platform for workplaces in the US.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:precision-medicine-group:SQL Developer II",
-      "title": "SQL Developer II",
-      "company": "Precision Medicine Group",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/precision-medicine-group",
-      "tags": "SQL-Developer SQL-Engineer Database-Developer Data-Engineer ETL-Developer SQL-Data-Developer SQL-Database-Developer MS-SQL-Developer SQL-Server-Developer T-SQL-Developer Developer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$75k – $95k",
-      "employment_type": "Full Time",
-      "excerpt": "***Unfortunately, the Engagement Support Analyst is not able to provide sponsorship now or anytime in the future.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:tithe:Marketing Operations Manager",
-      "title": "Marketing Operations Manager",
-      "company": "Tithely",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/tithe",
-      "tags": "Marketing-Operations-Manager Marketing-Operations B2B-SaaS-Marketing Digital-Marketing Growth-Marketing Digital-Marketing-Operations-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$110k – $130k",
-      "employment_type": "Full Time",
-      "excerpt": "As Marketing Operations Manager, you will empower Tithely's marketing team to reach more churches with greater effectiveness by building the operational foundation behind every campaign.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:teladoc-health:Nurse RA ESP- Remoto-9",
-      "title": "Nurse RA ESP- Remoto-9",
-      "company": "Teladoc Health",
-      "location": "Spain",
-      "url": "https://himalayas.app/jobs/teladoc-health",
-      "tags": "Enfermería Sanidad Asistencia-Sanitaria-Remota Educación-Al-Paciente Entry-Level-Remote-Registered-Nurse Entry-level Part Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Part Time",
-      "excerpt": "Eres enfermero/a? ¿Te sientes motivado por la calidad y la seguridad del paciente?",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:languageline-solutions:Samoan Freelance Remote Telephone Interpreters UK (Apply Here)",
-      "title": "Samoan Freelance Remote Telephone Interpreters UK (Apply Here)",
-      "company": "LanguageLine Solutions",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/languageline-solutions",
-      "tags": "Remote-Interpreter Telephone-Interpreter Samoan-Interpreter Language-Interpreter Freelance-Interpreter Freelance-Telephone-Interpreter Remote-Telephone-Interpreter Remote-Multilingual-Interpreter Work-From-Home-Interpreter Remote-Bilingual-Interpreter Remote-Language-Interpreter Mid-level Part Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Part Time",
-      "excerpt": "Exciting career opportunities in the language access industry are waiting for you at LanguageLine Solutions.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Audio Engineer - Fully Remote | Upto $19/hr",
-      "title": "Audio Engineer - Fully Remote | Upto $19/hr",
-      "company": "mercor",
-      "location": "Bangladesh",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Music-Production Audio-Engineering AI-Evaluation Music-Quality-Assurance Bengali-Music Audio-Engineer Freelance-Audio-Editor Speech-Audio-Engineer Freelance-Audio-Production Junior-Audio-Engineer Freelance-Audio-Professional Audio-Recording-Technician Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "$11 – $19",
-      "employment_type": "Contractor",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:ascella-technologies-inc:D365 F&O Implementation Test Lead",
-      "title": "D365 F&O Implementation Test Lead",
-      "company": "Ascella Technologies, Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/ascella-technologies-inc",
-      "tags": "ERP-Implementation Microsoft-Dynamics-365 Test-Lead UAT-coordination Dynamics-365-F&O-Testing QA-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$120k – $135k",
-      "employment_type": "Full Time",
-      "excerpt": "U. S. CITIZENSHIP REQUIRED FOR THIS ROLE. We are currently seeking an experienced Implementation Test Lead to help ensure the quality and reliability of a financial management system for a federal agency.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:huzzle:Automation Engineer - Workflow & Process Automation",
-      "title": "Automation Engineer - Workflow & Process Automation",
-      "company": "Huzzle",
-      "location": "South Africa",
-      "url": "https://himalayas.app/jobs/huzzle",
-      "tags": "Automation-Engineer Workflow-Automation Process-Automation Systems-Integrations No-Code-Development Workflow-Automation-Engineer AI-Workflow-Automation-Engineer Workflow-Automation-Engineering Process-Automation-Engineer IT-Automation-Engineer Automation-Workflow-Specialist Business-Process-Automation-Engineer Automation-Workflow-Lead Senior Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "About HuzzleAt Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:exactcare-pharmacy-llc:Clinical Pharmacist",
-      "title": "Clinical Pharmacist",
-      "company": "ExactCare Pharmacy, LLC",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/exactcare-pharmacy-llc",
-      "tags": "Clinical-Pharmacist Pharmacy-Care-Management Geriatric-Pharmacy Medication-Safety Clinical-Healthcare Clinical-Pharmacy-Specialist Pharmacy-Clinical-Specialist Pharmacy-Clinician Clinical-Programs-Pharmacist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "AnewHealth is one of the nation’s leading pharmacy care management companies that specializes in caring for people with the most complex, chronic needs—wherever they call home.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:amgen:Corporate Affairs, Director - Global Customer Capabilities & Innovation",
-      "title": "Corporate Affairs, Director - Global Customer Capabilities & Innovation",
-      "company": "Amgen",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/amgen",
-      "tags": "Communications-Director Corporate-Affairs-Director Strategic-Communications Change-Management-Communications Healthcare-Communication Director-Of-Corporate-Affairs Director Full Time",
-      "source": "Himalayas",
-      "salary": "$181k – $244k",
-      "employment_type": "Full Time",
-      "excerpt": "Career CategoryCorporate ServicesJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:lifelancer:Digital Operations, QC Specialist II - CRG",
-      "title": "Digital Operations, QC Specialist II - CRG",
-      "company": "Lifelancer",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/lifelancer",
-      "tags": "Clinical-Quality-Control Clinical-Operations-Specialist QA-Specialist Clinical-Study-Management Digital-Health-Operations Digital-Operations-Specialist Digital-Quality-Analyst Operations-Quality-Analyst Software-Quality-Operations-Specialist Senior-Quality-Control-Analyst Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$60k – $80k",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: Digital Operations, QC Specialist II - CRG Job Location: Remote, Pennsylvania, USA Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Work ScheduleStandard (Mon-Fri)Environmental…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:redapt-inc:Senior Business Analyst",
-      "title": "Senior Business Analyst",
-      "company": "Redapt Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/redapt-inc",
-      "tags": "Business-Analysis Senior-Business-Analyst Agile-Business-Analysis Application-Modernization Senior-Business-Analysis Senior-Staff-Business-Analyst Senior-IT-Business-Analyst Senior-Business-Systems-Analyst Senior-Business-Systems-Analysis Senior-Business-Process-Analyst Senior-Business-Information-Analyst Technical-Business-Analyst Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$110k – $130k",
-      "employment_type": "Full Time",
-      "excerpt": "Senior Business Analyst About the RoleRedapt is seeking a highly consultative SeniorBusiness Analyst to partner with clients throughout the entire project lifecycle, from discovery and requirements gathering through…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:olsson-com:Senior Power Systems Studies Engineer - SCCAF - Data Centers",
-      "title": "Senior Power Systems Studies Engineer - SCCAF - Data Centers",
-      "company": "Olsson",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/olsson-com",
-      "tags": "Power-Systems-Engineering Electrical-Engineering Arc-Flash-Engineering Power-Distribution-Engineering Data-Center-Facilities-Engineering Senior-Data-Center-Electrical-Engineer Senior-Power-Systems-Engineer Power-System-Studies-Engineer Data-Center-Power-Engineering Power-Systems-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$130k – $175k",
-      "employment_type": "Full Time",
-      "excerpt": "Company Description We are Olsson. We engineer and design solutions that improve the world around us.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:one80-intermediaries:Customer Service Representative",
-      "title": "Customer Service Representative",
-      "company": "One80 Intermediaries",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/one80-intermediaries",
-      "tags": "Customer-Service Call-Center-Representative Insurance-Customer-Service Client-Services-Representative Customer-Support-Specialist Customer-Representative Customer-Service-Representative-(CSR) Customer-Experience-Representative Customer-Service-Associate Part-Time-Customer-Service-Representative Customer-Support-Agent CX-Service-Representative Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$19 – $19",
-      "employment_type": "Full Time",
-      "excerpt": "We are seeking a dynamic and customer-focused Customer Service Representative (CSR) to join our team.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:clario:Director, Agentic AI and Clinical Trial Platforms",
-      "title": "Director, Agentic AI and Clinical Trial Platforms",
-      "company": "Clario",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/clario",
-      "tags": "AI-ML-Leadership Clinical-Trial-Technology Platform-Engineering Director-Of-AI-ML-Research Product-Management Healthcare-AI-Director Director-AI-Engineering Director-of-AI-Operations Director-Of-Artificial-Intelligence Director Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Clario, part of Thermo Fisher Scientific, is seeking a Director, Agentic AI and Clinical Trial Platforms, to lead the strategy and development of the next generation of AI-enabled clinical-trial capabilities.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:ascensus:Temporary Worker, Trust Service ATCS",
-      "title": "Temporary Worker, Trust Service ATCS",
-      "company": "Ascensus",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/ascensus",
-      "tags": "Temporary-Employment Tax-Processing Customer-Service Financial-Services-Support Administrative-Support Temporary-Contract-Work Temporary-Work Temporary-Services Temporary-Positions Temporary-Contracts Temporary-Agent Entry-level Temporary",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Temporary",
-      "excerpt": "American Trust & Custody, recently integrated as part of Ascensus, focuses on state-of-the-art trading and custodial reporting of mutual funds, exchange-traded funds, managed accounts, unitized funds, equities,…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:nextgen-healthcare:Sr API Integration Consultant - Internal Growth Opportunity",
-      "title": "Sr API Integration Consultant - Internal Growth Opportunity",
-      "company": "NextGen Healthcare",
-      "location": "Gabon",
-      "url": "https://himalayas.app/jobs/nextgen-healthcare",
-      "tags": "API-Integration-Consultant Healthcare-Integration-Consultant Technical-Consultant Solutions-Consultant Professional-Services-Consultant Senior-Integrations-Consultant Senior-Integration-Consultant Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Description: The Senior API Integration Consultant is a technical, client- and vendor-facing role responsible for guiding contracted third-party vendors from agreement through live production use of NextGen…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:cayuse-holdings:Translators - Various Languages",
-      "title": "Translators - Various Languages",
-      "company": "Cayuse Holdings",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/cayuse-holdings",
-      "tags": "Translation Interpretation Language-Services Medical-Interpreter Legal-Translator Language-Translation-Services Language-Translation-Specialist Translator Translation-Services Professional-Translator Translation-Specialist Foreign-Language-Translation Translation-Expert Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "$60 – $85",
-      "employment_type": "Contractor",
-      "excerpt": "OverviewJOB TITLE:Translator CAYUSE COMPANY: Cayuse Language Connect, LLCLOCATIONRemoteSALARY:$60.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:securitas-com:Manager Software Engineering",
-      "title": "Manager Software Engineering",
-      "company": "Securitas",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/securitas-com",
-      "tags": "Software-Engineering-Manager Engineering-Management Engineering-Leadership Technical-Management Software-Engineering-Leadership Manager-Software-Engineer Engineering-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$175k – $200k",
-      "employment_type": "Full Time",
-      "excerpt": "Securitas Security Services USA, Inc. Position Title: Manager (Software Engineering) Location: Hybrid: Two days per week onsite for employees located within a reasonable commuting distance of the designated office or;…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:aoglobelife:Work From Home - Client Benefits Advisor",
-      "title": "Work From Home - Client Benefits Advisor",
-      "company": "AO Globe Life",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/aoglobelife",
-      "tags": "Client-Benefits-Advisor Benefits-Advisory Client-Services Customer-Service Work-From-Home Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Are you a passionate individual seeking a fulfilling career that offers flexibility and growth opportunities?",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:kraftheinz:Field Sales Representative - Rhode Island/Mid-West Massachusetts",
-      "title": "Field Sales Representative - Rhode Island/Mid-West Massachusetts",
-      "company": "The Kraft Heinz Company",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/kraftheinz",
-      "tags": "Field-Sales Territory-Sales Sales Food-Service-Sales CPG-Sales Field-Sales-Representative Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$69k – $86k",
-      "employment_type": "Full Time",
-      "excerpt": "Contact assigned customer accounts or prospects to sell company products within a designated geography or industry.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:stantec:Payroll Administrator",
-      "title": "Payroll Administrator",
-      "company": "Stantec",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/stantec",
-      "tags": "Payroll-Administration Payroll-Processing Payroll-Specialist Human-Resources-Administration Payroll-Compliance Payroll-Administrator Payroll-System-Administrator Payroll-Systems-Administrator Payroll-Coordinator HR-Payroll-Administration Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Your Opportunity As a Payroll Administrator, you'll have an exciting opportunity to join our U.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:great-american-insurance-group:Senior Claims Specialist - Workers Compensation",
-      "title": "Senior Claims Specialist - Workers Compensation",
-      "company": "Great American Insurance Group",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/great-american-insurance-group",
-      "tags": "Workers-Compensation-Claims Claims-Adjusting Insurance-Claims-Specialist Risk-Management Claims-Management Senior-Claims-Specialist Workers-Comp-Claims-Specialist Workers-Compensation-Claims-Specialist Senior-Claims-Representative Senior-Claims-Resolution-Specialist Senior-Claims-Adjuster Senior-Claims-Analyst Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$95k – $125k",
-      "employment_type": "Full Time",
-      "excerpt": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:humana:Lead Application Architect - Patient Care Technology",
-      "title": "Lead Application Architect - Patient Care Technology",
-      "company": "Humana",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/humana",
-      "tags": "Application-Architect Application-Architecture EMR-EHR-Systems Healthcare-Interoperability Senior-Healthcare-IT-Architect Healthcare-Technology-Architect Senior-Application-Architect Healthcare-IT-Architect Healthcare-Solutions-Architect IT-Applications-Architect HealthTech-IT-Architect Senior-Enterprise-Application-Architect Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$129k – $178k",
-      "employment_type": "Full Time",
-      "excerpt": "Become a part of our caring community The Lead Application Architect designs and develops IT applications architecture solutions to business problems in alignment with the enterprise architecture direction and standards.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:endeavorb2b:Account Executive, Aviation Group",
-      "title": "Account Executive, Aviation Group",
-      "company": "EndeavorB2B",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/endeavorb2b",
-      "tags": "B2B-Sales Account-Executive Media-Sales Aviation-Sales Marketing-Solutions-Sales Aviation-Account-Manager Aerospace-Account-Management Sales Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$62k – $65k",
-      "employment_type": "Full Time",
-      "excerpt": "The Mission:EndeavorB2B is a rapidly growing U. S.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:quest-software:Software Alliance Manager",
-      "title": "Software Alliance Manager",
-      "company": "Quest Software",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/quest-software",
-      "tags": "Alliance-Management Strategic-Partnerships Channel-Sales Partner-Sales Business-Development Alliances-Manager Alliance-Manager Software-Partner-Manager Partner-Alliance-Manager Strategic-Alliance-Manager Partner-Alliances-Manager Strategic-Alliance-Partner-Manager Technical-Alliances-Manager Cloud-Alliances-Manager Software-Alliances Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "OverviewQuest is an award-winning IT management software provider offering a broad selection of solutions that solve some of the most common and most challenging IT problems.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:virtual-task-buddie:Client Sales Success Specialist",
-      "title": "Client Sales Success Specialist",
-      "company": "Virtual Task Buddie",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/virtual-task-buddie",
-      "tags": "Client-Success-Specialist Account-Management Sales-Specialist Customer-Success Client-Relations Client-Sales-Specialist Client-Success-Representative Client-Success-Associate Customer-Success-Specialist Sales Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$60k – $75k",
-      "employment_type": "Full Time",
-      "excerpt": "Client Sales Success SpecialistAbout the RoleTask Buddie is seeking Client Success Specialists to join our growing sales team.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:sanford-health:Intake Durable Medical Equipment Specialist",
-      "title": "Intake Durable Medical Equipment Specialist",
-      "company": "Sanford Health",
-      "location": "Sudan",
-      "url": "https://himalayas.app/jobs/sanford-health",
-      "tags": "DME-Specialist Medical-Intake-Specialist Healthcare-Administration Patient-Services-Representative Medical-Records-Coordinator Intake-Specialist Healthcare-Intake-Specialist Clinical-Intake-Specialist Claims-Intake-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$16 – $25",
-      "employment_type": "Full Time",
-      "excerpt": "Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:lifestance-health:Product Manager, Specialty Solutions",
-      "title": "Product Manager, Specialty Solutions",
-      "company": "LifeStance Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/lifestance-health",
-      "tags": "Product-Management Healthcare-Product-Management Specialty-Care-Product-Management Provider-Solutions Digital-Health-Product-Management Solutions-Product-Manager Clinical-Solutions-Product-Manager Sales-Solutions-Product-Manager Product-Manager Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$132k – $162k",
-      "employment_type": "Full Time",
-      "excerpt": "At LifeStance Health, we strive to help individuals, families, and communities with their mental health needs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:assurant:Cybersecurity Analyst",
-      "title": "Cybersecurity Analyst",
-      "company": "Assurant",
-      "location": "Argentina",
-      "url": "https://himalayas.app/jobs/assurant",
-      "tags": "Cybersecurity-Analyst Security-Operations IAM Governance-Compliance-and-Audit Infosec Cyber-Analyst Cybersecurity-Analyst-Jobs Security-Analyst Cybersecurity-Defense-Analyst InfoSec-Analyst Cyber-Defense-Analyst Cyber-Threat-Analyst Cybersecurity-Risk-Analyst Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "The position will focus primarily on performance access review (PAR) activities supporting Assurant applications.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:cardinal-health:Sr Engineering Project Manager - Warehouse Automation",
-      "title": "Sr Engineering Project Manager - Warehouse Automation",
-      "company": "Cardinal Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/cardinal-health",
-      "tags": "Engineering-Project-Manager Warehouse-Automation Supply-Chain-and-Engineering Project-Management Industrial-Engineering Automation-Project-Manager Project-Engineering-Manager Project-Manager Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$105k – $150k",
-      "employment_type": "Full Time",
-      "excerpt": "Job Summary The Sr Engineering Project Manager - Warehouse Automation leads the end-to-end lifecycle of automated distribution and fulfillment initiatives—from initial data analysis, facility profiling, and solution…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:alignment-health:Data Governance Analyst",
-      "title": "Data Governance Analyst",
-      "company": "Alignment Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/alignment-health",
-      "tags": "Data-Governance-Analyst Data-Quality-Analyst Data-Analyst Metadata-Analyst Data-Governance-Specialist Data-Governance-Professional Information-Governance-Analyst Health-Data-Analyst Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$99k – $148k",
-      "employment_type": "Full Time",
-      "excerpt": "Alignment Health is breaking the mold in conventional health care, committed to serving seniors and those who need it most: the chronically ill and frail.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:lifelancer:Clinical Data Manager - FSP (Homebased - UK)",
-      "title": "Clinical Data Manager - FSP (Homebased - UK)",
-      "company": "Lifelancer",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/lifelancer",
-      "tags": "Clinical-Data-Management Clinical-Research Clinical-Operations Data-Management Clinical-Research-(CRO) Clinical-Data-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: Clinical Data Manager - FSP (Homebased - UK) Job Location: London, Greater London, United Kingdom Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: The Clinical Data Manager performs…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:nationwide:Consultant, Field Underwriter - Commercial Lines (P&C Small Commercial Insurance",
-      "title": "Consultant, Field Underwriter - Commercial Lines (P&C Small Commercial Insurance",
-      "company": "Nationwide",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/nationwide",
-      "tags": "Field-Underwriter Commercial-Lines-Underwriter Property-and-Casualty-Insurance Small-Commercial-Insurance-Underwriter Insurance-Sales National-Field-Underwriting-Consultant Senior-Commercial-Lines-Consultant Insurance-Underwriting-Consultant Underwriting-Consultant Field-Underwriting-Specialist Commercial-Lines-Underwriter-II Commercial-Lines-Insurance-Advisor Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$104k – $156k",
-      "employment_type": "Full Time",
-      "excerpt": "If you’re passionate about helping people protect what matters most to them at a Fortune 100 company with nearly $70 billion in annual sales, as well as innovating and simplifying processes and operations to provide the…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:trellix-software-india-private-limited:Reverse Engineer (Android)",
-      "title": "Reverse Engineer (Android)",
-      "company": "Trellix Software India Private Limited",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/trellix-software-india-private-limited",
-      "tags": "Android-Reverse-Engineering Mobile-Security Cybersecurity Reverse-Engineering Application-Security Reverse-Engineer Android-Engineering Android-Engineer Android-Software-Engineering Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: Reverse Engineer (Android)About Trellix Trellix is a global company redefining the future of cybersecurity.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Android"
-      ]
-    },
-    {
-      "id": "himalayas:healios:ADHD Associate Network",
-      "title": "ADHD Associate Network",
-      "company": "Healios",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/healios",
-      "tags": "Clinical Mental-Health ADHD-Specialist Clinical-Psychology ADHD-Prescriber ADHD-Specialist-Clinician ADHD-Coaching Adult-ADHD-Specialist ADHD-Treatment-Specialist Adult-ADHD Entry-level Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "United by our vision. Leading with empathy. Pioneers in curiosity.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:atlas-advisors-llc:Temporary Staff Accountant (Contract / Project-Based)",
-      "title": "Temporary Staff Accountant (Contract / Project-Based)",
-      "company": "Atlas Advisors, LLC",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/atlas-advisors-llc",
-      "tags": "Temporary-Staff-Accountant Staff-Accountant Bookkeeping Accounting Financial-Services Associate-Staff-Accountant Remote-Staff-Accountant Contract-Accounting-Specialist Temporary-Finance-Role Project-Accounting-Specialist Finance Entry-level Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "Category: Financial Services Location: Atlas Advisors LLC is seeking a detail-oriented, hands-on Temporary Staff Accountant to assist our CFO with a specific, project-based accounting cleanup.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:spieldenner-financial-group:Work From Home Sales",
-      "title": "Work From Home Sales",
-      "company": "Spieldenner Financial Group",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/spieldenner-financial-group",
-      "tags": "Insurance-Sales Mortgage-Protection-Sales Financial-Services-Sales Work-From-Home-Sales Direct-Sales Remote-Sales-Jobs Homeoffice-Sales Remote-Sales-Agent Work-From-Home-Agent Work-At-Home-Agent Sales Entry-level Contractor",
-      "source": "Himalayas",
-      "salary": "$2k – $20k",
-      "employment_type": "Contractor",
-      "excerpt": "Spieldenner Financial Group is seeking independent, motivated, career-minded individuals to join our Mortgage Protection team.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:elanco:National Account Manager - PetSmart",
-      "title": "National Account Manager - PetSmart",
-      "company": "Elanco",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/elanco",
-      "tags": "National-Account-Management Strategic-Sales Retail-Account-Management Pet-Industry-Sales Commercial-Leadership National-Account-Manager National-Accounts-Manager National-Account-Sales-Manager National-Sales-Account-Manager Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$134k – $190k",
-      "employment_type": "Full Time",
-      "excerpt": "At Elanco (NYSE: ELAN) – it all starts with animals!",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:brown-university-health:Coding Specialist - Inpatient Telecommute",
-      "title": "Coding Specialist - Inpatient Telecommute",
-      "company": "Brown University Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/brown-university-health",
-      "tags": "Inpatient-Medical-Coding Health-Information-Management HIM-Coding Clinical-Documentation-Integrity Remote-Inpatient-Coder Inpatient-Coding-Specialist Inpatient-Coder Inpatient-Medical-Coder Inpatient-Clinical-Coder Remote-Facility-Based-Medical-Coder Medical-Coder Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$26 – $44",
-      "employment_type": "Full Time",
-      "excerpt": "SUMMARY:Under the general supervision of the Health Information Coding Manager, reviews the inpatient medical record to assign appropriate codes in accordance with the ICD-10-CM/PCS Official Guidelines for Coding and…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:supplax:Ресерчер",
-      "title": "Ресерчер",
-      "company": "SUPPLAX",
-      "location": "Remote",
-      "url": "https://himalayas.app/jobs/supplax",
-      "tags": "Talent-Sourcer Technical-Recruiter Recruiter Talent-Acquisition-Specialist Sourcing-Specialist Researcher Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Supplax — це американська компанія з українським серцем, яка вже понад 5 років активно розвивається на ринку.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:oxoix:Middle Media Buyer",
-      "title": "Middle Media Buyer",
-      "company": "OXOIX",
-      "location": "Ukraine",
-      "url": "https://himalayas.app/jobs/oxoix",
-      "tags": "Media-Buying Digital-Marketing Performance-Marketing Facebook-Ads-Specialist Affiliate-Marketing Media-Buyer Mid-Level-Facebook-Media-Buyer Paid-Media-Buyer Digital-Media-Buyer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "OXOIX — це простір для розвитку та реалізації найсміливіших ідей в Entertainment напрямку!",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Nuclear Physics Specialist - Fully Remote | Upto $100/hr",
-      "title": "Nuclear Physics Specialist - Fully Remote | Upto $100/hr",
-      "company": "mercor",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Nuclear-Physics Computational-Physics AI-Research Scientific-Computing Evaluation-Design Nuclear-Physics-AI-Specialist Freelance-Physics-Specialist Reactor-Physics-Engineer Freelance-Physics-Expert Physics-Research-Specialist Physics-Freelancer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$70 – $100",
-      "employment_type": "Full Time",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:fujifilm:Account Executive, MS Sales (Remote role in Oregon)",
-      "title": "Account Executive, MS Sales (Remote role in Oregon)",
-      "company": "Fujifilm",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/fujifilm",
-      "tags": "Medical-Device-Sales Healthcare-Sales Account-Executive Medical-Imaging-Sales Field-Sales Remote-Account-Executive Remote-Mid-Level-Mid-Market-SaaS-Account-Executive Sales Mid-level Other",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Other",
-      "excerpt": "Position OverviewThis position is intended to sell Fujifilm medical imaging devices, options, and service contracts to prospective and existing customers in their assigned territory.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:spassu:Analista de Qualidade",
-      "title": "Analista de Qualidade",
-      "company": "Spassu",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/spassu",
-      "tags": "Quality-Assurance QA-Analyst Agile-Quality Software-Testing Release-Train-Engineer Analista-De-Qualidade Analista-De-QA Técnico-De-Qualidade Quality-Analyst Engenheiro-De-Qualidade-De-Software Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Este é um cargo remoto. Curte tecnologia, inovação e tem agilidade no DNA?",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:AI Evaluator - Software Expert - AI Trainer",
-      "title": "AI Evaluator - Software Expert - AI Trainer",
-      "company": "mercor",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "AI-Evaluator AI-Trainer Software-Quality-Assurance Technical-Content-Evaluator AI-Model-Grader AI-Training-Evaluator AI-Trainer-Evaluator AI-Evaluation-Specialist Freelance-AI-Evaluator AI-ML-Evaluation-Specialist AI-Model-Evaluation-Specialist AI-Evaluation-Analyst AI-Training-Data-Evaluator AI-ML-Evaluator Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$80 – $120",
-      "employment_type": "Full Time",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:infinitechoice:Senior Full Stack Software Engineer",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "InfiniteChoice",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/infinitechoice",
-      "tags": "Full-Stack-Engineer Software-Engineer Backend-Engineer Frontend-Engineer Senior-Full-Stack-Engineering Senior-Fullstack-Developer Senior-Full-Stack-Development Senior-Full-Stack-Engineer-(React-Node.Js) Senior-Full-Stack-Engineer-(JavaScript-Python) ¿Senior-Fullstack-Engineering Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About the RoleWe're seeking a talented Senior Full Stack Software Engineer to join our growing engineering team at InfiniteChoice.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Frontend",
-        "Backend",
-        "Full Stack"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Applied Engineer - Fully Remote | Upto $77/hr",
-      "title": "Applied Engineer - Fully Remote | Upto $77/hr",
-      "company": "mercor",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Applied-Engineering Technical-Content-Development Assessment-Design Curriculum-Development Technical-Writer Applied-AI-ML-Engineer Applied-AI-Engineer-Jobs Applications-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$61 – $77",
-      "employment_type": "Full Time",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:nachhilfeunterricht:Experte für Spanisch (w/m/d) | Remote | Flexibel | Unabhängig",
-      "title": "Experte für Spanisch (w/m/d) | Remote | Flexibel | Unabhängig",
-      "company": "Nachhilfeunterricht",
-      "location": "Austria",
-      "url": "https://himalayas.app/jobs/nachhilfeunterricht",
-      "tags": "Spanish-Tutor Language-Instructor Language-Teaching Tutor Spanish-Teacher Remote-Language-Specialist Remote-Spanish-Teacher Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Wir sind auf der Suche nach innovativen und energiegeladenen Tutor:innen in Spanisch.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:reach-cyber-charter-school:Paraprofessional",
-      "title": "Paraprofessional",
-      "company": "Reach Cyber Charter School",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/reach-cyber-charter-school",
-      "tags": "Special-Education-Paraprofessional Paraprofessional Teaching-Assistant Special-Education-Teaching Educational-Support Paraprofessional-Teacher Paraprofessional-Teaching Teachers-Aide Special-Education-Assistant Classroom-Assistant Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Title: Paraprofessional(10-Month)This position will not start until the end of August Who we are: Reach Cyber Charter School is a tuition-free online public K–12 school in Pennsylvania, connecting students with…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:pavago:Senior Accounting Manager",
-      "title": "Senior Accounting Manager",
-      "company": "Pavago",
-      "location": "South Africa",
-      "url": "https://himalayas.app/jobs/pavago",
-      "tags": "Senior-Accounting-Manager Accounting-Leadership Financial-Reporting Corporate-Accounting Accounting-Operations Senior-Manager-Accounting Senior-Accounting-Management Accounting-Manager Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Senior Accounting Manager – RemotePosition Type: Full-Time, Remote Working Hours: U.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:bamboo-health:Optimization Manager",
-      "title": "Optimization Manager",
-      "company": "Bamboo Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/bamboo-health",
-      "tags": "Customer-Success-Management Account-Management Revenue-Operations Retention-Management Operations-And-Finance Optimization-Manager Optimisation-Manager Network-Optimization-Manager Process-Optimization-Manager Web-Optimization-Manager Account-Optimization-Manager Growth-Optimization-Manager E-Commerce-Optimization-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Bamboo Health is the leader in Real-Time Care Intelligence™ solutions aimed at improving lives for everyone experiencing physical and behavioral health challenges.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:logicalis-com:DevOps Engineer",
-      "title": "DevOps Engineer",
-      "company": "Logicalis Spain",
-      "location": "Spain",
-      "url": "https://himalayas.app/jobs/logicalis-com",
-      "tags": "DevOps-Engineer Platform-Engineering SRE Cloud-Infrastructure Kubernetes-Administration DevOps-Software-Engineer Cloud-DevOps-Engineer ProdOps-Engineer DevOps-Automation-Engineer Infrastructure-DevOps-Engineer AWS-DevOps-Engineer TechOps-Engineer Lead-DevOps-Engineer CloudOps-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "En Logicalis Spain buscamos incorporar un/a DevOps Engineer para formar parte de nuestro pool de servicios gestionados, participando en la operación, evolución y automatización de plataformas críticas basadas en…",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:perle-systems:Expert Audio Transcriber, Persian",
-      "title": "Expert Audio Transcriber, Persian",
-      "company": "Perle Systems",
-      "location": "Iran",
-      "url": "https://himalayas.app/jobs/perle-systems",
-      "tags": "Persian-Language-Services Audio-Transcription Speech-Data-Annotation Linguistic-Annotation AI-Training-Data Expert-Audio-Transcriber Audio-Transcription-Expert Audio-Transcription-Specialist Audio-Transcriptionist Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "ABOUT PERLE Perle is an AI infrastructure company building expert-driven training data, evaluation systems, and applied AI products for the world's leading labs and enterprises.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:truegenics-pte-ltd:Senior Executive, Graphic & Web Design",
-      "title": "Senior Executive, Graphic & Web Design",
-      "company": "Truegenics Pte. Ltd.",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/truegenics-pte-ltd",
-      "tags": "Graphic-Design Web-Design UX-UI-Design E-commerce-Design Packaging-Design Senior-Graphic-Designer Senior-Web-Designer Senior-Web-Design-Specialist Senior-Marketing-Designer Senior-Digital-Designer Senior-Branding-Designer Senior Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "About TruegenicsTruegenics Pte Ltd is a leading e-commerce company based in Singapore with a track record of over US$218M in online product sales.",
-      "posted_date": "",
-      "first_seen": "2026-08-17T19:32:15.506712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -1963,7 +395,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that…",
       "posted_date": 1786989335,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -1981,7 +413,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether…",
       "posted_date": 1786989334,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -1999,7 +431,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: Come and join us in Hamburg, Berlin or Barcelona!&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Freenow by Lyft empowers…",
       "posted_date": 1786989331,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2017,7 +449,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: Come and join us in Hamburg, Berlin or Barcelona!&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Freenow by Lyft empowers…",
       "posted_date": 1786989331,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2035,7 +467,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;Global Dimensions is currently seeking a &lt;strong&gt;Data Scientist&lt;/strong&gt; for a position in &lt;strong&gt;Stuttgart, Germany&lt;/strong&gt;, to support mission-critical data analysis and intelligence…",
       "posted_date": 1786989324,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2053,7 +485,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;span data-teams=&quot;true&quot;&gt;Hast Du Lust, Teil eines Teams zu werden, das mit Verantwortung, gegenseitiger Wertschätzung und einem klaren Blick für Informationssicherheit an einer digitalen Zukunft…",
       "posted_date": 1786989304,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2071,7 +503,7 @@ window.JOB_DATA = {
       "excerpt": "About Eye Security Eye Security is an international scale-up providing cyber security with embedded cyber insurance to SMBs in Europe. Our cyber security innovations, state-of-the-art automation and platforms are being…",
       "posted_date": 1786988430,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2089,7 +521,7 @@ window.JOB_DATA = {
       "excerpt": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses…",
       "posted_date": 1786988429,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2107,7 +539,7 @@ window.JOB_DATA = {
       "excerpt": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses…",
       "posted_date": 1786988429,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2125,7 +557,7 @@ window.JOB_DATA = {
       "excerpt": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses…",
       "posted_date": 1786988429,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2143,7 +575,7 @@ window.JOB_DATA = {
       "excerpt": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over…",
       "posted_date": 1786988420,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2161,7 +593,7 @@ window.JOB_DATA = {
       "excerpt": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people…",
       "posted_date": 1786988419,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2179,7 +611,7 @@ window.JOB_DATA = {
       "excerpt": "At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people…",
       "posted_date": 1786988419,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2197,7 +629,7 @@ window.JOB_DATA = {
       "excerpt": "Warum roadsurfer? TEAMSPIRIT &amp; TEAMEVENTS : Freu dich auf eine kollegiale Atmosphäre mit flachen Hierarchien, jede Menge Spaß und großartigem Teamspirit sowie regelmäßige Teamevents wie gemeinsame Sportsessions,…",
       "posted_date": 1786988407,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2215,7 +647,7 @@ window.JOB_DATA = {
       "excerpt": "Warum roadsurfer? TEAMSPIRIT &amp; TEAMEVENTS : Freu dich auf eine kollegiale Atmosphäre mit flachen Hierarchien, jede Menge Spaß und großartigem Teamspirit sowie regelmäßige Teamevents wie gemeinsame Sportsessions,…",
       "posted_date": 1786988407,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2233,7 +665,7 @@ window.JOB_DATA = {
       "excerpt": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "posted_date": 1786987827,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2251,7 +683,7 @@ window.JOB_DATA = {
       "excerpt": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin wo du die meiste Zeit…",
       "posted_date": 1786987816,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2269,7 +701,7 @@ window.JOB_DATA = {
       "excerpt": "Foodji ist ein VC-backed Foodtech-Startup aus München und Marktführer für frische Verpflegung direkt am Arbeitsplatz. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte dorthin, wo Menschen den Großteil…",
       "posted_date": 1786987816,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2287,7 +719,7 @@ window.JOB_DATA = {
       "excerpt": "We are looking for a skilled and motivated Consultant to join our team. The ideal candidate combines strong software engineering expertise with hands-on experience in modern AI systems, including agentic AI and…",
       "posted_date": 1786987816,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2305,7 +737,7 @@ window.JOB_DATA = {
       "excerpt": "Company overview: &nbsp; Machine Learning Reply provides customized end-to-end solutions in the data science field that cover the entire project life cycle - from initial strategic consulting to data architecture and…",
       "posted_date": 1786987816,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2323,7 +755,7 @@ window.JOB_DATA = {
       "excerpt": "Intro As our working student - Affiliate marketing for one of our key insurance partnerships, you will be responsible for managing the existing affiliate network as well as onboarding new affiliates into the network.…",
       "posted_date": 1786987815,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2341,7 +773,7 @@ window.JOB_DATA = {
       "excerpt": "Schön, dass Du hier bist Bei MetaFlow verantwortest du die fachliche Steuerung unserer Produktentwicklung – von der Rezeptur neuer Produkte bis zur erfolgreichen Markteinführung. Als zentrale Koordinationsstelle bringst…",
       "posted_date": 1786987812,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2359,7 +791,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben Deine Mission: Werde zum Wachstumsmotor von Deutschlands größter Nachbarschaftsplattform Du willst nicht nur Media-Budgets verwalten, sondern den Markt aktiv gestalten? Du hast den Instinkt für große…",
       "posted_date": 1786987791,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2377,7 +809,7 @@ window.JOB_DATA = {
       "excerpt": "Das sind wir Seit 2000 macht die ITA Logistics Group den Versand für Unternehmen einfacher, transparenter und effizienter. Mit unseren Plattformen LetMeShip und ParcelParcel können Unternehmen ihren täglichen Versand…",
       "posted_date": 1786987789,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2395,7 +827,7 @@ window.JOB_DATA = {
       "excerpt": "Das sind wir Seit 2000 macht die ITA Logistics Group den Versand für Unternehmen einfacher, transparenter und effizienter. Mit unseren Plattformen LetMeShip und ParcelParcel können Unternehmen ihren täglichen Versand…",
       "posted_date": 1786987789,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2413,7 +845,7 @@ window.JOB_DATA = {
       "excerpt": "JOIN US LIGANOVA HORIZON ist eine Digital Experience Agency für internationale Brands und Teil der LIGANOVA GROUP . Wir entwickeln digitale Experiences, Kampagnen und visuelle Systeme an der Schnittstelle von Kreation,…",
       "posted_date": 1786987787,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2431,7 +863,7 @@ window.JOB_DATA = {
       "excerpt": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und…",
       "posted_date": 1786987785,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2449,7 +881,7 @@ window.JOB_DATA = {
       "excerpt": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem…",
       "posted_date": 1786987214,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2467,7 +899,7 @@ window.JOB_DATA = {
       "excerpt": "Our client manufactures plumbing, heating, air-conditioning, and refrigeration (PHAR) fittings and valves on a global scale. Operating from multiple production sites across Europe, the company is widely recognised for…",
       "posted_date": 1786987213,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2482,10 +914,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find Jobs in Germany on Arbeitnow",
+      "excerpt": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "posted_date": 1786986619,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2503,7 +935,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Rolle Als Senior Consultant Digital Corporate Communications führst du bei Cosmonauts &amp; Kings eigene Mandate mit Schwerpunkt Digital Thought Leadership, CEO-Positionierung und LinkedIn und baust unseren…",
       "posted_date": 1786986612,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2521,7 +953,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben Konzeption und Umsetzung kreativer Datenprodukte für Kunden aus dem politischen Umfeld, darunter Parteien, Verbände, Ministerien und NGOs Datensammlung über APIs: Entwicklung und Pflege von Skripten, die…",
       "posted_date": 1786986612,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2539,7 +971,7 @@ window.JOB_DATA = {
       "excerpt": "Find Jobs in Germany on Arbeitnow",
       "posted_date": 1786986608,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2554,10 +986,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "excerpt": "Find Jobs in Germany on Arbeitnow",
       "posted_date": 1786986608,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2575,7 +1007,7 @@ window.JOB_DATA = {
       "excerpt": "Wer sind wir? Mawave - Europas Spitzenreiter für Social Media Outcomes - übersetzt Consumer Brands in Social Media. Als Social-Lead-Agentur hinter Marken wie E.ON, Jack Wolkfskin und ATU verwaltet Mawave mit knapp 200…",
       "posted_date": 1786986600,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2593,7 +1025,7 @@ window.JOB_DATA = {
       "excerpt": "Your responsibilities will include Analysis of multiomics data (e.g., NGS, transcriptomics, metabolomics) in oncology / inflammation Support non-clinical / clinical development in all phases, analysis plan (e.g. SAP),…",
       "posted_date": 1786986599,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2611,7 +1043,7 @@ window.JOB_DATA = {
       "excerpt": "OUR COMPANY As an innovative company in the MedTech sector, we are continuously growing and looking for skilled professionals to strengthen our team and grow together with us - come join us at our location in Freiburg!…",
       "posted_date": 1786986594,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2629,7 +1061,7 @@ window.JOB_DATA = {
       "excerpt": "Our Mission At Circus (Xetra: CA1), headquartered in Munich, we are pioneering global developments in on-demand autonomous food production. Everything from creation to production and operation – enabled by seamlessly…",
       "posted_date": 1786986593,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2647,7 +1079,7 @@ window.JOB_DATA = {
       "excerpt": "Aufgaben Unterstützung bei bestehenden Projekten in der Energiewirtschaft im Bereich Eskalationsmanagement Verarbeitung, Strukturierung und Digitalisierung von Verwaltungsunterlagen Mitwirkung bei der Implementierung…",
       "posted_date": 1786986584,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2665,7 +1097,7 @@ window.JOB_DATA = {
       "excerpt": "Aufgaben Bei der BBH Solutions AG, dem Legal-Tech-Startup der renommierten BBH Gruppe, gestalten wir die Zukunft der Rechtsberatung. Seit 2021 entwickeln und vertreiben wir innovative Software-Lösungen, die den…",
       "posted_date": 1786986584,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2683,7 +1115,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben Als Design Director (f/m/d) mit Schwerpunkt Branding &amp; FMCG übernimmst du kreative Verantwortung für Markenauftritte, die Menschen im Alltag begegnen – im Regal, auf dem Display, in der Hand. Du…",
       "posted_date": 1786986557,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2701,7 +1133,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben Als Creative Director (f/m/d) mit Schwerpunkt Branding, FMCG &amp; Fashion bist Du der kreative Kopf, der unsere Vision mit Leben füllt und gemeinsam mit einem Team aus talentierten Mutaborianer:innen die…",
       "posted_date": 1786986557,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2719,7 +1151,7 @@ window.JOB_DATA = {
       "excerpt": "Du siehst dir einen Funnel an und weißt sofort, wo es gerade hakt? Du weißt, welcher Angle als Nächstes getestet oder iteriert werden sollte, wo BOF Ads fehlen und welche Landingpage wir brauchen, und du denkst dabei in…",
       "posted_date": 1786986028,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2737,7 +1169,7 @@ window.JOB_DATA = {
       "excerpt": "Build firmware for wearable robotics that changes lives. We are a healthtech startup developing robotic hand orthoses that help people regain function and independence. We are looking for a Firmware Engineer with a…",
       "posted_date": 1786986026,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2755,7 +1187,7 @@ window.JOB_DATA = {
       "excerpt": "Our mission We are on a mission to save our planet - one second hand product at a time. We are looking for an experienced Product Owner to take ownership of the momox Product Catalog (MPC) - our central catalog system…",
       "posted_date": 1786986025,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2773,7 +1205,7 @@ window.JOB_DATA = {
       "excerpt": "Du liebst Social Media, hast ein richtig gutes Auge für Ästhetik und weißt, wann ein Reel einfach gut aussieht und sich auch so anfühlt? Für unsere Social-Media-Agentur suchen wir kreative Unterstützung als…",
       "posted_date": 1786982427,
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2791,7 +1223,7 @@ window.JOB_DATA = {
       "excerpt": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.…",
       "posted_date": "2026-08-17T14:49:16+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2809,7 +1241,7 @@ window.JOB_DATA = {
       "excerpt": "Overview: As an audio/video interpreter for Kunama and Tigrinya or Arabic in LSA’s network of Independently Contracted Interpreters, you are responsible for handling audio and video calls on demand and facilitating…",
       "posted_date": "2026-08-17T14:49:14+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2827,7 +1259,7 @@ window.JOB_DATA = {
       "excerpt": "In the early decades of aviation, flying itself was no longer the hardest problem. The harder challenge was coordination. As air travel scaled, what once relied on intuition and informal communication required entirely…",
       "posted_date": "2026-08-17T14:40:44+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2845,7 +1277,7 @@ window.JOB_DATA = {
       "excerpt": "In the 1960s, NASA’s Mission Control transformed spaceflight from isolated acts of engineering into coordinated systems of execution. Every launch depended on hundreds of interconnected decisions across engineering,…",
       "posted_date": "2026-08-17T14:40:42+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2863,7 +1295,7 @@ window.JOB_DATA = {
       "excerpt": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work…",
       "posted_date": "2026-08-17T14:34:19+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2881,7 +1313,7 @@ window.JOB_DATA = {
       "excerpt": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent…",
       "posted_date": "2026-08-17T14:34:17+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2899,7 +1331,7 @@ window.JOB_DATA = {
       "excerpt": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in the United States. Please visit careers.quora.com/eligible-countries for details regarding employment…",
       "posted_date": "2026-08-17T14:30:25+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2917,7 +1349,7 @@ window.JOB_DATA = {
       "excerpt": "Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs. We give Entrepreneurs time back to focus on what they love doing - growing their business and…",
       "posted_date": "2026-08-17T14:30:23+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2935,7 +1367,7 @@ window.JOB_DATA = {
       "excerpt": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation,…",
       "posted_date": "2026-08-17T14:30:22+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2953,7 +1385,7 @@ window.JOB_DATA = {
       "excerpt": "Running a frontline business is an operational puzzle most software has never touched. Shift-by-shift labour costs, compliance that changes by region and by role, and margins thin enough that a badly built rota can sink…",
       "posted_date": "2026-08-17T14:17:20+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2971,7 +1403,7 @@ window.JOB_DATA = {
       "excerpt": "Job Summary and Purpose: The Senior Operations Specialist leverages expertise and knowledge to plan and manage initiatives and activities designed to improve the quality, efficiency and effectiveness of the delivery of…",
       "posted_date": "2026-08-17T14:17:18+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -2989,7 +1421,7 @@ window.JOB_DATA = {
       "excerpt": "About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution,…",
       "posted_date": "2026-08-17T14:17:16+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3007,7 +1439,7 @@ window.JOB_DATA = {
       "excerpt": "Running a frontline business is an operational puzzle most software has never touched. Shift-by-shift labour costs, compliance that changes by region and by role, and margins thin enough that a badly built rota can sink…",
       "posted_date": "2026-08-17T14:17:13+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3025,7 +1457,7 @@ window.JOB_DATA = {
       "excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we…",
       "posted_date": "2026-08-17T14:14:18+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3043,7 +1475,7 @@ window.JOB_DATA = {
       "excerpt": "Welcome to the good side of tech You might have heard about us, but with a different name: Doctoralia. It all started 12 years ago when we asked ourselves: is anyone in healthcare thinking about patients? We jumped in…",
       "posted_date": "2026-08-17T14:14:16+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3061,7 +1493,7 @@ window.JOB_DATA = {
       "excerpt": "Welcome to the good side of tech You might have heard about us, but with a different name: ZnanyLekarz. It all started 12 years ago when we asked ourselves: is anyone in healthcare thinking about patients? We jumped in…",
       "posted_date": "2026-08-17T14:14:14+00:00",
       "first_seen": "2026-08-17T18:47:09.936427+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3079,7 +1511,7 @@ window.JOB_DATA = {
       "excerpt": "🌱 Auf der Suche nach einer beruflichen Herausforderung mit Mehrwert für Gesellschaft &#x26; Klima? Du hast Erfahrung in der technischen Koordination und möchtest nicht nur vom Schreibtisch aus steuern, sondern auch…",
       "posted_date": 1786980629,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3097,7 +1529,7 @@ window.JOB_DATA = {
       "excerpt": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen…",
       "posted_date": 1786980629,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3115,7 +1547,7 @@ window.JOB_DATA = {
       "excerpt": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen…",
       "posted_date": 1786980629,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3133,7 +1565,7 @@ window.JOB_DATA = {
       "excerpt": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen…",
       "posted_date": 1786980627,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3151,7 +1583,7 @@ window.JOB_DATA = {
       "excerpt": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen…",
       "posted_date": 1786980627,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3169,7 +1601,7 @@ window.JOB_DATA = {
       "excerpt": "At TYTAN , we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We…",
       "posted_date": 1786980015,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3187,7 +1619,7 @@ window.JOB_DATA = {
       "excerpt": "Wir suchen Dich zum nächstmöglichen Zeitpunkt in Vollzeit (40 Stunden Woche) als Senior Recruiter (w/m/d) für unser Service-Office und unsere bundesweit ansässigen Restaurantbetriebe. Dein Hauptsitz wird in München sein…",
       "posted_date": 1786980015,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3205,7 +1637,7 @@ window.JOB_DATA = {
       "excerpt": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der…",
       "posted_date": 1786980015,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3223,7 +1655,7 @@ window.JOB_DATA = {
       "excerpt": "Great social content feels local, relevant and made for the platform - not simply adapted for it. For our Spanish audience, that means spotting the right trends, turning ideas into content and knowing what makes people…",
       "posted_date": 1786980015,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3241,7 +1673,7 @@ window.JOB_DATA = {
       "excerpt": "Du willst mehr sein als ein Byte im Datenmeer? Du möchtest gerne mit Leidenschaft Verantwortung in agilen Teams übernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt…",
       "posted_date": 1786978829,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -3259,7 +1691,7 @@ window.JOB_DATA = {
       "excerpt": "Sie möchten Teil eines familiären, mittelständischen und gleichzeitig sehr erfolgreichen Industrieunternehmens werden, bei dem Sie als Servicetechniker mit Kältesystemen von modernen und innovativen…",
       "posted_date": 1786978829,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3277,7 +1709,7 @@ window.JOB_DATA = {
       "excerpt": "Essen (Rüttenscheid) | Vollzeit | E-Commerce Agentur Du hast Erfahrung in der Umsetzung von Corporate Designs, brennst für innovative Designideen und nutzt moderne KI-Tools gezielt, um tägliche Design- und Textprozesse…",
       "posted_date": 1786978829,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3295,7 +1727,7 @@ window.JOB_DATA = {
       "excerpt": "Diese Position ist für unsere Gesellschaft CYBERDYNE Informationstechnologie GmbH zu besetzen. Wir suchen zum nächstmöglichen Zeitpunkt (ab dem 15.09.2026) einen HR Generalist (m/w/d) in Teilzeit (ca. 25-30…",
       "posted_date": 1786978829,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3313,7 +1745,7 @@ window.JOB_DATA = {
       "excerpt": "Als ERP-Consultant bei apia verbindest du betriebswirtschaftliche Abläufe mit den Möglichkeiten moderner Unternehmenssoftware. Du arbeitest eng mit mittelständischen Kunden zusammen, analysierst ihre Prozesse und…",
       "posted_date": 1786978828,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3331,7 +1763,7 @@ window.JOB_DATA = {
       "excerpt": "Direktvermittlung über PRIME HR Agentur® Für unseren Mandanten suchen wir zum nächstmöglichen Zeitpunkt einen erfahrenen Bilanzbuchhalter oder Steuerfachangestellten (m/w/d) für den Standort München . Sie erwartet eine…",
       "posted_date": 1786978828,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3349,7 +1781,7 @@ window.JOB_DATA = {
       "excerpt": "Direktvermittlung über Jobbusters® Für ein etabliertes und professionelles Unternehmen am Standort München suchen wir im Rahmen der exklusiven Direktvermittlung einen Bilanzbuchhalter oder Steuerfachangestellten (m/w/d)…",
       "posted_date": 1786978828,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3367,7 +1799,7 @@ window.JOB_DATA = {
       "excerpt": "Bei IONOS arbeitest Du bei dem führenden europäischen Anbieter von Cloud-Infrastruktur, Cloud-Services und Hosting-Dienstleistungen partnerschaftlich mit unterschiedlichen Teams zusammen. Wir bieten Dir eine Perspektive…",
       "posted_date": 1786978828,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3385,7 +1817,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.&lt;/p&gt; &lt;p&gt;Our culture of flexibility,…",
       "posted_date": 1786982149,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3403,7 +1835,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are: &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Gram Games is the studio behind popular titles like 1010!, Six!, Merge Dragons!, and Merge Magic!, with…",
       "posted_date": 1786982116,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3421,7 +1853,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human…",
       "posted_date": 1786982113,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3439,7 +1871,7 @@ window.JOB_DATA = {
       "excerpt": "Business Development Manager - Growth Sports Location: Basingstoke/London (can be based in either location, travel expected to other location) Reporting to: Head of Commercial - Growth Sports Role Overview We are…",
       "posted_date": 1786981210,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3457,7 +1889,7 @@ window.JOB_DATA = {
       "excerpt": "Location: Onsite EPL &amp; EFL Stadiums. We are currently hiring across Greater London and surrounding southern regions. Ideal candidates will be within easy commuting distance to partner EPL and EFL stadiums across…",
       "posted_date": 1786981210,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3475,7 +1907,7 @@ window.JOB_DATA = {
       "excerpt": "About Exegy Exegy is a global leader in intelligent market data, advanced trading systems, and future-proof technology. Exegy serves as a trusted partner to the complete ecosystem of the buy-side, sell-side, exchanges,…",
       "posted_date": 1786981204,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3490,10 +1922,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find Jobs in United Kingdom on Arbeitnow",
+      "excerpt": "Find more English Speaking Jobs in United Kingdom on Arbeitnow",
       "posted_date": 1786979418,
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3511,7 +1943,7 @@ window.JOB_DATA = {
       "excerpt": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day.…",
       "posted_date": "2026-08-17T13:37:39+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3529,7 +1961,7 @@ window.JOB_DATA = {
       "excerpt": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows…",
       "posted_date": "2026-08-17T13:37:37+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3547,7 +1979,7 @@ window.JOB_DATA = {
       "excerpt": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day.…",
       "posted_date": "2026-08-17T13:37:36+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3565,7 +1997,7 @@ window.JOB_DATA = {
       "excerpt": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows…",
       "posted_date": "2026-08-17T13:37:34+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3583,7 +2015,7 @@ window.JOB_DATA = {
       "excerpt": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day.…",
       "posted_date": "2026-08-17T13:37:31+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3601,7 +2033,7 @@ window.JOB_DATA = {
       "excerpt": "The Finance team at Clover Health is a group of strategic partners providing financial and operational insights that drive informed decision-making and efficient capital allocation. Guided by our core values of…",
       "posted_date": "2026-08-17T13:37:29+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3619,7 +2051,7 @@ window.JOB_DATA = {
       "excerpt": "Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical…",
       "posted_date": "2026-08-17T13:37:27+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3637,7 +2069,7 @@ window.JOB_DATA = {
       "excerpt": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day.…",
       "posted_date": "2026-08-17T13:37:25+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3655,7 +2087,7 @@ window.JOB_DATA = {
       "excerpt": "At Clover Health, we’re focused on improving the health of our members by leveraging technology and data-driven insights to provide personalized, high-quality care. As a Medicare Advantage plan, we aim to empower our…",
       "posted_date": "2026-08-17T13:37:23+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3673,7 +2105,7 @@ window.JOB_DATA = {
       "excerpt": "We don't just provide health insurance—we deliver the kind of healthcare that people deserve. The Actuarial team at Clover combines rigorous analytics with innovative technology to solve complex healthcare challenges…",
       "posted_date": "2026-08-17T13:37:20+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3691,7 +2123,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:20+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3709,7 +2141,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:17+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3727,7 +2159,7 @@ window.JOB_DATA = {
       "excerpt": "Small business owners didn't start their business to become their own bookkeeper, banker, and collections department. Jobber is changing that, building the financial hub for a $400B home-services market, and Fintech is…",
       "posted_date": "2026-08-17T13:04:15+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3745,7 +2177,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:13+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3763,7 +2195,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:11+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3781,7 +2213,7 @@ window.JOB_DATA = {
       "excerpt": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We’re looking for…",
       "posted_date": "2026-08-17T13:04:09+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3799,7 +2231,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:07+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3817,7 +2249,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:04:04+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3835,7 +2267,7 @@ window.JOB_DATA = {
       "excerpt": "Are you driven to bring people, technology, and strategy together to build impactful software? Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local…",
       "posted_date": "2026-08-17T13:04:01+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3853,7 +2285,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:03:57+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3871,7 +2303,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital…",
       "posted_date": "2026-08-17T13:03:53+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3889,7 +2321,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:03:51+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3907,7 +2339,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution,…",
       "posted_date": "2026-08-17T13:03:49+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3925,7 +2357,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution,…",
       "posted_date": "2026-08-17T13:03:47+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3943,7 +2375,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:03:44+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3961,7 +2393,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the Role We’re on a mission to modernize insurance - making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital…",
       "posted_date": "2026-08-17T13:03:42+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3979,7 +2411,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:03:40+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -3997,7 +2429,7 @@ window.JOB_DATA = {
       "excerpt": "ABOUT US We are Playbook, a leading creator platform for fitness, health, and wellness. Our mission is to help fitness creators build sustainable businesses, while enabling hundreds of thousands of users to live…",
       "posted_date": "2026-08-17T13:03:38+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4015,7 +2447,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution,…",
       "posted_date": "2026-08-17T13:03:36+00:00",
       "first_seen": "2026-08-17T17:30:53.788866+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4033,7 +2465,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h2&gt;Kurz und Knapp&lt;/h2&gt; &lt;p&gt;Du bist gerade mit deinem Studium oder deiner Ausbildung fertig, liebst die tägliche Abwechslung in der Logistik und bist bereit für eine neue Herausforderung als…",
       "posted_date": 1786978541,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4051,7 +2483,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section…",
       "posted_date": 1786978541,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4069,7 +2501,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section…",
       "posted_date": 1786978541,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4087,7 +2519,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section…",
       "posted_date": 1786978541,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4105,7 +2537,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section…",
       "posted_date": 1786978541,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4123,7 +2555,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h2&gt;Kurz und Knapp&lt;/h2&gt; &lt;p&gt;Du liebst die tägliche Abwechslung, siehst dich als (zukünftige) Führungskraft und bist bereit für eine neue Herausforderung in der Logistik, egal ob mit Fachhintergrund oder…",
       "posted_date": 1786978540,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4141,7 +2573,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We’re in an unbelievably exciting area of tech and are fundamentally reshaping the data storage industry. Here, you lead with innovative thinking, grow along with us,…",
       "posted_date": 1786978537,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4159,7 +2591,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business…",
       "posted_date": 1786978508,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4177,7 +2609,7 @@ window.JOB_DATA = {
       "excerpt": "WIR BAUEN DIE STEUERKANZLEI DER ZUKUNFT Radikal einfach. Hochautomatisiert. 100% mandantenfokussiert. Wir denken Steuerberatung komplett neu: einfach, schnell und transparent für Mandanten und Kanzleiteam zugleich. Wo…",
       "posted_date": 1786977625,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4195,7 +2627,7 @@ window.JOB_DATA = {
       "excerpt": "SKALAR – Wir bauen die digitale Steuerkanzlei der Zukunft Radikal einfach. Voll digital. 100% mandantenfokussiert. Wir denken Steuerberatung komplett neu: einfacher, schneller und transparenter für Mandanten und…",
       "posted_date": 1786977625,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4213,7 +2645,7 @@ window.JOB_DATA = {
       "excerpt": "What you’ll do Own onboarding outcomes against success metrics and customer KPIs (quality, reliability, time-to-value) Execute the initial onboarding cycle using internal tools, then revisit and iterate to improve…",
       "posted_date": 1786977621,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4231,7 +2663,7 @@ window.JOB_DATA = {
       "excerpt": "Hello, we’re AMBOSS - and we’re looking for a Working Student in Accounting to join our Accounts Payable team! About AMBOSS AMBOSS is a learning and clinical decision support tool striving to empower physicians across…",
       "posted_date": 1786977616,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4249,7 +2681,7 @@ window.JOB_DATA = {
       "excerpt": "Hi! We are AMBOSS and we are looking for a Video Production Manager to join our team, and shape the future of medical education with us! About AMBOSS AMBOSS is a dynamic learning and clinical decision support tool…",
       "posted_date": 1786977616,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4267,7 +2699,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977030,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4285,7 +2717,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977030,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4303,7 +2735,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977030,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4321,7 +2753,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977029,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4339,7 +2771,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977029,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4357,7 +2789,7 @@ window.JOB_DATA = {
       "excerpt": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software…",
       "posted_date": 1786977029,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4373,9 +2805,9 @@ window.JOB_DATA = {
       "salary": "",
       "employment_type": "",
       "excerpt": "Im Vertrieb von apia geht es nicht um kurzfristige Abschlüsse oder austauschbare Produkte. Du findest heraus, vor welchen Herausforderungen ein Unternehmen steht, koordinierst die passenden Fachbereiche und entwickelst…",
-      "posted_date": 1786977029,
+      "posted_date": 1786993346,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4393,7 +2825,7 @@ window.JOB_DATA = {
       "excerpt": "Du willst mit der Kamera arbeiten und Sachen machen, die auch wirklich rausgehen? Bei mykori dreht sich alles um gesellschaftliches Engagement: Genossenschaftsbanken und Sparkassen fördern jedes Jahr Vereine, Schulen…",
       "posted_date": 1786977028,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4411,7 +2843,7 @@ window.JOB_DATA = {
       "excerpt": "Teilzeit (20 Std./Woche) | 31.500 € - 34.000 € / Jahr (Vollzeitäquivalent) Bei MERENTIS gestalten wir seit 30 Jahren die digitale Zukunft unserer Kunden – mit smarten Lösungen, echter Beratungskompetenz und einem Team,…",
       "posted_date": 1786977028,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4429,7 +2861,7 @@ window.JOB_DATA = {
       "excerpt": "With over 19,000 customers, Crewmeister is one of the fastest-growing software providers in Munich. This dynamic growth is made possible by the personal development and teamwork of our now more than 60 outstanding…",
       "posted_date": 1786977028,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4447,7 +2879,7 @@ window.JOB_DATA = {
       "excerpt": "Vollzeit (40 Std./Woche) | 35.000 € - 38.000 € / Jahr Bei MERENTIS gestalten wir seit 30 Jahren die digitale Zukunft unserer Kunden – mit smarten Lösungen, echter Beratungskompetenz und einem Team, das Digitalisierung…",
       "posted_date": 1786977028,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4465,7 +2897,7 @@ window.JOB_DATA = {
       "excerpt": "Introduction We are smartmicro, leading specialist in high-performance radar sensor technology. We design, develop and manufacture sensors and systems for autonomous driving, intelligent traffic infrastructure, as well…",
       "posted_date": 1786977027,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4483,7 +2915,7 @@ window.JOB_DATA = {
       "excerpt": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring…",
       "posted_date": 1786977027,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4501,7 +2933,7 @@ window.JOB_DATA = {
       "excerpt": "Projektbeschreibung: Technologie begeistert Sie? Uns auch! Zur Verstärkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Senior Data Engineer (m/w/x) in Festanstellung…",
       "posted_date": 1786977025,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4519,7 +2951,7 @@ window.JOB_DATA = {
       "excerpt": "Über uns Wir bei ECDB sind überzeugt: Daten entscheiden über Erfolg im eCommerce . Deshalb liefern wir führenden Unternehmen wie Amazon, Google und PayPal präzise Analysen und fundierte Markt-Insights. Mit Milliarden…",
       "posted_date": 1786977023,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4537,7 +2969,7 @@ window.JOB_DATA = {
       "excerpt": "Wer wir sind Die GBC Group GmbH ist eine inhabergeführte IT-Unternehmensgruppe mit über 500 Mitarbeitenden an mehr als 10 Standorten in Deutschland. Nach dem Buy-and-Build-Prinzip vereinen wir 12 spezialisierte…",
       "posted_date": 1786977019,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4555,7 +2987,7 @@ window.JOB_DATA = {
       "excerpt": "About Nucs AI Nucs AI is revolutionizing cancer care through cutting-edge AI and medical imaging technology. Founded in 2024 by a multidisciplinary team of oncologists, AI researchers, and healthcare innovators, we’re…",
       "posted_date": 1786977019,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4573,7 +3005,7 @@ window.JOB_DATA = {
       "excerpt": "About Us: Nucs AI is an innovative MedTech startup, transforming the clinical management of prostate cancer through cutting-edge AI-powered software solutions. Our mission is to revolutionize healthcare by delivering…",
       "posted_date": 1786977019,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4591,7 +3023,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben App-Entwicklung ist deine Leidenschaft und du bist absolute:r Flutter-Profi? Unterstütze unser Team bei der Entwicklung innovativer, plattformübergreifender mobiler Anwendungen. Als Software Engineer bei…",
       "posted_date": 1786977018,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Android",
         "Frontend"
@@ -4610,7 +3042,7 @@ window.JOB_DATA = {
       "excerpt": "Deine Aufgaben Bist du ein passionierter Android-Engineer und möchtest deine Erfahrung in einem modernen Software-Unternehmen einbringen? Bewirb dich jetzt und treibe mit uns die Digitalisierung an Schulen mit unserer…",
       "posted_date": 1786977018,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Android"
       ]
@@ -4625,10 +3057,10 @@ window.JOB_DATA = {
       "source": "Arbeitnow",
       "salary": "",
       "employment_type": "Experienced, Permanent, Full time",
-      "excerpt": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "excerpt": "Find Jobs in Germany on Arbeitnow",
       "posted_date": 1786977013,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4646,7 +3078,7 @@ window.JOB_DATA = {
       "excerpt": "Great social content feels local, relevant and made for the platform - not simply adapted for it. For our Spanish audience, that means spotting the right trends, turning ideas into content and knowing what makes people…",
       "posted_date": 1786977007,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4664,25 +3096,7 @@ window.JOB_DATA = {
       "excerpt": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Wirtschaftsinformatiker/in - Vollzeit (m/w/d) für den Bereich Business-Development in Bielefeld. Was macht Pflegekraft.de genau? Zu unseren Kunden gehören Unternehmen mit…",
       "posted_date": 1786977004,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:specialised-account-executive-frankfurt-munich-nuremberg-stuttgart-cologne-227802",
-      "title": "Specialised Account Executive (m/f/d)",
-      "company": "Mendix",
-      "location": "Frankfurt | Munich |  Nuremberg | Stuttgart | Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/mendix/specialised-account-executive-frankfurt-munich-nuremberg-stuttgart-cologne-227802",
-      "tags": "Sales Full-time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full-time",
-      "excerpt": "Company Overview Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space…",
-      "posted_date": 1786976733,
-      "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4700,7 +3114,7 @@ window.JOB_DATA = {
       "excerpt": "Fire, Health &amp; Safety Consultant - Contractor/Associate Ark Workplace Risk | Competitive Day Rate&nbsp; &nbsp; At Ark Workplace Risk, we empower our clients to confidently manage risk, compliance, and safety through…",
       "posted_date": 1786977925,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4718,7 +3132,7 @@ window.JOB_DATA = {
       "excerpt": "Fire, Health &amp; Safety Consultant - Contractor/Associate Ark Workplace Risk | Competitive Day Rate &nbsp; At Ark Workplace Risk, we empower our clients to confidently manage risk, compliance, and safety through a…",
       "posted_date": 1786977925,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4736,7 +3150,7 @@ window.JOB_DATA = {
       "excerpt": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with ambitious, motivated people? And are you curious or…",
       "posted_date": 1786977925,
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4754,7 +3168,7 @@ window.JOB_DATA = {
       "excerpt": "About Us We are Playbook, a leading creator platform for fitness, health, and wellness. Our mission is to help fitness creators build sustainable businesses, while enabling hundreds of thousands of users to live…",
       "posted_date": "2026-08-17T13:03:33+00:00",
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4772,7 +3186,7 @@ window.JOB_DATA = {
       "excerpt": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate…",
       "posted_date": "2026-08-17T13:03:29+00:00",
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4790,7 +3204,7 @@ window.JOB_DATA = {
       "excerpt": "About the Role Social media is the highest-leverage item we can do behind our top talent. We need a Social Media Lead who lives and breathes organic content strategy, knows every algorithm update the day it drops, and…",
       "posted_date": "2026-08-17T13:03:27+00:00",
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4808,7 +3222,7 @@ window.JOB_DATA = {
       "excerpt": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital…",
       "posted_date": "2026-08-17T13:03:25+00:00",
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4826,7 +3240,7 @@ window.JOB_DATA = {
       "excerpt": "About the Role We're building out a dedicated sales function at Playbook and need a Sales Lead to own it. This person runs our creator acquisition pipeline end-to-end — from sourcing leads to closing deals — and also…",
       "posted_date": "2026-08-17T13:03:22+00:00",
       "first_seen": "2026-08-17T16:33:19.376502+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4844,7 +3258,7 @@ window.JOB_DATA = {
       "excerpt": "Plataforma Nexus Nexus: tu CRM y panel de control para clientes, ventas y cobros El backoffice inteligente para customer success y CRM. Deja de operar entre planillas, WhatsApp y correos sueltos. Agendar demo por…",
       "posted_date": "2026-08-16T15:05:51+00:00",
       "first_seen": "2026-08-17T15:29:56.239959+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4862,7 +3276,7 @@ window.JOB_DATA = {
       "excerpt": "Job Description and 4+ years in Zendesk. Expertise in Zendesk Suite, APIs, integrations, ZAF, Sunshine, SSO, and enterprise architecture. Required Skills ['Zero-Based Costing'] Additional Information Use public JD while…",
       "posted_date": "2026-08-14T12:06:14+00:00",
       "first_seen": "2026-08-17T15:29:56.239959+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4880,7 +3294,7 @@ window.JOB_DATA = {
       "excerpt": "The DrillOps Field Deployment Lead is comfortable in the rig environment and has advanced knowledge and access to the IT infrastructure at the wellsite. The DrillOps Field Deployment Lead is essentially responsible for…",
       "posted_date": "2026-08-12T22:34:19+00:00",
       "first_seen": "2026-08-17T15:29:56.239959+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -4898,9 +3312,27 @@ window.JOB_DATA = {
       "excerpt": "Job description: Mandatory Skills: TOPS Crew . Â Experience: &gt;10 YEARS . Â Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To…",
       "posted_date": "2026-08-12T00:16:52+00:00",
       "first_seen": "2026-08-17T15:29:56.239959+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:SAP Backend Developer",
+      "title": "SAP Backend Developer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "SAP-ABAP-Developer SAP-Backend-Developer SAP-S-4HANA-Developer Backend-Engineer Sap-Developer SAP-Software-Developer SAP-ERP-Developer Senior-SAP-Developer SAP-Application-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $150k",
+      "employment_type": "Full Time",
+      "excerpt": "SAP Backend Developer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T15:29:56.239959+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
       ]
     },
     {
@@ -4916,7 +3348,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: We are seeking an AI Engineer to develop AI-first applications and integrate custom models and infrastructure into an existing e-commerce platform. The role focuses on building agent-led product…",
       "posted_date": "Mon, 17 Aug 2026 14:10:09 +0000",
       "first_seen": "2026-08-17T14:33:11.457541+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4934,7 +3366,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from…",
       "posted_date": "Mon, 17 Aug 2026 13:57:14 +0000",
       "first_seen": "2026-08-17T14:33:11.457541+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4952,7 +3384,7 @@ window.JOB_DATA = {
       "excerpt": "Join Our Team as a Barista â Brew Up a Great Career with Us! The Role: This isnât just another job â itâs your chance to kickstart a career in a brand that values growth, development, and promoting from within.…",
       "posted_date": "2026-08-15T00:58:56+00:00",
       "first_seen": "2026-08-17T14:33:11.457541+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4967,10 +3399,10 @@ window.JOB_DATA = {
       "source": "RemoteOK",
       "salary": "",
       "employment_type": "",
-      "excerpt": "- Please mention the word **SPELLBINDING** and tag RNC4yNDYuMTM1LjU= when applying to show you read the job post completely (#RNC4yNDYuMTM1LjU=). This is a beta feature to avoid spam applicants. Companies can search…",
+      "excerpt": "- Please mention the word **SPELLBINDING** and tag RMTcyLjE3MS4xMDcuODU= when applying to show you read the job post completely (#RMTcyLjE3MS4xMDcuODU=). This is a beta feature to avoid spam applicants. Companies can…",
       "posted_date": "2026-08-14T12:54:30+00:00",
       "first_seen": "2026-08-17T14:33:11.457541+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -4988,7 +3420,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;By bringing together next-gen technology and the finest live data available, Genius…",
       "posted_date": 1786971326,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5006,7 +3438,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -5024,7 +3456,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -5042,7 +3474,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -5060,7 +3492,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5078,7 +3510,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a CLT contract for a…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5096,7 +3528,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5114,7 +3546,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5132,7 +3564,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5150,7 +3582,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5168,7 +3600,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5186,7 +3618,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5204,7 +3636,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5222,7 +3654,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5240,7 +3672,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5258,7 +3690,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5276,7 +3708,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a&amp;nbsp;&lt;strong&gt;Full-Time&lt;/strong&gt;…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5294,7 +3726,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40…",
       "posted_date": 1786971304,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5312,7 +3744,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;strong&gt;About ApotheCom&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ApotheCom is an exciting leader in the field of medical communications. We have been drawn together from several backgrounds, including the…",
       "posted_date": 1786970479,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5330,7 +3762,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h1&gt;Senior Account Manager – Medical Affairs&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; London /Hybrid&lt;/p&gt; &lt;p&gt;Are you an experienced Medical Communications professional looking to take…",
       "posted_date": 1786970479,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5348,7 +3780,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h1&gt;Senior Account Executive – Medical Communications&lt;/h1&gt; &lt;h1&gt;&amp;nbsp;&lt;/h1&gt; &lt;h3&gt;Women&#39;s Health | Medical Education&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; London /…",
       "posted_date": 1786970479,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5366,7 +3798,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;strong&gt;About ApotheCom&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ApotheCom is an exciting leader in the field of medical communications. Drawn together from several backgrounds including the pharmaceutical…",
       "posted_date": 1786970479,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5384,7 +3816,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;strong&gt;Account Manager/Senior Account Manager – Medical Communications&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;London/Manchester/Hybrid/Remote(UK)&lt;/p&gt; &lt;p&gt;At &lt;strong&gt;Inizio…",
       "posted_date": 1786970479,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5402,7 +3834,7 @@ window.JOB_DATA = {
       "excerpt": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses…",
       "posted_date": 1786970439,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5420,7 +3852,7 @@ window.JOB_DATA = {
       "excerpt": "📍 London Office (Aldgate East, E1) | Hybrid - 3 days in the office, 2 days remote (or office if you prefer!) The opportunity Goodlord is on a mission to be the gold standard platform for renting, and we’re searching for…",
       "posted_date": 1786970436,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5438,7 +3870,7 @@ window.JOB_DATA = {
       "excerpt": "Location: Fully remote in Europe Working Hours: Mon - Fri, 9AM - 6PM CET About Nivoda 🚀 Nivoda is a rapidly scaling global B2B diamond and gemstone marketplace connecting jewellery retailers with competitive,…",
       "posted_date": 1786970425,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5456,7 +3888,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h2&gt;Opportunity&lt;/h2&gt; &lt;p&gt;The Senior Applications Developer and Data Specialist will join Brunswick’s ICT team within the Business Applications function, reporting to the Group Head of Business…",
       "posted_date": 1786970397,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5474,7 +3906,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h2&gt;Opportunity&lt;/h2&gt; &lt;p&gt;The Security Engineer will join Brunswick&#39;s Information Security team and play a key role in supporting the firm&#39;s secure adoption of AI and emerging…",
       "posted_date": 1786970397,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5492,7 +3924,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h2&gt;Opportunity&lt;/h2&gt; &lt;p&gt;Account Directors produce high quality advisory documents demonstrating a deep understanding of clients and issues. You will be regularly providing advice and analysis to…",
       "posted_date": 1786970397,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5510,7 +3942,7 @@ window.JOB_DATA = {
       "excerpt": "Senior AV Technician 📍 Central London | 💼 Permanent, Full-Time | 💰 £42,000 - £46,000 + Bonus &amp; Benefits Join a Prestigious Central London Venue We are recruiting for a Senior AV Technician to join the growing onsite…",
       "posted_date": 1786969807,
       "first_seen": "2026-08-17T13:42:27.642662+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5528,7 +3960,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around…",
       "posted_date": "Mon, 17 Aug 2026 11:51:08 +0000",
       "first_seen": "2026-08-17T12:53:57.203349+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5546,7 +3978,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Minneapolis, MN URL: http://collaboration.ai Who We Are Collaboration.Ai is a mission-focused, AI-powered software and services company based in Minnesota, with employees, partners, and customers around…",
       "posted_date": "Mon, 17 Aug 2026 11:57:38 +0000",
       "first_seen": "2026-08-17T12:53:57.203349+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5564,7 +3996,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked…",
       "posted_date": "2026-08-17T07:17:21-04:00",
       "first_seen": "2026-08-17T11:30:59.201189+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5582,7 +4014,1472 @@ window.JOB_DATA = {
       "excerpt": "Numeris is Canadaâs most trusted and authoritative source for broadcast measurement and consumer behaviour data. As well, the industry leading intelligence provider to broadcasters, advertisers, and agencies. We have…",
       "posted_date": "2026-08-16T08:00:03+00:00",
       "first_seen": "2026-08-17T08:50:11.208312+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:sutherland:HR Payroll Specialist - German payroll experience required",
+      "title": "HR Payroll Specialist - German payroll experience required",
+      "company": "Sutherland",
+      "location": "Bulgaria",
+      "url": "https://himalayas.app/jobs/sutherland",
+      "tags": "Payroll-Specialist German-Payroll HR-Payroll Payroll-Administration European-Payrolls German-Payroll-Specialist HR-Payroll-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "The Payroll Specialist manages pre-payroll tasks and ensures full compliance with European labor regulations.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T07:05:20.867633+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:scope3:Senior Platform Software Engineer",
+      "title": "Senior Platform Software Engineer",
+      "company": "Scope3",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/scope3",
+      "tags": "Platform-Engineering Software-Engineer Developer-Experience DevOps Site-Reliability-Engineering Senior-Platform-Engineer Senior-Platform-Engineering Software-Platform-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$150k – $190k",
+      "employment_type": "Full Time",
+      "excerpt": "About Scope3Scope3 operates the Interchange for agent-to-agent advertising — the place where brands and their agents discover, negotiate, and transact across every advertising surface that matters: social, CTV, audio,…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T07:05:20.867633+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:genuine-parts-company:Autotech Training Content Developer",
+      "title": "Autotech Training Content Developer",
+      "company": "Genuine Parts Company",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/genuine-parts-company",
+      "tags": "Training-Content-Development Instructional-Design Curriculum-Development Training-program-development Learning-and-Development Automotive-Instructional-Designer Training-Content-Developer Automotive-Training-Specialist Learning-Content-Developer Technical-Content-Developer ELearning-Content-Developer Training-Content-Designer Training-Content-Specialist Content-Developer Developer Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Position Mission: This position is responsible for development of quality, effective training content for wholesale customers (AutoCare, Major Accounts, Independents).",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:codurance:Senior Full-Stack Engineer (React) - Brazil",
+      "title": "Senior Full-Stack Engineer (React) - Brazil",
+      "company": "Codurance",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/codurance",
+      "tags": "Fullstack-Development Frontend-Development Software-Engineer Web-Development Backend-Development Senior-Full-Stack-Engineer-(React-Node.Js) Desenvolvedor-Senior-Full-Stack Senior-Full-Stack-Developer-(React-Node.Js) Senior-Frontend-Full-Stack-Engineer Full-Stack-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We are seeking a highly skilled and motivated Senior Software Engineer (React) who shares our values of pragmatism, professionalism, and transparency, and who is eager to work in forward-thinking, collaborative teams.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Frontend",
+        "Backend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:virtual-coworker:Content & Marketing Assistant  for Virtual Coworker (Home Based Part Time)",
+      "title": "Content & Marketing Assistant  for Virtual Coworker (Home Based Part Time)",
+      "company": "Virtual Coworker",
+      "location": "Australia",
+      "url": "https://himalayas.app/jobs/virtual-coworker",
+      "tags": "Content-Marketing Marketing-Assistant Digital-Marketing Email-Marketing Social-Media-Marketing Marketing-and-Content-Assistant Remote-Marketing-Associate Content-Marketing-Associate Remote-Content-Writer Part-Time-Content-Specialist Content-Marketing-Coordinator Marketing-Virtual-Assistant Marketing-Content-Coordinator Content-Creator Entry-level Part Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Part Time",
+      "excerpt": "Category: Recruitment Location: Sydney New South Wales Australia Blog & Content Support - US/AU/PH • Upload and format blog articles on the website (AU & US audiences) • Ensure blogs are properly structured with…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:sophos:Senior Channel Account Executive MSP",
+      "title": "Senior Channel Account Executive MSP",
+      "company": "Sophos",
+      "location": "United Kingdom",
+      "url": "https://himalayas.app/jobs/sophos",
+      "tags": "Channel-Sales Partner-Sales MSP-Sales Enterprise-Sales Account-Management Channel-Account-Executive Senior-Channel-Sales-Manager Senior-Channel-Manager Channel-Account-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About UsSophos is a cybersecurity leader defending 600,000 organizations globally with an AI-driven platform and expert-led services.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:netshake-gmbh:Setter (w/m/d) Remote auch aus dem Ausland",
+      "title": "Setter (w/m/d) Remote auch aus dem Ausland",
+      "company": "NETSHAKE GmbH",
+      "location": "Germany",
+      "url": "https://himalayas.app/jobs/netshake-gmbh",
+      "tags": "Telesales Sales-Development Business-Development Lead-Generation E-Commerce-Sales Setter-Out Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "EUR 2k – EUR 16k",
+      "employment_type": "Contractor",
+      "excerpt": "Du liebst Vertrieb, bist ein Kommunikationstalent und willst Großes erreichen?",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:fcamara:Desenvolvedor Backend Kotlin - Sênior",
+      "title": "Desenvolvedor Backend Kotlin - Sênior",
+      "company": "FCamara",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/fcamara",
+      "tags": "Backend-Development Kotlin Java-Development Software-Engineer API-Development Kotlin-Backend-Developer Senior-Backend-Engineer-(Java-Kotlin) Senior-Kotlin-Developer Senior-Java-Kotlin-Developer Desenvolvedor-Back-End Senior-Java-Backend-Developer Senior-Backend-Development Senior-Java-Backend-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "A FCamara está em busca de um Desenvolvedor Backend Kotlin - Sênior para atuar em parceria com o melhor banco digital do Brasil, eleito por voto popular na 4º edição do prêmio CanalTech.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:inetum:SharePoint / Microsoft 365 Consultant",
+      "title": "SharePoint / Microsoft 365 Consultant",
+      "company": "Inetum",
+      "location": "Portugal",
+      "url": "https://himalayas.app/jobs/inetum",
+      "tags": "SharePoint-Administration Microsoft-365-Administration IT-Consulting Technical-Support SharePoint-Development Sharepoint-Consultant Microsoft-365-Consultant SharePoint-Online-Consultant SharePoint-Consulting Office-365-Consultant SharePoint-Specialist M365-Consultant M365-Solutions-Consultant Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We are seeking a SharePoint / Microsoft 365 Consultant to provide Level 3 support, administration, and maintenance of enterprise collaboration platforms within an Inetum project environment.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:AI Interaction Designer",
+      "title": "AI Interaction Designer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "AI-Interaction-Engineer AI-Engineer LLM-Application-Developer Prompt-Engineer Machine-Learning-Engineer AI-Interaction-Designer AI-Interaction-Design AI-Experience-Designer AI-UX-UI-Designer AI-Interface-Design AI-Designer AI-UX-Design AI-Experience-Design AI-Product-Designer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$140k – $155k",
+      "employment_type": "Full Time",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:nachhilfeunterricht:Spanisch-Tutor (m/w/d) gesucht – Flexibel & Homeoffice möglich",
+      "title": "Spanisch-Tutor (m/w/d) gesucht – Flexibel & Homeoffice möglich",
+      "company": "Nachhilfeunterricht",
+      "location": "Austria",
+      "url": "https://himalayas.app/jobs/nachhilfeunterricht",
+      "tags": "Spanish-Tutor Language-Instructor Language-Teaching Tutoring Online-Teaching Remote-Spanish-Teacher Entry-Level-Remote-Language-Tutor Remote-Language-Tutor Online-Nachhilfelehrer Online-Spanish-Tutor Education Entry-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Wir sind auf der Suche nach innovativen und energiegeladenen Tutor:innen in Spanisch.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:z1-tech:Vice President, App Partnerships and Growth",
+      "title": "Vice President, App Partnerships and Growth",
+      "company": "Z1 Tech",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/z1-tech",
+      "tags": "App-Partnerships Mobile-AdTech Programmatic-Advertising Business-Development Demand-Partnerships Vice-President-Of-Partnerships VP-Of-Partnerships Vice-President-Partnership-Sales Vice-President-Strategic-Partnerships Vice-President-Of-Marketing-Partnerships Senior-Vice-President-Of-Growth VP-Strategic-Partnerships Associate-Vice-President-Partnership-Development Associate-Vice-President-Strategic-Partnerships Executive Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "The OpportunityWe are seeking an ambitious, deeply networked Vice President, App Partnerships and Growth to lead both our mobile supply acquisition and strategic demand integration efforts.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:m9-solutions:Director, Integration & Data Migration",
+      "title": "Director, Integration & Data Migration",
+      "company": "M9 Solutions",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/m9-solutions",
+      "tags": "Data-Migration Integration-Architecture Program-Management IT-leadership Federal-IT-Services Data-Integration-Lead Data-Migration-Lead Director-Of-Integration Director Full Time",
+      "source": "Himalayas",
+      "salary": "$60k – $180k",
+      "employment_type": "Full Time",
+      "excerpt": "M9 Solutions is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right people, skills, clearance levels, and technologies to help organizations that desire improved…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bjak:Lead Engineer (Taiwan)",
+      "title": "Lead Engineer (Taiwan)",
+      "company": "Bjak",
+      "location": "Taiwan",
+      "url": "https://himalayas.app/jobs/bjak",
+      "tags": "Lead-Engineer Senior-Lead-Engineer Engineering-Lead Senior-Lead-Engineering Senior-Engineering-Lead Team-Lead-Engineering Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:ox-security:Marketing Operations Manager",
+      "title": "Marketing Operations Manager",
+      "company": "OX Security",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/ox-security",
+      "tags": "Marketing-Operations Revenue-Operations B2B-SaaS-Marketing Martech Demand-Generation Marketing-Operations-Manager Digital-Marketing-Operations-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "DescriptionOX Security secures the AI-driven SDLC from prompt to production.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:xsolla:Head of Underwriting – Credit Fund",
+      "title": "Head of Underwriting – Credit Fund",
+      "company": "Xsolla",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/xsolla",
+      "tags": "Head-Of-Underwriting Credit-Fund-Management Private-Credit Credit-Analysis Credit-Committee Director-Of-Credit-Risk-And-Underwriting Head-Of-Credit Underwriting-Director Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "ABOUT THE OPPORTUNITYXsolla is seeking a Head of Underwriting to serve as the fund's senior credit authority alongside the Chief Credit Officer.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:stantec:Senior Oracle APEX & Database Administrator",
+      "title": "Senior Oracle APEX & Database Administrator",
+      "company": "Stantec",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/stantec",
+      "tags": "Database-Administration Oracle-Database-Administration Oracle-Apex-Development Senior-Database-Administrator DBA Senior-Oracle-DBA Senior-Database-Administration Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Position SummaryWe are seeking a Senior Oracle APEX and Database Administrator to support and enhance enterprise database platforms and Oracle APEX application environments.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:integrated-specialty-coverages-llc:Loss Control Consultant  (Workers Comp)",
+      "title": "Loss Control Consultant  (Workers Comp)",
+      "company": "Integrated Specialty Coverages, LLC",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/integrated-specialty-coverages-llc",
+      "tags": "Loss-Control Risk-Management Workers’-Compensation Safety-Consulting Insurance-Loss-Control Loss-Control-Consulting Workers-Compensation-Consultant Loss-Control-Specialist Workers-Compensation-Consulting Loss-Control-Auditor Workers-Comp-Specialist Workers'-Compensation-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$84k – $130k",
+      "employment_type": "Full Time",
+      "excerpt": "About Integrated Specialty CoveragesIntegrated Specialty Coverages, LLC (ISC) is a growth stage technology and data-driven commercial MGA and insurance wholesaler leading innovation in the market.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:foxelli-group:Customer Support & Sales Agent ( Sewing Specialist)| E-commerce | Remote",
+      "title": "Customer Support & Sales Agent ( Sewing Specialist)| E-commerce | Remote",
+      "company": "Foxelli Group ",
+      "location": "Albania, Andorra, Armenia, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Estonia, Georgia, Greece, Indonesia, Italy, Kosovo, Latvia, Lithuania, Malta, Moldova, North Macedonia, Philippines, Poland, Romania, Serbia, Slovakia, Slovenia, South Africa, Turkey",
+      "url": "https://himalayas.app/jobs/foxelli-group",
+      "tags": "Customer-Service-Representative-For-Online-Sales Remote-Customer-Support-Specialist E-Commerce-Support-Specialist Remote-Customer-Support-Agent ECommerce-Sales-Specialist E-Commerce-Support-Associate Remote-Sales-Support-Representative Sales-Agent Customer-Support Sales Customer-Service Entry-level Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "EUR 800 – EUR 800",
+      "employment_type": "Full Time",
+      "excerpt": "Please be informed that Foxelli Group hires exclusively in-house and doesn't work with any external recruitment agencies.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Cloud Connectivity Engineer",
+      "title": "Cloud Connectivity Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Cloud-Networking Cloud-Connectivity-Engineer Network-Engineer Cloud-Infrastructure-Engineer Cloud-Engineer Cloud-Networking-Engineer Cloud-Network-Engineer Cloud-Infrastructure-Network-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $150k",
+      "employment_type": "Full Time",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United State This is a fantastic opportunity to join an established…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:ioet:Senior Python Backend Engineer",
+      "title": "Senior Python Backend Engineer",
+      "company": "ioet",
+      "location": "Ecuador",
+      "url": "https://himalayas.app/jobs/ioet",
+      "tags": "Python-Backend-Engineer Backend-Development AWS-Serverless Python-Development Software-Engineer Senior-Python-Backend-Developer Senior-Backend-Python-Developer Senior-Python-Engineer Senior-Python-Software-Engineer Python-Backend-Developer Senior-Backend-Engineering Python-Developer Senior-AI-Backend-Engineer Senior-Backend-Development Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "At ioet, a leading software company with a talented team across LATAM, we provide Software Engineering as a service to clients worldwide.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:risk-strategies:Aggregate Claims Auditor",
+      "title": "Aggregate Claims Auditor",
+      "company": "Risk Strategies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/risk-strategies",
+      "tags": "Claims-Auditing Insurance-Claims-Processing Stop-Loss-Claims Healthcare-Claims Insurance-Auditing Claims-Auditor Aggregate-Claims Claims-Audit-Analyst Claims-Audit-Specialist Claims-Quality-Auditor Claims-Audit Healthcare-Claims-Auditor Clinical-Claims-Auditor Claims-Edit-Auditor Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$52k – $90k",
+      "employment_type": "Full Time",
+      "excerpt": "Your Impact: • Analyze aggregate stop loss high level review and aggregate accommodation claims.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:tanium:IT Operations Engineer",
+      "title": "IT Operations Engineer",
+      "company": "Tanium",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/tanium",
+      "tags": "IT-Operations Infrastructure-Engineering Cloud-Infrastructure Network-Administration IT-Operations-Engineer Operations-Engineer IT-Operations-Engineering IT-Operations-Analyst Network-Operations-Engineer IT-Operations-Technician Systems-Operations-Engineer Operations Systems-Administrator Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $155k",
+      "employment_type": "Full Time",
+      "excerpt": "The BasicsTheOperationsEngineerisresponsibleforprovisioning,installation/configuration,operation,andmaintenanceof systems hardware and software and related infrastructure with a particular focus on support for R&D…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:qohash:Senior Full Stack Developer, Cyber",
+      "title": "Senior Full Stack Developer, Cyber",
+      "company": "Qohash",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/qohash",
+      "tags": "Engineering Fullstack-Development Software-Development Backend-Development Frontend-Development Cybersecurity Senior-Cloud-Security-Fullstack-Developer Senior-Full-Stack-Development Senior-Fullstack-Developer Full-Stack-Engineer Senior-Full-Stack-Developer-(React-Node.Js) Senior-Fullstack-Web-Application-Developer Senior-Full-Stack-Developer-(JavaScript-Python) Senior-Full-Stack-Engineering Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Qohash is building the zero copy data security control layer, enterprises need to adopt AI safely.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Frontend",
+        "Backend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:spieldenner-financial-group:Sales (WFH | US Only)",
+      "title": "Sales (WFH | US Only)",
+      "company": "Spieldenner Financial Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/spieldenner-financial-group",
+      "tags": "Insurance-Sales Mortgage-Protection-Sales Financial-Services-Sales Sales Outside-Sales Work-From-Home-Sales Remote-Sales-Jobs Remote-Sales-Representative Remote-Sales-Associate Remote-Sales-Agent Remote-Sales-Specialist Remote-Inside-Sales Entry-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Spieldenner Financial Group is looking for our next business partner to help us revolutionize the Mortgage Protection Industry!",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:lifelancer:Clinical Data Manager",
+      "title": "Clinical Data Manager",
+      "company": "Lifelancer",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/lifelancer",
+      "tags": "Clinical-Data-Management Clinical-Research Clinical-Trials Clinical-Operations Data-Management Senior-Clinical-Data-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$68k – $171k",
+      "employment_type": "Full Time",
+      "excerpt": "Job Title: Clinical Data Manager Job Location: Durham, North Carolina, United States of America Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Job Summary The Clinical Data Manager performs…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:lifelancer:Clinical Team Manager/Sr. (CTM) - Neuro",
+      "title": "Clinical Team Manager/Sr. (CTM) - Neuro",
+      "company": "Lifelancer",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/lifelancer",
+      "tags": "Clinical-Trial-Manager Clinical-Operations Clinical-Research Clinical-Study-Manager Neurology-Clinical-Research Clinical-Team-Lead Clinical-Team-Management Neurology-Program-Manager Clinical-Operations-Manager Senior Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Job Title: Clinical Team Manager/Sr. (CTM) - Neuro Job Location: Remote, North Carolina, USA Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Work ScheduleStandard (Mon-Fri)Environmental…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:northbeam:Senior Software Engineer, Python",
+      "title": "Senior Software Engineer, Python",
+      "company": "Northbeam",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/northbeam",
+      "tags": "Software-Engineer Backend-Engineering Python-Engineering Full-Stack-Engineering Data-Engineering Senior-Python-Software-Engineer Senior-Python-Engineer Python-Developer Senior-Python-Backend-Developer Senior-Backend-Python-Developer Python-Software-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$170k – $200k",
+      "employment_type": "Full Time",
+      "excerpt": "About NorthbeamNorthbeam is building the world's most advanced marketing intelligence platform, providing top eCommerce brands a unified view of their business data through powerful attribution modeling and customizable…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:pavago:Bilingual Account Executive",
+      "title": "Bilingual Account Executive",
+      "company": "Pavago",
+      "location": "Mexico",
+      "url": "https://himalayas.app/jobs/pavago",
+      "tags": "Account-Executive B2B-Sales Sales International-Sales Relocation-Services Bilingual-Account-Representative Bilingual-Sales-Representative Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Bilingual Account ExecutivePosition Type: Full-Time | Remote Working Hours: U.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:agilent-technologies:Consumable Sales",
+      "title": "Consumable Sales",
+      "company": "Agilent Technologies",
+      "location": "China",
+      "url": "https://himalayas.app/jobs/agilent-technologies",
+      "tags": "Дизайнер-продукту B2B Consumables-Sales Supplies-Sales Supply-Sales Laboratory-Consumables-Sales Product-Sales Consumer-Products-Sales Ingredients-Sales Materials-Sales Consumer-Goods-Sales Sales Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Job Description• 负责指定区域仪器耗材和消耗品，如色谱柱、样品制备和耗材等核心产品的销售工作。 • 积极响应客户需求，执行销售计划，推动业务增长。• 有效开拓目标业务的新客户，深入渗透关键客户群体，识别潜在商机。 • 制定明确的销售目标，并寻找方法完成销售任务。Qualifications• 化学、生物化学或相关专业本科及以上学历。 • 3年及以上GC、LC使用经验，或分析仪器耗材、色谱柱和仪器销售经验。•…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:baldwin-risk-partners-llc:Senior Business Intelligence Analyst - MSI",
+      "title": "Senior Business Intelligence Analyst - MSI",
+      "company": "Baldwin Risk Partners, LLC",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/baldwin-risk-partners-llc",
+      "tags": "Business-Intelligence-Analyst Power-BI-Developer Data-Analyst Senior-BI-Analyst Senior-Business-Intelligence Senior-Business-Information-Analyst Senior-BI-And-Analytics-Analyst Senior-BI-and-Data-Analyst Senior-Business-Intelligence-Developer Business-Intelligence-Reporting-Analyst Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why MSI? We thrive on solving challenges. As a leading MGA, MSI combines deep underwriting expertise with insurer and reinsurer risk capacity to create specialized insurance solutions that empower distribution partners…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:amerisave-mortgage-corp:Mortgage Loan Closer",
+      "title": "Mortgage Loan Closer",
+      "company": "AmeriSave Mortgage Corp.",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/amerisave-mortgage-corp",
+      "tags": "Closing Mortgage-Processing Loan-Operations Mortgage-Lending Loan-Closer Mortgage-Loan-Closer Mortgage-Closer Residential-Mortgage-Closer Mortgage-Loan-Closing-Specialist Mortgage-Closing-Coordinator Mortgage-Loan-Closing Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$20 – $29",
+      "employment_type": "Full Time",
+      "excerpt": "AmeriSave Mortgage has set the standard in online mortgage lending with over $130 billion in funded loan volume.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:ais-auto-insurance-specialists:Insurance Customer Relations Specialist - REMOTE",
+      "title": "Insurance Customer Relations Specialist - REMOTE",
+      "company": "AIS (Auto Insurance Specialists)",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/ais-auto-insurance-specialists",
+      "tags": "Insurance-Client-Relations Customer-Service Insurance-Sales Property-and-Casualty-Insurance Remote-Insurance-Customer-Service-Representative Insurance-Customer-Service-Representative Remote-Customer-Service-Representative Remote-Customer-Engagement-Specialist Entry-level Other",
+      "source": "Himalayas",
+      "salary": "$41k – $71k",
+      "employment_type": "Other",
+      "excerpt": "OverviewInsurance Customer Relations Specialist - REMOTEAIS InsuranceAmazing OpportunityExcellent customer service career opportunity!",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:dept:Principal, Art Direction - GenAI",
+      "title": "Principal, Art Direction - GenAI",
+      "company": "DEPT®",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/dept",
+      "tags": "Art-Direction Generative-AI Creative-Technology AI-Image-Generation Visual-Design Senior-GenAI-Art-Director GenAI-Art-Director Senior-GenAI-Creative-Director AI-Creative-Lead AI-Art-Director AI-Creative-Director AI-Art-Direction Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$155k – $200k",
+      "employment_type": "Full Time",
+      "excerpt": "WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:manay-cpa-inc:Accounting Associate (Remote, USA-Based)",
+      "title": "Accounting Associate (Remote, USA-Based)",
+      "company": "Manay CPA Inc.",
+      "location": "Turkey",
+      "url": "https://himalayas.app/jobs/manay-cpa-inc",
+      "tags": "Accounting-Operations Accounting Tax-Accounting Bookkeeping Financial-Reporting Tax-Preparation Payroll US-Tax Corporate-Tax Individual-Tax Accounting-Associate Remote-Junior-Accountant Remote-Accounting-Coordinator Remote-Accounting-Assistant Entry-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Are you ready to expand your expertise in U. S. accounting and tax practices while working with a diverse client base across multiple industries?",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:golden-steps-aba:QA Board Certified Behavior Analyst (BCBA)",
+      "title": "QA Board Certified Behavior Analyst (BCBA)",
+      "company": "Golden Steps ABA",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/golden-steps-aba",
+      "tags": "Behavior-Analyst ABA-Therapy Clinical-Quality-Assurance Healthcare BCBA Quality-Assurance Clinical-Operations Board-Certified-Behavior-Analyst-(BCBA) Board-Certified-Behavior-Analyst Behavior-Analyst-(BCBA) ABA-Quality-Assurance Behavioral-Health-QA Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "OverviewWho we are: Golden Steps ABA is on a mission to change lives—one step at a time.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:mercor:Network Support Specialist - Fully Remote | Upto $70/hr",
+      "title": "Network Support Specialist - Fully Remote | Upto $70/hr",
+      "company": "mercor",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/mercor",
+      "tags": "Network-Support-Specialist Network-Engineer Technical-Support-Engineer Tier-3-Support Network-Operations Network-Support-Technician Network-Support-Engineer Networking-IT-Support-Engineer Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "$50 – $70",
+      "employment_type": "Contractor",
+      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:ochsner-health:Digital Medicine-  Services Coordinator-  Remote",
+      "title": "Digital Medicine-  Services Coordinator-  Remote",
+      "company": "Ochsner Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/ochsner-health",
+      "tags": "Digital-Medicine Health-Services-Coordinator Patient-Navigation Healthcare-Administration Healthcare-Customer-Service Digital-Health-Coordinator Telemedicine-Coordinator Remote-Health-Services-Coordinator Remote-Patient-Care-Coordinator Remote-Patient-Coordinator Remote-Care-Coordinator Remote-Healthcare-Coordinator Telehealth-Coordinator Entry-level Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We've made a lot of progress since opening the doors in 1942, but one thing has never changed - our commitment to serve, heal, lead, educate, and innovate.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:connectiverx:Sr. Manager, Data Analyst",
+      "title": "Sr. Manager, Data Analyst",
+      "company": "ConnectiveRx",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/connectiverx",
+      "tags": "Business-Intelligence Healthcare-Analytics Analytics-Leadership Data-Analysis-Management Senior-Data-Analysis-Manager Senior-Manager-Analytics Senior-Business-Analytics-Manager Data-Analytics-Manager Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$108k – $166k",
+      "employment_type": "Full Time",
+      "excerpt": "OverviewBeing on medication is tough enough. We want to make getting it the easy part.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:1komma5:Chief of Staff (m/f/d)",
+      "title": "Chief of Staff (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/1komma5",
+      "tags": "Chief-of-Staff Tech-Operations Platform-Engineering Project-Management Operations-Management Head-Of-Staff CEO-Chief-Of-Staff Executive-Chief-Of-Staff Deputy-Chief-Of-Staff Management Executive Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "1komma5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:spotify:Engineering Manager - Music",
+      "title": "Engineering Manager - Music",
+      "company": "Spotify",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/spotify",
+      "tags": "Engineering-Management Software-Engineering-Management Rights-Systems-Engineer Music-Rights-Management Technical-Leadership Engineering-Manager Engineering-Management-Jobs Manager Full Time",
+      "source": "Himalayas",
+      "salary": "$164k – $235k",
+      "employment_type": "Full Time",
+      "excerpt": "The Rights Systems team is driving the technical foundations of a step-change for Spotify’s business by enabling the distribution of new forms of content across the platform.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:fico:Senior/Lead Cyber Security - Incident Response Engineer",
+      "title": "Senior/Lead Cyber Security - Incident Response Engineer",
+      "company": "FICO",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/fico",
+      "tags": "Incident-Response Cybersecurity-Engineering Security-Operations Digital-Forensics Cloud-Security Senior-Incident-Response-Analyst Lead-Security-Incident-Responder Incident-Response-Engineer Senior-Cybersecurity-Engineer Senior-Information-Security-Engineer Incident-Response-Lead Lead-Cybersecurity-Engineer Senior-Incident-Response-Consultant Lead-Information-Security-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$136k – $214k",
+      "employment_type": "Full Time",
+      "excerpt": "FICO (NYSE: FICO)is a leading global analytics software company, helping businesses in 100+ countries make better decisions.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bcd-travel:Curriculm Design & Development Spec (US, Virtual, NOAM)",
+      "title": "Curriculm Design & Development Spec (US, Virtual, NOAM)",
+      "company": "BCD Travel",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bcd-travel",
+      "tags": "Instructional-Design Curriculum-Development Learning-and-Development Corporate-Training E-Learning-Development Remote-Curriculum-Developer Remote-Curriculum-Development-Expert Online-Curriculum-Design Curriculum-Designer Distance-Learning-Curriculum-Developer Curriculum-Developer Curriculum-Design Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$65k – $75k",
+      "employment_type": "Full Time",
+      "excerpt": "Start your journey with BCD: Grow, connect, collaborate and celebrate with our global team Curriculm Design & Development Spec Full time, United States The Curriculum Design and Development Specialist creates and…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:sartorius:Field Account Manager Strategic Account-New Jersey",
+      "title": "Field Account Manager Strategic Account-New Jersey",
+      "company": "Sartorius",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/sartorius",
+      "tags": "Field-Account-Manager Strategic-Account-Manager Key-Account-Manager Life-Sciences-Sales Enterprise-Sales Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $125k",
+      "employment_type": "Full Time",
+      "excerpt": "Sartorius has a remote-based position for a Field Account Manager Strategic Account.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:healthmark-group:Customer Service Specialist - ROI",
+      "title": "Customer Service Specialist - ROI",
+      "company": "HealthMark Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/healthmark-group",
+      "tags": "Customer-Service Call-Center-Representative Medical-Records-Customer-Service Healthcare-Customer-Support Patient-Services ROI-Support-Specialist ROI-Specialist Customer-Service-Professional Customer-Contact-Specialist Customer-Specialist Customer-Support-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$16 – $18",
+      "employment_type": "Full Time",
+      "excerpt": "MISSION: The mission for this role is to provide excellent customer service to clients, patients, and requestors.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:chapters-health-system:Senior Accountant",
+      "title": "Senior Accountant",
+      "company": "Chapters Health System",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/chapters-health-system",
+      "tags": "Senior-Accountant Accounting Healthcare-Accounting Financial-Management General-Ledger-Accountant Senior-Accountant-Jobs Senior-Accounting Senior-Accountant-(In-Charge) Senior-Accounting-Jobs Senior-Accounting-Associate Senior-Staff-Accountant Senior-Associate---Accounting Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$68k – $106k",
+      "employment_type": "Full Time",
+      "excerpt": "It’s inspiring to work with a company where people truly BELIEVE in what they’re doing!",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:extreme-networks:Account Executive-Manufacturing Vertical",
+      "title": "Account Executive-Manufacturing Vertical",
+      "company": "Extreme Networks",
+      "location": "Germany",
+      "url": "https://himalayas.app/jobs/extreme-networks",
+      "tags": "Sales Account-Management Enterprise-Sales Manufacturing-Sales B2B-Sales Manufacturing-Vertical-Sales Industrial-Sales-Account-Executive Manufacturing-Sales-Representative Technical-Sales-Account-Executive Industry-Account-Manager Account-Executive Regional-Account-Executive Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "EUR 140k – EUR 160k",
+      "employment_type": "Full Time",
+      "excerpt": "Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services and support to accelerate their digital transformation efforts and deliver progress like never…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:fhi-360:STRIDES Financial Analyst III",
+      "title": "STRIDES Financial Analyst III",
+      "company": "FHI 360",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/fhi-360",
+      "tags": "Financial-Analyst Financial-Management Budget-Analysis Government-Grants-Management Finance-Operations Strategic-Finance-Analyst Strategic-Financial-Analyst Program-Finance-Analyst Senior-Finance-Analyst Senior-Financial-Planning-And-Analysis-Analyst Financial-Planning-And-Analysis-Analyst Finance Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$90k – $110k",
+      "employment_type": "Full Time",
+      "excerpt": "Job Summary:Coordinates financial/accounting operations, including overall financial monitoring and support/guidance to Country Office and project staff, to ensure the fiscal well- being of the projects.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:necsws:Senior Devops Engineer",
+      "title": "Senior Devops Engineer",
+      "company": "NECSWS",
+      "location": "India",
+      "url": "https://himalayas.app/jobs/necsws",
+      "tags": "DevOps-Engineer Site-Reliability-Engineer Cloud-Engineer AWS-Engineer Senior-DevOps Senior-DevOps-Developer Senior-Staff-DevOps-Engineer Senior-TechOps-Engineer Senior-DevOps-Platform-Engineer Senior-AWS-DevOps-Engineer Senior-DevOps-Architect Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Experience- 5-7 yrsLocation- Mumbai/Pune/Bangalore (WFH with travel on need basis) Shift timings- UK, 12-12:30pm to 9-9:30pm Notice- Only Immediate joiners.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:doit-international:Sales Development Manager - Attribute™",
+      "title": "Sales Development Manager - Attribute™",
+      "company": "DoiT International",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/doit-international",
+      "tags": "Sales-Development-Manager SDR-Management Sales-Leadership BD-Leadership Go-To-Market-Leadership Sales-Development-Team-Manager Sales-Development-Representative-Management Sales-Development-Leadership Sales-Development-Representative-Lead Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Location Our Sales Development Manager will be an integral part of our sales team.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:labcorp:Cytogenetic (FISH) Analyst - US Remote",
+      "title": "Cytogenetic (FISH) Analyst - US Remote",
+      "company": "Labcorp",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/labcorp",
+      "tags": "Cytogenetics FISH-Analysis Clinical-Laboratory-Science Medical-Technology Laboratory-Analysis Cytogenetics-Technologist Cytogenetic-Technologist Genomics-Analyst Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$25 – $45",
+      "employment_type": "Full Time",
+      "excerpt": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:scratch-financial:Sr. Fullstack Developer, Originations",
+      "title": "Sr. Fullstack Developer, Originations",
+      "company": "Scratch Financial",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/scratch-financial",
+      "tags": "Fullstack-Development Frontend-Development Backend-Development Software-Engineer Web-Development Senior-Fullstack-Developer Senior-Full-Stack-Development Full-Stack-Engineer Senior-Fullstack-Web-Application-Developer Senior-Full-Stack-Engineering ¿Senior-Fullstack-Engineering Remote-Senior-Full-Stack-Developer Senior Contractor",
+      "source": "Himalayas",
+      "salary": "$80k – $95k",
+      "employment_type": "Contractor",
+      "excerpt": "Who We AreScratch Financial (“Scratch”) is a Series C financial technology startup based in Los Angeles, California.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Frontend",
+        "Backend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:stride-inc:Product Management - Game Based Learning",
+      "title": "Product Management - Game Based Learning",
+      "company": "Stride, Inc.",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/stride-inc",
+      "tags": "Product-Management Edtech EdTech-Product-Management Game-Based-Learning Curriculum-Development Games-Product-Management Game-Product-Management Product-Management---Gaming Game-Development-Product-Management Gaming-Product-Management Product-Management-(Games) Product-Management-(Education) Mobile-Game-Product-Management Games-Product-Manager Gamification-Product-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$84k – $126k",
+      "employment_type": "Full Time",
+      "excerpt": "Job DescriptionSUMMARY: The Product Manager for Game Based Learning focuses on developing new digital learning curriculum, content, and products.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:overstory:Staff Machine Learning Engineer - Wildfire",
+      "title": "Staff Machine Learning Engineer - Wildfire",
+      "company": "Overstory",
+      "location": "Canada, United States",
+      "url": "https://himalayas.app/jobs/overstory",
+      "tags": "Staff-Machine-Learning-Engineering Machine-Learning-Engineering MLOps Geospatial-Engineering Computer-Vision Wildfire-Engineering Staff-Machine-Learning-Engineer Senior-Staff-Machine-Learning-Engineer Staff-Machine-Learning-Scientist Staff-ML-Engineer Sr.-Staff-Machine-Learning-Engineer Staff-AI-Engineer Machine-Learning-Engineer Staff-Applied-AI-Engineer Staff-AI-ML-Engineering Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:nvidia:Senior Applied Research Scientist – GPU Native Numerical Algorithms",
+      "title": "Senior Applied Research Scientist – GPU Native Numerical Algorithms",
+      "company": "NVIDIA",
+      "location": "Canada, United States",
+      "url": "https://himalayas.app/jobs/nvidia",
+      "tags": "Applied-Research-Scientist Computational-Engineering GPU-Computing-Research Numerical-Algorithms-Scientist High-Performance-Computing-Engineer Senior-AI-Research-Engineer GPU-Computing-Engineer Senior-Applied-Scientist Numerical-Methods-Scientist Senior-Research-Engineer GPU-Programming-Engineer Research-Scientist Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$192k – $356k",
+      "employment_type": "Full Time",
+      "excerpt": "NVIDIA pioneered accelerated computing. Today, we are building software, systems, and research platforms that help scientists and engineers solve problems that were once out of reach.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:foth:Engineering Project Manager – Paper & General Industrial Industry",
+      "title": "Engineering Project Manager – Paper & General Industrial Industry",
+      "company": "Foth",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/foth",
+      "tags": "Engineering-Project-Management Project-Management Capital-Projects-Management Manufacturing-Project-Management Construction-Project-Management Engineering-Project-Manager Project-Engineering-Manager Project-And-Engineering-Manager Manufacturing-Project-Manager Industrial-Electrical-Project-Manager Electrical-Engineering-Project-Manager Project-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Foth is a 100% member-owned science and engineering consulting firm headquartered in Wisconsin, with over 85 years of success.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:ERP Application Developer",
+      "title": "ERP Application Developer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "ERP-Development Workday-Developer ERP-Consultant Workday-Configuration HR-Technology-Developer ERP-Application-Developer ERP-Developer ERP-Developer-Jobs ERP-Application-Specialist ERP-Technical-Developer Lead-ERP-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$115k – $130k",
+      "employment_type": "Full Time",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Software Engineering Lead",
+      "title": "Software Engineering Lead",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Software-Engineer Software-Architecture Backend-Engineering Technical-Leadership Lead-Software-Engineering Software-Engineering-Team-Lead Software-Engineering-Leader Lead-Software-Development-Engineer Engineering-Lead Software-Development-Lead Software-Team-Lead Senior-Software-Development-Lead Senior-Engineering-Lead Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$205k – $230k",
+      "employment_type": "Full Time",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:vera-whole-health:Manager Clinical Partnerships",
+      "title": "Manager Clinical Partnerships",
+      "company": "Vera Whole Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/vera-whole-health",
+      "tags": "Clinical-Operations-Manager Healthcare-Program-Manager Clinical-Partnership-Manager Healthcare-Operations Population-Health-Manager Healthcare-Partnerships-Manager Clinical-Partnership-Management Clinical-Liaison-Manager Partnerships-Manager Clinical-Partnerships Manager Full Time",
+      "source": "Himalayas",
+      "salary": "$113k – $170k",
+      "employment_type": "Full Time",
+      "excerpt": "Job Description Summary‎ Manages a portfolio of clinical programs delivered by both internal Millennium teams and external clinical partners, each designed to connect defined patient populations with specialized…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:virginia-gov:Attorney (Remote, Hourly)",
+      "title": "Attorney (Remote, Hourly)",
+      "company": "Virginia.gov",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/virginia-gov",
+      "tags": "Law---Judiciary Attorney Legal-Services Administrative-Law Unemployment-Insurance-Law Remote-Attorney Remote-Mid-Level-Staff-Attorney Remote-Staff-Attorney-Mid-Level Remote-Lawyer Remote-Legal-Counsel Legal Mid-level Other",
+      "source": "Himalayas",
+      "salary": "$40 – $45",
+      "employment_type": "Other",
+      "excerpt": "Title: Attorney (Remote, Hourly) State Role Title: Hearing Legal Servcs Offcr II Hiring Range: $40.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:fiserv:Sr Account Manager-Indianapolis",
+      "title": "Sr Account Manager-Indianapolis",
+      "company": "Fiserv",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/fiserv",
+      "tags": "Senior-Account-Manager Account-Management Fintech-Sales Enterprise-Account-Management Senior-Account-Management Account-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Calling all innovators – find your future at Fiserv.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:gordon-rees-scully-mansukhani-llp:Construction Insurance Defense Attorneys",
+      "title": "Construction Insurance Defense Attorneys",
+      "company": "Gordon Rees Scully Mansukhani, LLP",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/gordon-rees-scully-mansukhani-llp",
+      "tags": "Insurance-Defense-Attorney Construction-Litigation-Attorney Legal-Associate Litigation-Attorney Defense-Attorney Insurance-Defense-Lawyer Insurance-Defense-Counsel Insurance-Defense-Litigation-Attorney Construction-Attorney Construction-Litigation Construction-Insurance-Specialist Insurance-Litigation-Attorney Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $140k",
+      "employment_type": "Full Time",
+      "excerpt": "OverviewGordon Rees Scully Mansukhani, a national law firm with offices in all 50 states, has immediate openings for Construction Insurance Defense Attorneys in its Louisville office.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:spin:Intern de Abastecimientos",
+      "title": "Intern de Abastecimientos",
+      "company": "Spin",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/spin",
+      "tags": "Procurement-Intern Supply-Chain-Internship Purchasing-Intern Supply-Management-Intern Internship Intern Student-Intern INTERNS Undergraduate-Intern Supply-Chain-Intern Entry-level Intern",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Intern",
+      "excerpt": "Objetivo:Contribuir con la estrategia de Spin, en sus unidades de negocio, desarrollando e implementando soluciones para optimizar procesos que conlleven una mejora en inversiones y el time to market, a través de…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:athlete-studio:Athlete Partnerships Co-op",
+      "title": "Athlete Partnerships Co-op",
+      "company": "Athlete Studio",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/athlete-studio",
+      "tags": "Sports-Marketing Digital-Marketing Athlete-Relations Ecommerce Sports Sports-Partnerships Athlete-Engagement-Specialist Performance-Partnership Entry-level Intern",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Intern",
+      "excerpt": "The Athlete Partnerships Co-op is an opportunity to gain valuable experience in the sports industry.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:zayo-group:Senior Compliance and Audit Analyst",
+      "title": "Senior Compliance and Audit Analyst",
+      "company": "Zayo Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/zayo-group",
+      "tags": "Compliance-Analyst Security-Analyst Third-Party-Risk-Management Audit-Analyst Infosec Senior-Compliance-Analyst Senior-Compliance-Auditor Senior-Audit-Analyst Compliance-and-Regulatory-Analyst Senior-Compliance-Specialist Senior-Compliance-Advisor Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$95k – $146k",
+      "employment_type": "Full Time",
+      "excerpt": "Company DescriptionZayo provides mission-critical bandwidth to the world’s most impactful companies, fueling the innovations that are transforming our society.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:never-ending-travels:Cruise & Resort Booking Specialist (Work From Home)",
+      "title": "Cruise & Resort Booking Specialist (Work From Home)",
+      "company": "Never Ending Travels",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/never-ending-travels",
+      "tags": "Travel-Agent Cruise-Specialist Vacation-Planner Remote-Travel-Agent Travel-Booking-Agent Remote-Cruise-Sales-Consultant Remote-Travel-Booking-Specialist Cruise-Travel-Coordinator Remote-Vacation-Consultant Remote-Reservations-Specialist Home-Based-Travel-Agent Remote-Travel-Consultant Cruise-Travel-Specialist Remote-Reservations-Agent Entry-level Contractor",
+      "source": "Himalayas",
+      "salary": "$30k – $75k",
+      "employment_type": "Contractor",
+      "excerpt": "We are seeking motivated, self starting individuals interested in operating independently as Remote Resort and Cruise Bookers.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:blue-cross-blue-shield-of-arizona:Medical Appeals & Grievance (MAG RN) Specialist II - Remote",
+      "title": "Medical Appeals & Grievance (MAG RN) Specialist II - Remote",
+      "company": "Blue Cross Blue Shield of Arizona",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/blue-cross-blue-shield-of-arizona",
+      "tags": "Medical-Appeals-and-Grievance-Specialist Healthcare-Appeals-RN Utilization-Management-RN Health-Insurance-Appeals RN-Medical-Review RN-Appeals-Specialist Clinical-Appeals-RN RN-Appeals-Analyst Clinical-Appeals-Coordinator Clinical-Appeals-Specialist Grievance-And-Appeals-Specialist Healthcare-Appeals-Specialist Appeals-And-Denials-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Awarded a Healthiest Employer, Blue Cross Blue Shield of Arizona aims to fulfill its mission to inspire health and make it easy.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:hr-plus-talent-limited:Education Sales Consultant – HK$30K+ Uncapped Commission",
+      "title": "Education Sales Consultant – HK$30K+ Uncapped Commission",
+      "company": "HR Plus (Talent) Limited",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/hr-plus-talent-limited",
+      "tags": "Education-Sales Sales-Consulting Enrollment-Sales Education-Recruitment Consultative-Sales Education-Sales-Executive Education-Sales-Representative EDU-Sales-Representative Higher-Education-Sales-Executive Educational-Account-Executive Educational-Sales-Representative Education-Solutions-Sales Education-Services-Sales Sales-Consultant Sales Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "HKD 30k – HKD 30k",
+      "employment_type": "Full Time",
+      "excerpt": "Our Client A well-established and reputable education institution in Hong Kong, specialising in academic enrichment and professional development programmes.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:grupo-sysmap:Desenvolvedor Front-End SR",
+      "title": "Desenvolvedor Front-End SR",
+      "company": "Grupo SysMap",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/grupo-sysmap",
+      "tags": "Frontend-Development Web-Development Mobile-Development Frontend-Engineer UI-UX-Development Desenvolvedor-Front-End Desarrollador-Front-End-Senior Desarrollador-A-Frontend Desenvolvimento-Frontend Front-End-Developer Engenheiro-Front-End Analista-Programador-Front-End Engenharia-Frontend Desenvolvedor-Senior Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Você é apaixonado(a) por tecnologia e inovação? 💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e – acreditamos que grandes resultados nascem de pessoas incríveis.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Frontend"
+      ]
+    },
+    {
+      "id": "himalayas:m9-solutions:Configuration Manager",
+      "title": "Configuration Manager",
+      "company": "M9 Solutions",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/m9-solutions",
+      "tags": "Configuration-Manager Oracle-HCM-Consultant ERP-Configuration HCM-Functional-Consultant IT-Configuration-Management Configuration-Management-Manager System-Configuration-Manager Configuration-Management Software-Configuration-Manager DevOps-Configuration-Manager Change-And-Configuration-Manager Software-Configuration-Management Configuration-Management-Database Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$60k – $180k",
+      "employment_type": "Full Time",
+      "excerpt": "M9 Solutions is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right people, skills, clearance levels, and technologies to help organizations that desire improved…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:valo-health:Staff Data Scientist, Machine Learning in Epidemiology and Patient Data Products",
+      "title": "Staff Data Scientist, Machine Learning in Epidemiology and Patient Data Products",
+      "company": "Valo Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/valo-health",
+      "tags": "Translational-Data-Science Machine-Learning Senior-Data-Science Health-Data-Science Computational-Biology Staff-Data-Scientist Senior-Staff-Data-Scientist Senior-Medical-Data-Scientist Staff-Machine-Learning-Scientist Senior-Data-Scientist-III Senior-Machine-Learning-Data-Scientist Clinical-Data-Scientist Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$165k – $190k",
+      "employment_type": "Full Time",
+      "excerpt": "About UsValo Health is a human-centric, AI-enabled biotechnology company working to make new drugs for patients faster.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:catasys-health:REMOTE Data Analyst",
+      "title": "REMOTE Data Analyst",
+      "company": "Catasys Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/catasys-health",
+      "tags": "Business-Intelligence Healthcare-Analytics Analytics-Specialist Quantitative-Analysis Remote-Data-Analyst Data-Analyst Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "As a Data Analyst, you will drive innovation, growth, and contribute to the company’s ability to scale.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:datakrew-pvt-ltd:Backend Developer (.NET - C#)",
+      "title": "Backend Developer (.NET - C#)",
+      "company": "DataKrew Pvt. Ltd.",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/datakrew-pvt-ltd",
+      "tags": "C#-Backend-Developer .NET-Backend-Developer .Net-Backend-Engineer Backend-API-Developer .NET-Backend-Development Senior-Backend-Development Senior Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Company Overview:Datakrew is revolutionizing EV fleet intelligence with cutting-edge IoT/AI solutions.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:oura-health-ltd:Senior Android Engineer",
+      "title": "Senior Android Engineer",
+      "company": "Oura Health Ltd",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/oura-health-ltd",
+      "tags": "Android-Engineering Mobile-Engineering Android-Development Software-Engineer Mobile-App-Engineering Senior-Android-Engineer Android-Developer Senior-Mobile-Engineer-(Android) Senior-Android-Architect Lead-Android-Engineer Senior-Mobile-Engineer Senior-Mobile-Engineering Senior-Mobile-Developer-(Android) Mobile-Android-Engineer Senior-App-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$139k – $203k",
+      "employment_type": "Full Time",
+      "excerpt": "Our mission at Oura is to empower every person to own their inner potential.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Android"
+      ]
+    },
+    {
+      "id": "himalayas:teaching-lab:Senior Director, Program (Math)",
+      "title": "Senior Director, Program (Math)",
+      "company": "Teaching Lab",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/teaching-lab",
+      "tags": "Program-Management Math-Education-Leadership Educational-Program-Director Professional-Learning-Design K-12-Education-Management Math-Education-Program-Director Director-Of-Math-Curriculum-Development Senior-Program-Director Senior-Education-Program-Director Director Executive Full Time",
+      "source": "Himalayas",
+      "salary": "$125k – $165k",
+      "employment_type": "Full Time",
+      "excerpt": "WHO WE ARETeaching Lab is a nonprofit organization with a mission to fundamentally shift the paradigm of teacher professional learning.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Sitecore Technical Consultant",
+      "title": "Sitecore Technical Consultant",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Sitecore-Developer Sitecore-Technical-Consultant .NET-Developer C++-Developer CMS-Developer Sitecore-CMS-Engineer Sitecore-Architect Senior-Sitecore-Developer Sitecore-Development Sitecore-XM-Cloud-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $150k",
+      "employment_type": "Full Time",
+      "excerpt": "Sitecore Technical Consultant – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:softerware-inc:Merchant Account Specialist",
+      "title": "Merchant Account Specialist",
+      "company": "SofterWare, Inc.",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/softerware-inc",
+      "tags": "Merchant-Account-Specialist Payment-Processing Customer-Service client-support Implementation Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "This position is intended to be filled internally.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:evio:Applied Real World Data Scientist",
+      "title": "Applied Real World Data Scientist",
+      "company": "Evio",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/evio",
+      "tags": "Real-World-Evidence Healthcare-Analytics Data-Science Health-Economics Pharmacy-Analytics Real-World-Data-Scientist Applied-Data-Scientist Real-World-Data-Science Applied-Data-Science Data-Scientist Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$160k – $190k",
+      "employment_type": "Full Time",
+      "excerpt": "Evio OverviewEvio is a highly unique pharmacy solutions company that was founded by and works closely with health plans to implement transformative (to cost, quality, access and experience) initiatives primarily focused…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:stellar-tech:Senior Recruiter",
+      "title": "Senior Recruiter",
+      "company": "Stellar Tech",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/stellar-tech",
+      "tags": "Senior-Recruiter Talent-Acquisition Technical-Recruiting Recruitment HR-Business-Partner Senior-Sales-Recruiter Senior-Recruiting-Manager Senior-Recruitment-Manager Senior-Corporate-Recruiter Senior-IT-Recruiter Senior-Recruitment-Consultant Senior-Business-Recruiter Senior-Technical-Recruiter Senior-Recruiting Senior Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "StellarTech is a rapidly growing product company building scalable EdTech products for a global audience.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:sword-health:RVP, Enterprise Sales - Southeast",
+      "title": "RVP, Enterprise Sales - Southeast",
+      "company": "Sword Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/sword-health",
+      "tags": "Commercial-Sales Enterprise-Sales Employer-Sales Healthcare-Sales Digital-Health-Sales Regional-Sales-VP Regional-VP-Sales Regional-Sales-Vice-President Regional-Vice-President-Sales Regional-Vice-President-Of-Sales Director Full Time",
+      "source": "Himalayas",
+      "salary": "$162k – $311k",
+      "employment_type": "Full Time",
+      "excerpt": "At Sword, we’re building AI to heal billions and unlock humanity’s full potential.",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:aspca:Senior Project Manager",
+      "title": "Senior Project Manager",
+      "company": "ASPCA",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/aspca",
+      "tags": "Senior-Project-Manager Project-Management Enterprise-Project-Management Program-Management PMO-Leadership Senior-Manager-Project-Management Senior-Project-Management Senior-Project-Director Senior-Project-Planning-Manager Senior-IT-Project-Manager Senior-Services-Project-Manager Senior-Technical-Project-Manager Senior-Technical-Project-Management Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$107k – $138k",
+      "employment_type": "Full Time",
+      "excerpt": "Summary: Overview: As a member of the ASPCA’s Project Management Office—part of the Strategy Team—the Senior Project Manager plays a key role in advancing the ASPCA’s mission through thoughtful planning, coordination,…",
+      "posted_date": "",
+      "first_seen": "2026-08-17T04:49:08.673860+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5600,7 +5497,7 @@ window.JOB_DATA = {
       "excerpt": "On top of all that, and equally important, theyâre looking for candidates who care about the work they perform each day and are interested in the value they can bring to an organization. You may question whether such…",
       "posted_date": "2026-08-16T02:09:25+00:00",
       "first_seen": "2026-08-17T03:04:45.157186+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5618,7 +5515,7 @@ window.JOB_DATA = {
       "excerpt": "Mission TARâs mission is to power intelligence for the world. We are building the worldâs first off-grid power plant for data centers powered by renewable technologies. We firmly believe AI should be built in the US…",
       "posted_date": "2026-08-16T01:56:57+00:00",
       "first_seen": "2026-08-17T03:04:45.157186+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5636,7 +5533,7 @@ window.JOB_DATA = {
       "excerpt": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We…",
       "posted_date": "2026-08-16T00:00:23+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5654,7 +5551,7 @@ window.JOB_DATA = {
       "excerpt": "The FreedomPay Commerce Platform is the technology of choice for many of the largest companies across the globe in retail, hospitality, lodging, gaming, sports and entertainment, foodservice, education, healthcare and…",
       "posted_date": "2026-08-16T00:00:16+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5672,7 +5569,7 @@ window.JOB_DATA = {
       "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise.…",
       "posted_date": "2026-08-16T00:00:10+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -5690,7 +5587,7 @@ window.JOB_DATA = {
       "excerpt": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent…",
       "posted_date": "2026-08-16T00:00:03+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Frontend",
         "Backend"
@@ -5709,7 +5606,7 @@ window.JOB_DATA = {
       "excerpt": "Overview People. Passion. Pride. This is what has driven our teams since 1833. Since that time, we have developed to become a critical partner in the global aviation industry, delivering time-critical logistics services…",
       "posted_date": "2026-08-15T16:07:53+00:00",
       "first_seen": "2026-08-16T16:31:26.566964+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5727,7 +5624,7 @@ window.JOB_DATA = {
       "excerpt": "Position Objective This position creates, engages, and welcomes an environment, that cultivates an inclusive culture that provides equitable opportunities and drives associate and customer engagement. This role directs…",
       "posted_date": "2026-08-14T22:49:33+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5745,7 +5642,7 @@ window.JOB_DATA = {
       "excerpt": "Porque Trabalhar Conosco Grupo Savegnago oferece um ambiente de trabalho estimulante, oportunidades de crescimento profissional e uma equipe acolhedora que valoriza a colaboraÃ§Ã£o e a inovaÃ§Ã£o. Sobre a Vaga O…",
       "posted_date": "2026-08-13T21:50:46+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5763,7 +5660,7 @@ window.JOB_DATA = {
       "excerpt": "Estamos em busca de um(a) Repositor(a) organizado(a), proativo(a) e com atenÃ§Ã£o aos detalhes para atuar em nosso time! Essa oportunidade Ã© ideal para quem gosta de desafios e quer contribuir diretamente para a…",
       "posted_date": "2026-08-12T22:37:52+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5781,7 +5678,7 @@ window.JOB_DATA = {
       "excerpt": "LOCALIZA&amp;CO Estar em constante evoluÃ§Ã£o nos trouxe atÃ© aqui. Ao lado de talentos e habilidades mÃºltiplas nos conectamos em busca da nossa motivaÃ§Ã£o: construir o futuro da mobilidade sustentÃ¡vel. Ã por meio…",
       "posted_date": "2026-08-12T22:37:26+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5799,7 +5696,7 @@ window.JOB_DATA = {
       "excerpt": "General Manager - Suriname Job Purpose: We are a global leader in the Transportation and Logistics industry, aiming to strengthen our presence in the Caribbean Islands. We are seeking a dynamic and experienced General…",
       "posted_date": "2026-08-12T20:22:10+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5817,7 +5714,7 @@ window.JOB_DATA = {
       "excerpt": "Agencia de Marketing estÃ¡ en bÃºsqueda de Promo Merchandiser para integrarse a nuestro equipo y asegurar la correcta ejecuciÃ³n, exhibiciÃ³n y visibilidad de productos en punto de venta. Si tienes experiencia en…",
       "posted_date": "2026-08-12T13:00:34+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5835,7 +5732,7 @@ window.JOB_DATA = {
       "excerpt": "Cotizador(a) DescripciÃ³n general Empresa del sector material elÃ©ctrico, industrial y de construcciÃ³n busca un(a) Cotizador(a) responsable de analizar requerimientos y elaborar propuestas econÃ³micas precisas. Este…",
       "posted_date": "2026-08-12T13:00:16+00:00",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5853,7 +5750,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-16T13:35:04.908551+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5871,7 +5768,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-16T12:49:24.621971+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5889,7 +5786,7 @@ window.JOB_DATA = {
       "excerpt": "Why us Try now Testimonial Workouts About Sign Up Ã Login for a better experience Why us Try now Workouts About Book a Call App Description Train Rex App LIVE BETTER. NOT JUST FEEL BETTER. Feeling healthy and being…",
       "posted_date": "2026-08-13T23:28:31+00:00",
       "first_seen": "2026-08-16T11:24:53.418315+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5907,7 +5804,7 @@ window.JOB_DATA = {
       "excerpt": "Job Purpose We are seeking a Maintenance Planner to join our Engineering Stores team. In this role, you will be responsible for effectively planning, preparing, and scheduling maintenance activities to support equipment…",
       "posted_date": "2026-08-14T22:28:22+00:00",
       "first_seen": "2026-08-16T09:31:47.832970+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5925,7 +5822,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team…",
       "posted_date": "Sun, 16 Aug 2026 07:30:41 +0000",
       "first_seen": "2026-08-16T07:35:22.802019+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5943,7 +5840,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote (North America) About Hightouch Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one…",
       "posted_date": "Sun, 16 Aug 2026 07:30:32 +0000",
       "first_seen": "2026-08-16T07:35:22.802019+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5961,7 +5858,43 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team…",
       "posted_date": "Sun, 16 Aug 2026 07:30:32 +0000",
       "first_seen": "2026-08-16T07:35:22.802019+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:remote:Outbound Sales Development Representative - UKI",
+      "title": "Outbound Sales Development Representative - UKI",
+      "company": "Remote",
+      "location": "Portugal",
+      "url": "https://himalayas.app/jobs/remote",
+      "tags": "Sales-Development Sales-Development-Representative Outbound-Sales B2B-Sales Lead-Generation Outbound-Sales-Development-Representative Remote-Sales-Development-Representative Outbound-Rep Sales Entry-level Full Time",
+      "source": "Himalayas",
+      "salary": "$32k – $71k",
+      "employment_type": "Full Time",
+      "excerpt": "About RemoteRemote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease.",
+      "posted_date": "",
+      "first_seen": "2026-08-16T07:35:22.802019+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:mercor:Music & Lyrics Specialist - Fully Remote | Upto $42/hr",
+      "title": "Music & Lyrics Specialist - Fully Remote | Upto $42/hr",
+      "company": "mercor",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/mercor",
+      "tags": "Music-and-Lyrics-Specialist Songwriter Lyricist Music-Evaluator Greek-Music-Expert Lyrics-Transcription-Specialist Music-and-Lyrics-Expert Lyrics-Specialist Music-Content-Specialist Music-Lyricist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$17 – $42",
+      "employment_type": "Full Time",
+      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
+      "posted_date": "",
+      "first_seen": "2026-08-16T05:32:47.045437+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5979,7 +5912,7 @@ window.JOB_DATA = {
       "excerpt": "Sandblaster / Painter The Sandblaster/Painter is responsible for preparing parts and equipment for painting and protective coating, including performing sandblasting and surface preparation to ensure quality finishes.…",
       "posted_date": "2026-08-15T01:20:47+00:00",
       "first_seen": "2026-08-16T01:42:13.601157+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -5997,7 +5930,7 @@ window.JOB_DATA = {
       "excerpt": "403 / Security check Before you continue, please verify your request. We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.…",
       "posted_date": "2026-08-15T00:12:49+00:00",
       "first_seen": "2026-08-16T01:42:13.601157+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6015,7 +5948,7 @@ window.JOB_DATA = {
       "excerpt": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This…",
       "posted_date": "2026-08-15T00:00:25+00:00",
       "first_seen": "2026-08-16T01:42:13.601157+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6033,7 +5966,7 @@ window.JOB_DATA = {
       "excerpt": "Overview Languages English Education No degree, certificate or diploma Experience 1 to less than 7 months On site Work must be completed at the physical location. There is no option to work remotely. Experience and…",
       "posted_date": "2026-08-12T01:19:44+00:00",
       "first_seen": "2026-08-16T01:42:13.601157+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6051,7 +5984,7 @@ window.JOB_DATA = {
       "excerpt": "The UAEâs rail expansion covers active construction, passenger and freight operations, and major projects that are still moving through procurement. For jobseekers, the useful lesson is not simply that large projects…",
       "posted_date": "2026-08-14T23:12:43+00:00",
       "first_seen": "2026-08-15T23:25:24.755309+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6069,7 +6002,7 @@ window.JOB_DATA = {
       "excerpt": "About Us Join a growing fresh food retail business known for delivering quality, value and an exceptional customer experience. At Harris Farm Markets, everything we do is driven by our purpose for the Greater Goodness,…",
       "posted_date": "2026-08-14T17:36:11+00:00",
       "first_seen": "2026-08-15T18:36:20.741630+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6087,7 +6020,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-15T18:36:20.741630+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6105,7 +6038,7 @@ window.JOB_DATA = {
       "excerpt": "Position Type : Full-time Location: Philippines (Remote) Schedule: Mon-Fri, EST About the Company Our client is a global leader in swimming pool technology, specializing in robotic pool cleaners, pool safety products,…",
       "posted_date": "2026-08-14T16:00:49+00:00",
       "first_seen": "2026-08-15T16:30:41.519497+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6120,10 +6053,10 @@ window.JOB_DATA = {
       "source": "RemoteOK",
       "salary": "",
       "employment_type": "",
-      "excerpt": "Job Description Test Job Qualifications Test job Additional Information All your information will be kept confidential according to EEO guidelines. Please mention the word **HEROS** and tag RNC4yNDYuMTM1LjU= when…",
+      "excerpt": "Job Description Test Job Qualifications Test job Additional Information All your information will be kept confidential according to EEO guidelines. Please mention the word **HEROS** and tag RMTcyLjE3MS4xMDcuODU= when…",
       "posted_date": "2026-08-14T12:49:18+00:00",
       "first_seen": "2026-08-15T13:34:00.394205+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6141,7 +6074,7 @@ window.JOB_DATA = {
       "excerpt": "Overview As a member of the military, Infantry Soldiers are the Armyâs primary combat fighters and are responsible for closing with and destroying the enemy. They are the core members of the Combat Arms team, which…",
       "posted_date": "2026-08-14T10:56:33+00:00",
       "first_seen": "2026-08-15T11:24:55.119068+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6159,7 +6092,7 @@ window.JOB_DATA = {
       "excerpt": "Overview As a member of the military, Engineer Officers help the army live, move and fight. They are members of the Corps of Royal Canadian Engineers. Together with the Armour, Infantry and Artillery, Engineer Officers…",
       "posted_date": "2026-08-14T10:44:01+00:00",
       "first_seen": "2026-08-15T11:24:55.119068+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6177,7 +6110,7 @@ window.JOB_DATA = {
       "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region.…",
       "posted_date": "2026-08-14T08:00:04+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Frontend",
         "Backend",
@@ -6197,7 +6130,7 @@ window.JOB_DATA = {
       "excerpt": "intechnative.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Verification successful.…",
       "posted_date": "2026-08-14T07:58:11+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6215,7 +6148,7 @@ window.JOB_DATA = {
       "excerpt": "Job Number: R0246726 Facilities Planner The Opportunity: Seeking an energetic and skilled Facilities Planner to work at Indo-Pacific Region! Join our team to lead project planning, data analysis, and collaboration…",
       "posted_date": "2026-08-13T02:09:24+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6230,10 +6163,10 @@ window.JOB_DATA = {
       "source": "RemoteOK",
       "salary": "",
       "employment_type": "",
-      "excerpt": "Responsibilities 1 Qualifications 1 Please mention the word **APPLAUD** and tag RNC4yNDYuMTM1LjU= when applying to show you read the job post completely (#RNC4yNDYuMTM1LjU=). This is a beta feature to avoid spam…",
+      "excerpt": "Responsibilities 1 Qualifications 1 Please mention the word **APPLAUD** and tag RMTcyLjE3MS4xMDcuODU= when applying to show you read the job post completely (#RMTcyLjE3MS4xMDcuODU=). This is a beta feature to avoid spam…",
       "posted_date": "2026-08-12T13:09:33+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6251,7 +6184,7 @@ window.JOB_DATA = {
       "excerpt": "Job Purpose Job Purpose Description Job Purpose Description To operate, set up, and maintain Horizontal Machining Centre (HMC) machines to manufacture dies, components, and precision parts as per drawings, quality…",
       "posted_date": "2026-08-12T09:33:42+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6269,7 +6202,7 @@ window.JOB_DATA = {
       "excerpt": "Company Description Knowledge Wave India is an education-focused organization committed to making high-quality learning more accessible and impactful. The company strives to leverage modern teaching methods, digital…",
       "posted_date": "2026-08-12T06:33:41+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6287,7 +6220,7 @@ window.JOB_DATA = {
       "excerpt": "Job description: Job Description Í Í Í Í Mandatory Skills: IBM BAW . Â Experience: 3-5 Years . Â Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the…",
       "posted_date": "2026-08-12T00:18:30+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6305,27 +6238,9 @@ window.JOB_DATA = {
       "excerpt": "Job Requirements About the Role The Valuer â Gold Loan plays a critical role in ensuring the accuracy and integrity of gold loan valuations across branches pan-India. This role involves assessing the purity and value…",
       "posted_date": "2026-08-11T19:40:31+00:00",
       "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Music & Lyrics Specialist - Remote | Upto $15/hr",
-      "title": "Music & Lyrics Specialist - Remote | Upto $15/hr",
-      "company": "mercor",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Music-and-Lyrics-Expert AI-Content-Reviewer Quality-Assurance-Reviewer Songwriter Music-Journalist Music-and-Lyrics-Specialist Lyrics-Transcription-Specialist Lyrics-Specialist Music-Content-Specialist Music-Lyricist Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "$15 – $15",
-      "employment_type": "Contractor",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-15T08:35:07.354054+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
       ]
     },
     {
@@ -6341,7 +6256,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and…",
       "posted_date": "Sat, 15 Aug 2026 07:31:27 +0000",
       "first_seen": "2026-08-15T07:35:08.011813+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6359,7 +6274,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Taiwan (Remote) Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. &nbsp; OKX is a leading crypto exchange, and the developer…",
       "posted_date": "Sat, 15 Aug 2026 07:31:27 +0000",
       "first_seen": "2026-08-15T07:35:08.011813+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6368,16 +6283,16 @@ window.JOB_DATA = {
       "id": "himalayas:bjak:Lead Engineer - AI Payments App",
       "title": "Lead Engineer - AI Payments App",
       "company": "Bjak",
-      "location": "Malaysia",
+      "location": "Vietnam",
       "url": "https://himalayas.app/jobs/bjak",
-      "tags": "Senior-Payments-Engineer Lead-AI-Engineer Payments-Engineering-Manager Lead-AI-Software-Engineer AI-Engineering-Lead Senior-Lead-AI-Engineer Payments-Team-Lead Payments-Backend-Engineer Senior Manager Full Time",
+      "tags": "Senior-Payments-Engineer Payments-Software-Engineer Lead-AI-Engineer Payments-Engineering-Manager Payments-Engineer Lead-AI-Software-Engineer AI-Engineering-Lead Senior-Lead-AI-Engineer Payments-Team-Lead Payments-Backend-Engineer Senior Manager Full Time",
       "source": "Himalayas",
       "salary": "",
       "employment_type": "Full Time",
       "excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
       "posted_date": "",
       "first_seen": "2026-08-15T07:35:08.011813+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -6395,7 +6310,7 @@ window.JOB_DATA = {
       "excerpt": "Job Title: Maintenance Technician / Technician Reports to: Technical Team Leader and Chief Engineer Job Description We are looking for a dynamic and hardworking Maintenance Technician to join our hotel team. As a…",
       "posted_date": "2026-08-12T00:00:00+00:00",
       "first_seen": "2026-08-15T06:47:03.509986+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6413,7 +6328,7 @@ window.JOB_DATA = {
       "excerpt": "At Mango, we inspire and unite through our passion for style and culture. We are present in 118 countries and our online presence extends to more than 80 countries. In our team we are proactive and dynamic, with…",
       "posted_date": "2026-08-11T15:46:11+00:00",
       "first_seen": "2026-08-15T06:47:03.509986+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6431,7 +6346,7 @@ window.JOB_DATA = {
       "excerpt": "Thank you for your interest in joining our team. At present, we do not have any open positions at Black Talon. However, as we continue to grow and evolve in our mission to protect companies of all sizes from…",
       "posted_date": "2026-08-14T05:27:50+00:00",
       "first_seen": "2026-08-15T05:29:44.557868+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6449,7 +6364,7 @@ window.JOB_DATA = {
       "excerpt": "Additional Information Job Number 26081073 Job Category Rooms &amp; Guest Services Operations Location 31 Wheat Road, Sydney, New South Wales, Australia, 2000 VIEW ON MAP Schedule Full Time Located Remotely? N Position…",
       "posted_date": "2026-08-13T14:45:57+00:00",
       "first_seen": "2026-08-15T04:36:40.044549+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6467,7 +6382,7 @@ window.JOB_DATA = {
       "excerpt": "Join Macpac Carindale and be part of a high-potential store that's only two years into its journey. This is a fantastic opportunity for an ambitious Assistant Store Manager or Team Leader ready to step up, lead from the…",
       "posted_date": "2026-08-13T13:00:29+00:00",
       "first_seen": "2026-08-15T04:36:40.044549+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6485,7 +6400,7 @@ window.JOB_DATA = {
       "excerpt": "About The Role Store Manager | Dan Murphy's Canberra Region | Share your passion Dreaming big? Donât sleep on this opportunity! Weâre looking for a self motivated Store Manager who leads from the front. As one of…",
       "posted_date": "2026-08-13T12:41:50+00:00",
       "first_seen": "2026-08-15T04:36:40.044549+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6503,7 +6418,7 @@ window.JOB_DATA = {
       "excerpt": "Take the lead at Macpac Adelaide Airport, where no two days look the same! We're on the hunt for a hands-on Store Manager, or an ambitious Assistant Store Manager ready to step up. Lead a supportive and established team…",
       "posted_date": "2026-08-13T08:10:05+00:00",
       "first_seen": "2026-08-15T04:36:40.044549+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6521,7 +6436,7 @@ window.JOB_DATA = {
       "excerpt": "Weâre Liquorland. A working day here is as varied as the range of local and imported brands youâll offer customers. From small everyday moments among the team to larger-scale changes unique to a business like ours,…",
       "posted_date": "2026-08-12T06:37:47+00:00",
       "first_seen": "2026-08-15T04:36:40.044549+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6539,7 +6454,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:49:39+00:00",
       "first_seen": "2026-08-15T03:46:11.538091+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -6557,7 +6472,7 @@ window.JOB_DATA = {
       "excerpt": "Vacancy Number: 043183 Agency: Department of Health Number of Vacancies: 1 Work Unit: Primary Health Care â Business Support Location: Alice Springs Primary Objective: Under the general direction of the Fleet Officer…",
       "posted_date": "2026-08-13T20:09:23+00:00",
       "first_seen": "2026-08-14T20:35:26.456153+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6575,7 +6490,7 @@ window.JOB_DATA = {
       "excerpt": "Think you might be a good fit for A&amp;B or A&amp;B Home? Do you like what you see but we donât have a position posted for you? Send us your resume or application anyway! We would still like to hear from you and…",
       "posted_date": "2026-08-13T19:49:30+00:00",
       "first_seen": "2026-08-14T20:35:26.456153+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6593,7 +6508,7 @@ window.JOB_DATA = {
       "excerpt": "Job Description Primary Location United Kingdom- Flexible Location - South East England Additional Locations Worker Type Employee Worker Sub-Type Regular Time Type Full time Please mention the word **SKILL** and tag…",
       "posted_date": "2026-08-13T18:52:32+00:00",
       "first_seen": "2026-08-14T19:00:51.672818+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6611,7 +6526,7 @@ window.JOB_DATA = {
       "excerpt": "Celebrate Life, Elevated: the Southworth Way The Company: Welcome to Southworth. We own and operate a growing portfolio of premier private clubs and communities, each offering inspired environments and locations that…",
       "posted_date": "2026-08-13T18:24:15+00:00",
       "first_seen": "2026-08-14T19:00:51.672818+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -6629,7 +6544,7 @@ window.JOB_DATA = {
       "excerpt": "Come Build Your Career at Aecon! Aecon delivers some of the most complex and impactful infrastructure projects â from transformative transportation networks to critical energy, industrial and nuclear programs. The…",
       "posted_date": "2026-08-13T16:43:11+00:00",
       "first_seen": "2026-08-14T17:01:53.197253+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6647,7 +6562,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups…",
       "posted_date": "2026-08-13T16:06:05+00:00",
       "first_seen": "2026-08-14T17:01:53.197253+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6665,7 +6580,7 @@ window.JOB_DATA = {
       "excerpt": "MARINE PAINTER &amp; BLASTER (local and expat) Join Our Team at German Ship Repair Jamaica! We are expanding our technical team at Jamaica's first ship repair yard with a floating dock facility in Harbour View,…",
       "posted_date": "2026-08-13T10:57:25+00:00",
       "first_seen": "2026-08-14T17:01:53.197253+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6683,7 +6598,7 @@ window.JOB_DATA = {
       "excerpt": "At Skanska, weâre shaping the way we live, work and connect. As one of the worldâs largest construction and development companies, we work together with customers, communities and partners to shape a better society.…",
       "posted_date": "2026-08-13T15:54:35+00:00",
       "first_seen": "2026-08-14T15:58:03.873600+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6701,7 +6616,7 @@ window.JOB_DATA = {
       "excerpt": "Welcome to Hovis. We are the proud guardians of over 130 years of baking experience that make up our iconic and much-loved brand. We produce bread and bakery products created with Hovis goodness at the heart of each. We…",
       "posted_date": "2026-08-13T15:34:11+00:00",
       "first_seen": "2026-08-14T15:58:03.873600+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6719,7 +6634,7 @@ window.JOB_DATA = {
       "excerpt": "Pay Range: $22.05 - $24.05 Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If youâre also naturally…",
       "posted_date": "2026-08-13T01:03:44+00:00",
       "first_seen": "2026-08-14T13:18:07.725149+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6737,7 +6652,7 @@ window.JOB_DATA = {
       "excerpt": "Overview Languages English Education Secondary (high) school graduation certificate Experience No experience (will train) On site Work must be completed at the physical location. There is no option to work remotely.…",
       "posted_date": "2026-08-11T14:40:18+00:00",
       "first_seen": "2026-08-14T13:18:07.725149+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6755,7 +6670,7 @@ window.JOB_DATA = {
       "excerpt": "The project compensation rate is $0.55 USD per accepted image. The objective of this project is to collect a large and diverse dataset of current neutral selfies, head-pose captures, and historical facial images to…",
       "posted_date": "2026-08-13T06:25:53",
       "first_seen": "2026-08-14T11:49:00.097519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6773,7 +6688,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are…",
       "posted_date": "Fri, 14 Aug 2026 10:14:53 +0000",
       "first_seen": "2026-08-14T11:49:00.097519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -6791,7 +6706,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are seeking a Senior Ruby on Rails Developer who treats software engineering as an art form and a discipline. In this role, you will lead the…",
       "posted_date": "Fri, 14 Aug 2026 10:13:03 +0000",
       "first_seen": "2026-08-14T11:49:00.097519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6809,7 +6724,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in…",
       "posted_date": "2026-08-14T07:40:47-04:00",
       "first_seen": "2026-08-14T11:49:00.097519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6827,7 +6742,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and…",
       "posted_date": "Fri, 14 Aug 2026 10:07:01 +0000",
       "first_seen": "2026-08-14T10:09:05.540592+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -6845,7 +6760,7 @@ window.JOB_DATA = {
       "excerpt": "We are looking for a Russian-speaking, hands-on Project Manager with strong Product Management skills to join a small, early-stage fintech environment. You will work directly with the CTO, engineering team, and business…",
       "posted_date": "2026-08-13T00:00:03+00:00",
       "first_seen": "2026-08-14T02:24:02.553215+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6863,7 +6778,7 @@ window.JOB_DATA = {
       "excerpt": "Technician The Security Centre Limited is seeking a technically capable and customer-focused Technician to join our Systems Department. The successful candidate will be responsible for supporting the installation,…",
       "posted_date": "2026-08-12T21:35:51+00:00",
       "first_seen": "2026-08-13T21:52:04.410545+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6881,25 +6796,7 @@ window.JOB_DATA = {
       "excerpt": "Are you seeking to be submit your resume for future opportunities not currently posted? Please submit your resume here and we will consider you for future opportunities. Please mention the word **CIVILITY** and tag…",
       "posted_date": "2026-08-12T21:26:49+00:00",
       "first_seen": "2026-08-13T21:52:04.410545+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mercor:Certified Public Accountant - Fully Remote | Upto $120/hr",
-      "title": "Certified Public Accountant - Fully Remote | Upto $120/hr",
-      "company": "mercor",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/mercor",
-      "tags": "Accounting Tax Audit Finance Advisory Remote-Accountant Remote-Tax-Accountant Remote-Tax-Professional Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$80 – $120",
-      "employment_type": "Full Time",
-      "excerpt": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
-      "posted_date": "",
-      "first_seen": "2026-08-13T21:52:04.410545+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6914,10 +6811,10 @@ window.JOB_DATA = {
       "source": "RemoteOK",
       "salary": "",
       "employment_type": "",
-      "excerpt": "Hello, I am looking for full-time job. I have G license and permanent resident in Canada. Please contact me at 4374106008. Thank you. Please mention the word **POSITIVE** and tag RNC4yNDYuMTM1LjU= when applying to show…",
+      "excerpt": "Hello, I am looking for full-time job. I have G license and permanent resident in Canada. Please contact me at 4374106008. Thank you. Please mention the word **POSITIVE** and tag RMTcyLjE3MS4xMDcuODU= when applying to…",
       "posted_date": "2026-08-12T20:32:14+00:00",
       "first_seen": "2026-08-13T20:49:43.858519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6935,7 +6832,7 @@ window.JOB_DATA = {
       "excerpt": "Company Description For more than a century, Hamilton Princess &amp; Beach Club is Bermuda's only luxury urban resort. Our world-class accommodations, internationally revered modern art collection, celebrated…",
       "posted_date": "2026-08-12T19:45:12+00:00",
       "first_seen": "2026-08-13T20:49:43.858519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6953,7 +6850,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:51:03+00:00",
       "first_seen": "2026-08-13T20:49:43.858519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -6968,10 +6865,10 @@ window.JOB_DATA = {
       "source": "RemoteOK",
       "salary": "",
       "employment_type": "",
-      "excerpt": "TBD Please mention the word **IDOL** and tag RNC4yNDYuMTM1LjU= when applying to show you read the job post completely (#RNC4yNDYuMTM1LjU=). This is a beta feature to avoid spam applicants. Companies can search these…",
+      "excerpt": "TBD Please mention the word **IDOL** and tag RMTcyLjE3MS4xMDcuODU= when applying to show you read the job post completely (#RMTcyLjE3MS4xMDcuODU=). This is a beta feature to avoid spam applicants. Companies can search…",
       "posted_date": "2026-08-12T18:31:55+00:00",
       "first_seen": "2026-08-13T19:08:39.158289+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -6989,7 +6886,7 @@ window.JOB_DATA = {
       "excerpt": "Sobre a Stone: Somos muito mais do que uma empresa de maquininhas! A Stone Ã© uma empresa de tecnologia e serviÃ§os financeiros focada no(a) cliente. Nascemos com o propÃ³sito de ser protagonistas na transformaÃ§Ã£o da…",
       "posted_date": "2026-08-12T16:01:22+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7007,7 +6904,7 @@ window.JOB_DATA = {
       "excerpt": "Sobre a Stone: Somos muito mais do que uma empresa de maquininhas! A Stone Ã© uma empresa de tecnologia e serviÃ§os financeiros focada no(a) cliente. Nascemos com o propÃ³sito de ser protagonistas na transformaÃ§Ã£o da…",
       "posted_date": "2026-08-12T16:01:04+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7025,7 +6922,7 @@ window.JOB_DATA = {
       "excerpt": "About Us Established in 2018, Bybit is one of the worldâs leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by…",
       "posted_date": "2026-08-12T16:00:24+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7043,7 +6940,7 @@ window.JOB_DATA = {
       "excerpt": "Job Description The Surveyor I is an entry or junior-level position for new graduates and/or those candidates with less than five (5) years of experience in an applicable industry. The Surveyor I, under a direct…",
       "posted_date": "2026-08-12T16:00:12+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -7061,7 +6958,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;Confident on the phone and cool under pressure? This part-time role puts you at the center of fast-paced auction activityâmaking critical outbound calls, delivering clear info, and keeping everything on…",
       "posted_date": "2026-08-12T16:00:04+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7079,7 +6976,7 @@ window.JOB_DATA = {
       "excerpt": "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4260 Contract Type Permanent Closing Date 19 August, 2026 Job Category Tunnels &amp; Routeway Business Unit Construction…",
       "posted_date": "2026-08-12T14:18:43+00:00",
       "first_seen": "2026-08-13T15:02:30.000579+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7097,7 +6994,7 @@ window.JOB_DATA = {
       "excerpt": "Salary Competitive with excellent benefits package Frequency Annual Job Reference scsrail/TP/76/4259 Contract Type Permanent Closing Date 19 August, 2026 Job Category Tunnels &amp; Routeway Business Unit Construction…",
       "posted_date": "2026-08-12T14:18:43+00:00",
       "first_seen": "2026-08-13T15:02:30.000579+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7115,7 +7012,7 @@ window.JOB_DATA = {
       "excerpt": "Test job descriptionÂ Test job description Test job description Test job description Test job description Test job description Test job description Test job description Test job description Test job description Test job…",
       "posted_date": "2026-08-12T13:57:07+00:00",
       "first_seen": "2026-08-13T15:02:30.000579+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7133,7 +7030,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-13T13:23:13.933492+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7151,7 +7048,7 @@ window.JOB_DATA = {
       "excerpt": "The Operator is responsible for delivering safe, efficient, and reliable PSD to customers. The Operator identifies opportunities to improve service delivery, and assists field and maintenance crews with preparing…",
       "posted_date": "2026-08-12T10:34:31+00:00",
       "first_seen": "2026-08-13T11:52:20.302390+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7169,7 +7066,7 @@ window.JOB_DATA = {
       "excerpt": "Prior industry exposure of building food and beverage brands able to cater to changing market trends, identify opportunities, pivot, responsibly, and scale, local brand operations on a national and International level…",
       "posted_date": "2026-08-12T09:15:39+00:00",
       "first_seen": "2026-08-13T10:12:56.894858+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7187,7 +7084,7 @@ window.JOB_DATA = {
       "excerpt": "Hi,I'm looking for work like loading and unloading, wearhouse work, I have class 5F license,i have city wide knowledge, I'm honest and hardworking man if you have any availability for the same, can feel free to send me…",
       "posted_date": "2026-08-12T08:29:55+00:00",
       "first_seen": "2026-08-13T10:12:56.894858+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7205,7 +7102,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote US Role Overview We’re looking for a Senior Software Engineer - Backend, to solve complex problems gracefully, grow scalable systems, and help to shape our technical vision. As a Senior Software…",
       "posted_date": "Thu, 13 Aug 2026 07:31:17 +0000",
       "first_seen": "2026-08-13T08:24:42.586188+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -7223,7 +7120,7 @@ window.JOB_DATA = {
       "excerpt": "Project leaders are the vision persons, and they focus on their targets, Project leaders lead, support, and give a plan for achieving a target. Project leaders are different from project managers, project leaders work…",
       "posted_date": "2026-08-12T07:59:46+00:00",
       "first_seen": "2026-08-13T08:24:42.586188+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7241,7 +7138,7 @@ window.JOB_DATA = {
       "excerpt": "Company Description About Campos Coffee Founded in 2002, Campos Coffee is the leading specialty coffee brand in Australia. Our values go beyond a great cup of coffee â we care about quality, integrity and nurturing…",
       "posted_date": "2026-08-12T05:32:34+00:00",
       "first_seen": "2026-08-13T06:21:24.880133+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7259,7 +7156,7 @@ window.JOB_DATA = {
       "excerpt": "At Evolve, weâre on a mission to make vacation rental easy for everyone. Our high-performing, customer-obsessed team runs on curiosity, communication, and accountabilityâworking together to create exceptional…",
       "posted_date": "2026-08-12T00:00:23+00:00",
       "first_seen": "2026-08-13T02:25:45.878909+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7277,7 +7174,7 @@ window.JOB_DATA = {
       "excerpt": "Western Downs Regional Council has been awarded the Queensland Large Employer of the Year for the Darling Downs South West Region for 2019, 2021, 2022, 2023 and 2024. Be part of a team that make a real difference within…",
       "posted_date": "2026-08-11T20:29:53+00:00",
       "first_seen": "2026-08-12T20:51:56.427785+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7295,7 +7192,7 @@ window.JOB_DATA = {
       "excerpt": "We need a Sincere, Dedicated &amp; Hardworking &nbsp;Employee Who can handle Back End Desk Job and is well versed with Artificial intelligence Kindly W hatsapp or Call on 88769-5073 for further details. Only serious…",
       "posted_date": "2026-08-11T20:06:27+00:00",
       "first_seen": "2026-08-12T20:51:56.427785+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7313,7 +7210,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary: We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI…",
       "posted_date": "Wed, 12 Aug 2026 18:38:32 +0000",
       "first_seen": "2026-08-12T19:08:04.885653+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -7331,7 +7228,7 @@ window.JOB_DATA = {
       "excerpt": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If youâre also naturally curious and eager to keep…",
       "posted_date": "2026-08-11T19:04:10+00:00",
       "first_seen": "2026-08-12T19:08:04.885653+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7349,9 +7246,27 @@ window.JOB_DATA = {
       "excerpt": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If youâre also naturally curious and eager to keep…",
       "posted_date": "2026-08-11T19:04:09+00:00",
       "first_seen": "2026-08-12T19:08:04.885653+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:spotter-labs:Remote UGC Content Creator",
+      "title": "Remote UGC Content Creator",
+      "company": "Spotter Labs",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/spotter-labs",
+      "tags": "UGC-Content-Creator Remote-Content-Creator UGC-Content-Creation Remote-Video-Content-Creator Remote-Digital-Content-Creator UGC-Video-Producer Remote-Content-Creation UGC-Creator UGC-Content-Manager Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We're looking for a UGC Content Creator to create engaging, authentic, and high-performing video content for our digital platforms.",
+      "posted_date": "",
+      "first_seen": "2026-08-12T19:08:04.885653+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -7367,7 +7282,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:50:57+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7385,7 +7300,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:50:41+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7403,7 +7318,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:50:40+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7421,7 +7336,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:50:33+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7439,7 +7354,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:50:22+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7457,7 +7372,7 @@ window.JOB_DATA = {
       "excerpt": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review…",
       "posted_date": "2026-08-11T16:49:47+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7475,7 +7390,7 @@ window.JOB_DATA = {
       "excerpt": "Join our team and become a part of a continuously expanding and financially sound multinational conglomerate - Goddard Enterprises Limited (GEL). McBride (Caribbean) Limited â a member of GEL, is a household aerosol…",
       "posted_date": "2026-08-11T15:45:45+00:00",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7493,7 +7408,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-12T17:01:18.455307+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7511,7 +7426,7 @@ window.JOB_DATA = {
       "excerpt": "Overview Languages English Education Secondary (high) school graduation certificate Experience 2 years to less than 3 years On site Work must be completed at the physical location. There is no option to work remotely.…",
       "posted_date": "2026-08-11T14:44:39+00:00",
       "first_seen": "2026-08-12T15:02:36.131935+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7529,7 +7444,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-12T15:02:36.131935+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7547,7 +7462,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and…",
       "posted_date": "Wed, 12 Aug 2026 12:18:51 +0000",
       "first_seen": "2026-08-12T13:21:30.066156+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7565,7 +7480,7 @@ window.JOB_DATA = {
       "excerpt": "ATOM Partners is an international company focused on digital asset markets, trading technologies, and data-driven market research. We work with modern analytical tools and help aspiring professionals build practical…",
       "posted_date": "2026-08-11T12:28:07+00:00",
       "first_seen": "2026-08-12T13:21:30.066156+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Junior"
       ]
@@ -7583,7 +7498,7 @@ window.JOB_DATA = {
       "excerpt": "Organization City of Kamloops Region British Columbia Application Deadline Aug 25, 2026 before 23:00 Type Permanent, On-Call Category Water Twitter Facebook Linkedin Send Save Print Description Click here to view full…",
       "posted_date": "2026-08-11T12:24:19+00:00",
       "first_seen": "2026-08-12T13:21:30.066156+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7601,7 +7516,7 @@ window.JOB_DATA = {
       "excerpt": "Weâre Hiringâ¦ Eventually! Weâre always keen to connect with talented individuals who share our values and are excited about the work we do. Even if we donât have a current vacancy that matches your skills,…",
       "posted_date": "2026-08-11T12:10:04+00:00",
       "first_seen": "2026-08-12T13:21:30.066156+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7619,7 +7534,7 @@ window.JOB_DATA = {
       "excerpt": "Picture the scene; youâve found us and we share your brand values, you'd love to work here and we are in an ideal location for you, thereâs just one catchâ¦ we are not actually advertising any jobs which are…",
       "posted_date": "2026-08-11T11:20:43+00:00",
       "first_seen": "2026-08-12T11:51:46.992519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7637,7 +7552,7 @@ window.JOB_DATA = {
       "excerpt": "Job Description The company Our client is an Australian-based construction company that provides construction and building services across multiple sectors including commercial, agecare, health, and residential. Founded…",
       "posted_date": "2026-08-11T10:51:23+00:00",
       "first_seen": "2026-08-12T11:51:46.992519+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7655,7 +7570,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: CA - San Francisco; CA - Remote; NY - New York City Employee Applicant Privacy Notice Who we are: Shape a brighter financial future with us. Together with our members, we’re changing the way people think…",
       "posted_date": "Wed, 12 Aug 2026 07:31:04 +0000",
       "first_seen": "2026-08-12T08:22:11.636198+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7673,7 +7588,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote About the Team Netlify's Finance team is responsible for the financial infrastructure that keeps the business running with clarity, managing the operating model, monthly reporting, budget…",
       "posted_date": "Wed, 12 Aug 2026 07:31:02 +0000",
       "first_seen": "2026-08-12T08:22:11.636198+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7691,7 +7606,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: UT - Cottonwood Heights; FL - Jacksonville, TX - Frisco; CA - San Francisco; NY - New York; DE - Greenville; NC - Charlotte; WA - Seattle; US - Remote Employee Applicant Privacy Notice Who we are: Shape a…",
       "posted_date": "Wed, 12 Aug 2026 07:30:59 +0000",
       "first_seen": "2026-08-12T08:22:11.636198+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7709,7 +7624,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States In 1905, chief engineer John Stevens inherited one of the most ambitious infrastructure projects in history: the…",
       "posted_date": "Wed, 12 Aug 2026 07:30:59 +0000",
       "first_seen": "2026-08-12T08:22:11.636198+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-engineer-price-comparison-portal-berlin-233707",
+      "title": "Software Engineer",
+      "company": "Preiswecker",
+      "location": "Berlin",
+      "url": "https://www.preiswecker.com/",
+      "tags": "Software Engineering E-Commerce Full-time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time",
+      "excerpt": "Preiswecker is a price comparison portal in Germany, helping thousands of users find the best deals online every day. We are looking for a Software Engineer to join our team and help build our price comparison platform.…",
+      "posted_date": 1786516800,
+      "first_seen": "2026-08-12T08:22:11.636198+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7727,7 +7660,7 @@ window.JOB_DATA = {
       "excerpt": "The objective of this project is to collect a large and diverse dataset of current neutral selfies, head-pose captures, and historical facial images to support machine-learning research and facial recognition model…",
       "posted_date": "2026-08-11T10:36:02-04:00",
       "first_seen": "2026-08-11T15:03:02.175983+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7745,7 +7678,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build…",
       "posted_date": "2026-08-11T09:38:07-04:00",
       "first_seen": "2026-08-11T15:03:02.175983+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7763,7 +7696,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build…",
       "posted_date": "2026-08-11T09:37:08-04:00",
       "first_seen": "2026-08-11T15:03:02.175983+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7781,7 +7714,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build…",
       "posted_date": "2026-08-11T09:36:47-04:00",
       "first_seen": "2026-08-11T15:03:02.175983+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7799,7 +7732,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you showcase your skills and earn competitive compensation? Look no further than Lemon.io — the marketplace that connects you with hand‑picked…",
       "posted_date": "2026-08-11T09:33:45-04:00",
       "first_seen": "2026-08-11T15:03:02.175983+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7817,7 +7750,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary We are looking for a Tech Lead to take ownership of a delivery portfolio within a Manufacturing Engineering group that builds the data products the plant depends on. This is a hands-on leadership…",
       "posted_date": "Tue, 11 Aug 2026 12:58:39 +0000",
       "first_seen": "2026-08-11T13:17:38.294988+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7835,7 +7768,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary We are seeking a Data Scientist to analyze anonymized consumer interaction data and uncover patterns in unstructured language across call center and cross-channel conversations. The primary goal is…",
       "posted_date": "Tue, 11 Aug 2026 12:40:35 +0000",
       "first_seen": "2026-08-11T13:17:38.294988+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Azure Platform Engineer",
+      "title": "Azure Platform Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Azure-Platform-Engineer Cloud-Engineer DevOps-Engineer Azure-Solutions-Architect Infrastructure-Engineer Azure-Platform-Engineering Azure-Cloud-Platform-Engineering Azure-Platform-Specialist Microsoft-Azure-Engineer Azure-Cloud-Engineer Azure-Engineer Cloud-Platform-Engineer Platform-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$133k – $158k",
+      "employment_type": "Full Time",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-10T20:50:07.855009+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7853,7 +7804,7 @@ window.JOB_DATA = {
       "excerpt": "Transform Lives. Earn Unlimited. Work Remote. As a Protocol Review Specialist, you'll conduct 20-minute consultative appointments with customers who've purchased our skin care and wellness products. Your mission? Guide…",
       "posted_date": "2026-08-10T13:36:57-04:00",
       "first_seen": "2026-08-10T17:56:21.582105+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7871,7 +7822,7 @@ window.JOB_DATA = {
       "excerpt": "Join the Frontline of Health Innovation at Sun Coast Sciences At Sun Coast Sciences , we’re on a mission to help people feel, think, and live better — through science. As an Appointment Setting Representative , you’ll…",
       "posted_date": "2026-08-10T13:32:22-04:00",
       "first_seen": "2026-08-10T17:56:21.582105+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7889,7 +7840,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative…",
       "posted_date": "Mon, 10 Aug 2026 07:30:55 +0000",
       "first_seen": "2026-08-10T08:43:06.732168+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7907,7 +7858,7 @@ window.JOB_DATA = {
       "excerpt": "About the Role We are actively seeking an experienced Red Team Offensive Security Specialist to join our remote cybersecurity team. In this role, you will conduct deep-dive, authorized offensive security assessments to…",
       "posted_date": "2026-08-10T01:49:48-04:00",
       "first_seen": "2026-08-10T06:13:50.132136+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7925,7 +7876,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY;Toronto, Ontario, CAN - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so…",
       "posted_date": "Sun, 09 Aug 2026 07:30:40 +0000",
       "first_seen": "2026-08-09T08:50:54.639044+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7943,7 +7894,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote US Company Description At Amwell, we’re transforming healthcare for all—powered by technology and inspired by people. Here, your ideas don’t just matter—they drive real change, improving lives on a…",
       "posted_date": "Sun, 09 Aug 2026 07:30:40 +0000",
       "first_seen": "2026-08-09T08:50:54.639044+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7961,7 +7912,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada Location Requirement: This role is open to candidates located in British Columbia or Ontario, Canada. At this time, we are only able to hire employees residing in these provinces. This is…",
       "posted_date": "Sat, 08 Aug 2026 07:30:54 +0000",
       "first_seen": "2026-08-08T08:49:09.359956+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7979,7 +7930,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US This is Engineering at Lattice Lattice's Engineering team is dedicated to building cutting-edge solutions that empower people and organizations to thrive. As AI becomes fundamental to every…",
       "posted_date": "Sat, 08 Aug 2026 07:30:46 +0000",
       "first_seen": "2026-08-08T08:49:09.359956+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -7997,7 +7948,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Within the client's Global Information Services (GIS) organization is a team of dedicated resources to build a digital center of excellence. This team is made up of diverse skillsets, roles and unique…",
       "posted_date": "Fri, 07 Aug 2026 15:54:26 +0000",
       "first_seen": "2026-08-07T16:02:22.895004+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8015,7 +7966,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA or Remote, US About the Role Descript is revolutionizing how traditional editing methodologies and AI technologies come together in every part of the creation process (recording,…",
       "posted_date": "Fri, 07 Aug 2026 07:31:06 +0000",
       "first_seen": "2026-08-07T09:05:05.244980+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8033,7 +7984,7 @@ window.JOB_DATA = {
       "excerpt": "Help Shape the Future of AI — From Anywhere AI is revolutionising how we interact with technology. From news feeds to navigation, machine learning can tailor our digital experiences to meet our needs — anytime,…",
       "posted_date": "2026-08-06T13:06:50-04:00",
       "first_seen": "2026-08-07T00:06:49.304915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8051,7 +8002,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx ,…",
       "posted_date": "2026-08-06T13:06:34-04:00",
       "first_seen": "2026-08-07T00:06:49.304915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8069,7 +8020,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx ,…",
       "posted_date": "2026-08-06T13:06:17-04:00",
       "first_seen": "2026-08-07T00:06:49.304915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8087,7 +8038,7 @@ window.JOB_DATA = {
       "excerpt": "Make videos about brands you love (like HelloFresh &amp; Ollie Pets) and get paid, no social following required! Hello! We’re looking for everyday people with something to say to join our platform!👋 Sign up (it's free)…",
       "posted_date": "2026-08-06T08:59:17-04:00",
       "first_seen": "2026-08-07T00:06:49.304915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8105,7 +8056,7 @@ window.JOB_DATA = {
       "excerpt": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products,…",
       "posted_date": "2026-08-05T09:45:42",
       "first_seen": "2026-08-06T12:59:19.456335+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8123,7 +8074,25 @@ window.JOB_DATA = {
       "excerpt": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who…",
       "posted_date": "2026-08-05T08:47:07",
       "first_seen": "2026-08-06T12:59:19.456335+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:AI Pipeline Engineer",
+      "title": "AI Pipeline Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "AI-Pipeline-Engineer Data-Engineer ML-Infrastructure-Engineer Data-Pipeline-Engineer AI-and-Data-Engineering AI-ML-Pipeline-Engineer ML-Pipeline-Engineer AI-Data-Pipeline-Engineering ML-Data-Pipeline-Engineer Generative-AI-Pipeline-Engineering AI-Pipeline-Development Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$100k – $150k",
+      "employment_type": "Full Time",
+      "excerpt": "AI Pipeline Engineer- Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-08-06T10:44:27.216832+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8141,7 +8110,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:36:36-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8159,7 +8128,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:35:18-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8177,7 +8146,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:31:29-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8195,7 +8164,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:30:18-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -8213,7 +8182,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:29:06-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -8231,7 +8200,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:27:54-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8249,7 +8218,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:27:39-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8267,7 +8236,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:27:13-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8285,7 +8254,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:26:53-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8303,7 +8272,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:26:08-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8321,7 +8290,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:25:13-04:00",
       "first_seen": "2026-08-05T20:34:59.365620+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -8339,7 +8308,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:24:36-04:00",
       "first_seen": "2026-08-05T18:25:11.947297+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8357,7 +8326,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:24:10-04:00",
       "first_seen": "2026-08-05T18:25:11.947297+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8375,7 +8344,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-08-05T14:23:34-04:00",
       "first_seen": "2026-08-05T18:25:11.947297+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8393,7 +8362,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-08-05T14:16:09-04:00",
       "first_seen": "2026-08-05T18:25:11.947297+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8411,7 +8380,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This…",
       "posted_date": "Wed, 05 Aug 2026 05:52:46 +0000",
       "first_seen": "2026-08-05T08:44:06.903719+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8429,7 +8398,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the…",
       "posted_date": "Wed, 05 Aug 2026 08:23:41 +0000",
       "first_seen": "2026-08-05T08:44:06.903719+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:scalejet:Amazon PPC Specialist",
+      "title": "Amazon PPC Specialist",
+      "company": "ScaleJet",
+      "location": "Ukraine",
+      "url": "https://himalayas.app/jobs/scalejet",
+      "tags": "Amazon-PPC-Specialist PPC-Manager Amazon-Marketing E-commerce-Marketing Digital-Marketing-Specialist Amazon-PPC-Consultant Amazon-PPC-Strategist Amazon-Ads-Specialist Amazon-Advertising-Specialist PPC-Specialist Amazon-PPC-Manager Amazon-PPC-Campaign-Manager E-Commerce-PPC-Specialist Amazon-PPC-Team-Lead Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Our client, RPGECOM, is a boutique Amazon Marketing Agency focused on helping both Amazon businesses and its own in-house Brands to thrive.",
+      "posted_date": "",
+      "first_seen": "2026-08-05T05:51:39.224712+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8447,7 +8434,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET,…",
       "posted_date": "Tue, 04 Aug 2026 22:12:17 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8465,7 +8452,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY…",
       "posted_date": "Tue, 04 Aug 2026 22:12:17 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8483,7 +8470,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by…",
       "posted_date": "Tue, 04 Aug 2026 22:12:17 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8501,7 +8488,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver…",
       "posted_date": "Tue, 04 Aug 2026 22:12:17 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8519,7 +8506,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY…",
       "posted_date": "Tue, 04 Aug 2026 22:12:17 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8537,7 +8524,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job Description: Title:&nbsp; Web Developer Job Level: Full-Time/Remote Location: Barbados Position Overview: We are seeking an experienced…",
       "posted_date": "Tue, 04 Aug 2026 22:13:00 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Web"
       ]
@@ -8555,7 +8542,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Accra, Remote, Ghana URL: http://meisterpiece.com JOB DESCRIPTION Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites…",
       "posted_date": "Tue, 04 Aug 2026 22:13:00 +0000",
       "first_seen": "2026-08-04T23:07:13.896998+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Web"
       ]
@@ -8573,7 +8560,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-04T17:53:44.395835+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8591,7 +8578,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-04T12:04:39.288153+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8609,7 +8596,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-04T09:41:12.226280+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8627,7 +8614,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar…",
       "posted_date": "Mon, 03 Aug 2026 07:30:43 +0000",
       "first_seen": "2026-08-03T08:33:20.137322+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8645,7 +8632,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-02T13:40:00.638198+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8663,7 +8650,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco or Remote (U.S.) Doximity is transforming the healthcare industry. Join our mission to help every physician be more productive and provide better care for their patients. As medicine's…",
       "posted_date": "Sun, 02 Aug 2026 07:31:05 +0000",
       "first_seen": "2026-08-02T09:12:46.316223+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8681,7 +8668,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA or Remote (U.S.) Doximity is transforming the healthcare industry. Join our mission to help every physician be more productive and provide better care for their patients. As medicine's…",
       "posted_date": "Sun, 02 Aug 2026 07:30:48 +0000",
       "first_seen": "2026-08-02T09:12:46.316223+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8699,7 +8686,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-01T23:04:19.623907+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8717,7 +8704,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-08-01T12:04:32.121189+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8735,7 +8722,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Germany (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR…",
       "posted_date": "Sat, 01 Aug 2026 07:30:47 +0000",
       "first_seen": "2026-08-01T10:03:41.406486+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8753,7 +8740,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: United Kingdom (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and…",
       "posted_date": "Sat, 01 Aug 2026 07:30:41 +0000",
       "first_seen": "2026-08-01T10:03:41.406486+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8771,7 +8758,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-31T22:09:33.600977+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8789,7 +8776,7 @@ window.JOB_DATA = {
       "excerpt": "Cloudasta is looking for a full-time seasoned Customer Success Lead to own, grow, and protect the commercial relationships within our high-touch customer base. This is a player-coach role: you will directly manage a…",
       "posted_date": "2026-07-31T15:21:46-04:00",
       "first_seen": "2026-07-31T20:22:24.011746+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8807,7 +8794,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-31T18:22:48.786875+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8825,7 +8812,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: USA URL: https://superplane.com We are hiring a product engineer to join SuperPlane and own meaningful projects end to end. This is a remote role. We currently work across GMT+2 to GMT-3 and welcome…",
       "posted_date": "Fri, 31 Jul 2026 13:30:28 +0000",
       "first_seen": "2026-07-31T16:03:10.322447+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8843,9 +8830,27 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our…",
       "posted_date": "Fri, 31 Jul 2026 11:59:36 +0000",
       "first_seen": "2026-07-31T13:00:10.291593+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Streaming Data Engineer",
+      "title": "Streaming Data Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Streaming-Data-Engineer Kafka-Engineer Data-Engineer Platform-Engineer Streaming-Platform-Engineer Data-Streaming-Engineer Streaming-Data-Engineering Stream-Processing-Engineer Streaming-Software-Engineer Streaming-Systems-Engineer Streaming-Infrastructure-Engineer Streaming-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$78k – $105k",
+      "employment_type": "Full Time",
+      "excerpt": "Streaming Data Engineer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-07-31T13:00:10.291593+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -8861,9 +8866,27 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-31T13:00:10.291593+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
+      ]
+    },
+    {
+      "id": "himalayas:v-tal-o-futuro-passa-por-aqui:Desenvolvedor Sênior",
+      "title": "Desenvolvedor Sênior",
+      "company": "V.tal | o futuro passa por aqui",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/v-tal-o-futuro-passa-por-aqui",
+      "tags": "Senior-Software-Developer Backend-Development Software-Engineer Telecommunications-Software Billing-Systems-Development Desenvolvedor-Senior Desarrollador-De-Software-Senior Senior-Developer Senior-Software-Development Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Na V. tal, acreditamos que a tecnologia conecta pessoas e transforma o futuro.",
+      "posted_date": "",
+      "first_seen": "2026-07-30T18:20:35.976126+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
       ]
     },
     {
@@ -8879,7 +8902,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-30T18:20:35.976126+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8897,7 +8920,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-30T14:16:50.111523+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8915,7 +8938,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-07-28T14:23:05",
       "first_seen": "2026-07-30T11:12:20.810771+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "React Native",
         "Android"
@@ -8934,7 +8957,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA; Remote, US Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners…",
       "posted_date": "Thu, 30 Jul 2026 07:31:03 +0000",
       "first_seen": "2026-07-30T08:36:41.180936+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8952,7 +8975,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-29T21:02:14.208009+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8970,7 +8993,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-29T17:20:21.923312+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -8988,7 +9011,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US…",
       "posted_date": "2026-07-28T13:48:16-04:00",
       "first_seen": "2026-07-28T18:18:50.571172+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9006,7 +9029,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-07-28T07:59:26-04:00",
       "first_seen": "2026-07-28T14:23:01.518683+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9024,7 +9047,7 @@ window.JOB_DATA = {
       "excerpt": "Our company Surfer is an AI Visibility Platform that helps marketing teams become the definitive answer wherever their buyers search - across Google and AI search. The platform combines data, research-backed…",
       "posted_date": "2026-07-28T07:32:45-04:00",
       "first_seen": "2026-07-28T14:23:01.518683+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9042,7 +9065,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-27T17:47:11.943932+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9060,7 +9083,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: http://onthegosystems.com About OTGS At OnTheGoSystems, we build products used by hundreds of thousands of websites worldwide. We're a fully remote, international team that values ownership,…",
       "posted_date": "Mon, 27 Jul 2026 14:16:33 +0000",
       "first_seen": "2026-07-27T15:46:18.899695+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9078,7 +9101,7 @@ window.JOB_DATA = {
       "excerpt": "Polly English is an online English teaching company based in Singapore. We specialize in teaching English to students aged 3 to 18 across Asia, using interactive courseware inspired by Oxford Thinkers and delivered…",
       "posted_date": "2026-07-27T03:35:52-04:00",
       "first_seen": "2026-07-27T08:36:01.912411+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9096,7 +9119,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-25T13:47:26.090612+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9114,7 +9137,7 @@ window.JOB_DATA = {
       "excerpt": "## About Outsite Outsite is a global coliving company for remote workers — hotel-quality service, extended-stay flexibility, and a built-in community, at the intersection of hospitality and lifestyle. We operate 40+…",
       "posted_date": "2026-07-23T15:39:28",
       "first_seen": "2026-07-25T11:15:57.388915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9132,7 +9155,7 @@ window.JOB_DATA = {
       "excerpt": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online…",
       "posted_date": "2026-07-23T15:37:35",
       "first_seen": "2026-07-25T11:15:57.388915+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Android"
       ]
@@ -9150,7 +9173,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace…",
       "posted_date": "Fri, 24 Jul 2026 14:27:38 +0000",
       "first_seen": "2026-07-24T15:36:16.831935+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9168,7 +9191,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: McLean, VA URL: https://www.yokoco.com/ We’re seeking a Front-End Developer who wants to make the world a better place through clean code, thoughtful craftsmanship, and a genuine love of building great…",
       "posted_date": "Fri, 24 Jul 2026 14:03:46 +0000",
       "first_seen": "2026-07-24T15:36:16.831935+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Frontend"
       ]
@@ -9186,7 +9209,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-07-24T07:53:58-04:00",
       "first_seen": "2026-07-24T13:56:59.362583+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9204,7 +9227,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital is seeking participants for a data collection study in India. Project Cassia is about collecting Live Photos of printed text and handwritten text on various materials and locations, in Bangla , Gujarati ,…",
       "posted_date": "2026-07-24T07:28:01-04:00",
       "first_seen": "2026-07-24T11:45:20.608416+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9222,7 +9245,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote (North America) About Hightouch Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance history in one…",
       "posted_date": "Fri, 24 Jul 2026 07:01:12 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9240,7 +9263,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, United States GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and…",
       "posted_date": "Fri, 24 Jul 2026 07:01:02 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9258,7 +9281,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and…",
       "posted_date": "Fri, 24 Jul 2026 07:00:51 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9276,7 +9299,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, US GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance…",
       "posted_date": "Fri, 24 Jul 2026 07:00:48 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9294,7 +9317,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and…",
       "posted_date": "Fri, 24 Jul 2026 07:00:48 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9312,7 +9335,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Foster City, California; Marlton, New Jersey; Remote, United States At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer…",
       "posted_date": "Fri, 24 Jul 2026 07:01:22 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -9330,7 +9353,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add…",
       "posted_date": "Fri, 24 Jul 2026 07:01:12 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -9348,7 +9371,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Fri, 24 Jul 2026 07:01:02 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9366,7 +9389,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Fri, 24 Jul 2026 07:00:51 +0000",
       "first_seen": "2026-07-24T09:24:26.135869+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9384,7 +9407,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit…",
       "posted_date": "Fri, 24 Jul 2026 05:21:03 +0000",
       "first_seen": "2026-07-24T06:30:46.912189+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9402,25 +9425,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Fri, 24 Jul 2026 05:20:50 +0000",
       "first_seen": "2026-07-24T06:30:46.912189+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "himalayas:bright-vision-technologies:PeopleSoft Application Developer",
-      "title": "PeopleSoft Application Developer",
+      "id": "himalayas:bright-vision-technologies:Technical Cloud Architect",
+      "title": "Technical Cloud Architect",
       "company": "Bright Vision Technologies",
       "location": "United States",
       "url": "https://himalayas.app/jobs/bright-vision-technologies",
-      "tags": "PeopleSoft-Developer Application-Developer ERP-Developer PeopleTools-Developer Enterprise-Software-Developer Oracle-PeopleSoft-Developer PeopleSoft-Solutions-Developer PeopleSoft-Technical-Developer PeopleSoft-Development PeopleSoft-API-Developer PeopleSoft-Integration-Developer PeopleSoft-Engineer Developer Senior Full Time",
+      "tags": "Technical-Cloud-Architect Cloud-Architect Solutions-Architect Cloud-Solutions-Architect Cloud-Architecture Cloud-Technical-Architect Technical-Architect AWS-Technical-Architect Cloud-Technical-Lead Cloud-Systems-Architect Cloud-Solution-Architect Cloud-Infrastructure-Architect Senior Full Time",
       "source": "Himalayas",
-      "salary": "$80k – $110k",
+      "salary": "$100k – $150k",
       "employment_type": "Full Time",
-      "excerpt": "PeopleSoft Application Developer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
       "posted_date": "",
-      "first_seen": "2026-07-23T21:10:33.301712+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "first_seen": "2026-07-24T03:19:44.337406+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9438,7 +9461,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Philadelphia, PA URL: https://www.nuuly.com/ Nuuly is hiring a Senior Software Engineer to join our Technology team. Building performant scalable cloud service environments is hard. Nuuly knows this…",
       "posted_date": "Thu, 23 Jul 2026 19:25:07 +0000",
       "first_seen": "2026-07-23T19:26:24.736814+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:AEM Solutions Engineer",
+      "title": "AEM Solutions Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "AEM-Developer Adobe-Experience-Manager-Developer Solutions-Engineer AEM-Solutions-Engineer Enterprise-Web-Developer AEM-Engineer AEM-Software-Engineer AEM-Technical-Lead Lead-AEM-Developer Senior-AEM-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$135k – $155k",
+      "employment_type": "Full Time",
+      "excerpt": "AEM Solution Engineer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-07-23T19:26:24.736814+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9456,7 +9497,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: UK URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Product Manager – Progressive Web Apps (PWA)…",
       "posted_date": "Thu, 23 Jul 2026 13:29:40 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9474,7 +9515,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: http://wevote.us * Fraud and phishing warning *&nbsp; If you are reading this not on the WeVote site, please apply directly via our volunteering portal/ATS…",
       "posted_date": "Thu, 23 Jul 2026 13:29:40 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9492,7 +9533,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Canada URL: http://redspace.com Description About REDspace At REDspace ( REDspace.com ) we’re a team of passionate innovators building cutting-edge software that powers some of the world’s leading brands.…",
       "posted_date": "Thu, 23 Jul 2026 13:29:27 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9510,7 +9551,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: http://cfive.com cFive Solutions, Inc. (cFive) provides software that aids community supervision agencies in their mission to reduce recidivism, improve lives, and keep communities safe.&nbsp;…",
       "posted_date": "Thu, 23 Jul 2026 13:29:27 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Web"
       ]
@@ -9528,7 +9569,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: URL: http://businesswebsolutions.us This is a remote position. Job Overview We are looking for aspiring Web Developer Interns who want to gain practical experience in website development and design. This…",
       "posted_date": "Thu, 23 Jul 2026 13:29:27 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Web"
       ]
@@ -9546,7 +9587,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Fully Remote - US URL: http://ahutech.com Benefits: 401(k) Flexible schedule Health insurance Paid time off Vision insurance Job Description: Experience required in industrial wet paint and powder coating…",
       "posted_date": "Thu, 23 Jul 2026 13:29:27 +0000",
       "first_seen": "2026-07-23T15:13:46.865089+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9564,7 +9605,7 @@ window.JOB_DATA = {
       "excerpt": "💸 Up to USD 50,000 salary on a full time, contractor contract 🌎 Fully remote role with working hours aligned to US Eastern Time. 🤝 Account-management role with real responsibility for client operating clarity,…",
       "posted_date": "2026-07-23T05:56:53-04:00",
       "first_seen": "2026-07-23T10:28:38.614927+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9582,7 +9623,7 @@ window.JOB_DATA = {
       "excerpt": "🇨🇦 Up to CAD 80,000 per year, on a full time, permanent employment contract 🌎 Fully remote role with working hours aligned to US Eastern Time. 🏖️ 33 Days Paid Leave and Benefits 🤝 Account-management role with real…",
       "posted_date": "2026-07-23T05:56:25-04:00",
       "first_seen": "2026-07-23T10:28:38.614927+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9600,7 +9641,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:05:19 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9618,7 +9659,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:05:10 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9636,7 +9677,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:05:02 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9654,7 +9695,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:04:41 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9672,7 +9713,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and…",
       "posted_date": "Thu, 23 Jul 2026 07:04:33 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9690,7 +9731,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:04:24 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9708,7 +9749,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp;…",
       "posted_date": "Thu, 23 Jul 2026 07:04:11 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9726,7 +9767,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:04:11 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9744,7 +9785,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Singapore Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense,…",
       "posted_date": "Thu, 23 Jul 2026 07:04:09 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9762,7 +9803,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Thu, 23 Jul 2026 07:04:09 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9780,7 +9821,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, San Francisco, US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious…",
       "posted_date": "Thu, 23 Jul 2026 07:03:56 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9798,7 +9839,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Ontario, Canada (DNU) Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of…",
       "posted_date": "Thu, 23 Jul 2026 07:03:38 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9816,7 +9857,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and…",
       "posted_date": "Thu, 23 Jul 2026 07:03:34 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9834,7 +9875,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Ireland Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of…",
       "posted_date": "Thu, 23 Jul 2026 07:03:19 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9852,7 +9893,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Chicago, IL or San Francisco, CA OR US Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most…",
       "posted_date": "Thu, 23 Jul 2026 07:03:05 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9870,7 +9911,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:57 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9888,7 +9929,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:52 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9906,7 +9947,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:37 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9924,7 +9965,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Brazil Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Thu, 23 Jul 2026 07:02:37 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9942,7 +9983,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, North America Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use…",
       "posted_date": "Thu, 23 Jul 2026 07:02:37 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9960,7 +10001,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:37 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9978,7 +10019,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Colombia Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of…",
       "posted_date": "Thu, 23 Jul 2026 07:02:22 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -9996,7 +10037,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest…",
       "posted_date": "Thu, 23 Jul 2026 07:02:10 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10014,7 +10055,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp;…",
       "posted_date": "Thu, 23 Jul 2026 07:02:10 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10032,7 +10073,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:10 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10050,7 +10091,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:02:10 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10068,7 +10109,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:01:42 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10086,7 +10127,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:01:36 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10104,7 +10145,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Singapore Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense,…",
       "posted_date": "Thu, 23 Jul 2026 07:01:26 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10122,7 +10163,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US-Chicago, US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use…",
       "posted_date": "Thu, 23 Jul 2026 07:01:26 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10140,7 +10181,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - EMEA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:01:15 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10158,7 +10199,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Australia Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense,…",
       "posted_date": "Thu, 23 Jul 2026 07:01:13 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10176,7 +10217,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp;…",
       "posted_date": "Thu, 23 Jul 2026 07:01:07 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10194,7 +10235,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to…",
       "posted_date": "Thu, 23 Jul 2026 07:00:55 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10212,7 +10253,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Seattle, WA, Remote-US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups -…",
       "posted_date": "Thu, 23 Jul 2026 07:04:41 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10230,7 +10271,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:04:31 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Frontend"
       ]
@@ -10248,7 +10289,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:03:20 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10266,7 +10307,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:05:11 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10284,7 +10325,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to…",
       "posted_date": "Thu, 23 Jul 2026 07:04:27 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10302,7 +10343,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:03:56 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10320,7 +10361,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Thu, 23 Jul 2026 07:03:54 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -10338,7 +10379,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:03:54 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -10356,7 +10397,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Thu, 23 Jul 2026 07:03:40 +0000",
       "first_seen": "2026-07-23T07:36:30.055036+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -10374,7 +10415,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build…",
       "posted_date": "2026-07-22T08:57:27-04:00",
       "first_seen": "2026-07-22T14:08:36.827530+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10392,7 +10433,7 @@ window.JOB_DATA = {
       "excerpt": "Tourizzy is a mobile travel platform that allows travelers to explore cities through short, location-based video tours accessed directly on location via a mobile app. You can download the app and try it yourself. We are…",
       "posted_date": "2026-07-22T06:42:30-04:00",
       "first_seen": "2026-07-22T11:51:42.791282+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10410,7 +10451,7 @@ window.JOB_DATA = {
       "excerpt": "Verstärken Sie unser Team von Senior Ratern und leisten Sie einen wichtigen Beitrag zur Erstellung hochwertiger Validierungsdaten, die die Weiterentwicklung und Qualitätssicherung führender Suchmaschinen und…",
       "posted_date": "2026-07-22T06:41:56-04:00",
       "first_seen": "2026-07-22T11:51:42.791282+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10428,7 +10469,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own…",
       "posted_date": "2026-07-22T06:41:03-04:00",
       "first_seen": "2026-07-22T11:51:42.791282+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10446,7 +10487,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies -…",
       "posted_date": "Wed, 22 Jul 2026 07:03:14 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10464,7 +10505,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US Remote National Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use…",
       "posted_date": "Wed, 22 Jul 2026 07:02:54 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10482,7 +10523,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC-Privy, US-Remote Who we are About Privy Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to…",
       "posted_date": "Wed, 22 Jul 2026 07:02:37 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -10500,7 +10541,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:02:28 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10518,7 +10559,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Wed, 22 Jul 2026 07:02:20 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10536,7 +10577,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:02:04 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10554,7 +10595,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune…",
       "posted_date": "Wed, 22 Jul 2026 07:02:04 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10572,7 +10613,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote-US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune…",
       "posted_date": "Wed, 22 Jul 2026 07:02:04 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10590,7 +10631,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Denver, CO;New York, NY;Atlanta, GA;Seattle, WA;United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health…",
       "posted_date": "Wed, 22 Jul 2026 07:01:49 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10608,7 +10649,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:01:44 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10626,7 +10667,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US: Select locations Role Description Dropbox is hiring a Head of Field &amp; Partner Marketing to lead our global field and partner marketing organization and drive pipeline growth across our…",
       "posted_date": "Wed, 22 Jul 2026 07:01:44 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10644,7 +10685,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Toronto, Remote-Canada Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use…",
       "posted_date": "Wed, 22 Jul 2026 07:01:44 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10662,7 +10703,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:01:44 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10680,7 +10721,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including…",
       "posted_date": "Wed, 22 Jul 2026 07:01:44 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10698,7 +10739,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Chicago, US-Remote, Canada-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious…",
       "posted_date": "Wed, 22 Jul 2026 07:01:35 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10716,7 +10757,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY; Remote - US Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80%…",
       "posted_date": "Wed, 22 Jul 2026 07:01:35 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10734,7 +10775,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff —…",
       "posted_date": "Wed, 22 Jul 2026 07:01:32 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10752,7 +10793,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US: Select locations Role Description Dropbox’s Design team is looking for a Director of Product Design to define the next generation of product experiences and infrastructure for Dropbox. In this…",
       "posted_date": "Wed, 22 Jul 2026 07:01:32 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10770,7 +10811,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:01:32 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10788,7 +10829,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the…",
       "posted_date": "Wed, 22 Jul 2026 07:01:14 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10806,7 +10847,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US-Remote, Chicago, Seattle, San Francisco Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most…",
       "posted_date": "Wed, 22 Jul 2026 07:01:13 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Backend"
       ]
@@ -10824,7 +10865,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Hybrid or Remote About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet…",
       "posted_date": "Wed, 22 Jul 2026 07:00:51 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10842,7 +10883,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and…",
       "posted_date": "Wed, 22 Jul 2026 07:04:57 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10860,7 +10901,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:04:40 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10878,7 +10919,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Luxembourg Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense,…",
       "posted_date": "Wed, 22 Jul 2026 07:04:35 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10896,7 +10937,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:04:08 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10914,7 +10955,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:04:06 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10932,7 +10973,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US-Remote, Atlanta, Chicago Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups…",
       "posted_date": "Wed, 22 Jul 2026 07:04:06 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10950,7 +10991,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp;…",
       "posted_date": "Wed, 22 Jul 2026 07:03:56 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10968,7 +11009,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote This role is part of Datadog’s Security Agent team, which powers critical security capabilities across Workload Protection,…",
       "posted_date": "Wed, 22 Jul 2026 07:03:51 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -10986,7 +11027,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Portugal, Remote This role is part of Datadog’s Security Agent team, which powers critical security capabilities across Workload Protection, Vulnerability Management, Cloud Security products, and other…",
       "posted_date": "Wed, 22 Jul 2026 07:03:47 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11004,7 +11045,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:03:47 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11022,7 +11063,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Ireland Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of…",
       "posted_date": "Wed, 22 Jul 2026 07:03:46 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11040,7 +11081,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:03:46 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11058,7 +11099,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Wed, 22 Jul 2026 07:03:14 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11076,7 +11117,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Brazil Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and…",
       "posted_date": "Wed, 22 Jul 2026 07:04:06 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11094,7 +11135,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 22 Jul 2026 07:04:52 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11112,7 +11153,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: France, Remote; Germany, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote; United Kingdom, Remote We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data…",
       "posted_date": "Wed, 22 Jul 2026 07:03:47 +0000",
       "first_seen": "2026-07-22T09:30:30.096261+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11130,7 +11171,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA;New York, NY;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote &nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the…",
       "posted_date": "Wed, 22 Jul 2026 04:02:50 +0000",
       "first_seen": "2026-07-22T06:34:35.874982+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11148,7 +11189,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote India About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet…",
       "posted_date": "Wed, 22 Jul 2026 04:02:19 +0000",
       "first_seen": "2026-07-22T06:34:35.874982+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11166,7 +11207,7 @@ window.JOB_DATA = {
       "excerpt": "About Exchange Life Exchange Life is one of the fastest-growing e-commerce travel jewelry brands in the US. We sell collectible country charms for travelers, with new products launching soon. We run a fully remote…",
       "posted_date": "2026-07-21T12:05:05-04:00",
       "first_seen": "2026-07-21T17:26:31.308659+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11184,7 +11225,7 @@ window.JOB_DATA = {
       "excerpt": "About Bloomy Bloomy is an AI tutor and curriculum for K-12 students. Our student users are learning approximately 2x faster in early pilots, and students and teachers alike love our product. How it works: We diagnose…",
       "posted_date": "",
       "first_seen": "2026-07-21T17:26:31.308659+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11202,7 +11243,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Zug, Switzerland URL: https://www.maptiler.com/ Full-time Remote in Europe&nbsp; Description Are you passionate about enhancing customer experiences through geospatial technology? MapTiler is seeking…",
       "posted_date": "Tue, 21 Jul 2026 14:57:31 +0000",
       "first_seen": "2026-07-21T15:07:16.074154+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11220,7 +11261,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-07-21T10:25:53-04:00",
       "first_seen": "2026-07-21T15:07:16.074154+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11238,7 +11279,7 @@ window.JOB_DATA = {
       "excerpt": "Summary The Case Processing Manager will work closely with leadership and insurance carriers to aid in resolving cases. This individual will be responsible for providing critical support to new clients and ensuring they…",
       "posted_date": "2026-07-21T03:48:41-04:00",
       "first_seen": "2026-07-21T10:29:08.456634+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11256,7 +11297,7 @@ window.JOB_DATA = {
       "excerpt": "Who we are We are a team of hard-working marketers running a Premier Google Partner ad agency. We help businesses large and small. Most of our clients are located in the United States, and our team members are located…",
       "posted_date": "2026-07-20T10:52:08-04:00",
       "first_seen": "2026-07-20T16:35:21.875305+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11274,7 +11315,7 @@ window.JOB_DATA = {
       "excerpt": "🇪🇬 Up to EUR 25,000 per year, on a full-time, permanent employment contract 🌎 Fully remote working from anywhere in Egypt! 🏖️ 33 Days Paid Leave and Benefits ✨ Exciting high growth product, relied on by leading global…",
       "posted_date": "2026-07-20T08:36:51-04:00",
       "first_seen": "2026-07-20T14:19:46.237213+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11292,9 +11333,27 @@ window.JOB_DATA = {
       "excerpt": "🇿🇦 Up to ZAR 500,000 per year , on a full-time, permanent employment contract 🌎 Fully remote working from anywhere in South Africa! 🏖️ 33 Days Paid Leave and Benefits ✨ Exciting high growth product, relied on by leading…",
       "posted_date": "2026-07-20T08:36:13-04:00",
       "first_seen": "2026-07-20T14:19:46.237213+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bright-vision-technologies:Java Developer – Windchill",
+      "title": "Java Developer – Windchill",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bright-vision-technologies",
+      "tags": "Java-Developer Windchill-Developer Software-Developer Backend-Engineer Enterprise-Software-Developer Windchill-Java-Developer Windchill-Application-Developer Windchill-Engineer Windchill-Middleware-Developer Windchill-Backend-Developer Windchill-Integration-Developer Windchill-PLM-Engineer Windchill-Development Windchill-Customization-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$80k – $110k",
+      "employment_type": "Full Time",
+      "excerpt": "Java Developer – Windchill – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-07-20T04:39:11.384172+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Backend"
       ]
     },
     {
@@ -11310,43 +11369,25 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-18T04:03:50.775987+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "himalayas:alt:Lead Product Designer",
-      "title": "Lead Product Designer",
-      "company": "Alt.xyz",
+      "id": "himalayas:activefence:Freelancer - AI Red Team Experts",
+      "title": "Freelancer - AI Red Team Experts",
+      "company": "ActiveFence",
       "location": "United States",
-      "url": "https://himalayas.app/jobs/alt",
-      "tags": "Product-Design UX-Design Design-Systems Marketplace-Design AI-Product-Design Lead-UX-Designer Lead-UI-UX-Designer Lead-UI-Designer Lead-UX-UI-Designer Principal-Product-Designer Head-Of-Product-Design Product-Designer Senior Full Time",
+      "url": "https://himalayas.app/jobs/activefence",
+      "tags": "Cybersecurity Penetration-Testing Red-Teaming AI-Security Ethical-Hacking Freelance-AI-Red-Team-Specialist AI-Red-Team-Specialist AI-Red-Team AI-Red-Team-Security-Engineer AI-Red-Teaming Red-Team-Expert Freelance-AI-Security-Consultant Red-Team-Consultant Senior Contractor",
       "source": "Himalayas",
-      "salary": "$175k – $175k",
-      "employment_type": "Full Time",
-      "excerpt": "Alt is unlocking the value of alternative assets, starting with the $5 B trading-card market.",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "DescriptionAlice. io (formerly known as ActiveFence) is a leading trust, safety, and security company.",
       "posted_date": "",
       "first_seen": "2026-07-17T21:58:19.968805+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:precision-aq:Vice President, Market Access Consulting",
-      "title": "Vice President, Market Access Consulting",
-      "company": "Precision AQ",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/precision-aq",
-      "tags": "Consulting Market-Access Healthcare-Consulting Pharmaceutical-Consulting Business-Development Life-Sciences-Consulting Reimbursement-Strategy Healthcare-Strategy Market-Access-Consultant Associate-Director-Market-Access Director-Of-Market-Access Market-Access-Director Vice-President-Clinical-Consulting Executive Full Time",
-      "source": "Himalayas",
-      "salary": "$196k – $275k",
-      "employment_type": "Full Time",
-      "excerpt": "The VP, Market Access Consulting will be responsible for the growth and development of consultative services supporting life sciences clients as a key leader of the consulting team within Precision AQ.",
-      "posted_date": "",
-      "first_seen": "2026-07-17T21:58:19.968805+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11364,7 +11405,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-17T14:47:19.794092+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11382,25 +11423,7 @@ window.JOB_DATA = {
       "excerpt": "We are hiring a Head of Marketing &amp; Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d…",
       "posted_date": "2026-08-15T19:58:15",
       "first_seen": "2026-07-17T12:14:07.686767+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:instatalent-recruit-llp:Looking for Non IT Recruiter / Technical Recruiter - Strong on Sales Hiring for ",
-      "title": "Looking for Non IT Recruiter / Technical Recruiter - Strong on Sales Hiring for ",
-      "company": "InstaTalent Recruit LLP",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/instatalent-recruit-llp",
-      "tags": "Non-IT-Recruiting BFSI-Recruiting Broking-Recruitment Sales-Hiring Financial-Services-Recruiting Senior-Non-IT-Recruiter Technical-Recruiting-Sales Sales-Recruiter Tech-Recruiting-Sales Senior-Technical-Recruiter Senior-Sales-Recruiter Technical-Recruiter IT-Technical-Recruiter IT-Recruiter Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Position: Recruiter / Lead Recruiter / Non-IT Recruitment Manager (Broking & Financial Domain) Location: Work from Home (Remote) / Hybrid - Noida Experience: 5–10 years Industry Focus: Broking, Financial Services, BFSI,…",
-      "posted_date": "",
-      "first_seen": "2026-07-16T22:07:24.377789+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11418,7 +11441,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-07-16T18:10:14.943084+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11436,9 +11459,27 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Los Angeles URL: https://wonderdoghealth.com/ Wonder Dog is a preventative health platform for dogs. We send licensed vet techs to your home for a blood draw, run a 40+ biomarker panel through a national…",
       "posted_date": "Thu, 09 Jul 2026 17:03:38 +0000",
       "first_seen": "2026-07-09T18:01:27.247614+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:instacart:Strategy & Planning Manager, Caper Sales",
+      "title": "Strategy & Planning Manager, Caper Sales",
+      "company": "Instacart",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/instacart",
+      "tags": "Business-Development Enterprise-Sales Strategic-Planning Solution-Selling Retail-Sales Sales-Strategy-Manager Strategy-and-Planning-Manager Sales-Strategy-And-Operations-Manager Sales-Planning-Manager Strategic-Planning-Manager Strategic-Sales-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "CAD 151k – CAD 159k",
+      "employment_type": "Full Time",
+      "excerpt": "We're transforming the grocery industryAt Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together.",
+      "posted_date": "",
+      "first_seen": "2026-07-09T15:22:37.831888+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -11454,25 +11495,79 @@ window.JOB_DATA = {
       "excerpt": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive,…",
       "posted_date": "2026-08-07T01:10:06",
       "first_seen": "2026-07-09T11:15:34.875646+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "himalayas:permitflow:Permit Operations Lead (Fully Remote)",
-      "title": "Permit Operations Lead (Fully Remote)",
-      "company": "PermitFlow",
-      "location": "Canada, United States",
-      "url": "https://himalayas.app/jobs/permitflow",
-      "tags": "Permitting-Supervisor Permit-Management Operations-Lead Operations Mid-level Full Time",
+      "id": "himalayas:p2p-org:Staff Engineer, Syncro",
+      "title": "Staff Engineer, Syncro",
+      "company": "P2P. org",
+      "location": "Georgia, Kazakhstan, Montenegro, Poland, Serbia, United Kingdom",
+      "url": "https://himalayas.app/jobs/p2p-org",
+      "tags": "Staff-Engineer Staff-Engineer-Jobs Senior-Staff-Engineer Staff-Engineering-Jobs Staff-Engineering Senior Full Time",
       "source": "Himalayas",
-      "salary": "$70k – $100k",
+      "salary": "",
       "employment_type": "Full Time",
-      "excerpt": "PermitFlow is redefining how America builds. We’re an applied AI company serving the nation’s builders, tackling one of the largest information challenges in the economy: understanding what can be built, where, and how.",
+      "excerpt": "is the largest institutional staking provider with a TVL of over $10B and a market share exceeding 20% in restaking.",
       "posted_date": "",
-      "first_seen": "2026-06-16T11:23:11.679787+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "first_seen": "2026-06-17T09:53:45.540158+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:sarj-ai:AI Research Engineer",
+      "title": "AI Research Engineer",
+      "company": "Sarj.ai",
+      "location": "Saudi Arabia",
+      "url": "https://himalayas.app/jobs/sarj-ai",
+      "tags": "AI-Research-Engineer AI-ML-Research-Engineer ML-AI-Research-Engineer Senior-AI-Research-Engineer ML-Research-Engineer AI-Research-Scientist AI-LLM-Research-Engineer Machine-Learning-Research-Engineer Mid-Level-AI-Research-Engineer Research-Engineer Mid-level Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Sarj. ai is hiring an AI/ML Engineer to train and deploy speech models that power our voice communications platform.",
+      "posted_date": "",
+      "first_seen": "2026-06-17T04:48:30.402752+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:etaily:Customer Care Associate",
+      "title": "Customer Care Associate",
+      "company": "etaily",
+      "location": "Philippines",
+      "url": "https://himalayas.app/jobs/etaily",
+      "tags": "Customer-Service Customer-Support Client-Services Operations Customer-Care-Associate Customer-Service-Associate Customer-Care-Agent Customer-Experience-Associate Contact-Center-Associate Call-Center-Service-Associate Customer-Engagement-Associate Call-Center-Representative Entry-level Temporary",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Temporary",
+      "excerpt": "Principal Duties & Responsibilities:The Customer Care Associate is responsible for providing product and service information and resolving product and service problems of the clients and brands that etaily supports.",
+      "posted_date": "",
+      "first_seen": "2026-06-12T09:03:30.422899+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:languageline-solutions:Abkhaz Interpreter",
+      "title": "Abkhaz Interpreter",
+      "company": "LanguageLine Solutions",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/languageline-solutions",
+      "tags": "Interpreters Telephone-Interpreter Bilingual-Interpreter Language-Interpreter Translation-Services Abkhaz-Interpreter Mid-level Part Time",
+      "source": "Himalayas",
+      "salary": "$45 – $54",
+      "employment_type": "Part Time",
+      "excerpt": "LanguageLine Solutions is Hiring! At LanguageLine, we strive for a world in which language and cultural barriers no longer exist.",
+      "posted_date": "",
+      "first_seen": "2026-06-01T23:07:04.835428+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11490,7 +11585,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find…",
       "posted_date": "Sun, 16 Jun 2024 18:08:52 +0000",
       "first_seen": "2026-06-01T16:44:31.953223+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11508,25 +11603,7 @@ window.JOB_DATA = {
       "excerpt": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand…",
       "posted_date": "2026-07-26T20:49:11",
       "first_seen": "2026-05-28T10:14:43.176302+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:pavago:Senior Marketing Manager",
-      "title": "Senior Marketing Manager",
-      "company": "Pavago",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/pavago",
-      "tags": "Senior-Marketing-Management Marketing-Operations SEO-Management Growth-Marketing Digital-Marketing Technical-SEO Content-Marketing Senior-Brand-Marketing-Manager Senior-Customer-Marketing-Manager Senior-Marketing-Communications-Manager Senior-Marketing Senior-Marketing-Strategy-Manager Marketing-Manager Marketing Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Senior Marketing Manager – Technical SEO, Growth & Marketing OperationsFull-Time | Remote | U.",
-      "posted_date": "",
-      "first_seen": "2026-05-28T00:04:11.550731+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11544,43 +11621,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Florida URL: http://www.speechify.com Overview With that growth comes the need for a Javascript Engineer to join the existing Web team and continue supporting the growing user base as well as building new…",
       "posted_date": "Sat, 23 May 2026 13:43:59 +0000",
       "first_seen": "2026-05-23T13:49:53.816282+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:joinroot:Senior Software Engineer",
-      "title": "Senior Software Engineer",
-      "company": "Root, Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/joinroot",
-      "tags": "Platform-Engineering DevOps-Engineer CI-CD-Engineering Build-And-Release-Engineering Site-Reliability-Engineering Senior-Software-Engineer-Jobs Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$136k – $160k",
-      "employment_type": "Full Time",
-      "excerpt": "Root is on a mission to unbreak insurance by creating experiences people love at prices they can't believe.",
-      "posted_date": "",
-      "first_seen": "2026-05-21T19:02:24.959451+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mindrift:Freelance Brand Designer",
-      "title": "Freelance Brand Designer",
-      "company": "Mindrift",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mindrift",
-      "tags": "Brand-Designer Brand-Identity-Designer Visual-Designer Graphic-Designer Creative-Designer Freelance-Brand-Designer Brand-Design-Specialist Brand-Design Mid-level Contractor",
-      "source": "Himalayas",
-      "salary": "$50 – $50",
-      "employment_type": "Contractor",
-      "excerpt": "Mindrift is looking for a highly skilled Brand Designer to join the Tendem project (**) and create strong visual identities for real-world brands and products.",
-      "posted_date": "",
-      "first_seen": "2026-05-18T10:17:17.320316+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11598,7 +11639,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print…",
       "posted_date": "Thu, 14 May 2026 09:14:28 +0000",
       "first_seen": "2026-05-14T10:26:10.825469+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11616,7 +11657,7 @@ window.JOB_DATA = {
       "excerpt": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers,…",
       "posted_date": "2026-08-16T10:09:41",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11634,7 +11675,7 @@ window.JOB_DATA = {
       "excerpt": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth…",
       "posted_date": "2026-08-16T10:09:34",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11652,7 +11693,7 @@ window.JOB_DATA = {
       "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and…",
       "posted_date": "2026-08-14T20:33:39",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -11670,7 +11711,7 @@ window.JOB_DATA = {
       "excerpt": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This…",
       "posted_date": "2026-08-11T20:18:02",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Frontend"
       ]
@@ -11688,7 +11729,7 @@ window.JOB_DATA = {
       "excerpt": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while…",
       "posted_date": "2026-08-08T21:48:06",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11706,7 +11747,7 @@ window.JOB_DATA = {
       "excerpt": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics…",
       "posted_date": "2026-08-04T16:53:05",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11724,7 +11765,7 @@ window.JOB_DATA = {
       "excerpt": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has…",
       "posted_date": "2026-08-02T20:00:46",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11742,7 +11783,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality…",
       "posted_date": "Sun, 16 Jun 2024 17:30:51 +0000",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11760,7 +11801,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from…",
       "posted_date": "Mon, 13 May 2024 03:14:30 +0000",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Other"
       ]
@@ -11778,7 +11819,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: United States URL: https://www.reveleer.com/ Full Stack AI Engineer Remote Opportunity As the industry’s pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to solve the most…",
       "posted_date": "Thu, 02 Apr 2026 20:46:00 +0000",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-08-17T20:32:22.535564+00:00",
+      "last_seen": "2026-08-17T21:30:07.450957+00:00",
       "categories": [
         "Full Stack"
       ]
