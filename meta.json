@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-23T11:25:28.071486+00:00",
-  "total_jobs": 642,
-  "live_count": 642,
+  "last_updated": "2026-08-23T12:50:39.539105+00:00",
+  "total_jobs": 612,
+  "live_count": 612,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -22,16 +22,16 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 44,
-      "matched": 44
+      "scanned": 42,
+      "matched": 42
     },
     "RemoteOK": {
       "scanned": 99,
       "matched": 99
     },
     "Himalayas": {
-      "scanned": 100,
-      "matched": 100
+      "scanned": 72,
+      "matched": 72
     },
     "Hacker News": {
       "scanned": 25,
