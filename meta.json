@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T22:32:37.339407+00:00",
-  "total_jobs": 614,
-  "live_count": 614,
+  "last_updated": "2026-08-25T23:29:05.821526+00:00",
+  "total_jobs": 631,
+  "live_count": 631,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -14,7 +14,8 @@
       "matched": 150
     },
     "Arbeitnow": {
-      "error": "can only concatenate list (not \"dict\") to list"
+      "scanned": 175,
+      "matched": 175
     },
     "Jobicy": {
       "scanned": 50,
