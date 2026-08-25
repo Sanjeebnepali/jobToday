@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T03:03:40.658450+00:00",
-  "total_jobs": 601,
-  "live_count": 601,
+  "last_updated": "2026-08-25T04:44:00.521908+00:00",
+  "total_jobs": 636,
+  "live_count": 636,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -14,7 +14,8 @@
       "matched": 153
     },
     "Arbeitnow": {
-      "error": "can only concatenate list (not \"dict\") to list"
+      "scanned": 175,
+      "matched": 175
     },
     "Jobicy": {
       "scanned": 50,
@@ -29,8 +30,8 @@
       "matched": 99
     },
     "Himalayas": {
-      "scanned": 86,
-      "matched": 86
+      "scanned": 100,
+      "matched": 100
     },
     "Hacker News": {
       "scanned": 25,
