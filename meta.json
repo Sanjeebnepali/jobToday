@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-19T22:48:40.510523+00:00",
-  "total_jobs": 517,
-  "live_count": 517,
+  "last_updated": "2026-09-20T00:52:40.535168+00:00",
+  "total_jobs": 642,
+  "live_count": 642,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -26,14 +26,16 @@
       "matched": 53
     },
     "RemoteOK": {
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "scanned": 99,
+      "matched": 99
     },
     "Himalayas": {
-      "scanned": 98,
-      "matched": 98
+      "scanned": 99,
+      "matched": 99
     },
     "Hacker News": {
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "scanned": 25,
+      "matched": 25
     }
   }
 }
