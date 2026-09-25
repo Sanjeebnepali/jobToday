@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-25T01:18:38.147911+00:00",
-  "total_jobs": 649,
-  "live_count": 649,
+  "last_updated": "2026-09-25T07:27:59.942263+00:00",
+  "total_jobs": 600,
+  "live_count": 600,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,28 +10,27 @@
       "matched": 19
     },
     "WeWorkRemotely": {
-      "scanned": 75,
-      "matched": 75
+      "scanned": 74,
+      "matched": 74
     },
     "Arbeitnow": {
       "scanned": 250,
       "matched": 250
     },
     "Jobicy": {
-      "scanned": 50,
-      "matched": 50
+      "error": "403 Client Error: Forbidden for url: https://jobicy.com/api/v2/remote-jobs?count=50"
     },
     "Working Nomads": {
-      "scanned": 57,
-      "matched": 57
+      "scanned": 58,
+      "matched": 58
     },
     "RemoteOK": {
       "scanned": 99,
       "matched": 99
     },
     "Himalayas": {
-      "scanned": 99,
-      "matched": 99
+      "scanned": 100,
+      "matched": 100
     },
     "Hacker News": {
       "scanned": 25,
