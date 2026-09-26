@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-26T19:44:01.523616+00:00",
-  "total_jobs": 686,
-  "live_count": 686,
+  "last_updated": "2026-09-26T22:35:17.941619+00:00",
+  "total_jobs": 716,
+  "live_count": 716,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -14,8 +14,8 @@
       "matched": 71
     },
     "Arbeitnow": {
-      "scanned": 292,
-      "matched": 292
+      "scanned": 322,
+      "matched": 322
     },
     "Jobicy": {
       "scanned": 50,
