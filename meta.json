@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-18T17:55:47.407845+00:00",
-  "total_jobs": 702,
-  "live_count": 702,
+  "last_updated": "2026-10-18T20:27:07.507899+00:00",
+  "total_jobs": 705,
+  "live_count": 705,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -30,8 +30,8 @@
       "matched": 99
     },
     "Himalayas": {
-      "scanned": 97,
-      "matched": 97
+      "scanned": 100,
+      "matched": 100
     },
     "Hacker News": {
       "scanned": 25,
