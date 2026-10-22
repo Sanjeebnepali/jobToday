@@ -1,8 +1,8 @@
 window.JOB_DATA = {
   "meta": {
-    "last_updated": "2026-10-22T09:56:20.755786+00:00",
-    "total_jobs": 716,
-    "live_count": 716,
+    "last_updated": "2026-10-22T15:01:14.836057+00:00",
+    "total_jobs": 719,
+    "live_count": 719,
     "retained_count": 0,
     "retention_hours": 10,
     "sources": {
@@ -11,8 +11,8 @@ window.JOB_DATA = {
         "matched": 10
       },
       "WeWorkRemotely": {
-        "scanned": 118,
-        "matched": 118
+        "scanned": 119,
+        "matched": 119
       },
       "Arbeitnow": {
         "scanned": 300,
@@ -31,8 +31,8 @@ window.JOB_DATA = {
         "matched": 99
       },
       "Himalayas": {
-        "scanned": 97,
-        "matched": 97
+        "scanned": 99,
+        "matched": 99
       },
       "Hacker News": {
         "scanned": 25,
@@ -41,6 +41,6704 @@ window.JOB_DATA = {
     }
   },
   "jobs": [
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+      "title": "Moonshot: (Solidity / Rust) – Remote",
+      "company": "Moonshot",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+      "tags": "",
+      "source": "WeWorkRemotely",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the…",
+      "posted_date": "Thu, 22 Oct 2026 13:00:33 +0000",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:marketing-assistenz-minijob-villingen-schwenningen-46694",
+      "title": "Marketing-Assistenz (m/w/d) (Minijob)",
+      "company": "NTI Deutschland GmbH",
+      "location": "Villingen-Schwenningen",
+      "url": "https://www.arbeitnow.com/jobs/companies/nti-deutschland-gmbh/marketing-assistenz-minijob-villingen-schwenningen-46694",
+      "tags": "Marketing Assistant Befristeter arbeitsvertrag contract hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Befristeter arbeitsvertrag, contract, hilfstätigkeit / student",
+      "excerpt": "Die NTI Gruppe ist Europas größter Autodesk-Partner und führender Anbieter digitaler Lösungen für die Bau-, Design- und Fertigungsindustrie. Wir unterstützen Unternehmen mit CAD-, CAM-, GIS-, Datenmanagement- und…",
+      "posted_date": 1792677676,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:influencer-relations-managerin-dortmund-156259",
+      "title": "Influencer Relations Manager:in",
+      "company": "likeyaa GmbH",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/influencer-relations-managerin-dortmund-156259",
+      "tags": "Marketing Manager Befristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Befristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Social Media ist voll von Content. Aber nur ein Teil davon bewegt wirklich etwas. Genau daran arbeiten wir jeden Tag. Mit Strategien, Creator:innen und Ideen, die nicht nur Reichweite bringen, sondern Wirkung. Und genau…",
+      "posted_date": 1792677674,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
+      "title": "Content Creator(in) / Social Media Mitarbeiter(in) (m/w/d) – Werkstudent",
+      "company": "Mini Milkys",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mini-milkys/content-creatorin-social-media-mitarbeiterin-werkstudent-berlin-261838",
+      "tags": "Remote Social Media Manager Werkstudent working student hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Werkstudent, working student, hilfstätigkeit / student",
+      "excerpt": "Du liebst Social Media, sprudelst vor Ideen und hast Lust, mit deiner Kreativität wirklich etwas zu bewegen? Dann bist du bei MINI MILKYS® genau richtig! Wir sind ein junges, wachsendes Label für nachhaltige…",
+      "posted_date": 1792677674,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:content-creatorin-social-media-mitarbeiterin-minijob-berlin-5559",
+      "title": "Content Creator(in) / Social Media Mitarbeiter(in) (m/w/d) – Minijob",
+      "company": "Mini Milkys",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mini-milkys/content-creatorin-social-media-mitarbeiterin-minijob-berlin-5559",
+      "tags": "Remote Social Media Manager Minijob (geringfügige beschäftigung) side hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Minijob (geringfügige beschäftigung), side, hilfstätigkeit / student",
+      "excerpt": "Du liebst Social Media, sprudelst vor Ideen und hast Lust, mit deiner Kreativität wirklich etwas zu bewegen? Dann bist du bei MINI MILKYS® genau richtig! Wir sind ein junges, wachsendes Label für nachhaltige…",
+      "posted_date": 1792677674,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-customer-success-managerin-berlin-172870",
+      "title": "(Junior) Customer Success Manager:in (m/w/d)",
+      "company": "mika",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mika/junior-customer-success-managerin-berlin-172870",
+      "tags": "Remote Customer Service Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "mika macht Buchhaltung für kleine und mittlere Unternehmen einfach: KI übernimmt die Fleißarbeit, unser Team sorgt dafür, dass am Ende alles stimmt. Wir wachsen schnell, betreuen inzwischen mehrere hundert Kund:innen…",
+      "posted_date": 1792675877,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:partner-manager-berlin-292769",
+      "title": "Partner Manager (m/w/d)",
+      "company": "ALVA Energie",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/alva-energie/partner-manager-berlin-292769",
+      "tags": "Business Development Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über ALVA Energie Wir bei ALVA Energie treiben die Energiewende voran! Mit Solarbetreibermodellen auf Mehrfamilienhäusern und Gewerbeimmobilien bieten wir ein Rundum-sorglos-Paket: Von der Installation über die…",
+      "posted_date": 1792675875,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:controller-fur-infrastruktur-ingenieurprojekte-schwerin-67379",
+      "title": "Controller für Infrastruktur- & Ingenieurprojekte (m/w/d)",
+      "company": "Environeering Group GmbH",
+      "location": "Schwerin",
+      "url": "https://www.arbeitnow.com/jobs/companies/environeering-group-gmbh/controller-fur-infrastruktur-ingenieurprojekte-schwerin-67379",
+      "tags": "Controlling Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Wer wir sind Wir sind ein wachsendes Infrastruktur- und Ingenieurunternehmen mit Fokus auf zukunftsfähige Projekte in den Bereichen Straßenbau, Brücken, Tunnel, Altlasten sowie Wasser- und Versorgungsinfrastruktur. Wir…",
+      "posted_date": 1792675875,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:netzwerkadministrator-gn-berlin-179702",
+      "title": "Netzwerkadministrator (gn)",
+      "company": "Broeder Ruckh Consulting GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/broeder-ruckh-consulting-gmbh/netzwerkadministrator-gn-berlin-179702",
+      "tags": "Remote System and Network Administration Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Unser Mandant ist ein Unternehmen aus dem Großraum Nürnberg und sucht einen Netzwerkadministrator (gn) zur Verstärkung des IT-Teams. Die Position bietet ein hohes Maß an Flexibilität: Eine Präsenz vor Ort ist etwa alle…",
+      "posted_date": 1792675874,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sales-manager-fur-photovoltaik-berlin-101988",
+      "title": "Sales Manager (m/w/d) für Photovoltaik",
+      "company": "ALVA Energie",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/alva-energie/sales-manager-fur-photovoltaik-berlin-101988",
+      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "excerpt": "Über Alva Energie Wir bei ALVA Energie treiben die Energiewende voran! Mit Solarbetreibermodellen auf Mehrfamilienhäusern und Gewerbeimmobilien bieten wir ein Rundum-sorglos-Paket: Von der Installation über die…",
+      "posted_date": 1792675874,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-key-account-manager-saas-munchen-217786",
+      "title": "Senior Key Account Manager SaaS (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-key-account-manager-saas-munchen-217786",
+      "tags": "Other high school or equivalent Full-time permanent mid",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time permanent, mid",
+      "excerpt": "Du willst eine Schlüsselrolle mit echtem Impact ? Dann werde zum Wachstumsgestalter für strategische Kunden. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud Software &amp;…",
+      "posted_date": 1792675211,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-sales-executive-scale-up-mwd-munchen-456459",
+      "title": "Senior Sales Executive Scale Up (m|w|d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-sales-executive-scale-up-mwd-munchen-456459",
+      "tags": "Sales high school or equivalent Full-time permanent mid",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time permanent, mid",
+      "excerpt": "Du willst Sales mit Impact &amp; eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud…",
+      "posted_date": 1792675211,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:saas-senior-sales-executive-mwd-berlin-223764",
+      "title": "SaaS Senior Sales Executive (m|w|d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/saas-senior-sales-executive-mwd-berlin-223764",
+      "tags": "Sales high school or equivalent Full-time permanent experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time permanent, experienced",
+      "excerpt": "Du willst Sales mit Impact &amp; eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud…",
+      "posted_date": 1792675211,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:saas-senior-sales-executive-firmenwagen-uncapped-bonus-impact-mwd-augsburg-13390",
+      "title": "SaaS Senior Sales Executive | Firmenwagen, uncapped Bonus, Impact (m|w|d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/saas-senior-sales-executive-firmenwagen-uncapped-bonus-impact-mwd-augsburg-13390",
+      "tags": "Sales high school or equivalent Full-time permanent experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time permanent, experienced",
+      "excerpt": "Du willst Sales mit Impact &amp; eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud…",
+      "posted_date": 1792675211,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:embedded-software-developer-traffic-management-systems-braunschweig-261805",
+      "title": "Embedded Software Developer Traffic Management Systems (m/f/d)",
+      "company": "smartmicro",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/embedded-software-developer-traffic-management-systems-braunschweig-261805",
+      "tags": "Software Development Permanent employment (unbefristeter arbeitsvertrag) professional / experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "excerpt": "Introduction We are smartmicro, the leading specialist in high-performance automotive and traffic radar- and radar/camera hybrid sensor technology. We design, develop and manufacture high-tech sensors for autonomous…",
+      "posted_date": 1792674071,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:projektmanager-wegerecht-und-flachensicherung-erneuerbare-energien-molbergen-283717",
+      "title": "Projektmanager (m/w/d) Wegerecht und Flächensicherung - Erneuerbare Energien",
+      "company": "Deutscher Bauservice GmbH",
+      "location": "Molbergen",
+      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektmanager-wegerecht-und-flachensicherung-erneuerbare-energien-molbergen-283717",
+      "tags": "Project Management Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag",
+      "excerpt": "Du willst die Energiewende nicht nur begleiten – Du willst sie aktiv gestalten? Dann bist Du bei uns genau richtig. Wir entwickeln und realisieren Projekte im Bereich Windenergie, Photovoltaik, Batteriespeicher (BESS)…",
+      "posted_date": 1792674070,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:digital-designer-munich-34926",
+      "title": "Digital Designer (f/m/d)",
+      "company": "Moby Digg GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/digital-designer-munich-34926",
+      "tags": "Media Screen and Web Design Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Wir suchen ab sofort eine*n Digital Designer (f/m/d) in Vollzeit (40 Std./ Woche) in München. Als Digital Designer (f/m/d) gestaltest du in einem unserer Teams gemeinsam mit dem Art Director alles, was unsere…",
+      "posted_date": 1792674070,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:performance-creative-designer-munich-172795",
+      "title": "Performance Creative Designer (f/m/d)",
+      "company": "Moby Digg GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/performance-creative-designer-munich-172795",
+      "tags": "Media Screen and Web Design Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Wir suchen ab sofort eine*n Performance Creative Designer (f/m/d) in Vollzeit (40 Std./ Woche) in München. Als Performance Creative Designer (f/m/d) entwickelst du gemeinsam mit unseren Performance-Marketerinnen das…",
+      "posted_date": 1792674070,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-fullstack-softwareentwickler-berlin-133162",
+      "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-133162",
+      "tags": "Remote Web Development Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über uns: Du möchtest moderne Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend mitwirken? Du hast Freude an skalierbaren Systemarchitekturen, modernen Technologien und der Zusammenarbeit in…",
+      "posted_date": 1792674069,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-c-nuremberg-74612",
+      "title": "(Senior-) Software Engineer C++ (m/w/d)",
+      "company": "NCP engineering GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/ncp-engineering-gmbh/senior-software-engineer-c-nuremberg-74612",
+      "tags": "Software Development Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über NCP engineering GmbH NCP ist ein weltweit führender Softwarehersteller für hochsichere Lösungen in den Bereichen Remote Access, Endpoint Security, Zero Trust und VPN, auf deren Technologie Großkonzerne,…",
+      "posted_date": 1792674068,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-frontend-softwareentwickler-berlin-422309",
+      "title": "Senior Frontend-Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-422309",
+      "tags": "Remote Web Development Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über uns: Begeisterst Du Dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in Deiner Karriere. Wir,…",
+      "posted_date": 1792674068,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudent-sales-business-development-berlin-17919",
+      "title": "Werkstudent (m/w/d) Sales & Business Development",
+      "company": "Aivisory",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/aivisory/werkstudent-sales-business-development-berlin-17919",
+      "tags": "Remote Business Development Werkstudent working student hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Werkstudent, working student, hilfstätigkeit / student",
+      "excerpt": "Bist Du bereit, als Werkstudent (m/w/d) Sales & Business Development unseren Vertriebsprozess gemeinsam mit unseren beiden Gründer:innen auszubauen und umzusetzen? Bei Aivisory, einer aufstrebenden…",
+      "posted_date": 1792674068,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:integrator-munich-444216",
+      "title": "Integrator (m/w/d)",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/integrator-munich-444216",
+      "tags": "Software Development Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Systems Integrator (m/w/d) – München Du hast Spaß daran, Tools zu verbinden, Abläufe einfacher zu machen und Prozesse mit KI zu optimieren? Dann bist du bei uns richtig. Cyrus Digital ist eine der führenden…",
+      "posted_date": 1792672273,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:social-media-marketing-intern-berlin-449665",
+      "title": "Social Media Marketing Intern",
+      "company": "7NXT GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/social-media-marketing-intern-berlin-449665",
+      "tags": "Marketing and Communication Internship (praktikum) internship no experience required / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Internship (praktikum), internship, no experience required / student",
+      "excerpt": "Your Impact As a Social Media Marketing Intern at Gymondo, you will support our marketing team in building and developing our social media presence on Instagram, TikTok, and YouTube. You will contribute your own ideas,…",
+      "posted_date": 1792672273,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:technischer-produktdesigner-konstrukteur-emsburen-161949",
+      "title": "Technischer Produktdesigner / Konstrukteur (m/w/d)",
+      "company": "Robel Mobil Fahrzeugbau GmbH",
+      "location": "Emsbüren",
+      "url": "https://www.arbeitnow.com/jobs/companies/robel-mobil-fahrzeugbau-gmbh/technischer-produktdesigner-konstrukteur-emsburen-161949",
+      "tags": "Automotive Engineering Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag",
+      "excerpt": "Wir sind ein familiengeführtes Unternehmen mit über 30 Jahren Erfahrung. Wir fertigen individuelle Wohnmobile auf Kundenwunsch sowie Sonderfahrzeuge. Unsere Arbeit ist deshalb sehr abwechslungsreich und immer wieder…",
+      "posted_date": 1792672273,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-customer-support-agent-berlin-75030",
+      "title": "Senior Customer Support Agent (m/w/d)",
+      "company": "7NXT GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-customer-support-agent-berlin-75030",
+      "tags": "Customer Service Befristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Befristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Senior Customer Support Agent (w/m/d) – Gymondo Das Wichtigste Team: Customer Support Startdatum: Ab sofort Standort: Berlin — hybrid, 3 Tage im Büro Arbeitssprache: Englisch (Deutsch: von Vorteil) Gehaltsband: Wird vor…",
+      "posted_date": 1792672271,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:praktikum-im-finanzwesen-finance-and-accounting-ecommerce-bremen-335160",
+      "title": "Praktikum im Finanzwesen | Finance and Accounting | eCommerce",
+      "company": "PROFISHOP GmbH",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/profishop-gmbh/praktikum-im-finanzwesen-finance-and-accounting-ecommerce-bremen-335160",
+      "tags": "Finance Praktikum internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Praktikum, internship",
+      "excerpt": "Dein Praktikum bei PROFISHOP – Gestalte die Zukunft des eCommerce mit uns! Wir bei PROFISHOP lieben, was wir tun: Den digitalen Handel revolutionieren. Mit über 1,5 Millionen Produkten und innovativen Ideen gestalten…",
+      "posted_date": 1792672271,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:unternehmerische-r-manager-in-luft-seefracht-mit-potential-zur-co-geschaftsfuhrung-bremen-132800",
+      "title": "Unternehmerische/r Manager/in Luft- & Seefracht mit Potential zur Co-Geschäftsführung (m/w/d)",
+      "company": "VUP GmbH | Vallée, Unger & Partner",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/vup-gmbh-vallee-unger-partner/unternehmerische-r-manager-in-luft-seefracht-mit-potential-zur-co-geschaftsfuhrung-bremen-132800",
+      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag geschäftsleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, geschäftsleitung",
+      "excerpt": "WIR SUCHEN IM AUFTRAG EINES SPEDITIONSUNTERNEHMENS (Großraum Bremen) Fokus: Air & Sea Wachstum & Internationalisierung im Mittelstand Sie möchten unternehmerisch gestalten und ein mittelständisches Logistikunternehmen…",
+      "posted_date": 1792672271,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:vertriebsingenieur-technischer-vertrieb-fokus-netzbetreiber-stadtwerke-freiburg-im-breisgau-371100",
+      "title": "Vertriebsingenieur / Technischer Vertrieb – Fokus Netzbetreiber & Stadtwerke (m/w/d)",
+      "company": "greenventory GmbH",
+      "location": "Freiburg im Breisgau",
+      "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/vertriebsingenieur-technischer-vertrieb-fokus-netzbetreiber-stadtwerke-freiburg-im-breisgau-371100",
+      "tags": "Sales Engineer Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Wir brennen für die Energiewende! Als starkes Team arbeiten wir jeden Tag an nachhaltigen, lösungsorientierten Ansätzen für die Energieversorgung der Zukunft. Wir glauben an Exzellenz, echte Kooperation und daran, dass…",
+      "posted_date": 1792672271,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sales-controller-berlin-157579",
+      "title": "Sales Controller (w/m/d)",
+      "company": "IONOS SE",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/sales-controller-berlin-157579",
+      "tags": "Finance Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag",
+      "excerpt": "Über IONOS Bei IONOS verwalten wir nicht nur Server, wir prägen mit unseren Lösungen die digitale Zukunft für über 6,2 Millionen Kundinnen und Kunden weltweit. Als Europas führender Hosting-Anbieter und Pionier für…",
+      "posted_date": 1792672270,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudent-in-marketing-greifswald-217083",
+      "title": "Werkstudent/in Marketing (w/w/d)",
+      "company": "COLDPLASMATECH",
+      "location": "Greifswald",
+      "url": "https://www.arbeitnow.com/jobs/companies/coldplasmatech/werkstudent-in-marketing-greifswald-217083",
+      "tags": "Marketing and Communication Werkstudent working student hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Werkstudent, working student, hilfstätigkeit / student",
+      "excerpt": "Unser Ziel ist es, chronische Wunden nachhaltig zu verschließen , anstatt Wunden einfach nur zu versorgen. Als mehrfach ausgezeichnetes, junges MedTech Unternehmen, haben wir es mit unserem neuartigen innovativen…",
+      "posted_date": 1792672269,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:site-reliability-engineer-berlin-410549",
+      "title": "Site Reliability Engineer (m/f/d)",
+      "company": "Solactive AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/solactive-ag/site-reliability-engineer-berlin-410549",
+      "tags": "Software Development Permanent employment (unbefristeter arbeitsvertrag) professional / experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "excerpt": "Company Description Since its foundation in 2007, Solactive AG has evolved into one of the world’s most important and fastest-growing index providers. From our headquarters in Frankfurt, we power global investment…",
+      "posted_date": 1792670457,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-ad-operations-managerin-programmatic-display-video-hamburg-101135",
+      "title": "(Junior) Ad Operations Manager*in (m/w/d) - Programmatic Display & Video",
+      "company": "Interactive Performance Deutschland GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/interactive-performance-deutschland-gmbh/junior-ad-operations-managerin-programmatic-display-video-hamburg-101135",
+      "tags": "Online Marketing Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "Wir sind Interactive Performance Deutschland (IPD) - kein Netzwerk, keine klassische Agentur. Wir sind ein Performance Publisher, der Display Prospecting und Retargeting im Full Funnel-Modell betreibt: von CPM und CPV…",
+      "posted_date": 1792670457,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-marketing-social-media-manager-hosbach-484384",
+      "title": "JUNIOR MARKETING & SOCIAL MEDIA MANAGER (m/w/d)",
+      "company": "K-Active Europe GmbH",
+      "location": "Hösbach",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-active-europe-gmbh/junior-marketing-social-media-manager-hosbach-484384",
+      "tags": "Social Media Manager Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "DU LIEBST MARKETING? WIR LIEBEN ES, MENSCHEN ZU BEWEGEN. Dann lass uns gemeinsam etwas bewegen! Stell dir vor, deine Ideen und deine Kreativität tragen dazu bei, dass Menschen weniger Schmerzen haben, nach Verletzungen…",
+      "posted_date": 1792670456,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-produktentwickler-sportequipment-munster-227978",
+      "title": "Junior Produktentwickler Sportequipment (m/w/d)",
+      "company": "GORNATION GmbH",
+      "location": "Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/gornation-gmbh/junior-produktentwickler-sportequipment-munster-227978",
+      "tags": "Product Management Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "Du willst nicht nur zusehen, wie Sportprodukte entstehen, sondern sie selbst mitentwickeln? Du suchst ein Umfeld, in dem Ambition zählt, nicht Hierarchie? Wir sind GORNATION - eine Sportmarke aus Münster, gegründet 2015…",
+      "posted_date": 1792670456,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-controller-langenhagen-396919",
+      "title": "Junior Controller (m/w/x)",
+      "company": "expert Warenvertrieb GmbH",
+      "location": "Langenhagen",
+      "url": "https://www.arbeitnow.com/jobs/companies/expert-warenvertrieb-gmbh/junior-controller-langenhagen-396919",
+      "tags": "Controlling Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "Wer wirtschaftliche Zusammenhänge verstehen und aktiv mitgestalten möchte, ist bei uns genau richtig. Als Junior Controller (m/w/x) unterstützen Sie mit fundierten Analysen und aussagekräftigen Kennzahlen die…",
+      "posted_date": 1792670455,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:teamleiter-it-system-engineering-giessen-176367",
+      "title": "Teamleiter IT System Engineering (m/w/d)",
+      "company": "Vereinigte Hagelversicherung VVaG",
+      "location": "Giessen",
+      "url": "https://www.arbeitnow.com/jobs/companies/vereinigte-hagelversicherung-vvag/teamleiter-it-system-engineering-giessen-176367",
+      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "excerpt": "Gemeinsam in die Zukunft Die VEREINIGTE HAGEL ist Europas führender Spezialist für Ernteversicherungen. Seit über 200 Jahren stehen wir als verlässlicher Partner an der Seite der Landwirtschaft und wachsen…",
+      "posted_date": 1792670455,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:manager-personalprozesse-digitalisierung-isernhagen-222757",
+      "title": "Manager Personalprozesse & Digitalisierung (m/w/d)",
+      "company": "Impledio GmbH",
+      "location": "Isernhagen",
+      "url": "https://www.arbeitnow.com/jobs/companies/impledio-gmbh/manager-personalprozesse-digitalisierung-isernhagen-222757",
+      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "excerpt": "Ihre Mission Im Fokus stehen HR-Controlling, KPIs und Reporting, Betreuung und Weiterentwicklung von HR-Systemen sowie die eigenständige Steuerung von Digitalisierungs- und Optimierungsprojekten. HR-Projekte & Prozesse:…",
+      "posted_date": 1792670455,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:recruiting-consultant-mit-entwicklungsmoglichkeiten-zur-fuhrungskraft-hamburg-170076",
+      "title": "Recruiting Consultant mit Entwicklungsmöglichkeiten zur Führungskraft (m/w/d)",
+      "company": "ContentCut GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/contentcut-gmbh/recruiting-consultant-mit-entwicklungsmoglichkeiten-zur-fuhrungskraft-hamburg-170076",
+      "tags": "Recruitment and Selection Befristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Befristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Du willst wirklich verstehen wie Personalvermittlung funktioniert – und das nicht nur oberflächlich, sondern in der Tiefe. Recruiting, Marketing, KI, Kampagnen, Prozesse – wir bilden dich in allem aus was einen echten…",
+      "posted_date": 1792670455,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-propulsion-engineer-combustion-devices-parsdorf-bavaria-54009",
+      "title": "Senior Propulsion Engineer - Combustion Devices (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-propulsion-engineer-combustion-devices-parsdorf-bavaria-54009",
+      "tags": "Propulsion",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;TextRun SCXW185765873 BCX0&quot; lang=&quot;EN-US&quot; data-contrast=&quot;none&quot;&gt;&lt;span…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:qc-inspector-parsdorf-bavaria-61974",
+      "title": "QC Inspector (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/qc-inspector-parsdorf-bavaria-61974",
+      "tags": "Production Operations & Quality",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As QC Inspector, you are responsible for verifying that incoming materials, manufactured parts, assemblies, and released…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-powertrain-test-engineer-all-genders-40978",
+      "title": "Senior Powertrain Test Engineer (All genders)",
+      "company": "Skdse",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-powertrain-test-engineer-all-genders-40978",
+      "tags": "Engineering",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-hardware-project-manager-all-genders-munich-bavaria-432049",
+      "title": "Senior Hardware Project Manager (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-hardware-project-manager-all-genders-munich-bavaria-432049",
+      "tags": "OWE-V",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-buchhalter-senior-accountant-all-genders-berlin-65094",
+      "title": "Senior Buchhalter/Senior Accountant (All genders)",
+      "company": "Skdse",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-buchhalter-senior-accountant-all-genders-berlin-65094",
+      "tags": "Finance",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:pmt-architect-all-genders-10507",
+      "title": "PMT Architect (All genders)",
+      "company": "Skdse",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/pmt-architect-all-genders-10507",
+      "tags": "Central System Eng PMT",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:operations-planning-analytics-lead-all-genders-munich-bavaria-410546",
+      "title": "Operations Planning & Analytics Lead (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/operations-planning-analytics-lead-all-genders-munich-bavaria-410546",
+      "tags": "Operations Excellence",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-engineer-marketing-automation-all-genders-berlin-berlin-267144",
+      "title": "Software Engineer - Marketing Automation (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/software-engineer-marketing-automation-all-genders-berlin-berlin-267144",
+      "tags": "Marketing",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We are looking for a hands-on Senior Marketing Automation Engineer to join our Marketing Automation team. We build and run the services, integrations…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-it-engineer-mdm-tech-berlin-berlin-334765",
+      "title": "Senior IT Engineer, MDM Tech (f/m/x)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-it-engineer-mdm-tech-berlin-berlin-334765",
+      "tags": "Tech - IT Management",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We are looking for a &lt;strong&gt;Senior IT Engineer&lt;/strong&gt; to join the &lt;strong&gt;Mobile Device Management (MDM) Tribe at…",
+      "posted_date": 1792670121,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:computer-radar-software-engineer-for-drone-systems-karlsruhe-baden-wurttemberg-munchen-bavaria-284713",
+      "title": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
+      "company": "Alpineeagle",
+      "location": "Karlsruhe, Baden-Württemberg, München, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpineeagle/computer-radar-software-engineer-for-drone-systems-karlsruhe-baden-wurttemberg-munchen-bavaria-284713",
+      "tags": "Engineering",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p data-start=&quot;135&quot; data-end=&quot;429&quot;&gt;At Alpine Eagle, we’re building the future of counter-drone defence. We’re a fast-growing, international deep-tech company working at the intersection of…",
+      "posted_date": 1792670120,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:strategic-core-account-executive-retail-north-rhine-westphalia-35193",
+      "title": "Strategic Core Account Executive - Retail",
+      "company": "databricks",
+      "location": "North Rhine-Westphalia",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/strategic-core-account-executive-retail-north-rhine-westphalia-35193",
+      "tags": "Enterprise Sales",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ128R98&lt;/p&gt; &lt;p class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;Databricks operates at the…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:strategic-core-account-executive-automotive-baden-wurttemberg-8863",
+      "title": "Strategic Core Account Executive - Automotive",
+      "company": "databricks",
+      "location": "Baden-Württemberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/strategic-core-account-executive-automotive-baden-wurttemberg-8863",
+      "tags": "Enterprise Sales",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ128R96&lt;/p&gt; &lt;p class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;Databricks operates at the…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sr-solutions-architect-automotive-munich-467742",
+      "title": "Sr. Solutions Architect - Automotive",
+      "company": "databricks",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-automotive-munich-467742",
+      "tags": "Field Engineering - Other",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;FEQ327R414&lt;/p&gt; &lt;p&gt;As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization&#39;s most complex customer engagements. You drive consumption strategy, own…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sr-solutions-architect-munich-394130",
+      "title": "Sr. Solutions Architect",
+      "company": "databricks",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-munich-394130",
+      "tags": "Field Engineering - Other",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;FEQ327R413&lt;/p&gt; &lt;p&gt;As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization&#39;s most complex customer engagements. You drive consumption strategy, own…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:manager-forward-deployed-engineering-munich-100134",
+      "title": "Manager, Forward Deployed Engineering",
+      "company": "databricks",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/manager-forward-deployed-engineering-munich-100134",
+      "tags": "Professional Services Operations",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;&lt;strong&gt;CSQ128R182&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Databricks is redefining what organisations can achieve with data and AI. As the unified platform powering the world&#39;s most ambitious data-driven…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:founding-engineer-gn-hardware-bioengineering-munich-230774",
+      "title": "Founding Engineer (gn) – Hardware & Bioengineering, Munich",
+      "company": "FoodLabs",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodlabs/founding-engineer-gn-hardware-bioengineering-munich-230774",
+      "tags": "Portfolio Company Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "About Cellsor Cameras digitized vision. Microphones digitized sound. Smell is the one major sense we still can't capture, measure or transmit reliably. Cellsor is building the sensor that changes that. We replicate the…",
+      "posted_date": 1792669915,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-sales-manager-industrial-ai-saas-berlin-185073",
+      "title": "Account Executive / Sales Manager (m/w/d) – Industrial AI & SaaS",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-account-executive-sales-manager-industrial-ai-saas-berlin-185073",
+      "tags": "Sales Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Deine Mission – Own Your Success Du bist verantwortlich für die Gewinnung neuer Kunden und den Ausbau unserer Marktposition in Europa. Das Beste daran: Wir liefern dir qualifizierte Leads und konkrete Verkaufschancen.…",
+      "posted_date": 1792669914,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-customer-success-managerin-50-100-remote-freelance-berlin-73116",
+      "title": "Senior Customer Success Manager*in (50-100%) Remote / Freelance",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/senior-customer-success-managerin-50-100-remote-freelance-berlin-73116",
+      "tags": "Operations Remote Mid parttime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, parttime permanent",
+      "excerpt": "Imnoo ist ein Hightech-AI-Softwareunternehmen mit einer klaren Mission: Wir automatisieren und revolutionieren Kalkulations- und Angebotsprozesse in der Fertigungsindustrie . Mit Pioniergeist, modernster KI-Technologie…",
+      "posted_date": 1792669914,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969",
+      "title": "AI  CAD CAM  IoT Engineer / Tinkerer CNC - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/remote-ai-cad-cam-iot-engineer-tinkerer-cnc-junior-mid-senior-berlin-204969",
+      "tags": "Software Department Remote Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "For over 10 years at Imnoo at Imnoo, we are bridging the gap between applied artificial intelligence and heavy industrial machinery. We aren't just riding the recent AI wave, we have been deeply rooted in machine…",
+      "posted_date": 1792669914,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875",
+      "title": "Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior",
+      "company": "Imnoo AG",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/imnoo-ag/machine-learning-computer-graphics-engineer-remote-part-full-time-junior-mid-senior-berlin-96875",
+      "tags": "Software Department Remote Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "Geometry with consequences. Deep learning on 3D CAD data where correctness translates into steel and aluminum, not pixels. The ultimate tinkerer's playground. Physical machines, shop floors, and modern cloud…",
+      "posted_date": 1792669914,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-43421",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-43421",
+      "tags": "Remote Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-product-manager-growth-cologne-267927",
+      "title": "Senior Product Manager Growth (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-product-manager-growth-cologne-267927",
+      "tags": "TPS Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust,…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-cloud-engineer-cologne-437627",
+      "title": "Senior Cloud Engineer (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-cloud-engineer-cologne-437627",
+      "tags": "Tech Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust,…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-88213",
+      "title": "Senior WEG-Verwalter:in (m/w/d) | 100 % Remote oder Hamburg",
+      "company": "Ralph Management GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/ralph-management-gmbh/senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-88213",
+      "tags": "Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Ralph ist Deutschlands modernste Hausverwaltung. Wir denken WEG von Grund auf neu – mit 10.000 Einheiten deutschlandweit haben wir bewiesen, dass unser Modell skaliert. Wir verbinden unsere eigene AI-Software mit der…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:agentic-platform-engineer-gn-at-ai-venture-berlin-409481",
+      "title": "Agentic Platform Engineer (gn) @ AI Venture, Berlin",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/agentic-platform-engineer-gn-at-ai-venture-berlin-409481",
+      "tags": "Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "This is an Atlantic portfolio venture. About the Venture AI models have moved faster than most companies’ ability to put them to work. The capabilities are there; knowing how to combine them effectively is still…",
+      "posted_date": 1792669908,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
+      "title": "Technical Co-Founder (AI Efficiency) @ AI Venture, Berlin",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/technical-co-founder-ai-efficiency-at-ai-venture-berlin-172572",
+      "tags": "Founder & Entrepreneurs in Residence Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "This is an Atlantic portfolio venture. About the Venture AI models have moved faster than most companies’ ability to put them to work. The capabilities are there; knowing how to combine them effectively is still…",
+      "posted_date": 1792669908,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:it-administrator-system-engineer-monchengladbach-325371",
+      "title": "IT-Administrator / System Engineer (m/w/d)",
+      "company": "Hall Tabakwaren e.K",
+      "location": "Mönchengladbach, Nordrhein-Westfalen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/hall-tabakwaren-ek/it-administrator-system-engineer-monchengladbach-325371",
+      "tags": "Innendienst Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Kommen Sie ins Team – gestalten Sie unsere Personalarbeit aktiv mit Hall Tabakwaren ist bundesweit in aller Munde. 1903 als Ladengeschäft für Zigarren, Rauchtabak und Zigaretten gegründet, sind wir heute einer der…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:head-senior-director-of-sales-central-europe-wetzlar-123895",
+      "title": "Head / Senior Director of Sales – Central Europe",
+      "company": "Cyclomedia Technology",
+      "location": "Wetzlar, Hessen, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyclomedia-technology/head-senior-director-of-sales-central-europe-wetzlar-123895",
+      "tags": "Sales EU Executive fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Executive, fulltime permanent",
+      "excerpt": "About Cyclomedia At Cyclomedia, our mission is to digitise the outside world with precision. Our geospatial technology turns street-level and aerial imagery into data and insights that cities, municipalities, utilities,…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-is-u-sap-s-4hana-marktkommunikation-consultant-berlin-6623",
+      "title": "(Senior) SAP IS-U / SAP S/4HANA Marktkommunikation Consultant (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-sap-s-4hana-marktkommunikation-consultant-berlin-6623",
+      "tags": "Utilities Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Du fühlst dich in der Energiebranche zu Hause und willst weiter an ihrer Digitalisierung mitarbeiten? Du hast in den letzten Jahren bereits viel Erfahrung als Berater gesammelt, hast aber jetzt Lust auf neue Projekte…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-is-u-consultant-energiedatenmanagement-aufbau-eines-neuen-edm-teams-berlin-324059",
+      "title": "Senior SAP IS-U Consultant (m/w/d) Energiedatenmanagement – Aufbau eines neuen EDM Teams",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-consultant-energiedatenmanagement-aufbau-eines-neuen-edm-teams-berlin-324059",
+      "tags": "Utilities Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Fühlst du dich in der Energiewirtschaft zu Hause und willst weiter an ihrer Digitalisierung arbeiten? Du hast in den letzten Jahren bereits viel Erfahrung als Berater gesammelt, hast aber jetzt&nbsp; Lust auf neue…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-is-u-sap-s-4hana-fi-ca-consultant-berlin-277896",
+      "title": "(Senior) SAP IS-U  / SAP S/4HANA FI-CA Consultant (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-sap-s-4hana-fi-ca-consultant-berlin-277896",
+      "tags": "Utilities Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Du fühlst dich in der Energiebranche zu Hause und willst weiter an ihrer Digitalisierung mitarbeiten? Du hast in den letzten Jahren bereits viel Erfahrung als Berater gesammelt, hast aber jetzt Lust auf neue Projekte…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-s4-hana-customer-service-crm-consultant-berlin-191288",
+      "title": "(Senior) SAP S4/HANA Customer Service & CRM Consultant (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-s4-hana-customer-service-crm-consultant-berlin-191288",
+      "tags": "Utilities Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Du fühlst dich in der Energiewirtschaft (Utilities) zu Hause und willst die Digitalisierung der Branche nicht nur auf dem Papier konzipieren, sondern direkt im System bauen? Du bringst tiefe Erfahrung in der…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-data-management-consultant-ilm-s-4hana-transformation-berlin-237977",
+      "title": "Senior SAP Data Management Consultant (m/w/d) – ILM & S/4HANA Transformation",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-data-management-consultant-ilm-s-4hana-transformation-berlin-237977",
+      "tags": "Data Management & Retirement Services Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Gestalte die Zukunft der Daten in der SAP-Welt. Mit uns. Du fühlst dich im SAP-Universum zu Hause und möchtest in einer agilen Tech-Kultur arbeiten, in der du wirklich etwas bewegen kannst? Für dich sind Daten nicht nur…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-people-business-parter-berlin-468210",
+      "title": "(Senior) People Business Parter",
+      "company": "Natuvion GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/senior-people-business-parter-berlin-468210",
+      "tags": "People Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Als (Senior) People Business Partner (m/w/d) bist du die zentrale Ansprechperson und strategischer Sparringspartner für die Führungskräfte in Deutschland. Du kennst die Teams, ihre Herausforderungen und ihre Ziele – und…",
+      "posted_date": 1792669906,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-projektmanager-performance-marketing-manager-mit-kundenkontakt-remote-hamburg-429162",
+      "title": "Senior Projektmanager/ Performance Marketing Manager  (m/w/d) mit Kundenkontakt - Remote",
+      "company": "SALTYBRANDS",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/saltybrands/senior-projektmanager-performance-marketing-manager-mit-kundenkontakt-remote-hamburg-429162",
+      "tags": "Marketing Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Vollzeit | Remote (Deutschlandweit) Du sollst bei jedem Kunden dieselben Ergebnisse liefern, egal wie unterschiedlich Budget und Angebot sind? Copy kommt aus dem einen Team, Creatives aus dem anderen, der Funnel von…",
+      "posted_date": 1792669905,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:msr-programmierer-codesys-fur-gebaudeautomation-rot-am-see-hausen-am-bach-117739",
+      "title": "MSR Programmierer CODESYS für Gebäudeautomation (m/w/d)",
+      "company": "Pfänder GmbH",
+      "location": "Rot am See - Hausen am Bach, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/pfander-gmbh/msr-programmierer-codesys-fur-gebaudeautomation-rot-am-see-hausen-am-bach-117739",
+      "tags": "MSR-Programmierung Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Verantwortungsbereich: Als Softwareentwickler in unserem Unternehmen bist du verantwortlich für die Entwicklung und Pflege von Softwarelösungen in CODESYS V3.5. Du programmierst Steuerungen für Gebäudeautomationssysteme…",
+      "posted_date": 1792669905,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:wirtschaftsinformatiker-in-remote-frankfurt-am-main-465769",
+      "title": "Wirtschaftsinformatiker/-in – Remote (m/w/d)",
+      "company": "Roman Mayer GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/wirtschaftsinformatiker-in-remote-frankfurt-am-main-465769",
+      "tags": "Business Development Remote Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "Wir sind eine schnell wachsende Marketing-Agentur aus Frankfurt und suchen neue Mitarbeiter (m/w/d) für den Bereich IT-Management, Digitalisierung, Automatisierung &amp; Prozesse! Was macht die Roman Mayer GmbH genau?…",
+      "posted_date": 1792669904,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:grafikdesigner-in-remote-frankfurt-am-main-121413",
+      "title": "Grafikdesigner/-in – Remote (m/w/d)",
+      "company": "Roman Mayer GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/grafikdesigner-in-remote-frankfurt-am-main-121413",
+      "tags": "Fulfillment Remote Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Wir sind eine schnell wachsende Marketing-Agentur aus Frankfurt und suchen neue Mitarbeiter (m/w/d), die uns Remote in den Bereichen Grafikdesign und Mediengestaltung Digital &amp; Print unterstützen! Was macht die…",
+      "posted_date": 1792669904,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudent-in-wirtschaftsinformatik-remote-frankfurt-am-main-246432",
+      "title": "Werkstudent/in Wirtschaftsinformatik – Remote (m/w/d)",
+      "company": "Roman Mayer GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/werkstudent-in-wirtschaftsinformatik-remote-frankfurt-am-main-246432",
+      "tags": "Business Development Remote Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "Wir sind eine schnell wachsende Marketing-Agentur aus Frankfurt und suchen neue Mitarbeiter (m/w/d) für den Bereich IT-Management, Digitalisierung, Automatisierung &amp; Prozesse! Was macht die Roman Mayer GmbH genau?…",
+      "posted_date": 1792669904,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-product-manager-reporting-berlin-140502",
+      "title": "Senior Product Manager | Reporting (f/m/d)",
+      "company": "bunch",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-product-manager-reporting-berlin-140502",
+      "tags": "Tech Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "bunch is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure, AI-powered workflows and expert fund services. If you…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-b2b-marketing-singapore-ne-asia-124922",
+      "title": "B2B Marketing - Singapore & NE Asia",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-b2b-marketing-singapore-ne-asia-124922",
+      "tags": "Growth Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-frontend-leaning-studio-291198",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-291198",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-it-engineer-192457",
+      "title": "IT Engineer",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-it-engineer-192457",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:kaufmannische-r-mitarbeiter-in-bereich-kundenabrechnung-paderborn-373625",
+      "title": "Kaufmännische/r Mitarbeiter/in (m/w/d) - Bereich Kundenabrechnung",
+      "company": "HARTMANN INTERNATIONAL GmbH & Co. KG",
+      "location": "Paderborn",
+      "url": "https://www.arbeitnow.com/jobs/companies/hartmann-international-gmbh-co-kg/kaufmannische-r-mitarbeiter-in-bereich-kundenabrechnung-paderborn-373625",
+      "tags": "Accounts Receivable Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über uns: Globales Business & familiäre Teamkultur: deine Perspektiven bei HARTMANN INTERNATIONAL Als mittelständisches Logistikunternehmen haben wir bei HARTMANN INTERNATIONAL uns in über 170 Jahren auf…",
+      "posted_date": 1792668691,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:nette-unterstutzung-fur-unsere-kundenberatung-mwd-neubrandenburg-2323",
+      "title": "Nette Unterstützung für unsere Kundenberatung (m,w,d)",
+      "company": "ms consultpartner",
+      "location": "Neubrandenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/ms-consultpartner/nette-unterstutzung-fur-unsere-kundenberatung-mwd-neubrandenburg-2323",
+      "tags": "Marketing and Communication Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag",
+      "excerpt": "Wir suchen dich als Unterstützung (m/w/d) für unseren Kundenservice in Neubrandenburg.. Aufgaben Wir beantworten Fragen unserer Kunden rund um den Bestellvorgang, Lieferbarkeit und Verfügbarkeit unserer Produkte per…",
+      "posted_date": 1792668691,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sales-manager-fur-it-individual-losungen-100-remote-berlin-441836",
+      "title": "Sales Manager für IT Individual-Lösungen (m/w/d) - 100% Remote",
+      "company": "DWWA Personalberatung GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/sales-manager-fur-it-individual-losungen-100-remote-berlin-441836",
+      "tags": "Remote Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "excerpt": "Stellenbeschreibung Du suchst einen sicheren Job als Inhouse Sales Manager für B2B IT Individal-Lösungen (m/w/d) mit 100% Remote Anteil auf Wunsch ? Möchtest du ein sicheres Fixum, attraktive Provisionen plus…",
+      "posted_date": 1792668689,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:entwicklungsingenieur-photovoltaik-cottbus-92960",
+      "title": "Entwicklungsingenieur Photovoltaik (m/w/d)",
+      "company": "Pixida Group",
+      "location": "Cottbus",
+      "url": "https://www.arbeitnow.com/jobs/companies/pixida-group/entwicklungsingenieur-photovoltaik-cottbus-92960",
+      "tags": "Power Engineering and Environmental Engineering Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Der Fokus dieser spannenden Tätigkeit liegt auf der Weiterentwicklung und Optimierung von Regelungs- und Energiemanagementstrategien für Photovoltaikanlagen in Kombination mit elektrischen und thermischen…",
+      "posted_date": 1792668689,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:executive-associate-operations-automotive-berlin-326520",
+      "title": "Executive Associate Operations Automotive (m/w/d)",
+      "company": "NXT Hero GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/executive-associate-operations-automotive-berlin-326520",
+      "tags": "Remote Business Operations Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Unser Kunde ist ein international agierendes Unternehmen, welches sich in seinem Bereich zu einem führenden Zulieferer in der Automobilindustrie etabliert hat. Bei den Produkten handelt es sich um…",
+      "posted_date": 1792668689,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudent-technischer-vertrieb-immenhausen-246067",
+      "title": "Werkstudent (M/W/D) Technischer Vertrieb",
+      "company": "sera Gruppe",
+      "location": "Immenhausen",
+      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/werkstudent-technischer-vertrieb-immenhausen-246067",
+      "tags": "Sales Engineer Werkstudent working student hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Werkstudent, working student, hilfstätigkeit / student",
+      "excerpt": "Bei sera bewegen wir mehr – gemeinsam. Als international tätige, mittelständische Unternehmensgruppe mit über 300 Kolleginnen und Kollegen an sieben Gesellschaften entwickeln wir technische Lösungen für anspruchsvolle…",
+      "posted_date": 1792668688,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:sales-operations-specialist-german-speaking-berlin-192347",
+      "title": "Sales Operations Specialist – German-Speaking (m/w/d)",
+      "company": "Hornetsecurity",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/sales-operations-specialist-german-speaking-berlin-192347",
+      "tags": "Business Operations Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Du arbeitest gerne mit Daten, CRM-Systemen und Dashboards, bist aber genauso gerne im Austausch mit anderen Teams? Du erkennst, wenn Prozesse besser laufen könnten, und packst gerne selbst mit an? Dann könnte unser…",
+      "posted_date": 1792668687,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:pflichtpraktikum-operations-management-fashion-sustainability-start-up-ab-november-dezember-2026-hanover-378844",
+      "title": "Pflichtpraktikum Operations Management - Fashion & Sustainability Start-Up ab November/Dezember 2026",
+      "company": "Fobe.me GmbH",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/fobeme-gmbh/pflichtpraktikum-operations-management-fashion-sustainability-start-up-ab-november-dezember-2026-hanover-378844",
+      "tags": "Business Operations Praktikum internship hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Praktikum, internship, hilfstätigkeit / student",
+      "excerpt": "Wir sind FOBE , eine innovative Sharing-Plattform für die angesagtesten Luxus-It-Bags von Marken wie Prada, Gucci, Bottega Veneta und vielen weiteren. Mit FOBE ermöglichen wir unseren Mitgliedern den Zugang zu einem…",
+      "posted_date": 1792668687,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-platform-engineer-linux-kubernetes-auf-bare-metal-espelkamp-457319",
+      "title": "Senior Platform Engineer – Linux & Kubernetes auf Bare Metal (m/w/d)",
+      "company": "Mittwald CM Service GmbH & Co. KG",
+      "location": "Espelkamp",
+      "url": "https://www.arbeitnow.com/jobs/companies/mittwald-cm-service-gmbh-co-kg/senior-platform-engineer-linux-kubernetes-auf-bare-metal-espelkamp-457319",
+      "tags": "Internet and software professional Full-time permanent experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full-time permanent, experienced",
+      "excerpt": "Dein Purpose Wir betreiben unsere Hosting-Plattform auf eigener Hardware und bauen sie gerade grundlegend neu: Kubernetes auf Bare Metal, alle Ebenen vom Kernel bis zur Plattform in eigener Verantwortung. Du gibst…",
+      "posted_date": 1792668012,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-recruiter-jn701-02-oldenburg-273222",
+      "title": "Junior Recruiter (m/w/d) - JN701-02",
+      "company": "Projekt-Team Personalberatung",
+      "location": "Oldenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/projekt-team-personalberatung/junior-recruiter-jn701-02-oldenburg-273222",
+      "tags": "Recruitment and Selection Unbefristeter arbeitsvertrag berufseinstieg",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "excerpt": "Die Projekt-Team GmbH ist eine bundesweit tätige, inhabergeführte Personalberatung aus Oldenburg. Wir wurden 1998 gegründet und vermitteln mit fünf Mitarbeitern Positionen in unseren Schwerpunktbranchen Automotive,…",
+      "posted_date": 1792666851,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:projektmanagerin-operations-und-partnerprojekte-all-genders-cologne-45824",
+      "title": "Projektmanager:in Operations und Partnerprojekte (all genders)",
+      "company": "MUVN",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/muvn/projektmanagerin-operations-und-partnerprojekte-all-genders-cologne-45824",
+      "tags": "Business Operations Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Täglich fahren Millionen Autos durch Deutschland, und in den meisten bleibt Platz ungenutzt. Wir ändern das. MUVN ist ein digitaler Transportmarktplatz. Wir bringen Fahrer:innen mit freiem Laderaum mit Menschen und…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:growth-marketing-manager-berlin-261147",
+      "title": "Growth & Marketing Manager (m/w/d)",
+      "company": "Lovebetter Gesellschaft für männliche Sexualität mbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/lovebetter-gesellschaft-fur-mannliche-sexualitat-mbh/growth-marketing-manager-berlin-261147",
+      "tags": "IT Unbefristeter arbeitsvertrag",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag",
+      "excerpt": "Jobbeschreibung Warum gibt es diese Rolle - und warum jetzt? Lovebetter wächst in eine neue Phase. Wir haben eine klare Mission, starke Inhalte, eine etablierte Marke und zahlreiche Möglichkeiten, noch mehr Männer zu…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:working-student-lab-engineer-berlin-236608",
+      "title": "Working Student Lab Engineer - Berlin (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-lab-engineer-berlin-236608",
+      "tags": "Software Development Internship (praktikum) internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Internship (praktikum), internship",
+      "excerpt": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-lab-engineer-berlin-47762",
+      "title": "(Senior) Lab Engineer (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-lab-engineer-berlin-47762",
+      "tags": "Software Development Permanent employment (unbefristeter arbeitsvertrag)",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag)",
+      "excerpt": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:principal-engineer-quality-assurance-berlin-59898",
+      "title": "Principal Engineer - Quality Assurance",
+      "company": "Zattoo",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/zattoo/principal-engineer-quality-assurance-berlin-59898",
+      "tags": "Engineering Permanent employment (unbefristeter arbeitsvertrag)",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag)",
+      "excerpt": "YOUR FUTURE, ON DEMAND The ideal blend of stability and flexibility. A genuinely human employer that cares for people and the planet. True autonomy to shape what comes next, for us and you. This is the perfect platform…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-backend-ai-engineer-all-identities-berlin-11416",
+      "title": "Senior Backend & AI Engineer (all identities)",
+      "company": "Caspar Health",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-backend-ai-engineer-all-identities-berlin-11416",
+      "tags": "Remote Software Development Permanent employment",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Permanent employment",
+      "excerpt": "Das erwartet Dich Build intelligent backend systems that make a genuine impact in healthcare. Caspar Health is the leading digital platform for medical rehabilitation. We empower doctors, therapists, and nursing staff…",
+      "posted_date": 1792666850,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "arbeitnow:regional-sales-manager-schadensanierung-region-nord-bremen-321922",
+      "title": "Regional Sales Manager Schadensanierung (m/w/d) | Region Nord",
+      "company": "Impledio GmbH",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/impledio-gmbh/regional-sales-manager-schadensanierung-region-nord-bremen-321922",
+      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "excerpt": "Ihre Mission Sie bauen das Geschäft im Vertriebsgebiet gezielt aus, gewinnen relevante Kunden und entwickeln bestehende Kontakte zu langfristigen Geschäftspartnerschaften. Dabei verbinden Sie aktiven Vertrieb mit…",
+      "posted_date": 1792666849,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:creative-strategist-account-manager-vollzeit-berlin-55661",
+      "title": "Creative Strategist & Account Manager – Vollzeit (m/w/d)",
+      "company": "Stronger GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/stronger-gmbh/creative-strategist-account-manager-vollzeit-berlin-55661",
+      "tags": "Remote Strategic Marketing Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Über Stronger GmbH Wir sind eine Paid Social Creative Agentur aus Hamburg mit einem 26-köpfigen Team, die sich auf Social Advertising für E-Commerce, Mittelstand und FinTech im DACH-Raum spezialisiert hat. Wir verbinden…",
+      "posted_date": 1792666849,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:it-system-administratorin-fur-digitalagentur-apple-macos-linux-region-frankfurt-main-frankfurt-am-main-413965",
+      "title": "IT-System-Administrator:in für Digitalagentur - Apple macOS & Linux (Region Frankfurt/Main) *",
+      "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/it-system-administratorin-fur-digitalagentur-apple-macos-linux-region-frankfurt-main-frankfurt-am-main-413965",
+      "tags": "System and Network Administration Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Region Frankfurt/M · Vollzeit & unbefristet · 48.000–60.000 € brutto/Jahr Du bist in der IT zuhause, hast einen Bezug zur Unix/Linux-basierten Web-Welt, nutzt selbst Apple-Systeme dafür und möchtest eine…",
+      "posted_date": 1792665076,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-product-manager-358328",
+      "title": "Senior Product Manager",
+      "company": "Plos",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plos/senior-product-manager-358328",
+      "tags": "Product Management",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p&gt;&lt;em&gt;&lt;strong&gt;This position is fully remote/home based. Applications will be accepted from candidates based in the UK.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Role…",
+      "posted_date": 1792670123,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:new-business-enterprise-account-executive-public-sector-london-239720",
+      "title": "New Business Enterprise Account Executive (Public Sector) ",
+      "company": "databricks",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/new-business-enterprise-account-executive-public-sector-london-239720",
+      "tags": "Enterprise Sales",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ128R110&lt;/p&gt; &lt;p&gt;Do you want to help solve the world’s toughest problems with Data and AI? That’s what we do every day at Databricks.&lt;/p&gt; &lt;p&gt;Reporting…",
+      "posted_date": 1792670119,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-principal-engineer-software-engineering-devops-62745",
+      "title": "Principal Engineer (Software Engineering/Devops)",
+      "company": "Grip",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745",
+      "tags": "Engineering Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "🚀 Who are We? Grip is the AI-powered, end-to-end event platform built for engagement. The flexible system helps commercial event organizers like Ascential, Hyve, Emerald and Clarion Events boost revenue by establishing,…",
+      "posted_date": 1792669907,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-enterprise-ae-london-217069",
+      "title": "Senior Enterprise AE London",
+      "company": "BLP Digital AG",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/senior-enterprise-ae-london-217069",
+      "tags": "Sales Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Join BLP and help make the world’s business processes autonomous! Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with…",
+      "posted_date": 1792669234,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:uki-sales-leader-london-403552",
+      "title": "UK&I Sales Leader",
+      "company": "BLP Digital AG",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/uki-sales-leader-london-403552",
+      "tags": "Sales Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Join BLP and help make the world’s business processes autonomous! Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with…",
+      "posted_date": 1792669234,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:engineering-manager-london-55321",
+      "title": "Engineering Manager",
+      "company": "Kernel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/engineering-manager-london-55321",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Kernel Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company…",
+      "posted_date": 1792669232,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:mid-market-account-executive-london-14335",
+      "title": "Mid-Market Account Executive",
+      "company": "Kernel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/mid-market-account-executive-london-14335",
+      "tags": "Growth Sales & Marketing Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Kernel Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company…",
+      "posted_date": 1792669232,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:revops-lead-london-296259",
+      "title": "RevOps Lead",
+      "company": "Kernel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/revops-lead-london-296259",
+      "tags": "Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Kernel Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company…",
+      "posted_date": 1792669232,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ai-ops-engineer-business-operations-london-312834",
+      "title": "AI Ops Engineer (Business Operations)",
+      "company": "Kernel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/ai-ops-engineer-business-operations-london-312834",
+      "tags": "Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Kernel Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company…",
+      "posted_date": 1792669232,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-product-engineer-london-49862",
+      "title": "Senior Product Engineer",
+      "company": "Kernel",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/senior-product-engineer-london-49862",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Kernel Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company…",
+      "posted_date": 1792669232,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:legal-counsel-london-419989",
+      "title": "Legal Counsel",
+      "company": "Getground",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/getground/legal-counsel-london-419989",
+      "tags": "Business Functions Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We’re looking for a Legal Counsel to join GetGround’s Legal, Risk &amp; Compliance team, giving practical, commercially minded legal and regulatory advice as we scale. You’ll advise on commercial contracts, product…",
+      "posted_date": 1792669231,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:trade-compliance-manager-london-jj-mack-59779",
+      "title": "Trade Compliance Manager",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/trade-compliance-manager-london-jj-mack-59779",
+      "tags": "Finance & Corporate Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Fractile Fractile was founded in 2022 on the bet that, eventually, the world’s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical…",
+      "posted_date": 1792669231,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:market-product-lead-london-85279",
+      "title": "Market Product Lead",
+      "company": "Basecamp Research",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/basecamp-research/market-product-lead-london-85279",
+      "tags": "Business Development and Partnerships Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Us Basecamp Research is building frontier AI for therapeutic design. We believe the future of medicine lies in reprogramming the body to repair itself, and we design the models and the medicines to teach it how.…",
+      "posted_date": 1792669231,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-ai-ml-engineer-london-73889",
+      "title": "Senior AI/ML Engineer",
+      "company": "Limbic",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/limbic/senior-ai-ml-engineer-london-73889",
+      "tags": "AI & Research Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Take ownership of the AI behind our clinical products in the US: an AI therapist delivering end-to-end care, and AI assessment used by healthcare providers. About Limbic Limbic’s vision is to ensure the highest quality…",
+      "posted_date": 1792669231,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ai-ml-engineer-london-270895",
+      "title": "AI/ML Engineer",
+      "company": "Limbic",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/limbic/ai-ml-engineer-london-270895",
+      "tags": "AI & Research Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Build the AI therapist that delivers end-to-end CBT to patients in the US: live, clinically supervised, and measured on whether people actually get better. About Limbic Limbic’s vision is to ensure the highest quality…",
+      "posted_date": 1792669231,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:product-manager-uk-loans-london-369819",
+      "title": "Product Manager (UK Loans)",
+      "company": "Lendable",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-uk-loans-london-369819",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:strategy-analytics-manager-london-51120",
+      "title": "Strategy Analytics Manager",
+      "company": "Lendable",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/strategy-analytics-manager-london-51120",
+      "tags": "Growth & Analytics Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:analytics-engineer-uk-cards-london-466793",
+      "title": "Analytics Engineer (UK Cards)",
+      "company": "Lendable",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analytics-engineer-uk-cards-london-466793",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-product-manager-us-cards-london-258898",
+      "title": "Senior Product Manager (US Cards)",
+      "company": "Lendable",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-product-manager-us-cards-london-258898",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:fraud-disputes-specialist-london-391774",
+      "title": "Fraud & Disputes Specialist",
+      "company": "Lendable",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/fraud-disputes-specialist-london-391774",
+      "tags": "Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:special-projects-lead-category-expansion-london-23097",
+      "title": "Special Projects Lead - Category Expansion",
+      "company": "Fleek",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/special-projects-lead-category-expansion-london-23097",
+      "tags": "Commercial Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Can you help us fix the world's most broken supply chain? The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:account-manager-london-291558",
+      "title": "Account Manager",
+      "company": "Fleek",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/account-manager-london-291558",
+      "tags": "Commercial Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Can you help us fix the world's most broken supply chain? The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:talent-director-london-237840",
+      "title": "Talent Director",
+      "company": "Olix",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/talent-director-london-237840",
+      "tags": "Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About OLIX AI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:junior-it-support-analyst-edinburgh-91867",
+      "title": "Junior IT support analyst",
+      "company": "Seccl",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/junior-it-support-analyst-edinburgh-91867",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Hybrid working with two/three days a week in our Edinburgh office, depending on ‘in-office’ support required that week. About us Seccl is the Octopus-owned embedded investment platform, on a mission to help more people…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:fpa-business-partner-london-357336",
+      "title": "FP&A Business Partner",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/fpa-business-partner-london-357336",
+      "tags": "Central Functions Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:lead-data-scientist-safety-london-498547",
+      "title": "Lead Data Scientist (Safety)",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-data-scientist-safety-london-498547",
+      "tags": "Data Science Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:lead-software-engineer-safety-london-189123",
+      "title": "Lead Software Engineer (Safety)",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-software-engineer-safety-london-189123",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:lead-machine-learning-engineer-safety-london-170441",
+      "title": "Lead Machine Learning Engineer (Safety)",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-machine-learning-engineer-safety-london-170441",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:frontend-engineer-london-61540",
+      "title": "Frontend Engineer",
+      "company": "Faculty",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/frontend-engineer-london-61540",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend"
+      ]
+    },
+    {
+      "id": "arbeitnow:complaints-officer-london-38362",
+      "title": "Complaints Officer",
+      "company": "Fundingcircle",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/complaints-officer-london-38362",
+      "tags": "Collections Recoveries & Litigation Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We’re on a mission to back the UK’s small businesses like no one else 🚀 Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:vulnerable-customer-account-manager-london-64325",
+      "title": "Vulnerable Customer Account Manager",
+      "company": "Fundingcircle",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/vulnerable-customer-account-manager-london-64325",
+      "tags": "Collections Recoveries & Litigation Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We’re on a mission to back the UK’s small businesses like no one else 🚀 Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:account-manager-inbound-london-148284",
+      "title": "Account Manager (Inbound)",
+      "company": "Fundingcircle",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/account-manager-inbound-london-148284",
+      "tags": "Sales Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We’re on a mission to back the UK’s small businesses like no one else 🚀 Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the…",
+      "posted_date": 1792669230,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:brand-paid-media-manager-9-month-ftc-london-269345",
+      "title": "Brand Paid Media Manager - 9 Month FTC",
+      "company": "Trainline",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/brand-paid-media-manager-9-month-ftc-london-269345",
+      "tags": "Commercial Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:commercial-director-london-239427",
+      "title": "Commercial Director",
+      "company": "Motorway",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/commercial-director-london-239427",
+      "tags": "Dealer Services Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Motorway Motorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:complaints-specialist-brighton-60574",
+      "title": "Complaints Specialist",
+      "company": "Motorway",
+      "location": "Brighton",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/complaints-specialist-brighton-60574",
+      "tags": "Dealer Services Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Motorway Motorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:interim-head-of-financial-control-3-6-month-contract-london-42662",
+      "title": "Interim Head of Financial Control (3-6 month contract)",
+      "company": "Motorway",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/interim-head-of-financial-control-3-6-month-contract-london-42662",
+      "tags": "Operations Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About Motorway Motorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:head-of-real-estate-london-462231",
+      "title": "Head of Real Estate",
+      "company": "Elevenlabs",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/head-of-real-estate-london-462231",
+      "tags": "Finance Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:full-stack-engineer-enterprise-united-kingdom-105262",
+      "title": "Full-Stack Engineer - Enterprise",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-enterprise-united-kingdom-105262",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:applied-ai-engineer-united-kingdom-395126",
+      "title": "Applied AI Engineer",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/applied-ai-engineer-united-kingdom-395126",
+      "tags": "Growth Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-scientist-product-analytics-united-kingdom-33101",
+      "title": "Data Scientist - Product Analytics",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/data-scientist-product-analytics-united-kingdom-33101",
+      "tags": "Engineering & Product Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:gestionnaire-billetterie-racing-92-nanterre-405777",
+      "title": "Gestionnaire billetterie Racing 92",
+      "company": "Plenitude Arena",
+      "location": "Nanterre",
+      "url": "https://www.arbeitnow.fr/jobs/companies/plenitude-arena/gestionnaire-billetterie-racing-92-nanterre-405777",
+      "tags": "Product Management Cdi - contrat à durée indéterminée",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Cdi - contrat à durée indéterminée",
+      "excerpt": "Plenitude Arena est la plus grande enceinte d’Europe qui accueille des concerts, des spectacles, des évènements spéciaux (de la convention d’entreprise aux défilés de mode en passant par les salons professionnels) et…",
+      "posted_date": 1792677674,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:commerciale-web-seo-h-f-levallois-perret-150878",
+      "title": "Commercial(e) Web & SEO (H/F)",
+      "company": "MIMETISM",
+      "location": "Levallois-Perret",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mimetism/commerciale-web-seo-h-f-levallois-perret-150878",
+      "tags": "Business Development Cdi - contrat à durée indéterminée professionnel / expérimenté",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
+      "excerpt": "Commercial(e) en prospection téléphonique – Web & Référencement Indépendant(e), CDI, stage ou alternance · Levallois-Perret / Île-de-France Qui sommes-nous ? MIMETISM est une agence de communication 360° qui aide les…",
+      "posted_date": 1792677674,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:customer-experience-h-f-serris-142781",
+      "title": "Customer Experience (H/F)",
+      "company": "ARCHIMAX",
+      "location": "Serris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/archimax/customer-experience-h-f-serris-142781",
+      "tags": "Customer Service Cdi - contrat à durée indéterminée professionnel / expérimenté",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
+      "excerpt": "Installation, formation et support des solutions d’encaissement Vous aimez le contact client, les nouvelles technologies et les solutions concrètes ? Rejoignez SAS ARCHIMAX pour accompagner les restaurateurs et les…",
+      "posted_date": 1792675875,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:customer-care-analyst-ops-cdi-paris-370550",
+      "title": "Customer Care Analyst & Ops - CDI",
+      "company": "Green-Got",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/green-got/customer-care-analyst-ops-cdi-paris-370550",
+      "tags": "Remote Finance Cdi (contrat à durée indéterminée)",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Cdi (contrat à durée indéterminée)",
+      "excerpt": "Green-Got est une institution financière française qui permet à chacun de choisir ce que son argent finance. Nous construisons l'infrastructure financière du monde de demain. Depuis janvier 2026, Green-Got est un…",
+      "posted_date": 1792674068,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-saas-paris-78188",
+      "title": "Customer Success Manager - SaaS",
+      "company": "Dastra",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dastra/customer-success-manager-saas-paris-78188",
+      "tags": "PSM - CSM Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "About Dastra Dastra is a fast-growing SaaS platform dedicated to data protection, compliance and AI governance . Our mission is simple: turn complex regulatory requirements into clear, operational and actionable…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:head-of-sales-paris-75402",
+      "title": "Head of Sales",
+      "company": "Dastra",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dastra/head-of-sales-paris-75402",
+      "tags": "Sales AE Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "À propos de Dastra Dastra est une plateforme SaaS BtoB dédiée à la protection des données, à la compliance et à la gouvernance de l’IA . Notre mission est claire : Faire de la protection des données une réalité…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:presales-engineer-saas-paris-265896",
+      "title": "PreSales Engineer SaaS",
+      "company": "Dastra",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dastra/presales-engineer-saas-paris-265896",
+      "tags": "Sales AE Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "À propos de Dastra Dastra est une plateforme SaaS dédiée à la protection des données, à la conformité et à la gouvernance de l'IA. Nous accompagnons des organisations de toutes tailles dans la structuration et le…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:adjoint-responsable-de-production-ingenieur-process-junior-h-f-saint-laurent-blangy-465507",
+      "title": "Adjoint Responsable de Production / Ingénieur Process Junior (H/F)",
+      "company": "BATTRI",
+      "location": "SAINT-LAURENT-BLANGY, Hauts-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/battri/adjoint-responsable-de-production-ingenieur-process-junior-h-f-saint-laurent-blangy-465507",
+      "tags": "Entry fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime permanent",
+      "excerpt": "Au sein de son usine de recyclage de batteries lithium-ion située à Saint-Laurent-Blangy, Battri déploie une ligne industrielle de pointe dédiée au recyclage par broyage, séparation/extraction tmécanique des composants…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-analyst-h-f-paris-207445",
+      "title": "Data Analyst H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-h-f-paris-207445",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et opérationnelles. Selon votre profil et vos affinités, vous aurez l'opportunité d’intervenir sur des projets répondant…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:account-manager-ia-data-digital-h-f-paris-86196",
+      "title": "Account Manager - IA, Data & Digital (H/F)",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/account-manager-ia-data-digital-h-f-paris-86196",
+      "tags": "Commerce Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Rejoignez l'aventure AVISIA ! 🌟 Cabinet de conseil de référence en Intelligence Artificielle, Data &amp; Digital , AVISIA poursuit sa croissance. Nous recherchons des Talents Business (quelque soit votre expérience,…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-engineer-h-f-paris-250437",
+      "title": "Data Engineer H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-paris-250437",
+      "tags": "Data Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Nos missions : Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et stratégiques , où la donnée est le moteur de la performance opérationnelle . En tant que Data…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-scientist-confirmee-h-f-lyon-162700",
+      "title": "Data Scientist Confirmé(e) H/F  - Lyon",
+      "company": "AVISIA",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-confirmee-h-f-lyon-162700",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Nos missions : Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et opérationnelles. Selon votre profil et vos affinités, vous aurez l'opportunité d’intervenir sur des…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-scientist-h-f-nantes-217294",
+      "title": "Data Scientist H/F - Nantes",
+      "company": "AVISIA",
+      "location": "Nantes, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-nantes-217294",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Nos missions : Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et opérationnelles. Selon votre profil et vos affinités, vous aurez l'opportunité d’intervenir sur des…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-scientist-h-f-paris-293734",
+      "title": "Data Scientist H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-h-f-paris-293734",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Nos missions : Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et opérationnelles. Selon votre profil et vos affinités, vous aurez l'opportunité d’intervenir sur des…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-analyst-confirmee-h-f-lille-34846",
+      "title": "Data Analyst confirmé(e) H/F - Lille",
+      "company": "AVISIA",
+      "location": "Lille, Hauts-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-confirmee-h-f-lille-34846",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et opérationnelles. Selon votre profil et vos affinités, vous aurez l'opportunité d’intervenir sur des projets répondant…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ai-engineer-h-f-paris-91626",
+      "title": "AI Engineer H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/ai-engineer-h-f-paris-91626",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "AVISIA, qui sommes-nous ? AVISIA est une société de conseil spécialisée en Data, Intelligence Artificielle et Digital , créée en 2007. Avec plus de 320 collaborateurs répartis dans 5 agences en France, nous accompagnons…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-de-fin-detudes-consultant-data-ia-h-f-regions-nantes-185809",
+      "title": "Stage de fin d'études - Consultant Data & IA H/F - Régions",
+      "company": "AVISIA",
+      "location": "Nantes, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-consultant-data-ia-h-f-regions-nantes-185809",
+      "tags": "Stages Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "La mission : A travers le stage, vous aurez l'opportunité de mettre en pratique vos compétences, d'apprendre auprès d'experts, et de contribuer à des projets concrets et impactants. Être consultant, c’est participer à…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-de-fin-detudes-analytics-engineer-h-f-paris-300289",
+      "title": "Stage de fin d'études - Analytics Engineer H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-analytics-engineer-h-f-paris-300289",
+      "tags": "Stages Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "La mission : A travers le stage, vous aurez l'opportunité de mettre en pratique vos compétences, d'apprendre auprès d'experts, et de contribuer à des projets concrets et impactants. Être consultant, c’est participer à…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-de-fin-detudes-data-analyst-scientist-h-f-paris-104628",
+      "title": "Stage de fin d'études - Data Analyst / Scientist H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-data-analyst-scientist-h-f-paris-104628",
+      "tags": "Stages Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "La mission : A travers le stage, vous aurez l'opportunité de mettre en pratique vos compétences, d'apprendre auprès d'experts, et de contribuer à des projets concrets et impactants. Être consultant, c’est participer à…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-de-fin-detudes-ai-engineer-h-f-paris-14404",
+      "title": "Stage de fin d'études - AI Engineer H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/stage-de-fin-detudes-ai-engineer-h-f-paris-14404",
+      "tags": "Stages Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "La mission : A travers le stage, vous aurez l'opportunité de mettre en pratique vos compétences, d'apprendre auprès d'experts, et de contribuer à des projets concrets et impactants. Être consultant, c’est participer à…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-engineer-h-f-confirmee-lille-249654",
+      "title": "Data Engineer H/F Confirmé(e) - Lille",
+      "company": "AVISIA",
+      "location": "Lille, Hauts-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-confirmee-lille-249654",
+      "tags": "Data Senior executive fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Senior executive, fulltime permanent",
+      "excerpt": "Nos missions : Nous intervenons chez nos clients sur des missions 100% data qui allient des dimensions techniques et stratégiques , où la donnée est le moteur de la performance opérationnelle . En tant que Data…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-scientist-confirmee-h-f-paris-195245",
+      "title": "Data Scientist Confirmé(e) H/F  - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-scientist-confirmee-h-f-paris-195245",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "AVISIA, qui sommes-nous ? Vous souhaitez donner du sens aux données et développer des modèles prédictifs qui répondent à des enjeux métiers concrets ? Rejoignez AVISIA et participez à des projets Data Science à forte…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-analyst-confirmee-h-f-paris-233016",
+      "title": "Data Analyst Confirmé(e) H/F - Paris",
+      "company": "AVISIA",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-analyst-confirmee-h-f-paris-233016",
+      "tags": "Data Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "AVISIA, qui sommes-nous ? Vous souhaitez exploiter les données pour éclairer les décisions stratégiques et répondre à des enjeux métiers concrets ? Rejoignez AVISIA et participez à des projets Data à forte valeur…",
+      "posted_date": 1792669910,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:expert-fullstack-java-js-f-h-nantes-336889",
+      "title": "Expert fullstack Java/JS - F/H",
+      "company": "MOBIAPPS",
+      "location": "Nantes, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mobiapps/expert-fullstack-java-js-f-h-nantes-336889",
+      "tags": "Nantes - Digital Factory Executive fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Executive, fulltime permanent",
+      "excerpt": "En 12 ans , notre équipe Digital Factory composée d’une quarantaine de collaborateur·rices a su démontrer son expertise dans l’univers de la mobilité auprès de startups, PME, ETI et grands groupes tels que : SNCF…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:developpeur-mobile-natif-f-h-nantes-13624",
+      "title": "Développeur mobile natif F/H",
+      "company": "MOBIAPPS",
+      "location": "Nantes, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mobiapps/developpeur-mobile-natif-f-h-nantes-13624",
+      "tags": "Nantes - Digital Factory Executive fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Executive, fulltime permanent",
+      "excerpt": "En 12 ans , notre équipe Digital Factory composée d’une quarantaine de collaborateur·rices a su démontrer son expertise dans l’univers de la mobilité auprès de startups, PME, ETI et grands groupes tels que : SNCF…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:developpeur-java-devops-f-h-nantes-343459",
+      "title": "Développeur Java / DevOps F/H",
+      "company": "MOBIAPPS",
+      "location": "Nantes, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mobiapps/developpeur-java-devops-f-h-nantes-343459",
+      "tags": "Nantes - Digital Factory Senior executive fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Senior executive, fulltime permanent",
+      "excerpt": "En 12 ans , notre équipe Digital Factory composée d’une quarantaine de collaborateur·rices a su démontrer son expertise dans l’univers de la mobilité auprès de startups, PME, ETI et grands groupes tels que : SNCF…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-performance-creative-strategist-gn-at-female-health-consumer-startup-london-paris-152577",
+      "title": "Senior Performance Creative Strategist (gn) @ Female Health Consumer Startup, London",
+      "company": "FoodLabs",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/foodlabs/senior-performance-creative-strategist-gn-at-female-health-consumer-startup-london-paris-152577",
+      "tags": "Portfolio Company Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "About DITTO DITTO is a science-led brand redefining menstrual health. As a fast-growing, VC-backed business, we're scaling a new standard in menstrual wellbeing — empowering anyone with cycle symptoms to understand,…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-co-founder-cto-gn-industrial-data-for-ai-paris-24714",
+      "title": "Co-Founder & CTO (gn), Industrial Data for AI, Paris",
+      "company": "FoodLabs",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/foodlabs/remote-co-founder-cto-gn-industrial-data-for-ai-paris-24714",
+      "tags": "Founder & Entrepreneurs in Residence Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About FoodLabs FoodLabs is Europe's leading early-stage VC and venture studio, backing founders who are shaping the future of the food, health, and climate value chains. We build companies from zero, putting capital,…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:developpeur-webmaster-f-h-alternance-calais-430324",
+      "title": "Développeur/Webmaster F/H (alternance)",
+      "company": "Armatis",
+      "location": "Calais, Hauts-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/armatis/developpeur-webmaster-f-h-alternance-calais-430324",
+      "tags": "Student college apprenticeship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, apprenticeship",
+      "excerpt": "Nous recherchons un(e) alternant(e) en informatique pour assurer la maintenance et les évolutions de plusieurs sites web WordPress. Rattaché(e) à la DSI, l’alternant(e) travaillera en lien avec les différents services…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-3d-chiplet-engineer-grenoble-90023",
+      "title": "3D Chiplet Engineer",
+      "company": "Vertical Compute",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vertical-compute/remote-3d-chiplet-engineer-grenoble-90023",
+      "tags": "System & Product Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About Us : AI compute is hitting a hard physical wall, and memory bottlenecks are throttling the entire industry. Founded in October 2024 and backed by €57M in funding, Vertical Compute is solving this with proprietary…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-program-manager-product-development-grenoble-168001",
+      "title": "Senior Program Manager (Product Development)",
+      "company": "Vertical Compute",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vertical-compute/remote-senior-program-manager-product-development-grenoble-168001",
+      "tags": "System & Product Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About Us : AI compute is hitting a hard physical wall, and memory bottlenecks are throttling the entire industry. Founded in October 2024 and backed by €57M in funding, Vertical Compute is solving this with proprietary…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-hardware-architect-and-team-lead-grenoble-82030",
+      "title": "Hardware Architect and Team Lead",
+      "company": "Vertical Compute",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vertical-compute/remote-hardware-architect-and-team-lead-grenoble-82030",
+      "tags": "System & Product Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About Us : AI compute is hitting a hard physical wall, and memory bottlenecks are throttling the entire industry. Founded in October 2024 and backed by €57M in funding, Vertical Compute is solving this with proprietary…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-architect-team-lead-grenoble-393175",
+      "title": "Software Architect  & Team lead",
+      "company": "Vertical Compute",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vertical-compute/remote-software-architect-team-lead-grenoble-393175",
+      "tags": "System & Product Remote Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About Us : AI compute is hitting a hard physical wall, and memory bottlenecks are throttling the entire industry. Founded in October 2024 and backed by €57M in funding, Vertical Compute is solving this with proprietary…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:system-modelling-engineer-grenoble-199543",
+      "title": "System modelling Engineer",
+      "company": "Vertical Compute",
+      "location": "Grenoble, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vertical-compute/system-modelling-engineer-grenoble-199543",
+      "tags": "System & Product Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "About Us : AI compute is hitting a hard physical wall, and memory bottlenecks are throttling the entire industry. Founded in October 2024 and backed by €57M in funding, Vertical Compute is solving this with proprietary…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:cdi-responsable-rd-charcuterie-vege-f-h-la-meilleraie-tillay-175915",
+      "title": "CDI - Responsable R&D Charcuterie & Végé F/H",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/cdi-responsable-rd-charcuterie-vege-f-h-la-meilleraie-tillay-175915",
+      "tags": "Recherche & Développement Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "🥩🌱 Envie d'un défi professionnel excitant ? Nous avons un poste à la croisée de la charcuterie et des produits végé et nous recherchons une personne passionnée pour relever ce nouveau challenge ! Rattaché(e) à Charline,…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ingenieur-exploitation-it-senior-f-h-pouzauges-267387",
+      "title": "Ingénieur Exploitation IT Senior F/H",
+      "company": "FLEURY MICHON",
+      "location": "Pouzauges, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/ingenieur-exploitation-it-senior-f-h-pouzauges-267387",
+      "tags": "Informatique - Système d'information Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Chez Fleury Michon, la Direction Infrastructure et Production Informatique garantit chaque jour la disponibilité et la performance des services IT qui soutiennent l'ensemble de nos activités. Dans le cadre du…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:paso-charge-qualite-h-f-en-alternance-la-chapelle-achard-83139",
+      "title": "Paso - Charge Qualite H/F En Alternance",
+      "company": "FLEURY MICHON",
+      "location": "La Chapelle Achard, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/paso-charge-qualite-h-f-en-alternance-la-chapelle-achard-83139",
+      "tags": "Recherche & Développement Student college apprenticeship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, apprenticeship",
+      "excerpt": "Chez PASO Traiteur, filiale du groupe Fleury Michon, on ne prend rien au sérieux, sauf l’apéro ! &nbsp; Nous concevons et fabriquons des produits apéritifs traiteur frais et gourmands, comme le préfou vendéen ou encore…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-analyse-sensorielle-f-h-la-meilleraie-tillay-300595",
+      "title": "STAGE - Ingénieur Analyse sensorielle F/H",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-analyse-sensorielle-f-h-la-meilleraie-tillay-300595",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Audrey A BESOIN DE Quelqu’un qui détecte des nuances là où d’autres ne voient qu’un goût&nbsp; Fleury Michon a un deal pour toi&nbsp;! L’équipe Senso a besoin d’un œil et d’un palais pour observer, questionner et…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-chef-de-projet-f-h-janvier-2027-la-meilleraie-tillay-41778",
+      "title": "STAGE - Chef de projet F/H - Janvier 2027",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-chef-de-projet-f-h-janvier-2027-la-meilleraie-tillay-41778",
+      "tags": "Direction Générale Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "🚀 Et si votre stage vous permettait de participer concrètement à la transformation d’une entreprise ? Rattaché à Virginie, en tant que stagiaire en gestion de projet , vous intégrerez l’équipe Transformation / RSE et…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-qualite-f-h-mouilleron-saint-germain-168265",
+      "title": "STAGE - Ingénieur Qualité F/H",
+      "company": "FLEURY MICHON",
+      "location": "Mouilleron-Saint-Germain, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-qualite-f-h-mouilleron-saint-germain-168265",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "L’équipe qualité a besoin de quelqu’un qui contribue à garantir la sécurité des aliments au quotidien &nbsp; Fleury Michon a un deal pour toi&nbsp;! Les équipes qualité des sites de Pouzauges, Mouilleron St Germain et…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-qualite-achat-f-h-la-meilleraie-tillay-376014",
+      "title": "STAGE - Ingénieur Qualité Achat F/H",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-qualite-achat-f-h-la-meilleraie-tillay-376014",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Hortense et Corentin ont besoin de quelqu’un pour garantir la qualité de nos matières premières &nbsp; Fleury Michon a un deal pour toi&nbsp;! L’équipe Qualité au siège à Pouzauges a besoin d’un œil neuf pour challenger…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-optimisation-des-processus-industriels-f-h-la-meilleraie-tillay-355586",
+      "title": "STAGE - Ingénieur Optimisation des processus industriels F/H",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-optimisation-des-processus-industriels-f-h-la-meilleraie-tillay-355586",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Anne-Julie a besoin de quelqu’un qui voit des optimisations là où d’autres voient des habitudes &nbsp; Fleury Michon a un deal pour toi&nbsp;! Les équipes au «&nbsp;Conditionnement&nbsp;» des Aides Culinaires à…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-environnement-f-h-la-meilleraie-tillay-20228",
+      "title": "STAGE - Ingénieur Environnement F/H",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-environnement-f-h-la-meilleraie-tillay-20228",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "François a besoin de quelqu’un capable de transformer des bases de données en véritable outil d’aide au pilotage de la performance &nbsp; Fleury Michon a un deal pour toi&nbsp;! François et son équipe ont besoin d’un…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-optimisation-des-processus-industriels-f-h-mouilleron-saint-germain-326081",
+      "title": "STAGE - Ingénieur Optimisation des processus industriels F/H",
+      "company": "FLEURY MICHON",
+      "location": "Mouilleron-Saint-Germain, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-optimisation-des-processus-industriels-f-h-mouilleron-saint-germain-326081",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Simon a besoin de quelqu’un qui voit des optimisations là où d’autres voient des habitudes &nbsp; Fleury Michon a un deal pour toi&nbsp;! Les équipes au «&nbsp;Conditionnement&nbsp;» des Plats Cuisinés à Mouilleron ont…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-amelioration-continue-f-h-pouzauges-461705",
+      "title": "STAGE - Ingénieur Amélioration continue F/H",
+      "company": "FLEURY MICHON",
+      "location": "Pouzauges, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-amelioration-continue-f-h-pouzauges-461705",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Denis a besoin de quelqu’un qui voit des optimisations là où d’autres voient des habitudes Fleury Michon a un deal pour toi&nbsp;! Denis du site de Montifaut Jambon à Pouzauges a besoin d’un œil neuf pour simplifier,…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-assistant-securite-f-h-pouzauges-417033",
+      "title": "STAGE - Assistant Sécurité F/H",
+      "company": "FLEURY MICHON",
+      "location": "Pouzauges, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-assistant-securite-f-h-pouzauges-417033",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Amélie a besoin de quelqu’un qui contribue à faire grandir notre culture sécurité au quotidien &nbsp; Fleury Michon a un deal pour toi&nbsp;! Amélie, Responsable Sécurité du site de Montifaut Jambon à Pouzauges a besoin…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-optimisation-des-processus-industriels-f-h-chantonnay-497492",
+      "title": "STAGE - Ingénieur Optimisation des processus industriels F/H",
+      "company": "FLEURY MICHON",
+      "location": "Chantonnay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-optimisation-des-processus-industriels-f-h-chantonnay-497492",
+      "tags": "Production - MOI Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Samuel a besoin de quelqu’un qui sait transformer des données en décisions et des idées en actions concrètes Fleury Michon a un deal pour toi&nbsp;! Samuel te propose deux stages, un au sein du service Fabrication et un…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:responsable-service-industriel-fabrication-et-nettoyage-f-h-mouilleron-saint-germain-142448",
+      "title": "Responsable Service Industriel Fabrication et Nettoyage F/H",
+      "company": "FLEURY MICHON",
+      "location": "Mouilleron-Saint-Germain, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/responsable-service-industriel-fabrication-et-nettoyage-f-h-mouilleron-saint-germain-142448",
+      "tags": "Production - MOI Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Rejoignez un acteur majeur de l'agroalimentaire 🍃 Chez Fleury Michon, nous plaçons l’humain, la responsabilité et la performance au cœur de notre développement. Dans le cadre d'une mobilité interne, nous recherchons…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-ingenieur-rd-f-h-fevrier-2027-la-meilleraie-tillay-240380",
+      "title": "STAGE - Ingénieur R&D F/H - Février 2027",
+      "company": "FLEURY MICHON",
+      "location": "La Meilleraie-Tillay, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-rd-f-h-fevrier-2027-la-meilleraie-tillay-240380",
+      "tags": "Recherche & Développement Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Dans le cadre de votre stage, vous serez rattaché au pôle Recherche ou Charcuterie ou Traiteur et participerez à l’étude de l’impact de la variabilité des matières premières et des procédés sur la qualité des produits…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:cdi-responsable-de-domaine-si-supply-f-h-pouzauges-130863",
+      "title": "CDI - Responsable de domaine SI Supply F/H",
+      "company": "FLEURY MICHON",
+      "location": "Pouzauges, Pays de la Loire, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fleury-michon/cdi-responsable-de-domaine-si-supply-f-h-pouzauges-130863",
+      "tags": "Informatique - Système d'information Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "🚀 Rejoignez nos équipes SI et contribuez à faire évoluer notre Supply Chain ! Rattaché(e) à la DSI – Pôle Opérations , vous accompagnez la feuille de route de la Direction Supply et de la DSI, au cœur des projets qui…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:computational-scientist-scientific-machine-learning-lausanne-323897",
+      "title": "Computational Scientist / Scientific Machine Learning",
+      "company": "Fusionality",
+      "location": "Lausanne",
+      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/computational-scientist-scientific-machine-learning-lausanne-323897",
+      "tags": "Data Scientist Indefinite contract (unbefristeter arbeitsvertrag) professional / experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
+      "excerpt": "Fusionality is building the measurement, simulation, and control stack for the fusion energy reactors of the future. Spun out of EPFL’s Swiss Plasma Center and backed by top investors, our technology enables reliable…",
+      "posted_date": 1792674069,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:praktikant-in-kommunikation-80-12-monate-per-07122026-oder-nach-vereinbarung-winterthur-91767",
+      "title": "Praktikant_in Kommunikation (80%, 12 Monate) per 07.12.2026 oder nach Vereinbarung",
+      "company": "Fotomuseum Winterthur",
+      "location": "Winterthur",
+      "url": "https://www.arbeitnow.ch/jobs/companies/fotomuseum-winterthur/praktikant-in-kommunikation-80-12-monate-per-07122026-oder-nach-vereinbarung-winterthur-91767",
+      "tags": "Public Relations Corporate Communication Praktikumsvertrag internship hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Praktikumsvertrag, internship, hilfstätigkeit / student",
+      "excerpt": "Sie unterstützen die Kommunikationsverantwortliche bei der Entwicklung, Umsetzung und Analyse sämtlicher Kommunikations- und Marketingaktivitäten des Museums. Aufgaben Mitentwicklung und Betreuung der Web- und…",
+      "posted_date": 1792674068,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-ml-engineer-fusion-data-lausanne-479954",
+      "title": "Data/ML engineer, fusion data",
+      "company": "Fusionality",
+      "location": "Lausanne",
+      "url": "https://www.arbeitnow.ch/jobs/companies/fusionality/data-ml-engineer-fusion-data-lausanne-479954",
+      "tags": "Data Processing Data Engineer Indefinite contract (unbefristeter arbeitsvertrag) professional / experienced",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
+      "excerpt": "Fusionality is building the measurement, simulation, and control stack for the fusion energy reactors of the future. Spun out of EPFL’s Swiss Plasma Center and backed by top investors, our technology enables reliable…",
+      "posted_date": 1792672271,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-system-engineer-80-100-bern-275221",
+      "title": "Senior System Engineer 80-100% (w/m/d)",
+      "company": "p3b AG",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/senior-system-engineer-80-100-bern-275221",
+      "tags": "System and Network Administration Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Server, Cloud, Virtualisierung und Automatisierung sind dein Spielfeld – und dein Wissen macht das ganze Team stärker! Raum Bern, teilweise im Homeoffice oder bei den Kund:innen vor Ort Ab sofort oder nach Vereinbarung…",
+      "posted_date": 1792672270,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:automobil-fachmann-frau-efz-oder-automobil-mechatroniker-in-efz-100-baden-205164",
+      "title": "Automobil-Fachmann/-frau EFZ oder Automobil-Mechatroniker/in EFZ 100%",
+      "company": "Excellent Personalservice AG",
+      "location": "Baden",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-personalservice-ag/automobil-fachmann-frau-efz-oder-automobil-mechatroniker-in-efz-100-baden-205164",
+      "tags": "Automotive Engineering Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Für unseren Auftraggeber, einen modernen und familiengeführten Betrieb der Automobilbranche mit rund 25 Mitarbeitenden, suchen wir eine qualifizierte Fachperson für den Raum Baden. In dieser unbefristeten Vollzeitstelle…",
+      "posted_date": 1792670455,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ingenieure-environnement-specialiste-bruit-lausanne-34339",
+      "title": "Ingénieur·e environnement / spécialiste bruit",
+      "company": "Urbaplan",
+      "location": "Lausanne, Vaud, Suisse",
+      "url": "https://www.arbeitnow.ch/jobs/companies/urbaplan/ingenieure-environnement-specialiste-bruit-lausanne-34339",
+      "tags": "Environnement Experienced parttime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, parttime permanent",
+      "excerpt": "Tu réalises des études dans le domaine de l’acoustique environnementale (bruit routier, bruit ferroviaire, bruit industriel, bruit des installations techniques, etc.). Tu contribues à la rédaction des notices et des…",
+      "posted_date": 1792669909,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-c-c-low-latency-engineer-zug-396399",
+      "title": "Senior C/C++ Low Latency Engineer",
+      "company": "Mathrix",
+      "location": "Zug, Zug, Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/mathrix/senior-c-c-low-latency-engineer-zug-396399",
+      "tags": "Technology Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Your job This role is crucial for our organization. Our Technology team is&nbsp;small and therefore you get a lot of responsibilities and freedom! You are triggered by being faster than the competitors and you like to…",
+      "posted_date": 1792669907,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-engineer-expenses-team-zurich-72683",
+      "title": "Software Engineer - Expenses Team",
+      "company": "BLP Digital AG",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/software-engineer-expenses-team-zurich-72683",
+      "tags": "Engineering Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Join BLP and help make the world’s business processes autonomous! Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with…",
+      "posted_date": 1792669233,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:strategic-account-executive-switzerland-376413",
+      "title": "Strategic Account Executive - Switzerland",
+      "company": "ElevenLabs",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/strategic-account-executive-switzerland-376413",
+      "tags": "Revenue Full Time",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
+      "posted_date": 1792669229,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:gestionnaire-ressources-humaines-geneva-142613",
+      "title": "Gestionnaire Ressources Humaines",
+      "company": "Beau-Rivage Genève",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/beau-rivage-geneve/gestionnaire-ressources-humaines-geneva-142613",
+      "tags": "HR professionnel / expérimenté",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "professionnel / expérimenté",
+      "excerpt": "L’humain au cœur de la Maison, contribuez à faire vivre l’expérience Beau-Rivage de l’intérieur. Niché au cœur de Genève, notre palace emblématique incarne l’élégance, le raffinement et l’excellence du service hôtelier…",
+      "posted_date": 1792668689,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudentin-implementation-customer-operations-zurich-317935",
+      "title": "Werkstudent*in (m/w/d) Implementation & Customer Operations",
+      "company": "Selise Group AG",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/selise-group-ag/werkstudentin-implementation-customer-operations-zurich-317935",
+      "tags": "Business Operations Befristeter arbeitsvertrag hilfstätigkeit / student",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Befristeter arbeitsvertrag, hilfstätigkeit / student",
+      "excerpt": "ORDERMONKEY by SELISE | Zürich | Teilzeit (40+ %) Start: Ab Q1 2027 Du interessierst dich für Technologie, Digitalisierung und Gastronomie? Du möchtest neben deinem Studium praktische Erfahrungen in einem innovativen…",
+      "posted_date": 1792666849,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:content-social-growth-managerin-80-100-zurich-184989",
+      "title": "Content & Social Growth Manager:in (80–100 %)",
+      "company": "bluu",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bluu/content-social-growth-managerin-80-100-zurich-184989",
+      "tags": "Social Media Manager Unbefristeter arbeitsvertrag berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Was bluu bewegt Wir bei bluu verändern, wie Menschen ihren Haushalt machen. Unsere Produkte, zum Beispiel unsere Waschstreifen, machen Waschen und Putzen leichter. Ohne schwere Flaschen, ohne Schnickschnack. Ein gutes…",
+      "posted_date": 1792663256,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ml-intern-optimization-quality-monitoring-zurich-167634",
+      "title": "ML Intern: Optimization Quality & Monitoring",
+      "company": "Nexoya",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nexoya/ml-intern-optimization-quality-monitoring-zurich-167634",
+      "tags": "Quality Assurance Inspection Internship (praktikumsvertrag) internship entry",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Internship (praktikumsvertrag), internship, entry",
+      "excerpt": "Our common vision Our mission is to help marketing teams unlock their full growth potential with AI. Our AI-powered attribution creates real transparency, showing how digital advertising investments perform across…",
+      "posted_date": 1792663256,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:digital-marketing-retail-zurich-463647",
+      "title": "Digital Marketing Retail",
+      "company": "Homberger Personalberatung für Kommunikation",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/homberger-personalberatung-fur-kommunikation/digital-marketing-retail-zurich-463647",
+      "tags": "Online Marketing Teilzeitbeschäftigung berufserfahren",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Teilzeitbeschäftigung, berufserfahren",
+      "excerpt": "Im Auftrag unseres Kunden suchen wir eine erfahrene, kreative und umsetzungsstarke Persönlichkeit im Digital Marketing Retail (60%) An der Schnittstelle von Fashion, Retail, Gestaltung und Digital Marketing erwartet Sie…",
+      "posted_date": 1792661449,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:teamleider-poly-emmen-490669",
+      "title": "Teamleider Poly",
+      "company": "Envalior",
+      "location": "Emmen, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/teamleider-poly-emmen-490669",
+      "tags": "MANUFACTURING & SHE EXCELLENCE",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "Als Teamleider Poly, ben jij dé drijvende kracht van onze productie. Je geeft leiding aan een team (ca. 16 FTE) waarbij je doelstellingen zoals veiligheid, gezondheid, milieu, kwaliteit, kwantiteit, rendement…",
+      "posted_date": 1792671611,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-backend-engineer-go-amsterdam-254941",
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Creativefabrica",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/creativefabrica/senior-backend-engineer-go-amsterdam-254941",
+      "tags": "Development",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "",
+      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Creative Fabrica&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Creative Fabrica is a fast-growing AI platform that makes it easy for everyday consumers to…",
+      "posted_date": 1792670126,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "arbeitnow:it-servicedesk-engineer-senior-rotterdam-425920",
+      "title": "IT Servicedesk Engineer (Senior)",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/it-servicedesk-engineer-senior-rotterdam-425920",
+      "tags": "Tech Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "Make technology work for everyone At Sunweb Group, technology plays a key role in delivering unforgettable holiday experiences to more than 1.3 million customers every year. Behind the scenes, our colleagues rely on…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stage-copy-content-marketing-rotterdam-232932",
+      "title": "Stage Copy & Content Marketing",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/stage-copy-content-marketing-rotterdam-232932",
+      "tags": "Internships Student college fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, fulltime permanent",
+      "excerpt": "Heb jij een passie voor copy én vakantie? Wij ook! Ter versterking van ons Content Team zijn we per 1 Februari 2027 op zoek naar een stagiair(e) Copy &amp; Content Marketing (meewerkstage). Tijdens deze stage loop je…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-team-contract-rotterdam-357415",
+      "title": "Senior Software Engineer (Team Contract)",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/senior-software-engineer-team-contract-rotterdam-357415",
+      "tags": "Tech Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Build the technology behind our holiday contracts At Sunweb Group, we are developing a new internal application for creating and managing contracts with our suppliers and contractors. As our Senior Software Engineer,…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:engineering-lead-connectivity-domain-rotterdam-466479",
+      "title": "Engineering Lead – Connectivity Domain",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/engineering-lead-connectivity-domain-rotterdam-466479",
+      "tags": "Tech Manager fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Manager, fulltime fixed term",
+      "excerpt": "Do you enjoy helping engineering teams grow while keeping a close eye on technical quality? Are you a servant leader who leads through influence rather than authority? Then you could be the Engineering Lead we're…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-ai-solution-specialist-rotterdam-496873",
+      "title": "Senior AI Solution Specialist",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/senior-ai-solution-specialist-rotterdam-496873",
+      "tags": "Tech Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Do you want to help an entire organisation turn AI opportunities into solutions that deliver real business value, while still building those solutions yourself? As Senior AI Solution Specialist at Sunweb Group , you…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:full-stack-typescript-developer-rijswijk-426456",
+      "title": "Full Stack TypeScript Developer",
+      "company": "Rocsys",
+      "location": "Rijswijk, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rocsys/full-stack-typescript-developer-rijswijk-426456",
+      "tags": "Software Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Do you thrive where innovation meets execution? Great! We are looking for an exceptionally talented individual to join our&nbsp;Connected&nbsp;Services team! As a Full Stack Typescript Developer, you will…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-project-manager-rijswijk-301617",
+      "title": "Senior Project Manager",
+      "company": "Rocsys",
+      "location": "Rijswijk, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rocsys/senior-project-manager-rijswijk-301617",
+      "tags": "Development Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Are you passionate about orchestrating complex R&amp;D projects across cutting-edge hardware, software, and robotics domains? Are you interested in bridging the gap between highly specialized engineering disciplines to…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-data-engineer-zoetermeer-196651",
+      "title": "Senior Data Engineer",
+      "company": "SHIFTBASE B.V.",
+      "location": "Zoetermeer, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/senior-data-engineer-zoetermeer-196651",
+      "tags": "IT / Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Data Engineer Shiftbase is building the self-driving assistant for shift-based businesses across Europe. Our customers range from independent restaurants in Amsterdam to multi-location retailers in München, and they…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:frontend-engineer-zoetermeer-69449",
+      "title": "Frontend Engineer",
+      "company": "SHIFTBASE B.V.",
+      "location": "Zoetermeer, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/frontend-engineer-zoetermeer-69449",
+      "tags": "IT / Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "About Shiftbase We build workforce software that helps people get work done. More than 10,000 companies use our platform every month to plan shifts and track time, with less admin in the way. We work from our Zoetermeer…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend"
+      ]
+    },
+    {
+      "id": "arbeitnow:account-executive-nl-region-zoetermeer-167065",
+      "title": "Account Executive - NL Region",
+      "company": "SHIFTBASE B.V.",
+      "location": "Zoetermeer, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/shiftbase-bv/account-executive-nl-region-zoetermeer-167065",
+      "tags": "Sales Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "Dit is Shiftbase Meer dan 10.000 bedrijven. Ruim 250.000 gebruikers. Eén missie: personeelsplanning en tijdregistratie simpel maken. Ons platform is gebouwd om makkelijk, flexibel en schaalbaar te zijn, of je klant nu…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:ai-product-owner-amsterdam-378713",
+      "title": "AI Product Owner",
+      "company": "Creative Clicks B.V.",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/ai-product-owner-amsterdam-378713",
+      "tags": "Product Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "About Us Creative Clicks is a leading global marketing agency with offices worldwide and 200+ professionals. Since 2009, we’ve been empowering brands, publishers, and marketers to attract and engage customers at scale…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
+      "title": "Freelancer UX/UI Designer (Design Engineer)",
+      "company": "Creative Clicks B.V.",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/freelancer-ux-ui-designer-design-engineer-amsterdam-487401",
+      "tags": "Marketing Mid freelance",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, freelance",
+      "excerpt": "UX/UI Designer (Design Engineer) Location: Amsterdam, NL (beautiful office right near Leidseplein) Work Structure: Hybrid (4 days on-site, 1 day flexible remote) Experience Level: 2–4 years Type: Freelancer About…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:qa-engineer-amsterdam-349908",
+      "title": "QA Engineer",
+      "company": "Creative Clicks B.V.",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/qa-engineer-amsterdam-349908",
+      "tags": "Development Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "QA Engineer (Web, App &amp; Payments) Hybrid Amsterdam, Noord-Holland, Netherlands Technology Job description About Us Creative Clicks is a leading global marketing agency with offices worldwide and 200+ professionals.…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:product-owner-core-systems-amsterdam-116427",
+      "title": "Product Owner Core Systems",
+      "company": "Veloretti BV",
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/veloretti-bv/product-owner-core-systems-amsterdam-116427",
+      "tags": "Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "Over Veloretti Veloretti is een design-led lifestylemerk uit Amsterdam, ontstaan vanuit een heldere visie op hoe mensen zich door de stad bewegen. We ontwerpen fietsen en e-bikes die passen bij het moderne stadsleven:…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-voice-routing-specialist-amsterdam-195340",
+      "title": "Senior Voice Routing Specialist",
+      "company": "Talk360",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/talk360/remote-senior-voice-routing-specialist-amsterdam-195340",
+      "tags": "Product Remote Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "The Challenge We connect over 500’000 callers in 190 countries: that represents 36,000 calling corridors and over 100 million calling minutes. We work with various global suppliers optimising for call quality. It’s…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-acquisition-marketeer-amsterdam-26604",
+      "title": "Senior Acquisition Marketeer",
+      "company": "Talk360",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/talk360/senior-acquisition-marketeer-amsterdam-26604",
+      "tags": "Marketing Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "The Challenge Talk360 connects more than 6 million people across 190 countries. How they find us is changing fast: Search is moving from blue links to AI generated answers and paid and organic increasingly shape each…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:embedded-software-engineer-sittard-383335",
+      "title": "Embedded Software Engineer",
+      "company": "GradeMatch",
+      "location": "Sittard, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-engineer-sittard-383335",
+      "tags": "Software Engineering Entry fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant ontwikkelt high-tech embedded systemen die extreem betrouwbaar, veilig en performant moeten zijn. Je werkt in een omgeving waar innovatie de standaard is en waar jouw code direct invloed heeft op…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:embedded-software-engineer-c-c-venlo-490348",
+      "title": "Embedded Software Engineer C++/C",
+      "company": "GradeMatch",
+      "location": "Venlo, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-engineer-c-c-venlo-490348",
+      "tags": "Software Engineering Entry fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant ontwikkelt high-tech embedded systemen die extreem betrouwbaar, veilig en performant moeten zijn. Je werkt in een omgeving waar innovatie de standaard is en waar jouw code direct invloed heeft op…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:full-stack-developer-eindhoven-293496",
+      "title": "Full Stack Developer",
+      "company": "GradeMatch",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496",
+      "tags": "Software Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De uitdaging Ons zusterbedrijf SphereIT bouwt moderne webapplicaties en platformen die slim, schaalbaar en betrouwbaar moeten zijn. Als Full Stack Developer werk je aan zowel de backend-logica als de frontend-ervaring,…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:embedded-software-engineer-c-c-sittard-426328",
+      "title": "Embedded Software Engineer C/C++",
+      "company": "GradeMatch",
+      "location": "Sittard, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-engineer-c-c-sittard-426328",
+      "tags": "Software Engineering Entry fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Entry, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant ontwikkelt high-tech embedded systemen die extreem betrouwbaar, veilig en performant moeten zijn. Je werkt in een omgeving waar innovatie de standaard is en waar jouw code direct invloed heeft op…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:backend-developer-eindhoven-221973",
+      "title": "Backend Developer",
+      "company": "GradeMatch",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/backend-developer-eindhoven-221973",
+      "tags": "Software Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant bouwt aan schaalbare, veilige en toekomstbestendige systemen. Met groeiende datastromen, strengere security-eisen en steeds hogere performanceverwachtingen ontstaat er behoefte aan developers die…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "arbeitnow:full-stack-net-developer-nuth-366591",
+      "title": "Full-Stack / .NET Developer",
+      "company": "GradeMatch",
+      "location": "Nuth, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-net-developer-nuth-366591",
+      "tags": "Software Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "De uitdaging Voor een innovatieve organisatie in Zuid-Limburg zoeken wij een ervaren Developer met sterke .NET-kennis. In deze rol werk je aan het ontwikkelen, onderhouden en verbeteren van bedrijfskritische applicaties…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "arbeitnow:embedded-software-designer-eindhoven-21636",
+      "title": "Embedded Software Designer",
+      "company": "GradeMatch",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-designer-eindhoven-21636",
+      "tags": "Software Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "De uitdaging Wij zoeken per direct een Embedded Software Designer voor ons zusterbedrijf Veynex in de regio Limburg / Brabant. Haal jij voldoening uit het ontwikkelen van slimme technische oplossingen en complexe…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-test-engineer-eindhoven-229483",
+      "title": "Software Test Engineer",
+      "company": "GradeMatch",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/software-test-engineer-eindhoven-229483",
+      "tags": "Software Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De uitdaging Wij zoeken per direct een Software Test Engineer voor ons zusterbedrijf Veynex in de regio Limburg / Brabant. Haal jij voldoening uit het waarborgen van softwarekwaliteit en het continu verbeteren van…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:operational-technology-architect-rotterdam-rijnmond-450968",
+      "title": "Operational Technology Architect",
+      "company": "GradeMatch",
+      "location": "Rotterdam-Rijnmond, Zuid-Holland, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/operational-technology-architect-rotterdam-rijnmond-450968",
+      "tags": "Industrial Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant produceert grootschalige staalconstructies voor de energietransitie en bouwt aan een Smart Factory-omgeving waarin productie, data en security naadloos samenkomen. Jij ontwerpt de OT-architectuur…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:microsoft-data-analytics-engineer-venlo-269433",
+      "title": "Microsoft Data & Analytics Engineer",
+      "company": "GradeMatch",
+      "location": "Venlo, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/microsoft-data-analytics-engineer-venlo-269433",
+      "tags": "Data Science & AI Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "De uitdaging Onze klant beschikt over een omvangrijk Microsoft BI-platform en werkt aan de doorontwikkeling hiervan naar Microsoft Fabric. Als Business Intelligence-team ben je verantwoordelijk voor de Fabric- en Power…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:automation-engineer-weert-293161",
+      "title": "Automation Engineer",
+      "company": "GradeMatch",
+      "location": "Weert, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/automation-engineer-weert-293161",
+      "tags": "Industrial Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De uitdaging Wij zoeken per direct een Automation Engineer voor onze klanten in de regio Weert. Onze klanten zijn actief in de (zware) industrie en techniek, en hebben doorlopend behoefte aan engineers die industriële…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:plc-software-engineer-helmond-114608",
+      "title": "PLC Software Engineer",
+      "company": "GradeMatch",
+      "location": "Helmond, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/plc-software-engineer-helmond-114608",
+      "tags": "Industrial Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De uitdaging Wij zoeken per direct een PLC Software Engineer voor onze klant in de regio Echt. Onze klant ontwikkelt en bouwt hoogwaardige verpakkingsmachines voor de voedingsmiddelenindustrie en levert klantspecifieke…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:lead-software-engineer-plc-industry-helmond-351592",
+      "title": "Lead Software Engineer PLC & Industry",
+      "company": "GradeMatch",
+      "location": "Helmond, Noord-Brabant, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/lead-software-engineer-plc-industry-helmond-351592",
+      "tags": "Industrial Engineering Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "De uitdaging Complexe machines vragen om software die vanaf het eerste ontwerp klopt. PLC-besturing, motion, robotica, hardware en mechanica moeten naadloos samenwerken. En bij machines die nog niet eerder zijn gebouwd,…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:lead-analytics-engineer-rotterdam-137108",
+      "title": "Lead Analytics Engineer",
+      "company": "AIHR",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aihr/lead-analytics-engineer-rotterdam-137108",
+      "tags": "Business Operations Manager fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Manager, fulltime fixed term",
+      "excerpt": "Do you love turning messy business questions into data people can trust? Can you connect the customer journey from the first marketing touch through sales conversion, revenue, retention, and product usage and explain…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-sales-operations-salesops-manager-rotterdam-326112",
+      "title": "Senior Sales Operations (SalesOps) Manager",
+      "company": "AIHR",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aihr/senior-sales-operations-salesops-manager-rotterdam-326112",
+      "tags": "Business Operations Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Do you like making it easier for a Sales team to do its best work? Do you enjoy owning the details that keep deals moving, while also spotting where the process could work better? And do you get satisfaction from…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-partnership-manager-rotterdam-319221",
+      "title": "Senior Partnership Manager",
+      "company": "AIHR",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aihr/senior-partnership-manager-rotterdam-319221",
+      "tags": "Sales Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Do you look at a partner program that works and immediately see what it could become at three times the size? Are you the kind of person who owns your number and a running book of business, while designing the channels…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:growth-account-executive-account-manager-rotterdam-290375",
+      "title": "Growth Account Executive / Account Manager",
+      "company": "AIHR",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aihr/growth-account-executive-account-manager-rotterdam-290375",
+      "tags": "Sales Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "Are you energized by growing existing business, building relationships, and finding hidden opportunities in a large portfolio? Do you enjoy combining structure and process with commercial instincts, and using AI to work…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:data-engineer-ede-471323",
+      "title": "Data Engineer",
+      "company": "Puur Data",
+      "location": "Ede, Gelderland, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/puur-data/data-engineer-ede-471323",
+      "tags": "Consultancy Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "De wereld om ons heen verandert razendsnel. Wat vandaag nieuw is, kan morgen alweer achterhaald zijn. Bij PuurData krijg je de kans om samen met collega’s te werken aan slimme oplossingen voor onze klanten. Zo kun je…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:open-sollicitatie-voor-stage-afstudeerplek-almelo-454720",
+      "title": "Open sollicitatie voor stage/afstudeerplek",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/open-sollicitatie-voor-stage-afstudeerplek-almelo-454720",
+      "tags": "Open Sollicitatie Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Mocht er op dit moment geen passende vacature online staan, maar wil je solliciteren naar een stage- of afstudeerplek bij Benchmark? Benchmark staat altijd open voor nieuw talent. Ben jij een mbo-, hbo-, of wo-studenten…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:test-engineer-almelo-397717",
+      "title": "Test Engineer",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/test-engineer-almelo-397717",
+      "tags": "Operations Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Analyseren, (functioneel) testen, debuggen… Waar houd jij je als test engineer bij ons eigenlijk niet mee bezig!? Als test engineer is iedere werkdag anders. De complexe producten die wij maken voor onze klanten, maken…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-quality-engineer-almelo-97779",
+      "title": "Senior Quality Engineer",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-quality-engineer-almelo-97779",
+      "tags": "Quality Management Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "Ben jij een Senior Quality Engineer die verder kijkt dan het oplossen van afwijkingen? Iemand die kwaliteit ziet als een stuurinstrument en het voortouw neemt in structurele verbetering? Dan bieden wij jou een rol…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:system-architect-almelo-36079",
+      "title": "System Architect",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/system-architect-almelo-36079",
+      "tags": "Design Engineering Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Ben jij een visionaire leider in medische product ontwikkeling die niet alleen technologische richting bepaalt, maar ook collega’s inspireert om mee te bewegen? Heb jij het vermogen om interne verandering te realiseren…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-design-engineer-electrical-almelo-59630",
+      "title": "Senior Design Engineer Electrical",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-design-engineer-electrical-almelo-59630",
+      "tags": "Design Engineering Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "Als (Senior) Design Engineer weet je hoe het voelt om te werken aan technologie die tot op microniveau moet kloppen. Zoek je een plek waar jouw ervaring in de high‑tech en semiconductor‑industrie écht tot zijn recht…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-engineer-almelo-360382",
+      "title": "Software Engineer",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/software-engineer-almelo-360382",
+      "tags": "Design Engineering Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "Ben jij een ervaren software engineer die complexe technische vraagstukken niet uit de weg gaat? Voor Benchmark zoeken we een Software Engineer met een diepgaande expertise in C++, die inhoudelijk verantwoordelijkheid…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-c-firmware-engineer-vna-test-measurement-almelo-345197",
+      "title": "Senior C++ Firmware Engineer (VNA & Test & Measurement)",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-c-firmware-engineer-vna-test-measurement-almelo-345197",
+      "tags": "Design Engineering Mid contract",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, contract",
+      "excerpt": "At Benchmark, we develop innovative technology solutions that help our customers bring advanced products to market. Our engineers work on complex systems in high-tech environments, contributing to products that require…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:werkstudent-industrialisatie-engineering-pcba-almelo-253465",
+      "title": "Werkstudent Industrialisatie Engineering PCBA",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/werkstudent-industrialisatie-engineering-pcba-almelo-253465",
+      "tags": "Manufacturing Engineering Student college parttime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, parttime fixed term",
+      "excerpt": "Als Werkstudent Industrialisatie Engineering PCBA ondersteun je onze Industrialisatie Engineers bij het introduceren van nieuwe producten. Je helpt bij praktische en administratieve werkzaamheden, zodat producten goed…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:software-integration-engineer-c-linux-almelo-39224",
+      "title": "Software Integration Engineer (C++/Linux)",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/software-integration-engineer-c-linux-almelo-39224",
+      "tags": "Design Engineering Experienced fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime permanent",
+      "excerpt": "At Benchmark, we develop innovative technology solutions that help our customers bring advanced products to market. Our engineers work on complex systems in high-tech environments, contributing to products that require…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:medior-c-software-engineer-utrecht-382349",
+      "title": "Medior C++ Software Engineer",
+      "company": "Vitestro",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/medior-c-software-engineer-utrecht-382349",
+      "tags": "Software Mid fulltime permanent",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime permanent",
+      "excerpt": "About Vitestro Founded in 2017 in Utrecht, Vitestro is pioneering the future of blood collection with the Aletta® Autonomous Robotic Phlebotomy Device™&nbsp;(ARPD™) . This groundbreaking medical device combines advanced…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:senior-quality-systems-officer-utrecht-167763",
+      "title": "Senior Quality Systems Officer",
+      "company": "Vitestro",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/senior-quality-systems-officer-utrecht-167763",
+      "tags": "QA / RA Mid fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Mid, fulltime fixed term",
+      "excerpt": "About Vitestro Founded in 2017 in Utrecht, Vitestro is pioneering the future of blood collection with the Aletta® Autonomous Robotic Phlebotomy Device™&nbsp;(ARPD™) . This groundbreaking medical device combines advanced…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:stagiaire-business-development-amsterdam-354918",
+      "title": "Stagiair(e) Business Development",
+      "company": "SKYTREE",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/skytree/stagiaire-business-development-amsterdam-354918",
+      "tags": "Commercial Student college internship",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Student college, internship",
+      "excerpt": "Wij zijn Skytree Skytree maakt de overgang mogelijk naar een wereld met schonere lucht voor iedereen. Dat doen we door slimme technologie te ontwikkelen en uit te rollen die CO₂ uit de atmosfeer afvangt, zodat deze kan…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:iam-platform-engineer-keycloak-java-den-haag-146365",
+      "title": "IAM Platform Engineer - Keycloak & Java",
+      "company": "Centraal Bureau voor de Statistiek",
+      "location": "Den Haag, Zuid-Holland, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/centraal-bureau-voor-de-statistiek/iam-platform-engineer-keycloak-java-den-haag-146365",
+      "tags": "IT Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Heb jij visie op identity platformen, werk je graag aan moderne authenticatieoplossingen en krijg je techniek én samenwerking in beweging? Reageer dan nu op deze vacature. Waar jij het verschil maakt Binnen het IAM…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "arbeitnow:iam-platform-engineer-pki-cloud-native-heerlen-46196",
+      "title": "IAM Platform Engineer - PKI & Cloud Native",
+      "company": "Centraal Bureau voor de Statistiek",
+      "location": "Heerlen, Limburg, Nederland",
+      "url": "https://www.arbeitnow.nl/jobs/companies/centraal-bureau-voor-de-statistiek/iam-platform-engineer-pki-cloud-native-heerlen-46196",
+      "tags": "IT Experienced fulltime fixed term",
+      "source": "Arbeitnow",
+      "salary": "",
+      "employment_type": "Experienced, fulltime fixed term",
+      "excerpt": "Wil jij bouwen aan de veilige basis van een modern identity platform? Binnen het IAM Platform team van CBS zoeken we een engineer die zich richt op PKI, certificaten, machine identities en cloud-native security binnen…",
+      "posted_date": 1792669911,
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156377",
+      "title": "Senior Enterprise Account Executive, Acquisition | Tokyo, Japan",
+      "company": "Grafana Labs",
+      "location": "Japan",
+      "url": "https://jobicy.com/jobs/156377-senior-enterprise-account-executive-acquisition-tokyo-japan",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.…",
+      "posted_date": "2026-10-22T10:36:04+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156378",
+      "title": "Business Development Manager",
+      "company": "ICEYE",
+      "location": "Australia",
+      "url": "https://jobicy.com/jobs/156378-business-development-manager-6",
+      "tags": "Business Development Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Role highlights: Business Development Manager Location: Any Australian state capital city, Canberra preferred Department: Data Sales Reports to: Data Sales Director, Australia &amp; New Zealand Employment type:…",
+      "posted_date": "2026-10-22T10:36:03+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156376",
+      "title": "Data Analytics & Revenue Reporting Specialist",
+      "company": "LevelUp",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/156376-data-analytics-revenue-reporting-specialist",
+      "tags": "Data Science & Analytics Part-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Part-Time",
+      "excerpt": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies,…",
+      "posted_date": "2026-10-22T10:36:02+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156372",
+      "title": "VP of Sales, APAC",
+      "company": "StackAdapt",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/156372-vp-of-sales-apac",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing…",
+      "posted_date": "2026-10-22T10:36:02+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156371",
+      "title": "Sales Engineer | Thailand",
+      "company": "ExtraHop",
+      "location": "Thailand",
+      "url": "https://jobicy.com/jobs/156371-sales-engineer-thailand",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of…",
+      "posted_date": "2026-10-22T10:36:02+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156374",
+      "title": "Customer Support Specialist (Full Remote - Philippines)",
+      "company": "EverAI",
+      "location": "Philippines",
+      "url": "https://jobicy.com/jobs/156374-customer-support-specialist-full-remote-philippines",
+      "tags": "Customer Support & Success Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At…",
+      "posted_date": "2026-10-22T10:36:00+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156373",
+      "title": "Growth Partnerships Manager, Korea",
+      "company": "OpenAI",
+      "location": "South Korea",
+      "url": "https://jobicy.com/jobs/156373-growth-partnerships-manager-korea",
+      "tags": "Business Development Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About the Team OpenAI ’s Partnerships team builds relationships that expand the reach of our products, make them more useful and accelerate adoption around the world. The Growth Partnerships Manager will grow the impact…",
+      "posted_date": "2026-10-22T10:36:00+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156370",
+      "title": "Founding Customer Success Manager - APAC",
+      "company": "Ashby",
+      "location": "Australia,  Japan,  Philippines,  Singapore,  South Korea",
+      "url": "https://jobicy.com/jobs/156370-founding-customer-success-manager-apac",
+      "tags": "Customer Support & Success Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About this Role Our Customer Success team is passionate about shaping and scaling an exceptional enterprise customer experience globally. As we continue to grow in APAC, we are excited to hire our first Customer Success…",
+      "posted_date": "2026-10-22T10:36:00+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156375",
+      "title": "Content Creator",
+      "company": "Envato",
+      "location": "Australia,  New Zealand",
+      "url": "https://jobicy.com/jobs/156375-content-creator",
+      "tags": "Creative & Design Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "For the creatively obsessed. You know that feeling when you've got a great idea and just need to make it happen? No endless planning, no overthinking. Just good creative instincts, a few clever tools and the skills to…",
+      "posted_date": "2026-10-22T10:35:59+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156369",
+      "title": "Binance Accelerator Program - TradFI Business Development",
+      "company": "Binance",
+      "location": "Hong Kong,  Malaysia,  UAE",
+      "url": "https://jobicy.com/jobs/156369-binance-accelerator-program-tradfi-business-development",
+      "tags": "Business Development Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our…",
+      "posted_date": "2026-10-22T10:32:46+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156367",
+      "title": "Lead Machine Learning Scientist, FinCrime",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156367-lead-machine-learning-scientist-fincrime",
+      "tags": "Data Science & Analytics Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last…",
+      "posted_date": "2026-10-22T10:32:43+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156368",
+      "title": "Senior Capture Manager - UK",
+      "company": "TRM Labs",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156368-senior-capture-manager-uk",
+      "tags": "Business Development Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build…",
+      "posted_date": "2026-10-22T10:32:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156364",
+      "title": "Global Investigator (Triage)",
+      "company": "TRM Labs",
+      "location": "EMEA,  Singapore",
+      "url": "https://jobicy.com/jobs/156364-global-investigator-triage",
+      "tags": "Cybersecurity Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build…",
+      "posted_date": "2026-10-22T10:32:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156363",
+      "title": "Lead Machine Learning Scientist, Customer Operations",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156363-lead-machine-learning-scientist-customer-operations",
+      "tags": "Data Science & Analytics Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last…",
+      "posted_date": "2026-10-22T10:32:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156366",
+      "title": "Commercial Account Executive",
+      "company": "Zip",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/156366-commercial-account-executive-6",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can…",
+      "posted_date": "2026-10-22T10:32:39+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156361",
+      "title": "Senior Solution Engineer (Pre-Sales)",
+      "company": "Zip",
+      "location": "Germany,  UK",
+      "url": "https://jobicy.com/jobs/156361-senior-solution-engineer-pre-sales",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can…",
+      "posted_date": "2026-10-22T10:32:39+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156358",
+      "title": "Senior/Staff Product Designer",
+      "company": "AlphaSense",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156358-senior-staff-product-designer",
+      "tags": "Web, UI & UX Design Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and…",
+      "posted_date": "2026-10-22T10:30:32+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156359",
+      "title": "Engineering Manager, Dedicated Integrations",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156359-engineering-manager-dedicated-integrations",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate…",
+      "posted_date": "2026-10-22T10:30:30+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156356",
+      "title": "Senior Staff Engineer, iOS",
+      "company": "AlphaSense",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156356-senior-staff-engineer-ios",
+      "tags": "Software Engineering Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and…",
+      "posted_date": "2026-10-22T10:30:30+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156352",
+      "title": "Associate Vice President, Pre-Sales, EMEA",
+      "company": "Semperis",
+      "location": "France,  Germany,  UK",
+      "url": "https://jobicy.com/jobs/156352-associate-vice-president-pre-sales-emea",
+      "tags": "Cybersecurity Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "At Semperis , our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating…",
+      "posted_date": "2026-10-22T10:30:30+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156350",
+      "title": "Principal Engineer - Core Cloud Platform",
+      "company": "AlphaSense",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156350-principal-engineer-core-cloud-platform",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and…",
+      "posted_date": "2026-10-22T10:30:30+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156357",
+      "title": "Engineering Manager, Build",
+      "company": "GitLab",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156357-engineering-manager-build",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate…",
+      "posted_date": "2026-10-22T10:30:29+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156355",
+      "title": "Corporate Development Director",
+      "company": "GitLab",
+      "location": "France,  Germany,  Ireland,  Israel,  Netherlands,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/156355-corporate-development-director-2",
+      "tags": "Finance & Accounting Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate…",
+      "posted_date": "2026-10-22T10:30:29+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156351",
+      "title": "Business Development Representative, German Speaking - UK/I",
+      "company": "GitLab",
+      "location": "Ireland,  UK",
+      "url": "https://jobicy.com/jobs/156351-business-development-representative-german-speaking-uk-i",
+      "tags": "Business Development Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate…",
+      "posted_date": "2026-10-22T10:30:29+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156354",
+      "title": "Senior Staff Engineer, Android",
+      "company": "AlphaSense",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/156354-senior-staff-engineer-android",
+      "tags": "Software Engineering Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and…",
+      "posted_date": "2026-10-22T10:30:28+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Android"
+      ]
+    },
+    {
+      "id": "jobicy:156353",
+      "title": "Commercial Account Executive",
+      "company": "GitLab",
+      "location": "France",
+      "url": "https://jobicy.com/jobs/156353-commercial-account-executive-5",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate…",
+      "posted_date": "2026-10-22T10:30:28+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156349",
+      "title": "Procurement Analyst",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156349-procurement-analyst",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:12+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156348",
+      "title": "Data Center Site Selection Manager",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156348-data-center-site-selection-manager-2",
+      "tags": "Project & Program Management Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:12+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156344",
+      "title": "Strategic Technical Account Manager GPU",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156344-strategic-technical-account-manager-gpu",
+      "tags": "Technical Support Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:11+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156347",
+      "title": "Website Onboarding Specialist",
+      "company": "Cloudbeds",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/156347-website-onboarding-specialist",
+      "tags": "Web, UI & UX Design Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique…",
+      "posted_date": "2026-10-22T09:30:10+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156346",
+      "title": "Principal Product Manager, Strategic Accounts",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156346-principal-product-manager-strategic-accounts",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:10+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156345",
+      "title": "Tech Lead Data Engineer",
+      "company": "Cloudbeds",
+      "location": "LATAM,  Canada",
+      "url": "https://jobicy.com/jobs/156345-tech-lead-data-engineer",
+      "tags": "Data Science & Analytics Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique…",
+      "posted_date": "2026-10-22T09:30:10+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156343",
+      "title": "Sr. Technical Program Manager, Data Center & Network Delivery",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156343-sr-technical-program-manager-data-center-network-delivery",
+      "tags": "Project & Program Management Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:08+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156342",
+      "title": "RMA Systems Engineer",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156342-rma-systems-engineer",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:08+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156341",
+      "title": "Linux Systems Administrator",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156341-linux-systems-administrator",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:08+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156340",
+      "title": "Senior Technical Project Manager, Data Center & Network Delivery",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156340-senior-technical-project-manager-data-center-network-delivery",
+      "tags": "Project & Program Management Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:30:06+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156339",
+      "title": "Senior Manager, Customer Complaints",
+      "company": "OKX",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/156339-senior-manager-customer-complaints",
+      "tags": "Legal & Compliance Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions…",
+      "posted_date": "2026-10-22T09:29:57+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156334",
+      "title": "Mid-Market Onboarding Lead",
+      "company": "Cloudbeds",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/156334-mid-market-onboarding-lead",
+      "tags": "Project & Program Management Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique…",
+      "posted_date": "2026-10-22T09:29:56+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156332",
+      "title": "Senior Customer Success Manager",
+      "company": "Karbon",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/156332-senior-customer-success-manager-20",
+      "tags": "Customer Support & Success Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more…",
+      "posted_date": "2026-10-22T09:29:56+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156338",
+      "title": "Technical Account Manager",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156338-technical-account-manager-8",
+      "tags": "Customer Support & Success Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:55+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156333",
+      "title": "Senior Product Manager, Platform",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156333-senior-product-manager-platform-2",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:55+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156331",
+      "title": "Senior Solutions Architect",
+      "company": "Ada",
+      "location": "Canada",
+      "url": "https://jobicy.com/jobs/156331-senior-solutions-architect",
+      "tags": "Software Engineering Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise…",
+      "posted_date": "2026-10-22T09:29:54+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156337",
+      "title": "Technical Support Specialist",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156337-technical-support-specialist",
+      "tags": "Technical Support Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:53+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156336",
+      "title": "Senior Product Manager, Marketplace & Partner Ecosystem",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156336-senior-product-manager-marketplace-partner-ecosystem",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:53+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156335",
+      "title": "Senior Counsel",
+      "company": "Pair Team",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156335-senior-counsel-2",
+      "tags": "Legal & Compliance Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Pair Team Pair Team is a public benefit company reimagining care for the safety net. As an AI-enabled medical group for Medicaid and Medicare, we deliver medical, behavioral, and social care by integrating…",
+      "posted_date": "2026-10-22T09:29:53+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156330",
+      "title": "Overseas Operations Manager (P2P)",
+      "company": "OKX",
+      "location": "EMEA",
+      "url": "https://jobicy.com/jobs/156330-overseas-operations-manager-p2p",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions…",
+      "posted_date": "2026-10-22T09:29:50+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156329",
+      "title": "Technical Support Engineer",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156329-technical-support-engineer-2",
+      "tags": "Technical Support Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156326",
+      "title": "Senior Linux System Administrator",
+      "company": "Vultr",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156326-senior-linux-system-administrator",
+      "tags": "DevOps & Infrastructure Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center…",
+      "posted_date": "2026-10-22T09:29:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156323",
+      "title": "Lead, Owned Brands",
+      "company": "Grove Collaborative",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/156323-lead-owned-brands",
+      "tags": "Product & Operations Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a…",
+      "posted_date": "2026-10-22T09:29:40+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "jobicy:156328",
+      "title": "Presales Consultant",
+      "company": "Ada",
+      "location": "Canada,  USA",
+      "url": "https://jobicy.com/jobs/156328-presales-consultant",
+      "tags": "Sales Full-Time",
+      "source": "Jobicy",
+      "salary": "",
+      "employment_type": "Full-Time",
+      "excerpt": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise…",
+      "posted_date": "2026-10-22T09:29:39+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "remoteok:1137551",
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "tags": "backend perl golang javascript node",
+      "source": "RemoteOK",
+      "salary": "$190k – $190k",
+      "employment_type": "",
+      "excerpt": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the…",
+      "posted_date": "2026-10-21T14:29:21+00:00",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:tidelands-health:Patient Scheduler II",
+      "title": "Patient Scheduler II",
+      "company": "Tidelands Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/tidelands-health",
+      "tags": "Patient-Scheduler Medical-Scheduler Scheduling-Coordinator Patient-Access-Representative Patient-Scheduling-Coordinator Patient-Scheduling-Specialist Patient-Scheduling-Representative Medical-Scheduling-Coordinator Hospital-Scheduler Clinical-Scheduling-Coordinator Medical-Scheduling-Specialist Physician-Scheduler Mid-level Part Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Part Time",
+      "excerpt": "Employee Type:RegularWork Shift:Day - 8 hour shift (United States of America)Join Team Tidelands and help people live better lives through better health!",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:platotech:Data Quality Engineer (Intermediate) remote contract",
+      "title": "Data Quality Engineer (Intermediate) remote contract",
+      "company": "PLATO",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/platotech",
+      "tags": "Data-Quality-Engineer Data-Engineer Data-QA-Engineer ETL-Engineer Data-Validation-Engineer Mid-Level-Data-Quality-Engineer Data-Quality-Engineer-Jobs Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Who We ArePLATO is Canada’s largest Indigenous-owned software testing and technology services company.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:micro1:Military Law Attorney",
+      "title": "Military Law Attorney",
+      "company": "micro1",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/micro1",
+      "tags": "Military-Counselor Legal-Attorney US-Law-Attorney Attorney Legal Mid-level Senior Contractor",
+      "source": "Himalayas",
+      "salary": "$140 – $400",
+      "employment_type": "Contractor",
+      "excerpt": "Role Title: Military Law AttorneyRole Type: ContractorLocation: Remotemicro1 is engaging Military Law Attorneys to contribute their legal acumen and specialized expertise to a high-impact project for a customer in the…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:jc-davis-ventures-llc-dba-jc-davis-power:Accounts Payable Analyst (Vendor Payments)",
+      "title": "Accounts Payable Analyst (Vendor Payments)",
+      "company": "JC Davis Ventures LLC dba JC Davis Power",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/jc-davis-ventures-llc-dba-jc-davis-power",
+      "tags": "Accounts-Payable-Analyst Accounts-Payable-Specialist Accounts-Payable-Clerk Accounts-Payable-Associate Payables-Associate Accounts-Payable-Technician Remote-Accounts-Payable-Analyst Accounts-Payable-Coordinator Accounts-Payable-Administrator Accounts-Payable-Representative Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "At JC Davis Ventures, LLC dba JC Davis Power, we keep work moving with smart, reliable solutions that allow our people and our partners to stay safe, focused, and ahead.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:telus-international-ai-inc: E-commerce Product & Search Relevancy Expert - English speakers in UK",
+      "title": " E-commerce Product & Search Relevancy Expert - English speakers in UK",
+      "company": "TELUS International AI Inc",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/telus-international-ai-inc",
+      "tags": "Entry-level Part Time",
+      "source": "Himalayas",
+      "salary": "$10 – $25",
+      "employment_type": "Part Time",
+      "excerpt": "Interested? Click here to apply now! About the Role: At TELUS Digital, we help the world’s biggest brands build smarter technology.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:ehvert-engineering-inc:Structural Modeller (Ukraine)",
+      "title": "Structural Modeller (Ukraine)",
+      "company": "Ehvert Engineering Inc.",
+      "location": "Ukraine",
+      "url": "https://himalayas.app/jobs/ehvert-engineering-inc",
+      "tags": "Structural-BIM-Modeler Structural-Engineer Structural-Designer BIM-Modeler Structural-Drafter Structural-Modeling Structural-Detailer Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Location: Ukraine, Remote Industry: Mission-Critical Facilities, Data Centers Engagement Type: Independent Contractor Agreement for Provision of Services (long-term) Ehvert Mission Critical, a business unit within Salas…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:vied-technologies-inc:AWS API Developer",
+      "title": "AWS API Developer",
+      "company": "Vied Technologies,Inc.",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/vied-technologies-inc",
+      "tags": "API-Developer AWS-Developer Backend-Engineer Cloud-Engineer Software-Developer AWS-Cloud-Developer AWS-Software-Developer AWS-Lambda-Developer AWS-Solutions-Developer Cloud-Developer-(AWS) Developer Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "AWS API Developer will engage directly with AWS APIs to build highly scalable platform.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:das-health:Senior Network Engineer",
+      "title": "Senior Network Engineer",
+      "company": "DAS Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/das-health",
+      "tags": "Network-Engineer Senior-Network-Engineer Infrastructure-Engineer Cloud-Network-Engineer Network-Consultant Senior-Network-Engineering Senior-Network-Infrastructure-Engineer Senior-Network-Systems-Engineer Senior-IP-Network-Engineer Senior-Enterprise-Network-Engineer Senior-Network-Architect Sr.-Staff-Network-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Senior Network Engineer Remote (U. S. ) | Full-Time | Exempt DAS Health is seeking a highly skilled Senior Network Engineer to join our Managed Services team.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:telus-international-ai-inc: E-commerce Product & Search Relevancy Expert - English speakers in Mexico",
+      "title": " E-commerce Product & Search Relevancy Expert - English speakers in Mexico",
+      "company": "TELUS International AI Inc",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/telus-international-ai-inc",
+      "tags": "Entry-level Part Time",
+      "source": "Himalayas",
+      "salary": "$10 – $25",
+      "employment_type": "Part Time",
+      "excerpt": "Interested? Click here to apply now! About the Role: At TELUS Digital, we help the world’s biggest brands build smarter technology.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:skillreveal:Senior D365 BC consultant",
+      "title": "Senior D365 BC consultant",
+      "company": "skillreveal",
+      "location": "Netherlands",
+      "url": "https://himalayas.app/jobs/skillreveal",
+      "tags": "Dynamics-365-Business-Central-Consultant ERP-Consultant Dynamics-365-Consultant Supply-Chain-Management-Consultant Senior-Microsoft-Dynamics-365-Business-Central-Consultant Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Who we are? ﻿The company is a global provider of integrated Microsoft Dynamics services, specializing in the outsourcing, implementation, development, optimization, and management of Dynamics 365, CE, Azure, Power BI,…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:optiveum-sp-z-o-o:SAP Cash Management Consultant (Bank Management, BCM, FI)",
+      "title": "SAP Cash Management Consultant (Bank Management, BCM, FI)",
+      "company": "OPTIVEUM sp. z o.o.",
+      "location": "Poland",
+      "url": "https://himalayas.app/jobs/optiveum-sp-z-o-o",
+      "tags": "SAP-Consultant Sap-Functional-Consultant Cash-Management-Consultant SAP-Bank-Management-Consultant Senior-SAP-Treasury-And-Cash-Management-Consultant SAP-Banking-Consultant SAP-Treasury-Consultant Senior-Cash-Management-Implementation-Consultant SAP-FI-Consultant SAP-Banking-Specialist Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "PLN 220 – PLN 220",
+      "employment_type": "Contractor",
+      "excerpt": "SAP Cash Management Consultant (Bank Management, BCM, FI)About the OfferWe are currently looking for an SAP Cash Management Functional Expert to join the Capital Management & Treasury area of our client, a global…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:skills-hub-recruitment-solutions:2D & 3D Web and App Developer (Project Base)",
+      "title": "2D & 3D Web and App Developer (Project Base)",
+      "company": "Skills Hub Recruitment Solutions",
+      "location": "United Arab Emirates",
+      "url": "https://himalayas.app/jobs/skills-hub-recruitment-solutions",
+      "tags": "Mobile-and-Web-Developer 3D-Graphics-Developer Front-End-Developer Web-Developer Mobile-Application-Developer 3D-Web-Developer Web-and-App-Development Web-Application-Developer WebGL-Developer Developer Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Job Description:We are seeking a talented and experienced 2D and 3D Web & App Developer to join our team on a project-based contract.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend"
+      ]
+    },
+    {
+      "id": "himalayas:netpartners-international:CONSULTOR SAP ABAP SDK",
+      "title": "CONSULTOR SAP ABAP SDK",
+      "company": "NetPartners International",
+      "location": "Peru",
+      "url": "https://himalayas.app/jobs/netpartners-international",
+      "tags": "SAP-Consultant SAP-ABAP-Developer SAP-BW-Consultant SAP-Integration-Consultant BigQuery-Specialist ABAP-Consultant SAP-ABAP-Consultant SAP-Development-Consultant Desenvolvedor-ABAP Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "CONSULTOR SAP ABAP SDKDescripción de la empresaConsultoraDescripción de la vacanteProyecto de migración SAP hacia BigQuery: Especialista ABAP SDK.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:loop-subscriptions:Partnerships Manager (US & EMEA)",
+      "title": "Partnerships Manager (US & EMEA)",
+      "company": "Loop Subscriptions",
+      "location": "India",
+      "url": "https://himalayas.app/jobs/loop-subscriptions",
+      "tags": "Partnerships-Manager Strategic-Partnerships-Manager Business-Development-Manager Account-Manager EMEA-Partnerships-Manager Global-Partnerships-Manager Partnerships-Lead Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About LoopLoop is a subscription management platform built for e-commerce brands on Shopify.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:softwareone-deutschland-gmbh:M365 Consultant (gn) Purview",
+      "title": "M365 Consultant (gn) Purview",
+      "company": "SoftwareONE Deutschland GmbH",
+      "location": "Germany",
+      "url": "https://himalayas.app/jobs/softwareone-deutschland-gmbh",
+      "tags": "Microsoft-365-Consultant Cloud-Consultant Microsoft-Purview-Consultant Compliance-Consultant Technology-Consultant M365-Consultant M365-Technical-Consultant M365-Solutions-Consultant M365-Consulting M365-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Why SoftwareOne? SoftwareOne ist ein globaler Anbieter für Software- und Cloud-Lösungen.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:lifelancer:Director, Global Insights - Rare Disease - Remote",
+      "title": "Director, Global Insights - Rare Disease - Remote",
+      "company": "Lifelancer",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/lifelancer",
+      "tags": "Market-Intelligence-Director Associate-Director-Commercial-Insights Business-Analytics-Director Market-Research-Director Health-Insights-Director Director-Of-Rare-Disease-Strategy Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Job Title: Director, Global Insights - Rare Disease - Remote Job Location: Washington D.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:prep-network:Social Media Specialist",
+      "title": "Social Media Specialist",
+      "company": "Prep Network",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/prep-network",
+      "tags": "Social-Media-Specialist Social-Media-Manager Social-Media-Content-Specialist Digital-Marketing-Specialist Social-Media-Marketing-Specialist SMM-Specialist Social-Media-Engagement-Specialist Content-and-Social-Media-Specialist Social-Media Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$60k – $65k",
+      "employment_type": "Full Time",
+      "excerpt": "What You’ll DoYou’ll own the social media engine that accelerates Prep Network’s subscription success — shaping how we speak, publish, and show up across all channels.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:rippling:Account Executive, Broker Channel (Louisiana)",
+      "title": "Account Executive, Broker Channel (Louisiana)",
+      "company": "Rippling",
+      "location": "Lao People's Democratic Republic",
+      "url": "https://himalayas.app/jobs/rippling",
+      "tags": "Account-Executive Channel-Sales-Representative Sales-Broker Sales-Executive Business-Development-Representative Channel-Account-Executive Channel-Sales-Account-Executives Insurance-Account-Executive Wholesale-Account-Executive Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$123k – $123k",
+      "employment_type": "Full Time",
+      "excerpt": "About Rippling Rippling gives businesses one place to run HR, IT, and Finance.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:rippling:Managed Payroll Specialist",
+      "title": "Managed Payroll Specialist",
+      "company": "Rippling",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/rippling",
+      "tags": "Payroll-Specialist Managed-Payroll-Specialist Payroll-Operations-Specialist US-Payroll-Specialist Payroll-Analyst Outsourced-Payroll-Specialist Payroll-Expert Outsourced-Payroll-Management Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$65k – $95k",
+      "employment_type": "Full Time",
+      "excerpt": "About RipplingRippling gives businesses one place to run HR, IT, and Finance.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:heywood-healthcare:Patient Scheduler, Community Wide Scheduling",
+      "title": "Patient Scheduler, Community Wide Scheduling",
+      "company": "Heywood Healthcare",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/heywood-healthcare",
+      "tags": "Patient-Scheduler Medical-Scheduler Scheduling-Coordinator Appointment-Coordinator Patient-Access-Specialist Healthcare-Scheduler Patient-Scheduling Patient-Scheduling-Coordinator Patient-Scheduling-Specialist Medical-Office-Scheduling Healthcare Mid-level Part Time",
+      "source": "Himalayas",
+      "salary": "$18 – $24",
+      "employment_type": "Part Time",
+      "excerpt": "OverviewYou Matter Here! Heywood Healthcare values our employees!",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:core-main:Meter Sales Specialist",
+      "title": "Meter Sales Specialist",
+      "company": "Core & Main",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/core-main",
+      "tags": "Meter-Sales-Specialist Sales-Specialist Technical-Sales-Representative Account-Executive Outside-Sales-Representative Electric-Meters-Sales Utility-Sales-Representative Sales Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Based in St. Louis, Core & Main is a leader in advancing reliable infrastructure™ with local service, nationwide®.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:steno:Scheduler, Customer Success",
+      "title": "Scheduler, Customer Success",
+      "company": "Steno",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/steno",
+      "tags": "Schedulers Scheduling-Coordinator Legal-Services-Coordinator Court-Scheduling Operations-Assistant Customer-Scheduling-Support Schedule-Specialist Scheduling-Operations-Specialist Customer-Success-Specialist Customer-Success-Representative Customer-Success Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$20 – $27",
+      "employment_type": "Full Time",
+      "excerpt": "Scheduler, Customer Success Full-Time, Remote / Hourly, Non- Exempt / Includes Benefits, PTO, Flexible Schedule, Equity Steno’s Customer Success Team is looking for a Scheduler to join our winning team!",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:equus:LMS Product & Solutions Analyst (DWI PSA)",
+      "title": "LMS Product & Solutions Analyst (DWI PSA)",
+      "company": "Equus",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/equus",
+      "tags": "LMS-Administrator Business-Systems-Analyst Product-Analyst Learning-Technology-Specialist Systems-Analyst LMS-Analyst Product-Solutions-Analyst Learning-Systems-Analyst Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$45k – $55k",
+      "employment_type": "Full Time",
+      "excerpt": "Position SummaryThe LMS Product & Solutions Analyst supports the performance, growth, and continuous improvement of DWI’s learning technology ecosystem.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:calista-corporation:Payroll Technician - Construction",
+      "title": "Payroll Technician - Construction",
+      "company": "Calista Corporation",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/calista-corporation",
+      "tags": "Payroll-Technician Payroll-Specialist Payroll-Clerk Certified-Payroll Construction-Payroll Payroll-Coordinator Payroll-Associate Payroll-Administrator Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Calista CorporationRegularJOB SUMMARY: The Payroll Technician - Construction is a key member of the payroll team and is jointly responsible for the accurate and timely administration of weekly and bi-weekly payroll…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:elsevier:Product Manager II, Analytics",
+      "title": "Product Manager II, Analytics",
+      "company": "Elsevier",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/elsevier",
+      "tags": "Product-Manager Analytics-Product-Manager Product-Owner Healthcare-Product-Manager AI-Product-Manager Product-Manager-II Data-Analytics-Product-Manager Product Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$95k – $159k",
+      "employment_type": "Full Time",
+      "excerpt": "Product Manager II, Analytics About the RoleWe’re seeking a Product Manager II to improve analytics experiences for customers and internal teams across our Healthcare Education portfolio.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:amgen:Clinical Development Director, Obesity/Cardiovascular",
+      "title": "Clinical Development Director, Obesity/Cardiovascular",
+      "company": "Amgen",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/amgen",
+      "tags": "Clinical-Development-Director Medical-Director Clinical-Research-Director Clinical-Scientist Medical-Monitor Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Career CategoryClinical DevelopmentJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:sterry:Facebook Ads Specialist",
+      "title": "Facebook Ads Specialist",
+      "company": "STERRY",
+      "location": "Philippines",
+      "url": "https://himalayas.app/jobs/sterry",
+      "tags": "Digital-Marketing Paid-Media Social-Media-Marketing Facebook-Ads Performance-Marketing Facebook-Ads-Specialist Paid-Ads-Specialist Paid-Advertising-Specialist Meta-Ads-Specialist Paid-Social-Media-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Facebook Ads Specialist - STERRY Limited Location: Remote Job Type: Full-time Join a dynamic growth marketing agency where precision meets creativity At STERRY, we're not your average marketing agency—we're the rocket…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:wellstar-health-system:Account Resolution Rep II",
+      "title": "Account Resolution Rep II",
+      "company": "Wellstar Health System",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/wellstar-health-system",
+      "tags": "Account-Resolution Revenue-Cycle-Management Healthcare-Billing Collections Denial-Management Account-Resolution-Specialist Customer-Resolution-Specialist Account-Follow-Up-Representative Account-Representative Accounts-Receivable-Representative Account-Support-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "How would you like to work in a place where your contributions and ideas are valued?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:amgen:Clinical Development Director, Early Development Oncology",
+      "title": "Clinical Development Director, Early Development Oncology",
+      "company": "Amgen",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/amgen",
+      "tags": "Clinical-Development Oncology Clinical-Research Early-Development Drug-Development Clinical-Development-Director Oncology-Clinical-Development Clinical-Development-Leadership Director Full Time",
+      "source": "Himalayas",
+      "salary": "$275k – $372k",
+      "employment_type": "Full Time",
+      "excerpt": "Career CategoryClinical DevelopmentJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:pfizer:Vice President of Specialty Pharmacy & Wholesaler Channel Management",
+      "title": "Vice President of Specialty Pharmacy & Wholesaler Channel Management",
+      "company": "Pfizer",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/pfizer",
+      "tags": "Vice-President Channel-Manager Distribution-Manager Market-Access-Director Commercial-Operations-Director Vice-President-Of-Pharmacy-Strategy VP-Pharmacy-Sales VP-of-Channel-Management Specialty-Pharmacy-Leadership Executive Full Time",
+      "source": "Himalayas",
+      "salary": "$274k – $457k",
+      "employment_type": "Full Time",
+      "excerpt": "This role leads the Specialty Pharmacy and Wholesaler Channel Management function within the US Market Access group (USMA), supporting Pfizer's U.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:hirehawk:E-Commerce Recruiter (Remote, LatAm)",
+      "title": "E-Commerce Recruiter (Remote, LatAm)",
+      "company": "HireHawk",
+      "location": "Argentina",
+      "url": "https://himalayas.app/jobs/hirehawk",
+      "tags": "E-Commerce-Recruiting Recruitment Talent-Acquisition Staffing Remote-Recruiting E-commerce-Recruitment Remote-Recruiter Remote-Recruitment-Coordinator Remote-Recruitment-Specialist Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Job Title: E-Commerce Recruiter Job Type: Full-Time Contractor Workplace: Remote Schedule: Monday–Friday, U.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bmo:Business Banking Relationship Manager",
+      "title": "Business Banking Relationship Manager",
+      "company": "BMO",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/bmo",
+      "tags": "Business-Banking-Relationship-Manager Relationship-Manager Commercial-Banking-Relationship-Manager Banker Banking-Relationship-Manager Business-Relationship-Manager Relationship-Banker Enterprise-Banking-Relationship-Manager Senior-Banking-Relationship-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$65k – $140k",
+      "employment_type": "Full Time",
+      "excerpt": "Application Deadline: 10/04/2026Address:VIRTUAL(U)13 - HomeRes - ILJob Family Group:Commercial Sales & ServiceCultivates, builds, and manages relationships with a portfolio of small business clients to build a pipeline…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:blackstone-eit:Senior Backend Developer - Node.js & Camunda",
+      "title": "Senior Backend Developer - Node.js & Camunda",
+      "company": "BlackStone eIT",
+      "location": "Egypt",
+      "url": "https://himalayas.app/jobs/blackstone-eit",
+      "tags": "Backend-Engineer NodeJS-Developer Microservices-Engineer Senior-Node.Js-Developer Senior-Backend-Development Senior-Node.Js-Engineer Senior-Backend-Engineering Senior-TypeScript-Backend-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Job SummaryWe are looking for a Senior Backend Developer with strong experience in Node.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:computacenter:Workforce Analyst (Remote, US, Remote)",
+      "title": "Workforce Analyst (Remote, US, Remote)",
+      "company": "Computacenter",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/computacenter",
+      "tags": "Workforce-Analyst Workforce-Management-Analyst Resource-Planning-Analyst Capacity-Planning-Analyst Workforce-Planning-Analyst Workforce-Strategy-Analyst Workforce-Intelligence-Analyst Workforce-Analytics-Specialist Workforce-Scheduling-Analyst People-Operations-Analyst Operations Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About the roleThe Workforce Analyst provides the analytical foundation for effective resource planning and execution across the Rapid Data Center Deployment (RDD) organization.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:trilogy-federal:Program Analyst - Training Consultant",
+      "title": "Program Analyst - Training Consultant",
+      "company": "Trilogy Federal",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/trilogy-federal",
+      "tags": "Program-Analyst Training-Consultant Informatics-Analyst Clinical-Informatics-Analyst Training-Analyst Training-Consulting Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$99k – $110k",
+      "employment_type": "Full Time",
+      "excerpt": "Trilogy Federal drives innovative solutions for complex business challenges across financial management, healthcare, and government industries.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:carewell:Business Insights Analyst, Remote US",
+      "title": "Business Insights Analyst, Remote US",
+      "company": "Carewell",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/carewell",
+      "tags": "Business-Insights-Analyst Data-Analyst Business-Intelligence-Analyst Analytics-Consultant Data-and-Insights-Business-Analyst Remote-Data-Analyst Remote-Business-Analyst Remote-Senior-Analyst Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About CarewellAre you an impact-driven problem solver who is passionate about making a difference in the lives of others while contributing to a fast growing start-up?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:citi:Intmd Assoc Exec Resp Analyst - B11",
+      "title": "Intmd Assoc Exec Resp Analyst - B11",
+      "company": "Citi",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/citi",
+      "tags": "Customer-Service Escalation-Specialist Customer-Support-Analyst Compliance-Analyst Client-Services-Associate Senior-MDR-Analyst Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$58k – $81k",
+      "employment_type": "Full Time",
+      "excerpt": "The Intmd Assoc Exec Resp Analyst is a developing professional role which integrates in-depth specialty knowledge with a solid understanding of industry standards and practices; demonstrates good understanding of how…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:job-duck:`V108-Case Manager- Personal Injury Case Manager",
+      "title": "`V108-Case Manager- Personal Injury Case Manager",
+      "company": "Job Duck",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/job-duck",
+      "tags": "Case-Manager Medical-Records-Case-Manager Legal-Case-Manager Medical-Billing-Specialist Legal-Support-Specialist Personal-Injury-Case-Manager Plaintiff-Case-Manager Team-2-Personal-Injury-Case-Manager Bilingual-Personal-Injury-Case-Manager Law-Firm-Case-Manager Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$1k – $1k",
+      "employment_type": "Full Time",
+      "excerpt": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:kdci:Founding Engineer",
+      "title": "Founding Engineer",
+      "company": "KDCI",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/kdci",
+      "tags": "Founding-Engineer Full-Stack-Engineer Software-Engineer Startup-Engineer Technology-Leadership Technical-Founding-Engineer Founding-Product-Engineer Founding-Software-Engineer Engineering-Co-Founder Founding-AI-Engineer Founding-ML-Engineer Founding-Fullstack-Engineer Founding-Data-Engineer Technical-Founder Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Role SummaryKDCI Outsourcing is looking for a Founding Engineer to take on broad technical ownership in a fast-moving environment.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:voyant-photonics:Photonics Layout Engineer",
+      "title": "Photonics Layout Engineer",
+      "company": "Voyant Photonics",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/voyant-photonics",
+      "tags": "Photonics-Layout-And-Tooling-Engineer Photonic-Integrated-Circuit-Design-Engineer Photonics-Designer Photonics-Design Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$120k – $190k",
+      "employment_type": "Full Time",
+      "excerpt": "Photonics Layout Engineer (Remote)About us:Voyant Photonics is bushing the boundaries of silicon photonic chips that steer and switch light at high speed.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:vantagedatacenters:Director, Solutions Engineering, NA",
+      "title": "Director, Solutions Engineering, NA",
+      "company": "Vantage Data Centers",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/vantagedatacenters",
+      "tags": "Senior-Director-Of-Solutions-Engineering Director-of-Engineering Solutions-Engineering-Manager Data-Center-Solutions-Architect Technical-Sales-Engineer Director-Of-Solutions-Engineering-(APAC) Director-Of-Solution-Architecture Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About VantageVantage powers, cools, protects and connects the technology of the world’s well-known hyperscalers, cloud providers and large enterprises.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:rd-station:Engenharia de Software Backend Sênior - Python | RD Station (Remoto)",
+      "title": "Engenharia de Software Backend Sênior - Python | RD Station (Remoto)",
+      "company": "RD Station",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/rd-station",
+      "tags": "Backend-Engineer Software-Engineer Python-Developer Platform-Engineer Senior-Python-Developer-(South-America) Senior-Backend-Python-Developer Senior-Python-Backend-Developer Engenharia-De-Software-Backend Desarrollador-Python-Senior Python-Backend-Engineer Senior-Python-Software-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Quer fazer parte de um time que cria oportunidades e potencializa a evolução?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:taxtalente-de:Steuerfachkraft (m/w/d) in Kulmbach mindestens 52.000€ - 100% Remote möglich",
+      "title": "Steuerfachkraft (m/w/d) in Kulmbach mindestens 52.000€ - 100% Remote möglich",
+      "company": "Taxtalente.de",
+      "location": "Germany",
+      "url": "https://himalayas.app/jobs/taxtalente-de",
+      "tags": "Steuerfachkraft Steuerfachangestellter Steuerfachwirt Bilanzbuchhalter Steuerfachangestellte:R Tax-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "EUR 52k – EUR 85k",
+      "employment_type": "Full Time",
+      "excerpt": "TaxTalente ist eine junge Job-Matching Plattform für Jobsuchende und Unternehmen in der Steuerberatung.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:dept:Senior Account Manager, Adtech",
+      "title": "Senior Account Manager, Adtech",
+      "company": "DEPT®",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/dept",
+      "tags": "Senior-Account-Manager Account-Manager Mobile-Marketing-Manager AdTech-Manager AdTech-Account-Manager Senior-Digital-Account-Manager Advertising-Account-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$75k – $95k",
+      "employment_type": "Full Time",
+      "excerpt": "WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:stand-together:KIP Spring 2027 - Development Intern - Empire Center for Public Policy",
+      "title": "KIP Spring 2027 - Development Intern - Empire Center for Public Policy",
+      "company": "Stand Together",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/stand-together",
+      "tags": "Development-Intern Fundraising-Internship Development-Assistant Public-Policy-Intern Entry-level Intern",
+      "source": "Himalayas",
+      "salary": "$6k – $8k",
+      "employment_type": "Intern",
+      "excerpt": "The Koch Internship Program (KIP) is a paid experiential learning program run by Stand Together Fellowships that offers professional development, leadership training, and meaningful work experience at non-profits…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:altruist:Sales Executive, New York & New Jersey",
+      "title": "Sales Executive, New York & New Jersey",
+      "company": "Altruist",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/altruist",
+      "tags": "Sales-Executive Account-Executive Fintech-Sales-Executive Sales-Executive-II Sales-Executive-III Senior-Sales-Account-Executive Senior-Sales-Executive Sales Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$265k – $285k",
+      "employment_type": "Full Time",
+      "excerpt": "About AltruistAltruist is transforming the multi-trillion dollar wealth management industry by building an AI platform for wealth professionals.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:republic-services:Billing Assistant",
+      "title": "Billing Assistant",
+      "company": "Republic Services",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/republic-services",
+      "tags": "Billing-Assistant Billing-Specialist Accounts-Receivable-Assistant Billing-Coordinator Billing-Administrative-Assistant Billing-Associate Billing-And-Administrative-Assistant Billing-Administrator Billing-Clerk Entry-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "POSITION SUMMARY: With direct supervision, the Billing Assistant performs a variety of routine billing and data entry functions.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:team-carney:Senior Instructional Designer / Consultant (Team 1 Lead)",
+      "title": "Senior Instructional Designer / Consultant (Team 1 Lead)",
+      "company": "Team Carney",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/team-carney",
+      "tags": "Senior-Instructional-Designer Instructional-Design-Consultant Learning-Designer Curriculum-Designer Training-Consultant Senior-Instructional-Design-Lead Senior-Learning-Designer Senior-Learning-Experience-Designer Senior-Learning-Consultant Learning-Design-Lead Instructional-Design-Specialist Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Are You Ready To Accelerate Performance and Modernize Federal Training Programs?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:dacodes:Senior Fullstack Engineer (React.js) - Mexico Only - English Required",
+      "title": "Senior Fullstack Engineer (React.js) - Mexico Only - English Required",
+      "company": "DaCodes",
+      "location": "Mexico",
+      "url": "https://himalayas.app/jobs/dacodes",
+      "tags": "Full-Stack-Engineer Frontend-Engineer Web-Developer Software-Engineer React-Developer Senior-Full-Stack-Engineer-(React-Node.Js) Senior-Full-Stack-Developer-(React-Node.Js) Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Somos una firma de expertos en software y transformación digital de alto impacto.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Frontend",
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:decision-inc:FP&A Consultant (FICO) | DISA-FPA-FICON-JHB-0130",
+      "title": "FP&A Consultant (FICO) | DISA-FPA-FICON-JHB-0130",
+      "company": "Decision Inc.",
+      "location": "South Africa",
+      "url": "https://himalayas.app/jobs/decision-inc",
+      "tags": "SAP-FICO-Consultant SAP-Financials-Consultant SAP-Controlling-Consultant SAP-Finance-Consultant FP&A-Consultant Senior-SAP-FICO-Consultant FP&A-Implementation-Consultant FP&A-Consulting FP&A-Systems-Consultant Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We are seeking an experienced Senior SAP FICO Consultant to lead the SAP ECC FI/CO workstream for the integration of a recently acquired subsidiary and the implementation of dual-ledger financial reporting to support…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:brakin-out-inc:Volunteer Board Member/Director",
+      "title": "Volunteer Board Member/Director",
+      "company": "Brakin Out Inc",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/brakin-out-inc",
+      "tags": "Board-Member Volunteer-Board-Member Nonprofit-Board-Director Nonprofit-Board-Member Board-Director Volunteer-Director Non-Profit-Executive-Board-Member Nonprofit-Board-Membership Nonprofit-Board Board-Of-Directors Director Volunteer",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Volunteer",
+      "excerpt": "Key Responsibilities:• Strategic Planning: Collaborate with other board members and the executive team to set the organization's strategic goals and direction.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:telus-international-ai-inc: E-commerce Product & Search Relevancy Expert - English speakers in Australia",
+      "title": " E-commerce Product & Search Relevancy Expert - English speakers in Australia",
+      "company": "TELUS International AI Inc",
+      "location": "Australia",
+      "url": "https://himalayas.app/jobs/telus-international-ai-inc",
+      "tags": "Search-Relevance-Specialist Ecommerce-Product-Specialist ECommerce-Specialist Entry-level Part Time",
+      "source": "Himalayas",
+      "salary": "$10 – $25",
+      "employment_type": "Part Time",
+      "excerpt": "Interested? Click here to apply now! About the Role: At TELUS Digital, we help the world’s biggest brands build smarter technology.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:amgen:Marketing Manager, Patient Access & Reimbursement - Multiple Therapeutic Areas",
+      "title": "Marketing Manager, Patient Access & Reimbursement - Multiple Therapeutic Areas",
+      "company": "Amgen",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/amgen",
+      "tags": "Marketing-Manager Patient-Access-Manager Reimbursement-Marketing-Manager Market-Access-Manager Access-Strategy-Manager Access-And-Reimbursement-Manager Pharmaceutical-Marketing-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Career CategoryMarketingJob DescriptionMarketing Manager, Patient Access & Reimbursement - Multiple Therapeutic Areas Join Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger,…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:westrocon:SAP SuccessFactors (EC/ECP/PMGM/LMS/ONB/Recruiting) & SAP HCM (Payroll)",
+      "title": "SAP SuccessFactors (EC/ECP/PMGM/LMS/ONB/Recruiting) & SAP HCM (Payroll)",
+      "company": "Westrocon",
+      "location": "South Africa",
+      "url": "https://himalayas.app/jobs/westrocon",
+      "tags": "SAP-SuccessFactors-Consultant SAP-HCM-Consultant HRIS-Consultant Functional-Consultant SAP-SuccessFactors-Implementation SAP-HR-HCM SAP-SuccessFactors-Consulting SAP-SuccessFactors SAP-HCM-Payroll SAP-SuccessFactors-Employee-Central SAP-HCM SAP-HCM-Payroll-Consultant Senior Other",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Other",
+      "excerpt": "Key Responsibilities:• Assisting in the configuration and customisation of SAP SuccessFactors modules (e.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:arsan-international-consulting-group:Business Development Manager – Oil & Gas",
+      "title": "Business Development Manager – Oil & Gas",
+      "company": "ARSAN International Consulting Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/arsan-international-consulting-group",
+      "tags": "Business-Development-Manager Sales-Manager Oil-And-Gas-Sales-Manager Business-Development-Specialist Account-Manager Oil-and-Gas-Business-Development-Manager Senior-Business-Development-Manager-In-Oil-and-Gas Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "This is a remote position. Location: Remote (Candidates must be based in Texas; Experienced in the Oil & Gas industry across Texas and Oklahoma) Job Summary: The Business Development Manager is responsible for…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:datasite:Sales Executive - Warsaw",
+      "title": "Sales Executive - Warsaw",
+      "company": "Datasite",
+      "location": "Poland",
+      "url": "https://himalayas.app/jobs/datasite",
+      "tags": "Sales-Executive Account-Executive Sales-Development-Representative Business-Development-Specialist B2B-Sales-Executive Sales-Executive-EMEA Sales-Executive-Jobs International-Sales-Executive Global-Sales-Executive Polish-Speaking-Sales Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About us Datasite is the essential infrastructure for M&A.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:staffing-for-doctors:Virtual Practice Admin Specialist - Charm EHR Experience REQUIRED",
+      "title": "Virtual Practice Admin Specialist - Charm EHR Experience REQUIRED",
+      "company": "Staffing for Doctors",
+      "location": "Philippines",
+      "url": "https://himalayas.app/jobs/staffing-for-doctors",
+      "tags": "Medical-Practice-Administrator Medical-Administrative-Specialist Practice-Administrator Healthcare-Administrator Virtual-Office-Administrator Remote-Medical-Administrative-Assistant EHR-Support-Specialist Remote-Health-Records-Specialist Remote-Medical-Records-Specialist EHR-Application-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "We are seeking an intelligent, articulate, and deeply empathetic Virtual Practice Admin Specialist to run the daily administrative operations and patient engagement for our specialized functional medicine practice.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:erepublic:Growth Account Manager",
+      "title": "Growth Account Manager",
+      "company": "eRepublic",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/erepublic",
+      "tags": "Growth-Account-Manager Account-Manager Sales-Account-Manager Business-Development-Manager Account-Executive Account-Growth-Manager Growth-Key-Account-Manager Growth-and-Account-Management Customer-Growth-Manager Client-Growth-Manager Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$28 – $33",
+      "employment_type": "Full Time",
+      "excerpt": "About e. Republic e. Republic is a leading organization focused on empowering state and local government and education through data, media, and events.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:automox:Senior Solutions Consultant",
+      "title": "Senior Solutions Consultant",
+      "company": "Automox",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/automox",
+      "tags": "Solutions-Consultant Technical-Consultant Implementation-Consultant Endpoint-Management-Consultant Customer-Success-Consultant Senior-Solutions-Consultant Senior-Solutions-Specialist Senior-Solutions-Engineer Senior-Consultant Senior-Federal-Solutions-Consultant Solution-Consultant Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$110k – $140k",
+      "employment_type": "Full Time",
+      "excerpt": "Are you ready to own something big? Automox is turning IT admins into IT heroes by replacing traditional tools with our award winning cloud-native endpoint management platform.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:vital-virtuals-llc:VIRTUAL MEDICAL ADMIN / PRIOR AUTHORIZATION COORDINATOR",
+      "title": "VIRTUAL MEDICAL ADMIN / PRIOR AUTHORIZATION COORDINATOR",
+      "company": "Vital Virtuals LLC",
+      "location": "Philippines",
+      "url": "https://himalayas.app/jobs/vital-virtuals-llc",
+      "tags": "Medical-Administrative-Assistant Prior-Authorization-Coordinator Medical-Virtual-Assistant Healthcare-Virtual-Assistant Medical-Billing-Specialist Remote-Medical-Administrative-Assistant Remote-Pharmacy-Prior-Authorization-Specialist Medical-Authorization-Coordinator Virtual-Medical-Assistant Prior-Authorization-Specialist Healthcare Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$5 – $6",
+      "employment_type": "Full Time",
+      "excerpt": "NOW HIRING: VIRTUAL MEDICAL ADMIN / PRIOR AUTHORIZATION COORDINATOR For a Neurology PracticeVital Virtuals Global HR is looking for a reliable, motivated, and detail-oriented Medical Virtual Assistant to support a…",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:brixio:Back End Developer - Java",
+      "title": "Back End Developer - Java",
+      "company": "Brixio",
+      "location": "Philippines",
+      "url": "https://himalayas.app/jobs/brixio",
+      "tags": "Backend-Engineer Java-Developer Software-Engineer Java-Backend-Developer Backend-Java-Developer Java-Backend-Engineer Java-Backend-Development Java-Backend-Engineering Mid-Level-Java-Backend-Engineer Mid-level Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Remote Back-End Developer (Java) ﻿(must be residing in the Philippines) Are you a skilled Back-End Developer with a passion for Java and microservices?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:netpartners-international:CONSULTOR SENIOR CONSULTOR ABAP CLOUD - RAP",
+      "title": "CONSULTOR SENIOR CONSULTOR ABAP CLOUD - RAP",
+      "company": "NetPartners International",
+      "location": "Colombia",
+      "url": "https://himalayas.app/jobs/netpartners-international",
+      "tags": "ABAP-Consultant SAP-ABAP-Consultant Abap-Developer SAP-Cloud-Consultant Senior-SAP-ABAP-RAP-Developer ABAP-Cloud-Developer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "CONSULTOR ABAP CLOUD - RAPDescripción de la empresaGEB - Grupo de Energía de BogotáDescripción de la vacanteCantidad: 6 consultoresProfesional en cualquier carrera.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:effecti:Pessoa Squad Leader",
+      "title": "Pessoa Squad Leader",
+      "company": "Effecti",
+      "location": "Brazil",
+      "url": "https://himalayas.app/jobs/effecti",
+      "tags": "Squad-Leader Engineering-Manager Technical-Project-Manager Agile-Delivery-Lead Product-Development-Manager Squad-Lead Squad-Group-Leader Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Buscamos uma liderança com forte capacidade de dar direção, garantir foco e transformar estratégia em entrega real, mesmo em cenários de alta complexidade e mudança.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:the-cigna-group:Senior Manager, Business Operations Enablement - Cigna Healthcare - Remote",
+      "title": "Senior Manager, Business Operations Enablement - Cigna Healthcare - Remote",
+      "company": "The Cigna Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/the-cigna-group",
+      "tags": "Business-Operations-Manager Operations-Manager Business-Enablement-Manager Program-Manager Senior-Healthcare-Operations-Manager Senior-Insurance-Operations-Manager Business-Operations Operations Management Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$131k – $218k",
+      "employment_type": "Full Time",
+      "excerpt": "Are you passionate about building the operational foundation that enables innovation and growth?",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:telus-international-ai-inc: E-commerce Product & Search Relevancy Expert - English speakers in Spain",
+      "title": " E-commerce Product & Search Relevancy Expert - English speakers in Spain",
+      "company": "TELUS International AI Inc",
+      "location": "Spain",
+      "url": "https://himalayas.app/jobs/telus-international-ai-inc",
+      "tags": "Search-Relevance-Specialist Ecommerce-Product-Specialist ECommerce-Specialist Entry-level Part Time",
+      "source": "Himalayas",
+      "salary": "$10 – $25",
+      "employment_type": "Part Time",
+      "excerpt": "Interested? Click here to apply now! About the Role: At TELUS Digital, we help the world’s biggest brands build smarter technology.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:ffi-advisory:Senior SAP Solution Architect (60-80%)",
+      "title": "Senior SAP Solution Architect (60-80%)",
+      "company": "FFI Advisory",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/ffi-advisory",
+      "tags": "SAP-Solution-Architect SAP-Technical-Consultant SAP-Architect Enterprise-Architect Cloud-Solution-Architect SAP-Solutions-Architect Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Branche: Energiesektor Mitarbeiter: ca. 800 Referenznummer: ﻿W39X7Y4W Kurz und prägnant: SAP Architecture, SAP S/4HANA, SAP BTP, Cloud & On-Premise, Solution Design, System Integration, in Aarau/Home-Office.",
+      "posted_date": "",
+      "first_seen": "2026-10-22T15:01:14.836057+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
     {
       "id": "wwr:https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
       "title": "Affirm: Analytics Engineer II, Full Stack (Revenue Analytics)",
@@ -54,7 +6752,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Poland At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re…",
       "posted_date": "Thu, 22 Oct 2026 07:31:25 +0000",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -72,7 +6770,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote About the Team: Netlify’s Data team helps the company understand and improve the full product-led growth journey, from activation and engagement through conversion, retention, and monetization. We…",
       "posted_date": "Thu, 22 Oct 2026 07:31:14 +0000",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -90,7 +6788,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States About the Role Mercury is seeking a Business Continuity Management (BCM) Lead to build and lead an enterprise-wide…",
       "posted_date": "Thu, 22 Oct 2026 07:31:14 +0000",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -108,7 +6806,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote @ Colombia About the role:&nbsp; The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search…",
       "posted_date": "Thu, 22 Oct 2026 07:31:08 +0000",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -126,1753 +6824,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company…",
       "posted_date": "Thu, 22 Oct 2026 07:31:08 +0000",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:executive-assistant-x-berlin-274807",
-      "title": "Executive Assistant (w/m/d/x)",
-      "company": "EMIL Group GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/executive-assistant-x-berlin-274807",
-      "tags": "Administration and Secretariat Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "DEINE ROLLE Als Executive Assistant (w/m/d/x) bist du der zentrale Dreh- und Angelpunkt für unsere beiden Geschäftsführer. Du sorgst dafür, dass sie sich auf das Wesentliche konzentrieren können, indem du Struktur,…",
-      "posted_date": 1792659674,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:bauuberwacher-bahn-oberbau-konstruktiver-ingenieurbau-munchen-munich-135612",
-      "title": "Bauüberwacher Bahn (m/w/d) Oberbau & Konstruktiver Ingenieurbau | München",
-      "company": "CON-iNG GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/con-ing-gmbh/bauuberwacher-bahn-oberbau-konstruktiver-ingenieurbau-munchen-munich-135612",
-      "tags": "Software Development berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "berufserfahren",
-      "excerpt": "Bei uns bist du nicht nur ein weiterer Kopf im Team, sondern eine tragende Säule in den Projekten! Zum Aufbau unseres neuen Standorts München suchen wir dich, ab spätestens dem neuen Jahr, für den Bereich Oberbau und…",
-      "posted_date": 1792659671,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-program-manager-in-cybersecurity-frankfurt-am-main-295500",
-      "title": "Senior Program Manager in Cybersecurity (m/w/d)",
-      "company": "NVISO",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/nviso/senior-program-manager-in-cybersecurity-frankfurt-am-main-295500",
-      "tags": "IT Security Permanent employment (unbefristeter arbeitsvertrag) manager",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), manager",
-      "excerpt": "Who are we? It all starts with the mission: NVISO is here to protect European society from potentially devastating cyber attacks! This means we offer cyber security services to private and governmental organizations to…",
-      "posted_date": 1792659671,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:grafikdesigner-mediengestalter-mit-social-media-kenntnissen-biberach-381100",
-      "title": "Grafikdesigner / Mediengestalter (m/w/d) mit Social-Media-Kenntnissen",
-      "company": "p-Beauty",
-      "location": "Biberach",
-      "url": "https://www.arbeitnow.com/jobs/companies/p-beauty/grafikdesigner-mediengestalter-mit-social-media-kenntnissen-biberach-381100",
-      "tags": "Graphic Arts and Communication Design Befristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Befristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Das Unternehmen und deine Rolle Wir sind ein E-Commerce-Unternehmen im Bereich Beauty, Kosmetik und Nahrungsergänzungsmittel und vertreiben unsere Produkte über verschiedene Online-Plattformen. Zur Verstärkung unseres…",
-      "posted_date": 1792659671,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:projektmanager-fur-aufzugsanlagen-und-automatische-park-und-fordersysteme-munich-388716",
-      "title": "Projektmanager (m/w/d) für Aufzugsanlagen und automatische Park- und Fördersysteme",
-      "company": "Lödige Industries GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/lodige-industries-gmbh/projektmanager-fur-aufzugsanlagen-und-automatische-park-und-fordersysteme-munich-388716",
-      "tags": "Project Management Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Zur Verstärkung unseres Teams suchen wir für unseren Standort in München einen engagierten und qualifizierten Projektmanager (m/w/d) für Aufzugsanlagen und automatische Park- und Fördersysteme. Lödige Industries mit…",
-      "posted_date": 1792659671,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-performance-marketing-manager-berlin-330003",
-      "title": "Senior Performance Marketing Manager (m/w/d)",
-      "company": "Interlead GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/senior-performance-marketing-manager-berlin-330003",
-      "tags": "Remote Online Marketing Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Was wir suchen Hi, wir von Interlead haben ein klares Ziel: Bis Ende 2026 wollen wir die #1 Lead Company im deutschsprachigen Raum aufbauen. Damit lösen wir das größte Problem unserer Partner – laufend neue Leads,…",
-      "posted_date": 1792659671,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-hr-business-partner-in-teil-oder-vollzeit-frankfurt-am-main-327115",
-      "title": "Senior / HR Business Partner (m/w/d) in Teil- oder Vollzeit",
-      "company": "allaboutHRLaw GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/senior-hr-business-partner-in-teil-oder-vollzeit-frankfurt-am-main-327115",
-      "tags": "Personnel Specialist Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Die allaboutHRLaw GmbH ist ein erfahrenes Beratungsunternehmen für professionelle und praxisnahe Personalarbeit. Als HR as a Service-Partner unterstützen wir Unternehmen unterschiedlicher Größen und Branchen,…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:sales-engineer-batterie-ladeinfrastruktur-berlin-85743",
-      "title": "Sales Engineer (m/w/d) Batterie- & Ladeinfrastruktur",
-      "company": "ELMI Power GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/elmi-power-gmbh/sales-engineer-batterie-ladeinfrastruktur-berlin-85743",
-      "tags": "Sales Engineer Arbeitnehmerüberlassung / zeitarbeit interim berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Arbeitnehmerüberlassung / zeitarbeit, interim, berufserfahren",
-      "excerpt": "Standort: Du kannst diese Stelle wahlweise an unserem Standort in Berlin oder in Frankfurt am Main antreten, ganz wie es besser zu dir passt. Über ELMI ELMI ist ein Technologieunternehmen für batteriegestützte…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:unternehmensberater-existenzgrundungscoach-chemnitz-86721",
-      "title": "Unternehmensberater / Existenzgründungscoach (m/w/d)",
-      "company": "IQ Unternehmensberatungs GmbH",
-      "location": "Chemnitz",
-      "url": "https://www.arbeitnow.com/jobs/companies/iq-unternehmensberatungs-gmbh/unternehmensberater-existenzgrundungscoach-chemnitz-86721",
-      "tags": "Business Consulting Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Unser Profil Seit mehr als 25 Jahren am Markt Beratung und Unterstützung kleiner und mittlerer Unternehmen Standort: Chemnitz kleines und gutes Team mit Wohlfühlfaktor flache Hierarchien Unterstützen Sie Menschen auf…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:duales-studium-bwl-controlling-consulting-ba-ab-oktober-2027-bad-wurzach-3467",
-      "title": "Duales Studium BWL - Controlling & Consulting B.A. (m/w/d) - ab Oktober 2027",
-      "company": "BAG Allgäu-Oberschwaben eG",
-      "location": "Bad Wurzach",
-      "url": "https://www.arbeitnow.com/jobs/companies/bag-allgau-oberschwaben-eg/duales-studium-bwl-controlling-consulting-ba-ab-oktober-2027-bad-wurzach-3467",
-      "tags": "Controlling Duales studium dual studies hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Duales studium, dual studies, hilfstätigkeit / student",
-      "excerpt": "Gemeinsam Zukunft gestalten – regional, sicher, vielfältig Die BAG Allgäu-Oberschwaben eG ist eine starke Genossenschaft mit 19 Standorten und über 350 Mitarbeitenden in den Bereichen Agrar, Bau, Energie, Markt und…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:mitarbeiter-in-im-kundenmanagement-europaische-transporte-paderborn-364217",
-      "title": "Mitarbeiter/in im Kundenmanagement (m/w/d) - europäische Transporte",
-      "company": "HARTMANN INTERNATIONAL GmbH & Co. KG",
-      "location": "Paderborn",
-      "url": "https://www.arbeitnow.com/jobs/companies/hartmann-international-gmbh-co-kg/mitarbeiter-in-im-kundenmanagement-europaische-transporte-paderborn-364217",
-      "tags": "Customer Service Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Globales Business & familiäre Teamkultur: deine Perspektiven bei HARTMANN INTERNATIONAL Als mittelständisches Logistikunternehmen haben wir bei HARTMANN INTERNATIONAL uns in über 170 Jahren auf unterschiedlichste…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-customer-taxation-berlin-berlin-409955",
-      "title": "(Senior) Product Manager - Customer Taxation (m/f/d)",
-      "company": "raisin",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/raisin/senior-product-manager-customer-taxation-berlin-berlin-409955",
-      "tags": "Product",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded…",
-      "posted_date": 1792659324,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-media-consultant-mensch-dusseldorf-52236",
-      "title": "Senior Media Consultant (Mensch)",
-      "company": "wppmedia",
-      "location": "Dusseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-media-consultant-mensch-dusseldorf-52236",
-      "tags": "Client Teams",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146",
-      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-300146",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-staff-software-engineer-firefox-cstorage-encryption-22897",
-      "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-firefox-cstorage-encryption-22897",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM LWS team to implement tasks for Storage Encryption everywhere, helping to…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-staff-software-engineer-bug-burndown-24999",
-      "title": "Contract Staff Software Engineer-Bug Burndown",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-staff-software-engineer-bug-burndown-24999",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help reduce Firefox’s WebCompat bug backlog by finishing or verifying the diagnosis of the long tail of site-breakage bugs, and by writing interventions…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-sr-data-analyst-sqltelemetrybrowser-engine-467983",
-      "title": "Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/contract-sr-data-analyst-sqltelemetrybrowser-engine-467983",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:product-manager-english-french-berlin-berlin-319659",
-      "title": "Product Manager (English/French)",
-      "company": "unframe",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/unframe/product-manager-english-french-berlin-berlin-319659",
-      "tags": "Product Growth",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h3&gt;&lt;strong&gt;About Unframe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Unframe is an AI-first startup helping the world’s largest enterprises bring LLM-powered applications to life in days - not months. We combine the…",
-      "posted_date": 1792659318,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:growth-lead-berlin-214002",
-      "title": "Growth Lead (Berlin)",
-      "company": "Almedia",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/growth-lead-berlin-214002",
-      "tags": "Growth Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is…",
-      "posted_date": 1792658447,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:event-community-manager-ai-x-greentech-berlin-219897",
-      "title": "Event & Community Manager (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reonic/event-community-manager-ai-x-greentech-berlin-219897",
-      "tags": "Marketing Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "You make Reonic impossible to miss. Plan it, fill it, own it. Looking for a role where every event is yours from first idea to last guest out the door? This is for you! You’ll own our trade shows, speaker events, and…",
-      "posted_date": 1792658425,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:security-engineer-munich-486071",
-      "title": "Security Engineer",
-      "company": "Proxima Fusion GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/security-engineer-munich-486071",
-      "tags": "Business Operations Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over…",
-      "posted_date": 1792658424,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:lead-rd-engineer-tritium-breeding-blanket-munich-53731",
-      "title": "Lead R&D Engineer, Tritium-Breeding Blanket",
-      "company": "Proxima Fusion GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/lead-rd-engineer-tritium-breeding-blanket-munich-53731",
-      "tags": "Stellarator Architecture Plasma Modelling & Research Numerical Optimization Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max Planck Institute for Plasma Physics (IPP). Backed by over…",
-      "posted_date": 1792658424,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:customer-service-advisor-berlin-413011",
-      "title": "Customer Service Advisor",
-      "company": "BSI Merch GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsi-merch-gmbh/customer-service-advisor-berlin-413011",
-      "tags": "Customer Service Permanent employment (unbefristeter arbeitsvertrag) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
-      "excerpt": "About BSI BSI Merch & Artist Services runs design, supply, fulfilment and e-commerce for artists and their labels and management. We build and run official artist web stores on Shopify for the UK and EU, ship from our…",
-      "posted_date": 1792657921,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:platform-engineer-munich-244268",
-      "title": "Platform Engineer (m/w/d)",
-      "company": "QualityMinds GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/qualityminds-gmbh/platform-engineer-munich-244268",
-      "tags": "System and Network Administration Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Über QualityMinds Die QualityMinds GmbH ist ein agiles Unternehmen für Qualitätssicherung, Softwaretest und Softwareentwicklung. Kontinuierliches Lernen, Selbstorganisation und Eigenverantwortung prägen unseren…",
-      "posted_date": 1792657920,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:al-video-creator-social-media-short-form-content-tiktok-instagram-reels-youtube-shorts-berlin-464742",
-      "title": "Al Video Creator (m/w/d) (Social Media/Short-Form-Content) TikTok/ Instagram Reels/ YouTube Shorts",
-      "company": "RealStudio GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/al-video-creator-social-media-short-form-content-tiktok-instagram-reels-youtube-shorts-berlin-464742",
-      "tags": "Remote Social Media Manager Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Wir sind Wachstums-Partner für über 100 der größten Deutschen B2C Brands wie zB. AG1, AirUp, TOOM Baumarkt & Smilodox und suchen aktuell Senior Performance-Marketing Manager (m/w/d). Dabei verantwortest du die…",
-      "posted_date": 1792657920,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:it-systemadministrator-erfurt-27961",
-      "title": "IT Systemadministrator (m/w/d)",
-      "company": "A+ Videoclinic GmbH",
-      "location": "Erfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/a-videoclinic-gmbh/it-systemadministrator-erfurt-27961",
-      "tags": "System and Network Administration Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Du willst die IT nicht nur am Laufen halten, sondern mitgestalten? Bei der VIDEOCLINIC sorgst du für einen sicheren, zuverlässigen IT-Betrieb – und bringst die Perspektive aus dem Alltag direkt in unsere…",
-      "posted_date": 1792657919,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:kundenservice-backoffice-mitarbeiter-dormagen-200579",
-      "title": "Kundenservice & Backoffice Mitarbeiter (m/w/d)",
-      "company": "neaSOL GmbH",
-      "location": "Dormagen",
-      "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/kundenservice-backoffice-mitarbeiter-dormagen-200579",
-      "tags": "Customer Service Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Das erwartet dich bei neaSOL Du bist ein Organisationstalent, behältst gerne den Überblick und suchst einen abwechslungsreichen Job, bei dem du wirklich etwas bewegen kannst? Dann lies weiter. Wir sind neaSOL , ein…",
-      "posted_date": 1792657919,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:chief-of-staff-munich-311735",
-      "title": "Chief of Staff (m/f/x)",
-      "company": "ZeKju GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/zekju-gmbh/chief-of-staff-munich-311735",
-      "tags": "Business Operations Permanent employment (unbefristeter arbeitsvertrag) executive",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), executive",
-      "excerpt": "You'll work directly with ZeKju’s founders on the company’s most important opportunities and challenges. From strategy and fundraising to operations, you turn data into decisions, drive key initiatives, handle critical…",
-      "posted_date": 1792657919,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
-      "title": "Senior Full-Stack Engineer (Web + Infrastructure)",
-      "company": "Searoutes",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/searoutes/remote-senior-full-stack-engineer-web-infrastructure-germany-245745",
-      "tags": "Engineering Logistics and Supply Chain Product Remote Full time mid-senior",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, mid-senior",
-      "excerpt": "Searoutes makes the emissions data that shippers use to run and reduce their logistics. It is an operational problem before it is an environmental one, and in our hands it is mostly an engineering one. We are hiring…",
-      "posted_date": 1792657205,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Full Stack"
-      ]
-    },
-    {
-      "id": "arbeitnow:tga-bauleiterin-berlin-302893",
-      "title": "TGA Bauleiter:in",
-      "company": "scaleyo HR GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/scaleyo-hr-gmbh/tga-bauleiterin-berlin-302893",
-      "tags": "Building Supply Safety Services Engineering Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Rollenbeschreibung Als TGA Bauleiter:in sind Sie für die Organisation, Koordination und Überwachung der technischen Gebäudeausrüstung auf der Baustelle verantwortlich. Sie steuern täglich die Ausführung der TGA-Gewerke,…",
-      "posted_date": 1792656068,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:sea-manager-google-ads-berlin-209086",
-      "title": "SEA Manager Google Ads (m/w/d)",
-      "company": "Pflegia",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pflegia/sea-manager-google-ads-berlin-209086",
-      "tags": "Online Marketing Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Über Pflegia Pflegia ist Deutschlands führende Jobplattform für Fachkräfte im Gesundheitswesen. Unsere Mission: Bewerbungen im Gesundheitswesen so einfach, transparent und fair wie möglich zu machen. Mit der…",
-      "posted_date": 1792656068,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:technical-support-enablement-specialist-berlin-158494",
-      "title": "Technical Support & Enablement Specialist (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-support-enablement-specialist-berlin-158494",
-      "tags": "Remote Software Development Permanent employment",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment",
-      "excerpt": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring…",
-      "posted_date": 1792656068,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:customer-success-manager-hofheim-277489",
-      "title": "Customer Success Manager",
-      "company": "Challenge 4 Change GmbH",
-      "location": "Hofheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/challenge-4-change-gmbh/customer-success-manager-hofheim-277489",
-      "tags": "Customer Service Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Ihre ersten Monate als Customer Success Manager bei Challenge 4 Change GmbH Sie starten in einem kleinen Team im Bereich Professional Training and Coaching in Hofheim am Taunus. In den ersten Wochen machen Sie sich mit…",
-      "posted_date": 1792656067,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:forward-deployed-engineer-tekkr-fde-network-berlin-295452",
-      "title": "Forward Deployed Engineer | Tekkr FDE Network",
-      "company": "Tekkr",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tekkr/forward-deployed-engineer-tekkr-fde-network-berlin-295452",
-      "tags": "Software Development Permanent employment (unbefristeter arbeitsvertrag) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
-      "excerpt": "Join the Tekkr FDE Network, where Europe's top Forward Deployed Engineers meet the top 1% of AI startups, like Parloa and Zauber. This isn't a job at a single company. You join a curated network that matches FDEs with…",
-      "posted_date": 1792656067,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:junior-marketing-operations-manager-fashion-obertshausen-169697",
-      "title": "(JUNIOR) Marketing Operations Manager (m/w/d) - Fashion",
-      "company": "PICARD Leathergoods GmbH",
-      "location": "Obertshausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/picard-leathergoods-gmbh/junior-marketing-operations-manager-fashion-obertshausen-169697",
-      "tags": "Marketing Manager Befristeter arbeitsvertrag berufseinstieg",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Befristeter arbeitsvertrag, berufseinstieg",
-      "excerpt": "(JUNIOR) MARKETING OPERATIONS MANAGER (M/W/D) - FASHION Standort: Obertshausen bei Frankfurt am Main Arbeitszeit: Vollzeit, 39 Stunden pro Woche, hybrid (3 Tage Büro, 2 Tage Homeoffice) Start: ab sofort Als Marketing…",
-      "posted_date": 1792656067,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "arbeitnow:wirtschaftsprufer-im-bankwesen-stuttgart-298372",
-      "title": "Wirtschaftsprüfer im Bankwesen (m/w/d)",
-      "company": "LeyCon",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/leycon/wirtschaftsprufer-im-bankwesen-stuttgart-298372",
-      "tags": "Auditor Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Ein sicherer Hafen für Expertinnen und Experten mit Gestaltungswillen Willkommen im Haus der Möglichkeiten. Hier trifft ein solides Fundament auf viel Freiheit. Erfahrene Fachkräfte finden ein Umfeld, das Sicherheit und…",
-      "posted_date": 1792654253,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:teamleiter-it-operation-cologne-367286",
-      "title": "Teamleiter IT Operation",
-      "company": "NetCologne IT Services",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/netcologne-it-services/teamleiter-it-operation-cologne-367286",
-      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "Du hast eine Leidenschaft für reibungslose IT-Prozesse, moderne Infrastrukturen und weißt, wie man ein Technik-Team zu Höchstleistungen motiviert? Als Teamleiter IT Operation (m/w/d) am Standort Köln bist Du der…",
-      "posted_date": 1792654251,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:commercial-manager-giessen-17928",
-      "title": "Commercial Manager (M/W/D)",
-      "company": "SR Travel GmbH & Co. KG",
-      "location": "Giessen",
-      "url": "https://www.arbeitnow.com/jobs/companies/sr-travel-gmbh-co-kg/commercial-manager-giessen-17928",
-      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "Über uns SR Travel ist ein international tätiger B2B-Reiseveranstalter mit Sitz in Gießen. Wir konzipieren und organisieren Groß- und Kleinserien, MICE-Projekte sowie maßgeschneiderte Gruppenreisen. Dabei arbeiten wir…",
-      "posted_date": 1792654250,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:teamleiter-im-finanzvertrieb-german-speaking-berlin-20910",
-      "title": "Teamleiter (m/w/d) im Finanzvertrieb (German Speaking)",
-      "company": "Peter Stenmans",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/peter-stenmans/teamleiter-im-finanzvertrieb-german-speaking-berlin-20910",
-      "tags": "Finance vocational Full-time permanent mid",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full-time permanent, mid",
-      "excerpt": "Du bist eine Führungspersönlichkeit, die Verlässlichkeit, klare Strukturen und Teamgeist lebt? Übernimm Verantwortung, optimiere Prozesse und führe dein Team zu Höchstleistungen. Begeistere unsere Kunden mit ehrlicher…",
-      "posted_date": 1792653615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:werkstudent-projektmanagment-dormagen-189708",
-      "title": "Werkstudent (m/w/d) Projektmanagment",
-      "company": "neaSOL GmbH",
-      "location": "Dormagen",
-      "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/werkstudent-projektmanagment-dormagen-189708",
-      "tags": "Power Engineering and Environmental Engineering Unbefristeter arbeitsvertrag hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
-      "excerpt": "Du willst im Studentenjob nicht Kaffee kochen und Listen abtippen, sondern an echten Projekten und an einem System arbeiten, das danach dauerhaft anders läuft? Dann lies weiter. Wir sind neaSOL , ein junges, wachsendes…",
-      "posted_date": 1792652468,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:junior-online-marketing-manager-all-genders-hamburg-12577",
-      "title": "(Junior) Online Marketing Manager (all genders)",
-      "company": "Deep Media Technologies",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/deep-media-technologies/junior-online-marketing-manager-all-genders-hamburg-12577",
-      "tags": "Online Marketing Unbefristeter arbeitsvertrag berufseinstieg",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "excerpt": "Join us on our journey to the next generation of digital marketing by combining media with innovative technology! Wir suchen zum nächstmöglichen Zeitpunkt eine:n (Junior) Online Marketing Manager:in und freuen uns auf…",
-      "posted_date": 1792652468,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "arbeitnow:content-digital-pr-manager-lingen-131153",
-      "title": "Content & Digital PR Manager (m/w/d)",
-      "company": "experics digital GmbH",
-      "location": "Lingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/experics-digital-gmbh/content-digital-pr-manager-lingen-131153",
-      "tags": "Public Relations Corporate Communication Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Vollzeit · Lingen (Ems) · vor Ort · ab sofort Gute Inhalte allein reichen nicht mehr. Google und KI-Systeme wie ChatGPT, Gemini oder Claude empfehlen die Marken, über die andere schreiben und denen sie vertrauen. Wer…",
-      "posted_date": 1792652466,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:marketing-manager-lingen-110045",
-      "title": "Marketing Manager (m/w/d)",
-      "company": "experics digital GmbH",
-      "location": "Lingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/experics-digital-gmbh/marketing-manager-lingen-110045",
-      "tags": "Marketing Manager Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Wir sind experics, eine mehrfach ausgezeichnete Boutique-Agentur für SEO und GEO (Generative Engine Optimization) aus Lingen. Mit über 200 betreuten Websites und Online-Shops, durchschnittlich mehr als 11 Jahren…",
-      "posted_date": 1792652466,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:sales-manager-new-business-akquise-donnersdorf-242904",
-      "title": "Sales Manager (m/w/d) – New Business / Akquise",
-      "company": "InnoSenT GmbH",
-      "location": "Donnersdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/innosent-gmbh/sales-manager-new-business-akquise-donnersdorf-242904",
-      "tags": "Management Team Leader Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "Seit 1999 entwickelt und fertigt InnoSenT erfolgreich hochwertige Radarsensorik und gilt als Technologietreiber der Branche. Neben cleveren, industriellen Radaranwendungen entwickeln wir als zukunftsorientiertes…",
-      "posted_date": 1792652466,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:business-consultant-it-business-analyst-banking-insurance-berlin-352096",
-      "title": "Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/business-consultant-it-business-analyst-banking-insurance-berlin-352096",
-      "tags": "Remote Business Analyst Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Beratung ohne Ellenbogenkultur. Du möchtest anspruchsvolle Projekte begleiten, aber nicht in einer Beratung arbeiten, in der 80-Stunden-Wochen als Statussymbol gelten? Willkommen bei BBHT! Bei uns arbeitest du an…",
-      "posted_date": 1792652465,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:meldewesenspezialistin-it-business-analyst-berlin-186616",
-      "title": "Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/meldewesenspezialistin-it-business-analyst-berlin-186616",
-      "tags": "Remote Business Consulting Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Komplexe Regulierung verständlich machen. Du möchtest an Themen arbeiten, die Banken wirklich bewegen, aber nicht in einer Beratung arbeiten, in der Hierarchien wichtiger sind als Ideen? Willkommen bei BBHT! Bei uns…",
-      "posted_date": 1792652465,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:java-entwicklerin-java-developer-backend-berlin-196646",
-      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-entwicklerin-java-developer-backend-berlin-196646",
-      "tags": "Remote Software Development Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst…",
-      "posted_date": 1792652465,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:it-business-analyst-berlin-114521",
-      "title": "IT Business Analyst (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/it-business-analyst-berlin-114521",
-      "tags": "Remote Business Analyst Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Beratung ohne Ellenbogenkultur. Du möchtest anspruchsvolle Projekte begleiten, aber nicht in einer Beratung arbeiten, in der 80-Stunden-Wochen als Statussymbol gelten? Willkommen bei BBHT! Bei uns arbeitest du an…",
-      "posted_date": 1792652465,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:digital-marketing-manager-frankfurt-am-main-6590",
-      "title": "Digital Marketing Manager (m/w/d)",
-      "company": "YUVENDA",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/yuvenda/digital-marketing-manager-frankfurt-am-main-6590",
-      "tags": "Marketing Manager Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Über YUVENDA Die YUVENDA Gruppe ist ein führender europäischer Anbieter für innovative Softwarelösungen, die den Mittelstand im Einzelhandel, in der Gastronomie und in konsumnahen Dienstleistungen stärken. Basierend auf…",
-      "posted_date": 1792652465,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:werkstudent-planning-control-immenhausen-152929",
-      "title": "Werkstudent (M/W/D) Planning & Control",
-      "company": "sera Gruppe",
-      "location": "Immenhausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/werkstudent-planning-control-immenhausen-152929",
-      "tags": "Controlling Werkstudent working student hilfstätigkeit / student",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Werkstudent, working student, hilfstätigkeit / student",
-      "excerpt": "Wir begeistern unsere Kunden weltweit mit unseren innovativen Produkten und Serviceleistungen und schaffen Mehrwerte für Mensch und Umwelt. Als traditionelle mittelständische Unternehmensgruppe mit über 300 Kollegen und…",
-      "posted_date": 1792652464,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:kundenbetreuer-gern-auch-quereinsteiger-ulm-213552",
-      "title": "Kundenbetreuer (m/w/d) - gern auch Quereinsteiger!",
-      "company": "HC24 GmbH & Co. KG",
-      "location": "Ulm",
-      "url": "https://www.arbeitnow.com/jobs/companies/hc24-gmbh-co-kg/kundenbetreuer-gern-auch-quereinsteiger-ulm-213552",
-      "tags": "Customer Service Unbefristeter arbeitsvertrag berufseinstieg",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "excerpt": "Werde Teil von HC24 und gestalte mit uns die Zukunft des möblierten Wohnens auf Zeit. Seit fast 40 Jahren stehen wir für persönliche Beratung, verlässlichen Service und individuelle Lösungen. Mit 13 Standorten…",
-      "posted_date": 1792650649,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:homeoffice-kundensupport-in-vollzeit-monheim-am-rhein-440864",
-      "title": "Homeoffice Kundensupport (m/w/d) in Vollzeit",
-      "company": "Simplyright GmbH",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/homeoffice-kundensupport-in-vollzeit-monheim-am-rhein-440864",
-      "tags": "Remote Customer Service Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Über Simplyright Wir bei Simplyright helfen unseren Kunden dabei, ihr Recht schnell und unkompliziert durchzusetzen. Unser Fokus liegt unter anderem darauf, unzulässige Kontogebühren von Banken zurückzufordern oder zu…",
-      "posted_date": 1792650649,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:online-marketing-manager-sea-social-ads-remote-monheim-am-rhein-392120",
-      "title": "Online Marketing Manager (m/w/d) SEA & Social Ads | Remote",
-      "company": "Simplyright GmbH",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/online-marketing-manager-sea-social-ads-remote-monheim-am-rhein-392120",
-      "tags": "Remote Online Marketing Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Über uns Simplyright hilft Menschen, die in Abofallen geraten sind oder unberechtigte Mahnungen bekommen. Mit unseren Marken simplyright.de, abo-hilfe.de, inkassohilfe.de und smartkündigen.de erreichen wir jeden Monat…",
-      "posted_date": 1792650649,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:google-ads-manager-vollzeit-100-remote-monheim-am-rhein-154362",
-      "title": "Google Ads Manager (m/w/d) | Vollzeit | 100 % Remote",
-      "company": "Simplyright GmbH",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/google-ads-manager-vollzeit-100-remote-monheim-am-rhein-154362",
-      "tags": "Remote Online Marketing Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Über uns Simplyright hilft Menschen, die in Abofallen geraten sind oder unberechtigte Mahnungen bekommen. Mit unseren Marken simplyright.de, abo-hilfe.de, inkassohilfe.de und smartkündigen.de erreichen wir jeden Monat…",
-      "posted_date": 1792650648,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:performance-marketing-manager-google-ads-meta-tiktok-100-remote-monheim-am-rhein-91954",
-      "title": "Performance Marketing Manager (m/w/d) – Google Ads, Meta & TikTok | 100 % Remote",
-      "company": "Simplyright GmbH",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/performance-marketing-manager-google-ads-meta-tiktok-100-remote-monheim-am-rhein-91954",
-      "tags": "Remote Marketing Manager Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Über uns Simplyright hilft Menschen, die in Abofallen geraten sind oder unberechtigte Mahnungen bekommen. Mit unseren Marken simplyright.de, abo-hilfe.de, inkassohilfe.de und smartkündigen.de erreichen wir jeden Monat…",
-      "posted_date": 1792650648,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:vollzeit-buchhalterin-remote-monheim-am-rhein-335865",
-      "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
-      "company": "Simplyright GmbH",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-335865",
-      "tags": "Remote Finance Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Aufgaben Einnahmen und Ausgaben kontrollieren Rechnungen erstellen Konten überwachen Gehälter machen Buchführung Qualifikation abgeschlossene Ausbildung zum Steuerfachangestellten, Buchhalter oder vergleichbarer…",
-      "posted_date": 1792650648,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-spiegelau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-388935",
-      "title": "Steuerberater (m/w/d) in Spiegelau, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Spiegelau",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-spiegelau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-388935",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650648,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-waldbronn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-345985",
-      "title": "Steuerberater (m/w/d) in Waldbronn, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Waldbronn",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-waldbronn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-345985",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650648,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-eisingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-208184",
-      "title": "Steuerberater (m/w/d) in Eisingen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Eisingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eisingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-208184",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650647,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-alveslohe-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-341687",
-      "title": "Steuerberater (m/w/d) in Alveslohe, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Alveslohe",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-alveslohe-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-341687",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650647,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-monheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-393305",
-      "title": "Steuerberater (m/w/d) in Monheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Monheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-monheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-393305",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650647,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-hatten-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-329028",
-      "title": "Steuerberater (m/w/d) in Hatten, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Hatten",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-hatten-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-329028",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650647,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-stuttgart-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-132030",
-      "title": "Steuerberater (m/w/d) in Stuttgart, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-stuttgart-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-132030",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650646,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-langeln-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-293139",
-      "title": "Steuerberater (m/w/d) in Langeln, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Langeln",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-langeln-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-293139",
-      "tags": "Directors Chief Executives Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise…",
-      "posted_date": 1792650646,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:operations-manager-e-commerce-supply-chain-berlin-185780",
-      "title": "Operations Manager (m/w/d) – E-Commerce & Supply Chain",
-      "company": "MAOMAO Technologies",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/maomao-technologies/operations-manager-e-commerce-supply-chain-berlin-185780",
-      "tags": "Business Operations Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "```html Über MAOMAO MAOMAO ist ein schnell wachsender Online-Supermarkt für asiatische Lebensmittel. Wir verbinden E-Commerce mit Content, Community und Social Commerce und erreichen über TikTok und Instagram…",
-      "posted_date": 1792650646,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:3d-data-operator-3d-scans-to-digital-twins-of-real-factories-dusseldorf-467674",
-      "title": "3D Data Operator (w/m/d) | 3D Scans to Digital Twins of Real Factories",
-      "company": "RIIICO",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/riiico/3d-data-operator-3d-scans-to-digital-twins-of-real-factories-dusseldorf-467674",
-      "tags": "Data Processing Data Engineer Fixed-term contract (befristeter arbeitsvertrag) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
-      "excerpt": "Transforming factory scans into digital reality At RIIICO, we're reimagining how factories adapt to change. Our AI-powered software makes complex production environments editable, interactive, and collaborative, turning…",
-      "posted_date": 1792650646,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
-      "title": "Senior Forward Deployed Engineer (all genders)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
-      "tags": "Applied Automation Intelligence",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h4&gt;About the role:&lt;/h4&gt; &lt;p&gt;You deploy our software at customer sites, integrate it with on-site systems, troubleshoot issues, and feed precise findings back to the engineering team. When you’re not…",
-      "posted_date": 1792648525,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-c-performance-engineer-all-genders-munich-bavaria-418975",
-      "title": "Senior C++ Performance Engineer (all genders)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
-      "tags": "Applied Automation Intelligence",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h4&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;About the role&lt;/span&gt;&lt;/h4&gt; &lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;At Agile…",
-      "posted_date": 1792648525,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-corporate-development-director-438482",
-      "title": "Corporate Development Director",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-corporate-development-director-438482",
-      "tags": "Corporate Affairs",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:engineering-manager-ai-group-berlin-33291",
-      "title": "Engineering Manager, AI Group",
-      "company": "intercom",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-enterprise-484619",
-      "title": "Account Executive, Enterprise",
-      "company": "zscaler",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-484619",
-      "tags": "EMEA Field Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
-      "title": "Solutions Architect, Pre-Sales - German Defense & Intelligence",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-solutions-architect-pre-sales-german-defense-intelligence-412802",
-      "tags": "Pre-Sales and Services",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:strategic-account-executive-transportation-logistics-munich-192669",
-      "title": "Strategic Account Executive - Transportation & Logistics",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/strategic-account-executive-transportation-logistics-munich-192669",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-strategic-account-executive-transportation-logistics-376600",
-      "title": "Strategic Account Executive - Transportation & Logistics",
-      "company": "celonis",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/remote-strategic-account-executive-transportation-logistics-376600",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-public-sector-germany-police-polizei-munich-496656",
-      "title": "Account Executive - Public Sector Germany - Police (Polizei)",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/account-executive-public-sector-germany-police-polizei-munich-496656",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-public-sector-germany-police-polizei-478962",
-      "title": "Account Executive - Public Sector Germany - Police (Polizei)",
-      "company": "celonis",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/remote-account-executive-public-sector-germany-police-polizei-478962",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-public-sector-germany-defense-bundeswehr-313759",
-      "title": "Account Executive - Public Sector Germany - Defense (Bundeswehr)",
-      "company": "celonis",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/remote-account-executive-public-sector-germany-defense-bundeswehr-313759",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-public-sector-germany-defense-bundeswehr-munich-157852",
-      "title": "Account Executive - Public Sector Germany - Defense (Bundeswehr)",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/account-executive-public-sector-germany-defense-bundeswehr-munich-157852",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and…",
-      "posted_date": 1792648522,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-software-engineer-operations-foundations-berlin-242266",
-      "title": "Senior Software Engineer, Operations Foundations",
-      "company": "wolt",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-operations-foundations-berlin-242266",
-      "tags": "Core Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-product-designer-sell-online-berlin-13500",
-      "title": "Senior Product Designer - Sell Online",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-designer-sell-online-berlin-13500",
-      "tags": "Product & Design",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h1&gt;Senior Product Designer – Sell Online&lt;/h1&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;The Sell Online team builds the products that help small business owners run and grow their businesses online —…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-product-designer-pos-berlin-245487",
-      "title": "Senior Product Designer - POS",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-designer-pos-berlin-245487",
-      "tags": "Product & Design",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;SumUp&#39;s Point of Sale (POS) solution helps cafes, shops, bars, hair salons, and thousands of other businesses manage their day-to-day operations. Alongside the POS…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-people-development-partner-berlin-304789",
-      "title": "(Senior) People Development Partner",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-people-development-partner-berlin-304789",
-      "tags": "People",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h1&gt;&lt;strong&gt;(Senior) People Development Partner&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;em&gt;People Development&amp;nbsp; &lt;/em&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;📍Berlin -…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ios-engineer-kmp-pos-berlin-150836",
-      "title": "Senior iOS Engineer (KMP) - POS",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-ios-engineer-kmp-pos-berlin-150836",
-      "tags": "iOS",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h3&gt;&lt;strong&gt;Team description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Order Taking squad owns core ordering experiences within SumUp’s Point of Sale app, including the shopping bag, checkout, the catalog…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-backend-engineer-identity-lifecycle-berlin-459992",
-      "title": "Senior Backend Engineer - Identity Lifecycle",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-identity-lifecycle-berlin-459992",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You’ll join one of the teams within SumUp’s Identity Lifecycle Mission, working on some of the most critical building blocks behind the merchant…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-backend-engineer-golang-bank-balance-berlin-68157",
-      "title": "Senior Backend Engineer (Golang) - Bank Balance",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-bank-balance-berlin-68157",
-      "tags": "Backend",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-android-engineer-kmp-berlin-184222",
-      "title": "Senior Android Engineer - KMP",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-android-engineer-kmp-berlin-184222",
-      "tags": "Android",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;SumUp’s Point-of-Sale (POS) solution empowers cafes, shops, bars, hair salons, and other businesses to operate efficiently and grow. It offers a…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Android"
-      ]
-    },
-    {
-      "id": "arbeitnow:teamleiter-fahrzeugbewertung-grossraum-hamburg-99399",
-      "title": "Teamleiter Fahrzeugbewertung - Großraum Hamburg (m/w/d)",
-      "company": "caronsale",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/teamleiter-fahrzeugbewertung-grossraum-hamburg-99399",
-      "tags": "Inspections",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;Du willst keine Führungsrolle am Schreibtisch. Du willst ein Team, das du im Feld kennst, und Fahrzeuge, die du selbst in der Hand hattest. Als Teamleiter Fahrzeugbewertung für Norddeutschland führst du die…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:engineering-manager-berlin-95462",
-      "title": "Engineering Manager",
-      "company": "Nelly Solutions",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/engineering-manager-berlin-95462",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "We're looking for an Engineering Manager to lead a Product Engineering team in our Automation Domain in Berlin. The Automation Domain is responsible for building and owning Nelly’s SaaS and AI products - everything from…",
-      "posted_date": 1792647615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:ai-enabled-governance-associate-berlin-240381",
-      "title": "AI-Enabled Governance Associate (f/m/x)",
-      "company": "Lemon Markets",
-      "location": "Germany  (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ai-enabled-governance-associate-berlin-240381",
-      "tags": "Backoffice Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment…",
-      "posted_date": 1792647615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:content-marketing-manager-berlin-289712",
-      "title": "Content Marketing Manager (m/f/d)",
-      "company": "8returns GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/8returns-gmbh/content-marketing-manager-berlin-289712",
-      "tags": "Growth Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About 8returns Every online shop has returns. Most treat them as a cost. We help brands turn them into a better customer experience, more exchanges instead of refunds, and less work for their teams. 400+ brands run…",
-      "posted_date": 1792647614,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:steuerberater-in-oder-steuerfachwirt-in-wurzburg-340601",
-      "title": "Steuerberater/in oder Steuerfachwirt/in (m/w/d)",
-      "company": "Limetax",
-      "location": "Würzburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/limetax/steuerberater-in-oder-steuerfachwirt-in-wurzburg-340601",
-      "tags": "Welzenbach Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Welzenbach | Standort: Würzburg &amp; Lohr am Main (Hybrid) | Vollzeit / Teilzeit Über uns Wir bei Welzenbach betreuen an unseren Standorten in Lohr am Main und Würzburg Unternehmen und Privatpersonen aus…",
-      "posted_date": 1792647614,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:facharztin-facharzt-fur-allgemeinmedizin-und-oder-innere-medizin-erkrath-hochdahl-261224",
-      "title": "Fachärztin / Facharzt für Allgemeinmedizin und/oder Innere Medizin (m/w/d)",
-      "company": "PraxisEins",
-      "location": "Hochdahler Markt",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/facharztin-facharzt-fur-allgemeinmedizin-und-oder-innere-medizin-erkrath-hochdahl-261224",
-      "tags": "Ärztliches Fachpersonal Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "IHR START BEI PRAXISEINS. Sie haben Medizin studiert, um Patienten zu behandeln und nicht um Formulare auszufüllen, KV-Anfragen zu beantworten und IT-Ausfälle zu managen? Bei PraxisEins haben Sie ein Team hinter sich,…",
-      "posted_date": 1792647613,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:facharztin-facharzt-fur-allgemeinmedizin-und-oder-innere-medizin-balve-177986",
-      "title": "Fachärztin / Facharzt für Allgemeinmedizin und/oder Innere Medizin (m/w/d)",
-      "company": "PraxisEins",
-      "location": "Balve",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/facharztin-facharzt-fur-allgemeinmedizin-und-oder-innere-medizin-balve-177986",
-      "tags": "Ärztliches Fachpersonal Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "IHR START BEI PRAXISEINS. Sie haben Medizin studiert, um Patienten zu behandeln und nicht um Formulare auszufüllen, KV-Anfragen zu beantworten und IT-Ausfälle zu managen? Bei PraxisEins haben Sie ein Team hinter sich,…",
-      "posted_date": 1792647613,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:associate-director-sustainability-impact-lyon-france-munich-318458",
-      "title": "Associate Director- Sustainability & Impact (Lyon, France)",
-      "company": "Archimed",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/archimed/associate-director-sustainability-impact-lyon-france-munich-318458",
-      "tags": "Business Analyst Venture Capital & Private Equity Archimed Full time internship",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, internship",
-      "excerpt": "Location : Lyon, France About ARCHIMED: With offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and…",
-      "posted_date": 1792646407,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:associate-director-sustainability-impact-lyon-france-frankfurt-am-main-21341",
-      "title": "Associate Director- Sustainability & Impact (Lyon, France)",
-      "company": "Archimed",
-      "location": "Frankfurt am Main, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/archimed/associate-director-sustainability-impact-lyon-france-frankfurt-am-main-21341",
-      "tags": "Business Analyst Venture Capital & Private Equity Archimed Full time internship",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, internship",
-      "excerpt": "Location : Lyon, France About ARCHIMED: With offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and…",
-      "posted_date": 1792646407,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:operations-manager-leader-remote-berlin-143595",
-      "title": "Operations Manager (m/w/d) | Leader | Remote",
-      "company": "Julia Goessler GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/julia-goessler-gmbh/operations-manager-leader-remote-berlin-143595",
-      "tags": "Remote Business Operations Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "Du hältst die Fäden zusammen, bringst Dinge ins Rollen und hast dabei immer den Menschen im Blick? Dann suchen wir genau dich! 💜 Wir sind die Julia Goessler GmbH und begleiten Menschen dabei, Gesundheit, Beziehungen und…",
-      "posted_date": 1792643466,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:head-of-performance-marketing-meta-ads-porta-westfalica-303949",
-      "title": "Head of Performance Marketing – Meta Ads (m/w/d)",
-      "company": "nailmondo GmbH",
-      "location": "Porta Westfalica",
-      "url": "https://www.arbeitnow.com/jobs/companies/nailmondo-gmbh/head-of-performance-marketing-meta-ads-porta-westfalica-303949",
-      "tags": "Remote Online Marketing Unbefristeter arbeitsvertrag teamleitung",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "excerpt": "❗️ Lies das, bevor du weiterscrollst: Das hier ist nichts für Einsteiger und nichts für Leute, die einen entspannten Job suchen. Wir suchen eine Marketing-Maschine : jemanden, der liefert, skaliert und uns zeigt, wie es…",
-      "posted_date": 1792641639,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1890,7 +6842,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;em&gt;DEPT® is a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth…",
       "posted_date": 1792659323,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1908,7 +6860,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659322,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1926,7 +6878,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659322,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1944,7 +6896,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1962,7 +6914,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1980,7 +6932,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -1998,7 +6950,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -2016,7 +6968,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -2034,7 +6986,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -2052,979 +7004,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659321,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-contract-c-javascript-software-engineer-firefox-browser-engine-223307",
-      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-223307",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-staff-software-engineer-firefox-cstorage-encryption-433132",
-      "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/contract-staff-software-engineer-firefox-cstorage-encryption-433132",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM LWS team to implement tasks for Storage Encryption everywhere, helping to…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-staff-software-engineer-bug-burndown-265941",
-      "title": "Contract Staff Software Engineer-Bug Burndown",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/contract-staff-software-engineer-bug-burndown-265941",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help reduce Firefox’s WebCompat bug backlog by finishing or verifying the diagnosis of the long tail of site-breakage bugs, and by writing interventions…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-sr-data-analyst-sqltelemetrybrowser-engine-426548",
-      "title": "Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/contract-sr-data-analyst-sqltelemetrybrowser-engine-426548",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:staff-engineer-telematics-285044",
-      "title": "Staff Engineer - Telematics",
-      "company": "Samsara",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/staff-engineer-telematics-285044",
-      "tags": "Telematics",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:select-major-account-executive-uki-290995",
-      "title": "Select Major Account Executive, UK&I",
-      "company": "Samsara",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/select-major-account-executive-uki-290995",
-      "tags": "EU Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span…",
-      "posted_date": 1792659320,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:marketing-manager-seo-london-266012",
-      "title": "Marketing Manager, SEO",
-      "company": "opentable",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opentable/marketing-manager-seo-london-266012",
-      "tags": "Diner Marketing",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Know Your SEO? Let&#39;s Put Your Skills in the Spotlight!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:…",
-      "posted_date": 1792659317,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:android-engineer-fixed-term-london-156138",
-      "title": "Android Engineer (Fixed-term)",
-      "company": "opentable",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opentable/android-engineer-fixed-term-london-156138",
-      "tags": "Product Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive.…",
-      "posted_date": 1792659316,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Android"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-london-452090",
-      "title": "Account Executive (London)",
-      "company": "opentable",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opentable/account-executive-london-452090",
-      "tags": "International RSS",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Help London&#39;s best restaurants do even better. &lt;/strong&gt;&lt;/span&gt;🍽️&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:…",
-      "posted_date": 1792659316,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-strategic-emea-england-397179",
-      "title": "Account Executive, Strategic (EMEA)",
-      "company": "Docker",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/account-executive-strategic-emea-england-397179",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Docker Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest…",
-      "posted_date": 1792658431,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-databricks-data-engineer-london-455331",
-      "title": "Senior Databricks Data Engineer",
-      "company": "Stack Infrastructure Emea",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-databricks-data-engineer-london-455331",
-      "tags": "Technology Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Role Summary We are looking for a Senior Databricks Data Engineer with proven hands-on Databricks experience to build, develop and manage STACK’s enterprise data platform. This is a production-focused engineering role…",
-      "posted_date": 1792658430,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:commissioning-field-deployment-engineer-london-280361",
-      "title": "Commissioning & Field Deployment Engineer",
-      "company": "Hive Autonomy",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/commissioning-field-deployment-engineer-london-280361",
-      "tags": "Delivery Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "At Hive, we're building the defining physical AI platform of the next decade. Industrial labor is one of the most acute bottlenecks in the global economy. Operators are expensive, hard to retain, and working in…",
-      "posted_date": 1792658427,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:deployment-manager-london-255433",
-      "title": "Deployment Manager",
-      "company": "Hive Autonomy",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/deployment-manager-london-255433",
-      "tags": "Delivery Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "At Hive, we're building the defining physical AI platform of the next decade. Industrial labor is one of the most acute bottlenecks in the global economy. Operators are expensive, hard to retain, and working in…",
-      "posted_date": 1792658427,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:operations-manager-london-399527",
-      "title": "Operations Manager",
-      "company": "Hive Autonomy",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/operations-manager-london-399527",
-      "tags": "Delivery Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "At Hive, we're building the defining physical AI platform of the next decade. Industrial labor is one of the most acute bottlenecks in the global economy. Operators are expensive, hard to retain, and working in…",
-      "posted_date": 1792658427,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:gtm-operations-manager-emea-79096",
-      "title": "GTM Operations Manager",
-      "company": "RevenueCat",
-      "location": "EMEA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/revenuecat/gtm-operations-manager-emea-79096",
-      "tags": "Growth Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in…",
-      "posted_date": 1792658427,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:product-manager-agents-london-107698",
-      "title": "Product Manager, Agents",
-      "company": "Vega",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vega/product-manager-agents-london-107698",
-      "tags": "Product Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Product Manager, Agents London, 4x days per week in-office Vega is looking for A-players who will define and build the next generation of Agentic products that will shape the next era of private markets. About Vega Vega…",
-      "posted_date": 1792658427,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:software-engineer-data-london-478719",
-      "title": "Software Engineer (Data)",
-      "company": "Ben",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-478719",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our Mission We’re not your average benefits platform – we’re the driving force that uplifts people’s lives. Our technology connects the entire benefits ecosystem, creating better outcomes for employers, employees,…",
-      "posted_date": 1792658425,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-people-partner-london-241519",
-      "title": "Senior People Partner",
-      "company": "Synthesia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/senior-people-partner-london-241519",
-      "tags": "Operations Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI…",
-      "posted_date": 1792658424,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:strategic-customer-success-manager-london-443044",
-      "title": "Strategic Customer Success Manager",
-      "company": "Synthesia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/strategic-customer-success-manager-london-443044",
-      "tags": "Commercial Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI…",
-      "posted_date": 1792658424,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-paid-media-manager-6-month-ftc-uk-based-388889",
-      "title": "Senior Paid Media Manager 6 Month FTC (UK Based)",
-      "company": "Kyra",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kyra/senior-paid-media-manager-6-month-ftc-uk-based-388889",
-      "tags": "Marketing Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse. Our platform manages the full lifecycle — creator discovery, campaign…",
-      "posted_date": 1792658424,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-publisher-partnerships-manager-enterprise-gaming-london-436822",
-      "title": "Senior Publisher Partnerships Manager – Enterprise Gaming",
-      "company": "InMobi ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/inmobi/senior-publisher-partnerships-manager-enterprise-gaming-london-436822",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "InMobi (Corporate) InMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform…",
-      "posted_date": 1792655195,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-senior-director-dedicated-infrastructure-platforms-68553",
-      "title": "Senior Director, Dedicated Infrastructure & Platforms",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-director-dedicated-infrastructure-platforms-68553",
-      "tags": "Platforms Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648525,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-corporate-development-director-367319",
-      "title": "Corporate Development Director",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-corporate-development-director-367319",
-      "tags": "Corporate Affairs",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-sales-engineer-uk-241040",
-      "title": "Senior Sales Engineer - UK",
-      "company": "zscaler",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/senior-sales-engineer-uk-241040",
-      "tags": "EMEA Field Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler…",
-      "posted_date": 1792648523,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-professional-services-london-135728",
-      "title": "Enterprise Account Executive, Professional Services",
-      "company": "anthropic",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-professional-services-london-135728",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be…",
-      "posted_date": 1792648520,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-industrial-london-57048",
-      "title": "Enterprise Account Executive, Industrial",
-      "company": "anthropic",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-industrial-london-57048",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be…",
-      "posted_date": 1792648520,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-dnb-london-191325",
-      "title": "Enterprise Account Executive, DNB",
-      "company": "anthropic",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-dnb-london-191325",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be…",
-      "posted_date": 1792648520,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-principal-solution-engineer-london-58095",
-      "title": "Senior Principal Solution Engineer",
-      "company": "onetrust",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/onetrust/senior-principal-solution-engineer-london-58095",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Strength in Trust&amp;nbsp;&lt;/h3&gt; &lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;OneTrust’s mission is to enable innovation through the responsible use of…",
-      "posted_date": 1792648519,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-silicon-validation-engineer-oxford-152619",
-      "title": "Senior Silicon Validation Engineer",
-      "company": "ionq",
-      "location": "Oxford",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-silicon-validation-engineer-oxford-152619",
-      "tags": "Compute - Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About IonQ:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;u&gt;&lt;a…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:customer-success-manager-london-395733",
-      "title": "Customer Success Manager",
-      "company": "Sparta Commodities",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sparta-commodities/customer-success-manager-london-395733",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "We Are Sparta Sparta is the AI leader for commodity trading, home to Leonidas AI, the first operating system for oil and commodity traders. Backed by $42 million in Series B funding led by One Peak, with participation…",
-      "posted_date": 1792647616,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:fraud-risk-manager-london-497290",
-      "title": "Fraud Risk Manager",
-      "company": "Aspora",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aspora/fraud-risk-manager-london-497290",
-      "tags": "Compliance Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Aspora People on the move deserve a bank that moves with them. Since 2022, Aspora has been building a borderless financial operating system that makes money as mobile and transparent as its users. Backed by…",
-      "posted_date": 1792647616,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:global-regulatory-compliance-lead-london-309564",
-      "title": "Global Regulatory Compliance Lead",
-      "company": "Aspora",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aspora/global-regulatory-compliance-lead-london-309564",
-      "tags": "Compliance Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Aspora People on the move deserve a bank that moves with them. Since 2022, Aspora has been building a borderless financial operating system that makes money as mobile and transparent as its users. Backed by…",
-      "posted_date": 1792647616,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:strategic-account-executive-london-391663",
-      "title": "Strategic Account Executive",
-      "company": "Kong",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kong/strategic-account-executive-london-391663",
-      "tags": "All Cost Center Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly…",
-      "posted_date": 1792647615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-engineering-manager-test-function-england-122802",
-      "title": "Senior Engineering Manager - Test Function",
-      "company": "Kong",
-      "location": "England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kong/senior-engineering-manager-test-function-england-122802",
-      "tags": "All Cost Center Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly…",
-      "posted_date": 1792647615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-recruiter-gtm-expansion-london-459326",
-      "title": "Senior Recruiter | GTM Expansion",
-      "company": "Ramp",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/senior-recruiter-gtm-expansion-london-459326",
-      "tags": "People & Talent Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+…",
-      "posted_date": 1792647614,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:team-lead-manager-product-engineer-london-293802",
-      "title": "Team Lead Manager - Product Engineer",
-      "company": "Omnea",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/team-lead-manager-product-engineer-london-293802",
-      "tags": "Tech Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes…",
-      "posted_date": 1792647614,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:business-value-architect-hybrid-london-166941",
-      "title": "Business Value Architect (Hybrid London)",
-      "company": "Optro",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optro/business-value-architect-hybrid-london-166941",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Who We Are Having surpassed $300M ARR and continuing to grow, Optro helps enterprises transform risk into opportunity through its AI-powered GRC Intelligence Platform. More than 50% of the Fortune 500, including 7 of…",
-      "posted_date": 1792647614,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:medical-doctor-with-snomed-coding-experience-uk-united-kingdom-160986",
-      "title": "Medical Doctor with SNOMED Coding Experience (UK)",
-      "company": "Aptura",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aptura/medical-doctor-with-snomed-coding-experience-uk-united-kingdom-160986",
-      "tags": "Experts Contract",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "We are seeking qualified medical doctors to annotate and code clinical documents with SNOMED CT, with a focus on accuracy and consistency against detailed coding guidelines. You will work asynchronously on a dedicated…",
-      "posted_date": 1792647613,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:cdd-responsable-de-la-communication-paris-146989",
-      "title": "CDD - Responsable de la communication",
-      "company": "Les entreprises s'engagent",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/les-entreprises-sengagent/cdd-responsable-de-la-communication-paris-146989",
-      "tags": "Public Relations Corporate Communication Cdd - contrat à durée déterminée manager / superviseur",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Cdd - contrat à durée déterminée, manager / superviseur",
-      "excerpt": "LA COMMUNAUTÉ Avec 110 000 entreprises membres, Les entreprises s’engagent fédère un collectif d’entreprises et de dirigeants partout en France et les accompagne dans la mise en œuvre d’actions concrètes sur les grands…",
-      "posted_date": 1792659670,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:staff-product-manager-firefox-enterprise-423777",
-      "title": "Staff Product Manager – Firefox Enterprise",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-product-manager-firefox-enterprise-423777",
-      "tags": "New Products",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Why Mozilla&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Mozilla Corporation&lt;/strong&gt;&lt;span…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-contract-c-javascript-software-engineer-firefox-browser-engine-469856",
-      "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/senior-contract-c-javascript-software-engineer-firefox-browser-engine-469856",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-sr-key-account-manager-retail-french-market-348776",
-      "title": "(Sr.) Key Account Manager Retail - French Market",
-      "company": "airup",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airup/remote-sr-key-account-manager-retail-french-market-348776",
-      "tags": "Retail/Market France",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h1&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; max-width: 100%;&quot;…",
-      "posted_date": 1792659318,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-lyon-350309",
-      "title": "Account Executive - Lyon",
-      "company": "opentable",
-      "location": "Lyon",
-      "url": "https://www.arbeitnow.fr/jobs/companies/opentable/account-executive-lyon-350309",
-      "tags": "International RSS",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;strong&gt;About OpenTable:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an…",
-      "posted_date": 1792659317,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:engineering-internships-2027-paris-118301",
-      "title": "Engineering Internships 2027",
-      "company": "Nabla",
-      "location": "Paris office",
-      "url": "https://www.arbeitnow.fr/jobs/companies/nabla/engineering-internships-2027-paris-118301",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Nabla Nabla delivers a unified clinical AI platform used by healthcare organizations across specialties and care settings. The platform includes: Ambient AI documentation that captures clinical conversations and…",
-      "posted_date": 1792658428,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:rd-formulation-scientist-intern-6-month-internship-paris-295905",
-      "title": "R&D Formulation Scientist Intern - 6 Month Internship",
-      "company": "Prose",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/prose/rd-formulation-scientist-intern-6-month-internship-paris-295905",
-      "tags": "R+D Intern",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Intern",
-      "excerpt": "Our Mission Prose is truly custom hair and skin care made-to-order—just for you. Our line of custom products are made by an in-house, Paris-based R&amp;D team of gifted chemists who combine natural ingredients in…",
-      "posted_date": 1792658428,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-corporate-development-director-149841",
-      "title": "Corporate Development Director",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-corporate-development-director-149841",
-      "tags": "Corporate Affairs",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-commercial-account-executive-58490",
-      "title": "Commercial Account Executive",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-commercial-account-executive-58490",
-      "tags": "EMEA - Commercial",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:data-scientist-internship-6-months-448503",
-      "title": "Data scientist Internship (6 months)",
-      "company": "shifttechnology",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/data-scientist-internship-6-months-448503",
-      "tags": "Data Science",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By…",
-      "posted_date": 1792648524,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-defence-intelligence-france-286139",
-      "title": "Account Executive, Defence & Intelligence, France",
-      "company": "planetlabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/planetlabs/remote-account-executive-defence-intelligence-france-286139",
-      "tags": "Account Executive",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest…",
-      "posted_date": 1792648523,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:customer-success-manager-southern-europe-paris-211666",
-      "title": "Customer Success Manager, Southern Europe",
-      "company": "anthropic",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/customer-success-manager-southern-europe-paris-211666",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be…",
-      "posted_date": 1792648520,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ios-engineer-kmp-pos-paris-paris-41075",
-      "title": "Senior iOS Engineer (KMP) - POS",
-      "company": "sumup",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/senior-ios-engineer-kmp-pos-paris-paris-41075",
-      "tags": "iOS",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h3&gt;&lt;strong&gt;Team description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Order Taking squad owns core ordering experiences within SumUp’s Point of Sale app, including the shopping bag, checkout, the catalog…",
-      "posted_date": 1792648518,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:legal-engineer-french-market-paris-440693",
-      "title": "Legal Engineer | French Market (Paris)",
-      "company": "Lexroom",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/legal-engineer-french-market-paris-440693",
-      "tags": "Product Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Lexroom is building the AI platform where legal work gets done. In just over two years, we've grown from zero to €25M ARR, and today more than 20,000 legal professionals across Italy, Spain, Germany, France, and…",
-      "posted_date": 1792647615,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:forward-deployed-engineer-paris-194331",
-      "title": "Forward Deployed Engineer",
-      "company": "Mlabs",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mlabs/forward-deployed-engineer-paris-194331",
-      "tags": "CLB",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "Location:&nbsp;Hybrid (NYC) - Remote (United States) Compensation:&nbsp; $149K - $185K Our client is a high-growth technology organization building an advanced AI platform designed for enterprise operations and value…",
-      "posted_date": 1792642818,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:quantum-applications-engineer-massy-80499",
-      "title": "Quantum Applications Engineer",
-      "company": "Quandela",
-      "location": "Massy, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/quantum-applications-engineer-massy-80499",
-      "tags": "Engineering Computer Hardware Quantum Applications Full time mid-senior",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, mid-senior",
-      "excerpt": "Quandela is a global leader in quantum computing, designing, building, and delivering cutting-edge quantum solutions for research and industry. Its offerings include very energy-efficient quantum computers for data…",
-      "posted_date": 1792642815,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3042,7 +7022,7 @@ window.JOB_DATA = {
       "excerpt": "................ Befristetes Projekt mit Option auf Festanstellung. Für unseren Kunden aus dem Finanzsektor in Zürich, suchen wir eine:n erfahrene:n und motivierte:n IT-Vertragsmanager:in . Für ein anspruchsvolles…",
       "posted_date": 1792659672,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3060,7 +7040,7 @@ window.JOB_DATA = {
       "excerpt": "................ We are looking for an experienced Data Engineer with strong expertise in Apache NiFi to support our client's team in Maulburg, Germany . In this role, you will provide technical expertise in NiFi and…",
       "posted_date": 1792659671,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3078,7 +7058,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About WPP Media&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data…",
       "posted_date": 1792659322,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3096,43 +7076,25 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Ort: &lt;/span&gt;&lt;/strong&gt;&lt;span…",
       "posted_date": 1792659319,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
       "id": "arbeitnow:marketing-coordinator-digital-retail-zurich-491417",
-      "title": "Marketing Coordinator Digital Retail",
+      "title": "Marketing Coordinator Digital Fashion 60%",
       "company": "Homberger Personalberatung für Kommunikation",
       "location": "Zürich",
       "url": "https://www.arbeitnow.ch/jobs/companies/homberger-personalberatung-fur-kommunikation/marketing-coordinator-digital-retail-zurich-491417",
-      "tags": "Marketing Assistant Unbefristeter arbeitsvertrag berufseinstieg",
+      "tags": "Marketing Assistant Unbefristeter arbeitsvertrag berufserfahren",
       "source": "Arbeitnow",
       "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "excerpt": "Im Auftrag unseres Kunden suchen wir eine erfahrene, kreative und umsetzungsstarke Persönlichkeit als Marketing Coordinator Digital Retail (60%) An der Schnittstelle von Fashion, Retail, Gestaltung und Digital Marketing…",
-      "posted_date": 1792657921,
+      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "excerpt": "Im Auftrag unseres Kunden suchen wir eine erfahrene, kreative und umsetzungsstarke Persönlichkeit als Marketing Coordinator Digital Fashion 60% An der Schnittstelle von Fashion, Retail, Gestaltung und Digital Marketing…",
+      "posted_date": 1792673255,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-it-projektleiterin-20-zurich-137234",
-      "title": "Senior IT-Projektleiter:in (20%)",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-it-projektleiterin-20-zurich-137234",
-      "tags": "Remote IT Befristeter arbeitsvertrag contract",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Befristeter arbeitsvertrag, contract",
-      "excerpt": "................ Für unseren Kunden in Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Senior IT-Projektleiter:in (20%, Remote) . Deine Aufgaben: Beurteilung, Einschätzung und Triage von…",
-      "posted_date": 1792657919,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3150,7 +7112,7 @@ window.JOB_DATA = {
       "excerpt": "Du liebst die Abwechslung und willst Dich nicht zwischen Systembetrieb und Softwareentwicklung entscheiden müssen? Bei uns kannst Du beides! Wir suchen eine strukturierte Persönlichkeit, die unsere IT-Infrastruktur im…",
       "posted_date": 1792654250,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3168,187 +7130,7 @@ window.JOB_DATA = {
       "excerpt": "About nu glass The Robot Pilot is responsible for operating our laser robot technology on-site, ensuring strict adherence to production schedules, quality standards, and safety guidelines. Reporting to the Robotics…",
       "posted_date": 1792647035,
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
-      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-      "company": "mozilla",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-173655",
-      "tags": "Firefox",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will build and improve the WebCompat team’s internal tooling, the dashboards and the…",
-      "posted_date": 1792659321,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-product-designer-netherlands-77442",
-      "title": "Product Designer",
-      "company": "Mlabs",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
-      "tags": "STE Remote",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "Location:&nbsp; UK, central Europe, and Latin America Remote&nbsp;| Full-time Compensation: Competitive Compensation Our client is seeking an experienced, full-time Product Designer to shape the core user experience of…",
-      "posted_date": 1792650009,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-corporate-development-director-182149",
-      "title": "Corporate Development Director",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-corporate-development-director-182149",
-      "tags": "Corporate Affairs",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce…",
-      "posted_date": 1792648525,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-backend-engineer-ai-platform-toqan-amsterdam-262810",
-      "title": "Senior Backend Engineer, AI Platform (Toqan)",
-      "company": "Prosus",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/senior-backend-engineer-ai-platform-toqan-amsterdam-262810",
-      "tags": "AI & ML Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Who We Are You've ordered dinner through Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. Chances are, you've already used a Prosus company today. We are Prosus, a global technology company…",
-      "posted_date": 1792647616,
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "himalayas:enablecomp:Client Success Director - Revenue Cycle - (REMOTE - MIDWEST)",
-      "title": "Client Success Director - Revenue Cycle - (REMOTE - MIDWEST)",
-      "company": "EnableComp",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/enablecomp",
-      "tags": "Client-Success-Director Director-of-Client-Success Strategic-Account-Director Account-Director Remote-Revenue-Cycle-Management-Director Healthcare-Client-Success-Director Director Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "EnableComp provides Specialty Revenue Cycle Management solutions for healthcare organizations, leveraging over 24 years of industry-leading expertise and its unified E360 RCM™ intelligent automation platform to improve…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:five-below:Accommodations and Leave Consultant (remote - 6 month contract)",
-      "title": "Accommodations and Leave Consultant (remote - 6 month contract)",
-      "company": "Five Below",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/five-below",
-      "tags": "Leave-And-Accommodations HR-Consultant Leave-Administration-Specialist Employee-Relations HR-Compliance-Consultant HR-Leave-and-Accommodation-Analyst HR-Accommodations-Specialist Senior-HR-Leave-Administration-Specialist Workplace-Accommodations-Specialist Leave-Of-Absence-Specialist HR-Leave-Specialist Senior Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "At Five Below our growth is a result of the people who embrace our purpose: We know life is way better when you are free to Let Go & Have Fun in an amazing experience, filled with unlimited possibilities, priced so low,…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:purchaser-business-group-on-health-pbgh:Senior Consultant, Health & Welfare Benefits",
-      "title": "Senior Consultant, Health & Welfare Benefits",
-      "company": "Purchaser Business Group on Health (PBGH)",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/purchaser-business-group-on-health-pbgh",
-      "tags": "Senior-Benefits-Consultant Benefits-Consultant Employee-Benefits-Consultant Health-Benefits-Consultant Healthcare-Consultant Senior-HR-Benefits-Consultant Health-and-Welfare-Benefits-Consulting Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$138k – $168k",
-      "employment_type": "Full Time",
-      "excerpt": "Senior consultant, health & welfare benefits (remote) THE ORGANIZATION Purchaser Business Group on Health (PBGH) is an action-oriented non-profit with a track record of improving health outcomes, experience and…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:sika-ag:Business Development Manager (m/w/d) Vertical Market Infrastructure, Energy & Ut",
-      "title": "Business Development Manager (m/w/d) Vertical Market Infrastructure, Energy & Ut",
-      "company": "Sika AG",
-      "location": "Germany",
-      "url": "https://himalayas.app/jobs/sika-ag",
-      "tags": "Business-Development-Manager Product-Manager Market-Analyst Technical-Sales-Manager Energy-Business-Development-Manager Business-Development-Manager-Utilities Business-Development-Manager-Construction-Infrastructure Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "• Koordination der Aufgaben für das Produktportfolio des Vertical Markets Infrastructure (Parkhaus, Brücke, Tunnel, Schiene, Wasser) • Verantwortlich für das Aufzeigen von Verbesserungen im Produktportfolio •…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:trustonic:Senior Partnership Manager",
-      "title": "Senior Partnership Manager",
-      "company": "Trustonic",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/trustonic",
-      "tags": "Partnerships-Manager OEM-Partnership-Manager Business-Development-Manager Account-Manager Senior-Partnerships-Manager-APAC Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "A bit about the role and what you’ll deliver... We’re looking for a Senior Partner Manager – OEM Partnerships to build and strengthen our relationships with key OEM partners across the Asia-Pacific region.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:prostaff-schweiz-gmbh:Remote SAP S/4HANA Finance & Tax Consultant",
-      "title": "Remote SAP S/4HANA Finance & Tax Consultant",
-      "company": "PROSTAFF Schweiz GmbH",
-      "location": "Switzerland",
-      "url": "https://himalayas.app/jobs/prostaff-schweiz-gmbh",
-      "tags": "SAP-Consultant SAP-S-4HANA-Consultant SAP-Finance-Consultant Finance-Consultant Tax-Consultant SAP-S-4HANA-Finance-Consultant SAP-S-4HANA-Tax-Consultant SAP-S-4HANA-Finance-Specialist SAP-Tax-Consultant SAP-Finance-Functional-Consultant SAP-Financials-Consultant SAP-FI-Tax-Consultant Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "For an international SAP S/4HANA transformation project, we are looking for an experienced SAP S/4HANA Finance & Tax Consultant to support Finance, Tax, and Compliance activities.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -3357,1547 +7139,16 @@ window.JOB_DATA = {
       "id": "himalayas:mindrift:Freelance Mechanical CFD Engineer - AI Trainer",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
       "company": "Mindrift",
-      "location": "India",
+      "location": "United Kingdom",
       "url": "https://himalayas.app/jobs/mindrift",
-      "tags": "Computational-Fluid-Dynamics-Engineer Mechanical-Engineer Simulation-Engineer AI-Trainer Freelance-CFD-Engineering-AI-Trainer Mid-level Part Time",
+      "tags": "Computational-Fluid-Dynamics-Engineer Mechanical-Engineer Simulation-Engineer AI-Trainer Freelance-CFD-Engineering-AI-Trainer Senior Contractor",
       "source": "Himalayas",
-      "salary": "$9 – $9",
-      "employment_type": "Part Time",
+      "salary": "$36 – $36",
+      "employment_type": "Contractor",
       "excerpt": "About the role Help train and evaluate AI agents on expert-level fluid simulation tasks.",
       "posted_date": "",
       "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:domino-data-lab:Staff Software Engineer, Identity and Authorization",
-      "title": "Staff Software Engineer, Identity and Authorization",
-      "company": "Domino Data Lab",
-      "location": "Argentina",
-      "url": "https://himalayas.app/jobs/domino-data-lab",
-      "tags": "Software-Engineer Identity-And-Access-Management-Engineer Authorization-Systems Security-Platform-Engineer Staff-Identity-And-Access-Management-Engineer Staff-Identity-Engineer Staff-Backend-Identity-Engineer Identity-Infrastructure-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Who we areAt Domino, we build software that helps the largest, AI-driven organizations build and operate advanced data science and AI solutions at scale.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "himalayas:florida-virtual-school:Florida Virtual School Flex Anatomy & Physiology Instructor Florida Certified",
-      "title": "Florida Virtual School Flex Anatomy & Physiology Instructor Florida Certified",
-      "company": "Florida Virtual School",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/florida-virtual-school",
-      "tags": "Online-Instructor Anatomy-And-Physiology-Instructor Virtual-School-Instructor Teacher Online-Anatomy-Instructor Anatomy-Instructor Virtual-Education-Instructor Virtual-Learning-Instructor Online-Science-Instructor Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$57k – $57k",
-      "employment_type": "Full Time",
-      "excerpt": "At this time, FLVS is only considering Florida residents who possess a teaching certification issued by the State of Florida within the content area specified below.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:general-dynamics-information-technology:Learning Standards Analyst I Secret Clearance required",
-      "title": "Learning Standards Analyst I Secret Clearance required",
-      "company": "General Dynamics Information Technology",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/general-dynamics-information-technology",
-      "tags": "Standards-Alignment-Specialist Instructional-Designer Instructional-Developer Training-Analyst Curriculum-Developer Learning-Systems-Analyst Learning-and-Development-Analyst Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$64k – $80k",
-      "employment_type": "Full Time",
-      "excerpt": "Type of Requisition:RegularClearance Level Must Currently Possess: SecretClearance Level Must Be Able to Obtain: SecretPublic Trust/Other Required:NoneJob Family: Program Instruction SupportJob…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:how-to-manage-a-small-law-firm:CFO & Business Advisor | $182K+ OTE | Remote",
-      "title": "CFO & Business Advisor | $182K+ OTE | Remote",
-      "company": "How To Manage A Small Law Firm",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/how-to-manage-a-small-law-firm",
-      "tags": "Chief-Financial-Officer Fractional-CFO Virtual-CFO Outsourced-CFO Business-Advisor Remote-CFO-Positions Executive Full Time",
-      "source": "Himalayas",
-      "salary": "$110k – $182k",
-      "employment_type": "Full Time",
-      "excerpt": "CFO & Business Advisor | $182K+ OTE | 100% RemoteCompany: How To MANAGE a Small Law Firm (HTM) Employment: Full-Time | W-2 Employee Compensation: $110,000 Base + Performance Compensation | $182,000+ OTE Location: Remote…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:sanofi:Medical Science Liaison, Rare Hematology (NYC)",
-      "title": "Medical Science Liaison, Rare Hematology (NYC)",
-      "company": "Sanofi",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/sanofi",
-      "tags": "Medical-Science-Liaison Medical-Affairs-Specialist Clinical-Science-Liaison Medical-Information-Specialist Medical-Science-Liaison-Hematology Medical-Science-Liaison-Rare-Disease Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$146k – $211k",
-      "employment_type": "Full Time",
-      "excerpt": "Job Title: Medical Science Liaison, Rare Hematology (NYC) • Location: New York City, NY About the Job: Sanofi’s Medical Science Liaisons (MSLs) are externally facing scientific partners that transform medical practice…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:hard-rock-digital:Senior Engineer - DevOps",
-      "title": "Senior Engineer - DevOps",
-      "company": "Hard Rock Digital",
-      "location": "Remote",
-      "url": "https://himalayas.app/jobs/hard-rock-digital",
-      "tags": "DevOps-Engineer Platform-Engineer Site-Reliability-Engineer Cloud-Infrastructure-Engineer Internal-Platform-Engineer Senior-DevOps Senior-DevOps-Developer Senior-Staff-DevOps-Engineer Senior-TechOps-Engineer Senior-DevOps-Platform-Engineer Senior-Engineer-Cloud-and-DevOps-(P) Senior-AWS-DevOps-Engineer Senior-DevOps-Architect Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "What are we building? Hard Rock Digital is a team focused on becoming the best online sportsbook, casino, and social gaming company in the world.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:tenchi-security:Events Specialist",
-      "title": "Events Specialist",
-      "company": "Tenchi Security",
-      "location": "Brazil",
-      "url": "https://himalayas.app/jobs/tenchi-security",
-      "tags": "Events-Specialist Event-Manager Event-Coordinator Event-Marketing-Manager Marketing-Specialist Event-Specialist Marketing-Events-Specialist Event-Marketing-Specialist Event-Operations-Specialist Event-Production-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our CompanyTenchi is a Cyber Security company building innovative technology focused on Third-Party Cyber Risk Management for businesses.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:freudenberg-group:Regional Technical Service Manager  SEA",
-      "title": "Regional Technical Service Manager  SEA",
-      "company": "Freudenberg Group",
-      "location": "Thailand",
-      "url": "https://himalayas.app/jobs/freudenberg-group",
-      "tags": "Technical-Service-Manager Technical-Support-Engineer Regional-Technical-Manager Lubrication-Engineer Application-Engineer Regional-Service-Manager Regional-Field-Services-Manager Technical-Services-Manager Regional-Product-Support-Manager Regional-Field-Support-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Working at Freudenberg: We will wow your world! Responsibilities:• Lead and coordinate technical service support across SEA region ( Food industry ) • Provide technical consultation and troubleshooting for customers,…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:space-inch:Engineering Engagement Lead (S&P 500 Customer) - LATAM",
-      "title": "Engineering Engagement Lead (S&P 500 Customer) - LATAM",
-      "company": "Space Inch",
-      "location": "Brazil",
-      "url": "https://himalayas.app/jobs/space-inch",
-      "tags": "Engagement-Lead Engineering-Manager Technical-Account-Manager Engineering-Program-Manager Enterprise-Account-Technical-Lead Client-Engagement-Lead Senior-Engineering-Lead Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$6k – $9k",
-      "employment_type": "Full Time",
-      "excerpt": "Space Inch is looking for an Engineering Engagement Lead to look after our engineers within a long-standing partnership with one of the largest investment managers in the U.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:aci-worldwide:Sr Principal New Business Developer",
-      "title": "Sr Principal New Business Developer",
-      "company": "ACI Worldwide",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/aci-worldwide",
-      "tags": "Business-Development-Director Business-Development-Manager Sales-Director Payments-Sales Senior-Business-Developer Senior-Business-Development Senior-Director-Business-Development Senior-Business-Development-Lead Senior-Director-Of-Business-Development Principal-Business-Development Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Powering the world’s payments ecosystem ACI powers the payments ecosystem – globally, and you power ACI.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:guidehouse:Senior Quoting Analyst",
-      "title": "Senior Quoting Analyst",
-      "company": "Guidehouse",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/guidehouse",
-      "tags": "Quoting-Specialist Loan-Analyst Mortgage-Operations Financial-Operations-Analyst Senior-Pricing-Analyst Sales-Quoting-Specialist Rate-Quoting-Specialist Quote-Analyst Quotation-Specialist Quotations-Specialist Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Family:Business OperationsTravel Required:NoneClearance Required:Ability to Obtain Public TrustWhat You Will Do:• Independently review borrower and loan-level information for complex balance statement and payoff…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:danaher:Director, National Accounts",
-      "title": "Director, National Accounts",
-      "company": "Danaher",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/danaher",
-      "tags": "National-Accounts-Director Sales-Director Healthcare-Sales-Director Enterprise-Sales-Director Director-Of-National-Accounts National-Account-Director National-Account-Sales-Director Executive-Director-National-Accounts Head-Of-National-Accounts Director Full Time",
-      "source": "Himalayas",
-      "salary": "$190k – $215k",
-      "employment_type": "Full Time",
-      "excerpt": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:swissborg:Accountant",
-      "title": "Accountant",
-      "company": "SwissBorg",
-      "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-      "url": "https://himalayas.app/jobs/swissborg",
-      "tags": "Accountant Senior-Accountant Accounts-Payable-Accountant Financial-Accountant Accounting Tax-Accountant CPA-Accountant Audit-Accountant Corporate-Accountant Public-Accountant Finance Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "SwissBorg is building the future of crypto wealth management, making investing more accessible, transparent and intuitive for everyone.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:connico:Marketing & Proposal Coordinator",
-      "title": "Marketing & Proposal Coordinator",
-      "company": "Connico",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/connico",
-      "tags": "Marketing-Coordinator Proposal-Coordinator Marketing-Specialist Business-Development-Coordinator Proposal-and-Bid-Coordinator Marketing-Project-Coordinator Marketing-Communications-Coordinator Proposals-Coordinator Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$55k – $70k",
-      "employment_type": "Full Time",
-      "excerpt": "Marketing & Proposal Coordinator Location: Hybrid office locations include Hebron, KY / Cincinnati, OH and Mt.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:summit-therapeutics:Director, Market Access Payer Accounts - Northeast",
-      "title": "Director, Market Access Payer Accounts - Northeast",
-      "company": "Summit Therapeutics",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/summit-therapeutics",
-      "tags": "Market-Access-Director Payer-Account-Director Market-Access-Manager Managed-Markets Healthcare-Reimbursement-Director Regional-Market-Access-Lead Director-Of-Market-Access Director-Of-Payer-Relations Payer-Relations-Director Director-Of-Payer-Reimbursement-Strategy Director Full Time",
-      "source": "Himalayas",
-      "salary": "$197k – $246k",
-      "employment_type": "Full Time",
-      "excerpt": "About Summit:Summit Therapeutics Inc. is a biopharmaceutical oncology company with a mission focused on improving quality of life, increasing potential duration of life, and resolving serious unmet medical needs.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:pavago:Controller (FP&A, Financial Reporting & Accounting Leadership) - Remote",
-      "title": "Controller (FP&A, Financial Reporting & Accounting Leadership) - Remote",
-      "company": "Pavago",
-      "location": "South Africa",
-      "url": "https://himalayas.app/jobs/pavago",
-      "tags": "Controller Finance-Manager Accounting-Manager FP&A-Manager Senior-Accounting-Controller Remote-GAAP-Accounting-Director Remote-Accounting-Manager Remote-Financial-Reporting-Manager Remote-Senior-Corporate-Accounting-Lead Finance Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Controller (FP&A, Financial Reporting & Accounting Leadership) – RemotePosition Type: Full-Time, Remote Working Hours: U.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:certara:Solutions Consultant- Application Scientist",
-      "title": "Solutions Consultant- Application Scientist",
-      "company": "Certara",
-      "location": "Germany, Spain, United Kingdom",
-      "url": "https://himalayas.app/jobs/certara",
-      "tags": "Solutions-Consultant Solutions-Engineer Applications-Scientist Pre-Sales-Consultant Pharmaceutical-Consultant Application-Scientist Solution-Consultant Scientific-Applications-Specialist Senior-Solutions-Consultant Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Overview About Us- CertaraCertara accelerates medicines using proprietary biosimulation software, technology and services to transform traditional drug discovery and development.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:social-discovery-ventures:UA Manager (Facebook)",
-      "title": "UA Manager (Facebook)",
-      "company": "Social Discovery Ventures",
-      "location": "Armenia, Georgia, Poland",
-      "url": "https://himalayas.app/jobs/social-discovery-ventures",
-      "tags": "User-Acquisition-Manager Performance-Marketing-Manager Digital-Marketing-Manager Facebook-Ads-Manager Facebook-Ads-Management User-Growth-Manager Growth Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Social Discovery Group (SDG) is a group of social discovery companies.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:the-cigna-group:Provider Call Long-Term Forecasting - Evernorth - Remote",
-      "title": "Provider Call Long-Term Forecasting - Evernorth - Remote",
-      "company": "The Cigna Group",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/the-cigna-group",
-      "tags": "Resource-Planning-Advisor Workforce-Planning-Analyst Forecasting-Analyst Capacity-Planning-Analyst Business-Operations-Analyst Healthcare-Provider-Forecasting Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$78k – $130k",
-      "employment_type": "Full Time",
-      "excerpt": "Candidates who reside within 50 miles of the following locations may be asked to work in person: Bloomfield, CT, Chattanooga, TN, Denver, CO, St Louis, MO, and Scottsdale, AZ.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:longbridge-financial:Quality Control Coordinator - Remote",
-      "title": "Quality Control Coordinator - Remote",
-      "company": "Longbridge Financial",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/longbridge-financial",
-      "tags": "Quality-Control-Coordinator Mortgage-Quality-Control-Analyst Reverse-Mortgage-Quality-Control-Coordinator Mortgage-Compliance-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$52k – $57k",
-      "employment_type": "Full Time",
-      "excerpt": "LBF is seeking a qualified candidate to conduct ongoing Quality Control responsibilities on a reverse mortgage (HECM and Proprietary) and HELOC pipeline to ensure adherence with HUD and investor guidelines, and federal,…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mindrift:Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time)",
-      "title": "Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time)",
-      "company": "Mindrift",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mindrift",
-      "tags": "Hospitalist Internal-Medicine-Physician Physician Medical-AI-Evaluator Clinical-Content-Reviewer Healthcare-AI-Evaluator Clinical-AI-Evaluator Medical-AI-Evaluation Clinical-AI-Reviewer Remote-Physician-Reviewer Remote-Internal-Medicine-Physician Clinical-AI-Consultant Healthcare Senior Contractor",
-      "source": "Himalayas",
-      "salary": "$70 – $70",
-      "employment_type": "Contractor",
-      "excerpt": "Please submit your CV in English and indicate your level of English proficiency.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:the-sydney-call-centre:Remote Inbound Sales Representative (Nova Scotia)",
-      "title": "Remote Inbound Sales Representative (Nova Scotia)",
-      "company": "The Sydney Call Centre",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/the-sydney-call-centre",
-      "tags": "Customer-Service Call-Center-Representative Sales Technical-Support-Specialist Remote-Sales-Representative Inbound-Sales-Representative Inbound-Sales-Development-Representative Remote-Entry-Level-Sales-Representative Inbound-Sales-Associate Entry-level Other",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Other",
-      "excerpt": "POSITION OVERVIEWREMOTE INBOUND SALES REPRESENTATIVE (NOVA SCOTIA) Looking for opportunities to work for a rapidly growing company?",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:fusion-growth-partners:Post Close Marketing Specialist - Virtual Assistant",
-      "title": "Post Close Marketing Specialist - Virtual Assistant",
-      "company": "Fusion Growth Partners",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/fusion-growth-partners",
-      "tags": "Marketing-Specialist Virtual-Assistant Real-Estate-Marketing-Specialist Digital-Marketing-Specialist Graphic-Design-Assistant Marketing-Virtual-Assistant Virtual-Marketing-Assistant Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$600 – $1k",
-      "employment_type": "Full Time",
-      "excerpt": "Compensation is variable between $600–$1,200/month while working from home!",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:southern-new-hampshire-university:Online Adjunct Faculty - Programming for Game Engines",
-      "title": "Online Adjunct Faculty - Programming for Game Engines",
-      "company": "Southern New Hampshire University",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/southern-new-hampshire-university",
-      "tags": "Adjunct-Faculty Online-Faculty Programming-Instructor Computer-Science-Instructor Online-Adjunct-Professor Online-Adjunct-Faculty Video-Game-Development-Instructor Adjunct-Faculty-Computer-Science Online-Programming-Instructor Game-Design-Instructor Online-Computer-Science-Instructor Mid-level Part Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Part Time",
-      "excerpt": "Southern New Hampshire University is a team of innovators.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:delos-insurance-solutions:Virtual Territory Manager",
-      "title": "Virtual Territory Manager",
-      "company": "Delos Insurance Solutions",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/delos-insurance-solutions",
-      "tags": "Territory-Manager Agency-Relations-Manager Account-Manager Insurance-Sales-Manager Virtual-Sales-Manager Territory-Management Territory-Sales-Management Territory-Account-Management Territory-Sales-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$75k – $85k",
-      "employment_type": "Full Time",
-      "excerpt": "About Delos Insurance Solutions Delos Insurance Solutions is a tech-enabled MGA focused on underwriting complex homeowners risks, particularly in catastrophe-exposed regions.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:zenara-health:Senior Security & Compliance - Healthcare | Zenara Health",
-      "title": "Senior Security & Compliance - Healthcare | Zenara Health",
-      "company": "Zenara Health",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/zenara-health",
-      "tags": "Security-And-Compliance-Manager Information-Security-Manager Healthcare-Compliance-Manager Chief-Information-Security-Officer Security-Program-Manager Healthcare-IT-Security Healthcare-Information-Security Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Location: Remote - India Type: Full-time Working Hours: All meetings and live collaboration happen between approximately 6:00 PM and 12:00 AM IST, overlapping US Pacific Time.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:decisionpoint-corporation:Cybersecurity Lead / ISSM Support",
-      "title": "Cybersecurity Lead / ISSM Support",
-      "company": "DecisionPoint Corporation",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/decisionpoint-corporation",
-      "tags": "Cybersecurity-Lead Information-Security-Manager Cybersecurity-Manager Security-Operations-Lead ISSM-IAM-Support Information-Security-Lead Cybersecurity-Team-Lead Lead-Information-Security-Engineer IT-Security-Lead Lead-Cybersecurity-Specialist Lead-Cybersecurity-Engineer Lead-Information-Security-Analyst Information-Security-Program-Lead Security-Lead Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "OverviewDecisionPoint seeks a Cybersecurity Lead / ISSM Support professional to lead Task 6 cybersecurity delivery and support the Government Information System Security Manager (ISSM) in protecting USMEPCOM systems,…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:o-neal-industries:Regional Quality Manager TW",
-      "title": "Regional Quality Manager TW",
-      "company": "O'Neal Industries",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/o-neal-industries",
-      "tags": "Quality-Manager Regional-Quality-Manager QA-Manager Regional-QA-Manager Senior-Quality-Manager Operations-Quality-Manager Quality-Excellence-Manager Senior-Quality-Assurance-Manager Manager Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Responsibilities include but are not limited to: • Review specific branch customer contract quality requirements • Review of customer and industry specifications, drawings and/or standards • Purchase of material…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:humana:Senior Cybersecurity Engineer",
-      "title": "Senior Cybersecurity Engineer",
-      "company": "Humana",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/humana",
-      "tags": "Cybersecurity-Engineer Identity-Security-Engineer IAM-Engineer Identity-And-Access-Management-Engineer Security-Engineer Senior-Cybersecurity-Engineer Senior-Information-Security-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$118k – $162k",
-      "employment_type": "Full Time",
-      "excerpt": "Become a part of our caring community The Senior CyberSecurity Engineer will design, implement, and support enterprise Identity Security solutions across a complex healthcare environment.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:epta-group:Area Service Manager – HVAC / Refrigeration | North-West Italy",
-      "title": "Area Service Manager – HVAC / Refrigeration | North-West Italy",
-      "company": "EPTA GROUP",
-      "location": "Italy",
-      "url": "https://himalayas.app/jobs/epta-group",
-      "tags": "Regional-Service-Manager Field-Service-Manager Service-Operations-Manager Technical-Service-Manager After-Sales-Manager Regional-Field-Services-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "EUR 33k – EUR 33k",
-      "employment_type": "Full Time",
-      "excerpt": "Remote | Turin / North-West Italy | Field Service & Technical Network Management Are you experienced in technical service, HVAC, refrigeration, heating/cooling systems or field service operations?",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:urban-insight:Director of Business Development, Web & Digital Agency",
-      "title": "Director of Business Development, Web & Digital Agency",
-      "company": "Urban Insight",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/urban-insight",
-      "tags": "Director-of-Business-Development Business-Development-Director Sales-Director Agency-Sales-Director Director-Of-New-Business Director-Business-Development Director-Of-Sales-And-Business-Development Director-Of-Business-Development-and-Marketing Managing-Director-Business-Development Strategic-Business-Development-Director Senior-Director-Business-Development Director Full Time",
-      "source": "Himalayas",
-      "salary": "$100k – $150k",
-      "employment_type": "Full Time",
-      "excerpt": "This role requires at least 3 years selling custom website, web application or CMS projects at a digital agency or consultancy.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:the-opportunity-group:Client Success Manager",
-      "title": "Client Success Manager",
-      "company": "The Opportunity Group",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/the-opportunity-group",
-      "tags": "Customer-Success-Manager Account-Manager Customer-Success-Specialist Customer-Success-Account-Manager Client-Success-Relationship-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "*please note this a remote role that can be based anywhere* The role of a Customer Success Manager is critical for the success of our learning programmes and customer outcomes - that's why we're taking time and effort…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:world-business-lenders:Asset Resolution Counsel",
-      "title": "Asset Resolution Counsel",
-      "company": "World Business Lenders",
-      "location": "Mexico",
-      "url": "https://himalayas.app/jobs/world-business-lenders",
-      "tags": "Dispute-Resolution-Counsel Resolution-Manager Real-Estate-Counsel Bankruptcy-Attorney Loan-Portfolio-Manager Asset-Resolution Secured-Creditor-Remedies-Counsel Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About World Business Lenders World Business Lenders (WBL) provides general purpose short-term real estate collateralized commercial loans to a broad customer base comprised of small and medium sized businesses…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:speechify:Software Engineer, AI Data - Turin, Italy",
-      "title": "Software Engineer, AI Data - Turin, Italy",
-      "company": "Speechify",
-      "location": "Italy",
-      "url": "https://himalayas.app/jobs/speechify",
-      "tags": "Software-Engineer Data-Engineer AI-Data-Engineer Backend-Engineer Machine-Learning-Data-Engineer Senior-AI-Data-Engineer Senior-AI-ML-Data-Engineer AI-ML-Software-Engineer Senior-AI-Software-Engineer AI-ML-Data-Engineer Data-And-AI-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$30k – $80k",
-      "employment_type": "Full Time",
-      "excerpt": "MissionThe mission of Speechify is to make sure that reading is never a barrier to learning.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "himalayas:vinova:Senior Business Analyst",
-      "title": "Senior Business Analyst",
-      "company": "Vinova",
-      "location": "Singapore",
-      "url": "https://himalayas.app/jobs/vinova",
-      "tags": "Business-Analyst Business-Systems-Analyst Requirements-Analyst Product-Analyst Project-Analyst Senior-Business-Analyst Senior-Business-Analysis Senior-Staff-Business-Analyst Senior-IT-Business-Analyst Senior-Business-Systems-Analyst Senior-Business-Systems-Analysis Senior-Business-Process-Analyst Lead-Business-Analyst Senior-Business-Information-Analyst Senior-Program-Business-Analyst Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Company Overview Established in 2010, Vinova is a passion-driven and award-winning development company for mobile, web, and enterprise applications.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:unit4:Director, Professional Services Industry",
-      "title": "Director, Professional Services Industry",
-      "company": "Unit4",
-      "location": "United Kingdom",
-      "url": "https://himalayas.app/jobs/unit4",
-      "tags": "Professional-Services-Director Industry-Director Industry-Strategy-Leadership Head-Of-Professional-Services ERP-Industry-Sales-Director Director-Of-Professional-Services Professional-Services-Leader Regional-Director-Professional-Services Professional-Services-Leadership Professional-Services-Practice-Lead Director Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "We are seeking a highly credible industry leader to shape and drive Unit4's growth in the Professional Services Organisations (PSO) market.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:whitecollars:Sales Suport Specialist",
-      "title": "Sales Suport Specialist",
-      "company": "Whitecollars",
-      "location": "Egypt",
-      "url": "https://himalayas.app/jobs/whitecollars",
-      "tags": "Sales-Support-Specialist Sales-Operations-Specialist Business-Development-Support Sales-Support-Representative Sales-Support-Agent Sales-Support-Consultant Sales-Support-Associate Sales-Support-Coordinator Sales-Support-Analyst Sales-Support-Administrator Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "⚡About the RoleWe're looking for a detail-oriented Sales Support Specialist to be the backbone of our sales engine at Whitecollars!",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:nmdc-careers:OFFSHORE APPOINTED PERSON",
-      "title": "OFFSHORE APPOINTED PERSON",
-      "company": "NMDC Careers",
-      "location": "United Arab Emirates",
-      "url": "https://himalayas.app/jobs/nmdc-careers",
-      "tags": "Appointed-Person Crane-Operations-Supervisor Lifting-Operations-Supervision Lift-Plan-Engineer Offshore-Construction-Safety-Officer Offshore-Supervisor Offshore-Leadership Offshore-Coordination Offshore-Construction-Representative Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "• Select the correct crane and accessories for the specific task • Prepare the lift plan and ensure the required controls are in place • Ensure that the lifting equipment is maintained, examined and appropriate for use…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:trueblue:Sr. Total Rewards Specialist",
-      "title": "Sr. Total Rewards Specialist",
-      "company": "TrueBlue",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/trueblue",
-      "tags": "Total-Rewards-Specialist Benefits-And-Compensation-Specialist Compensation-Specialist Benefits-Specialist HRIS-Specialist Senior-Total-Rewards-Specialist Senior-Compensation-Specialist Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$73k – $88k",
-      "employment_type": "Full Time",
-      "excerpt": "SUMMARYThe Senior Total Rewards Specialist is an experienced individual contributor who supports the day-to-day administration of compensation and benefits programs.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:unisys:Security Delivery Architect",
-      "title": "Security Delivery Architect",
-      "company": "Unisys",
-      "location": "Australia",
-      "url": "https://himalayas.app/jobs/unisys",
-      "tags": "Security-Delivery-Architect Security-Architect Cybersecurity-Consultant Information-Security-Consultant GRC-Consultant Security-Solutions-Architect Solutions-Delivery-Architect Delivery-Architect IT-Security-Architect Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "What success looks like in this role: About UnisysUnisys is a global technology solutions company that helps organizations transform their business through secure, innovative, and resilient technology services.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:carlehealth:Grants Proposal Coordinator",
-      "title": "Grants Proposal Coordinator",
-      "company": "Carle Health",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/carlehealth",
-      "tags": "Grants-Coordinator Grant-Administrator Grants-Specialist Proposal-Coordinator Sponsored-Programs-Specialist Grant-Coordinator Proposals-Coordinator Grants-Administrator Federal-Proposal-Coordinator Grants-Associate Grants-Support-Specialist Grant-Proposal-Writer Proposal-and-Bid-Coordinator Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "OverviewAs part of the Office of Grants Management, the Pre-Award Coordinator supports Carle Health System's externally funded programs by providing pre- and post-award sponsored project support to ensure compliance…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:caris-mpi-inc:Oncology Account Executive- Remote - Minnesota",
-      "title": "Oncology Account Executive- Remote - Minnesota",
-      "company": "Caris MPI, Inc.",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/caris-mpi-inc",
-      "tags": "Oncology-Account-Executive Healthcare-Account-Executive Medical-Sales-Representative Diagnostics-Sales-Specialist Territory-Sales-Manager Oncology-Sales-Representative Oncology-Sales-Executive Oncology-Sales-Specialist Remote-Account-Executive Account-Executive Sales Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$125k – $165k",
-      "employment_type": "Full Time",
-      "excerpt": "At Caris, we understand that cancer is an ugly word—a word no one wants to hear, but one that connects us all.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mission-lane:Manager, Paid Acquisition & Investment",
-      "title": "Manager, Paid Acquisition & Investment",
-      "company": "Mission Lane",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/mission-lane",
-      "tags": "Paid-Acquisition-Manager Performance-Marketing-Manager Digital-Marketing-Manager Growth-Marketing-Manager Marketing-Manager Paid-Advertising-Manager Paid-and-Earned-Media-Strategy-Manager Paid-Media-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "$118k – $158k",
-      "employment_type": "Full Time",
-      "excerpt": "Mission Lane is combining the power of data, technology, and exceptional service to pave a clear way forward for millions of people on the path to financial success.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:hostpapa:Senior Paid Media Manager",
-      "title": "Senior Paid Media Manager",
-      "company": "HostPapa",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/hostpapa",
-      "tags": "Paid-Media-Manager Digital-Marketing-Manager Performance-Marketing-Manager Marketing-Manager Senior-Paid-Media-Manager Senior-Paid-Media-Specialist Senior-Paid-Media-Buyer Senior-Paid-Social-Media-Manager Senior-Paid-Search-Manager Senior-Paid-Search-Specialist Paid-Media-Lead Paid-Advertising-Manager Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Position Summary:At managed. com, we're a remote-first, global team.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:ge-healthcare:Sales Specialist, 内蒙山西",
-      "title": "Sales Specialist, 内蒙山西",
-      "company": "GE HealthCare",
-      "location": "China",
-      "url": "https://himalayas.app/jobs/ge-healthcare",
-      "tags": "Sales-Specialist Sales Territory-Sales-Specialist Account-Executive Medical-Device-Sales-Specialist Specialist-Sales Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Description SummaryCustomer facing staff responsible for winning business Executes standard sales tasks and typically subject to instructions and work routines.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:briljent:Work Plan Analyst",
-      "title": "Work Plan Analyst",
-      "company": "Briljent",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/briljent",
-      "tags": "Work-Plan-Analyst Project-Scheduler Project-Management-Analyst Program-Analyst Project-Coordinator Planning-Analyst Workforce-Planning-Analyst Schedule-Analyst Resource-Planning-Analyst Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "The Work Plan Analyst builds and maintains the integrated master schedule for a large, multi-workstream transformation program, giving project leadership an accurate, current view of timelines, dependencies, and risks.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:protective:Vice President, Chief Actuary - Asset Protection",
-      "title": "Vice President, Chief Actuary - Asset Protection",
-      "company": "Protective",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/protective",
-      "tags": "Chief-Actuary Vice-President-Of-Actuarial-Services Actuarial-Director Insurance-Actuary Risk-Management-Director VP-Actuarial VP-and-Actuary Executive Full Time",
-      "source": "Himalayas",
-      "salary": "$275k – $350k",
-      "employment_type": "Full Time",
-      "excerpt": "The work we do has an impact on millions of lives, and you can be a part of it.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:brixio:Ruby on Rails Developer (with Ember.js)",
-      "title": "Ruby on Rails Developer (with Ember.js)",
-      "company": "Brixio",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/brixio",
-      "tags": "Ruby-On-Rails-Developer Front-End-Developer Software-Developer Web-Developer Senior-Ruby-On-Rails-Developer Senior-Rails-Developer Senior-Ruby-On-Rails-Engineer Senior-Ruby-On-Rails-Full-Stack-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "LOCATION & WORK SETUP: PHILIPPINES (REMOTE)Client Overview: Our client is a prominent player in the healthcare sector, operating a platform that links thousands of healthcare professionals with millions of patients.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Frontend",
-        "Full Stack"
-      ]
-    },
-    {
-      "id": "himalayas:exclusively-remote:Sales/Business Development Manager (Part-Time)",
-      "title": "Sales/Business Development Manager (Part-Time)",
-      "company": "Exclusively Remote",
-      "location": "South Africa",
-      "url": "https://himalayas.app/jobs/exclusively-remote",
-      "tags": "Account-Executive Sales-Manager Business-Development-Manager SALES-BUSINESS-DEVELOPMENT-MANAGER B2B-Business-Development-Manager Business-Development-Lead Business-Development Sales Manager Part Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Part Time",
-      "excerpt": "As an Account Executive, you will be responsible for territory growth and development within the small-to-medium-sized business (SMB) segment.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:spacelift:Product Manager - Kubernetes (Remote, European Union)",
-      "title": "Product Manager - Kubernetes (Remote, European Union)",
-      "company": "Spacelift",
-      "location": "Poland",
-      "url": "https://himalayas.app/jobs/spacelift",
-      "tags": "Product-Manager Technical-Product-Manager Platform-Product-Manager Infrastructure-Product-Manager Kubernetes-Product-Management Remote-Technical-Product-Manager Remote-Product-Manager Product Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Spacelift is the infrastructure orchestration platform built for the modern software era, managing the full lifecycle for both traditional IaC and AI-accelerated infrastructure.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:ensemble-health-partners:RN, Senior Utilization Review Quality",
-      "title": "RN, Senior Utilization Review Quality",
-      "company": "Ensemble Health Partners",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/ensemble-health-partners",
-      "tags": "Utilization-Review-Nurse Utilization-Review-Specialist QA-Specialist Registered-Nurse RN-Quality-Reviewer RN-Quality-Analyst RN-Quality-Specialist Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$47 – $63",
-      "employment_type": "Full Time",
-      "excerpt": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:arthan:Executive Director - International Centre for Research on Women (ICRW) ASIA",
-      "title": "Executive Director - International Centre for Research on Women (ICRW) ASIA",
-      "company": "Arthan",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/arthan",
-      "tags": "Executive-Director Director Nonprofit-Director Nonprofit-Executive-Leadership Development-Leadership Director Executive Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "The International Centre for Research on Women (ICRW) is the world’s premier institution dedicated to advancing gender equity through rigorous research, evidence-based programming, and strategic advocacy.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:vital-virtuals-llc:VIRTUAL MEDICAL RECEPTIONIST / SCHEDULING COORDINATOR",
-      "title": "VIRTUAL MEDICAL RECEPTIONIST / SCHEDULING COORDINATOR",
-      "company": "Vital Virtuals LLC",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/vital-virtuals-llc",
-      "tags": "Medical-Receptionist Scheduling-Coordinator Medical-Virtual-Assistant Healthcare-Virtual-Assistant Virtual-Receptionist Virtual-Medical-Receptionist Medical-Virtual-Receptionist Remote-Medical-Scheduling-Coordinator Remote-Medical-Receptionist Virtual-Scheduling-Coordinator Remote-Medical-Scheduler Medical-Scheduling-Coordinator Healthcare Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$5 – $6",
-      "employment_type": "Full Time",
-      "excerpt": "NOW HIRING: VIRTUAL MEDICAL RECEPTIONIST / SCHEDULING COORDINATOR Join Vital Virtuals Global HR and support a podiatry practice remotely!",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:zeiss-group:Product Sales Development Manager",
-      "title": "Product Sales Development Manager",
-      "company": "ZEISS Group",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/zeiss-group",
-      "tags": "Product-Sales-Manager Sales-Manager Product-Manager Business-Development-Manager Technical-Sales-Manager Sales-Development-Manager Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Us:How many companies can say they’ve been in business for over 180 years?!",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:inizio-engage-formerly-ashfield-engage:People & Culture Operations Associate",
-      "title": "People & Culture Operations Associate",
-      "company": "Inizio Engage (formerly Ashfield Engage)",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/inizio-engage-formerly-ashfield-engage",
-      "tags": "People-Operations-Associate Human-Resources-Associate Recruiting-Associate Onboarding-Specialist HR-Administrative-Assistant People-Operations-Coordinator HR-Operations-Specialist People-Operations-Generalist Entry-level Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$16 – $29",
-      "employment_type": "Full Time",
-      "excerpt": "Supports the full employee lifecycle by providing administrative support to ensure a smooth and compliant hiring and onboarding process.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:m365connect:Executive Assistant - AI & Business Operations",
-      "title": "Executive Assistant - AI & Business Operations",
-      "company": "M365Connect",
-      "location": "Bangladesh",
-      "url": "https://himalayas.app/jobs/m365connect",
-      "tags": "Executive-Assistant Executive-Support-Specialist Business-Operations-Coordinator Project-Coordinator AI-Executive-Assistant Executive-Operations-Assistant Executive-Admin-Assistant Business-Operations Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Fully remote | Working directly with the CEO | Monthly compensation in USD About Us We are a startup where priorities can change quickly, processes are still developing and several important initiatives often run in…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:talentcross:0826 - 224TST - Head of Sales",
-      "title": "0826 - 224TST - Head of Sales",
-      "company": "TalentCross",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/talentcross",
-      "tags": "Head-of-Sales Sales-Director Vice-President-Of-Sales Sales-Operations-Director Revenue-Operations-Director Sales-Head Head-Of-Sales-Jobs Director Contractor",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Contractor",
-      "excerpt": "Head of Sales Location: 100% Remote (Global) Hours: US Business Hours (Eastern & Pacific time zones) Engagement: Full‑Time Independent Contractor About the Client Our client is a profitable, fully remote SaaS and…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:millennium-technology-services:Information Management Specialist",
-      "title": "Information Management Specialist",
-      "company": "Millennium Technology Services",
-      "location": "Philippines",
-      "url": "https://himalayas.app/jobs/millennium-technology-services",
-      "tags": "Desktop-Support-Specialist IT-Support-Specialist Systems-Administrator Technical-Support-Specialist Information-Management-Specialist Information-Specialist Information-Management-Analyst Information-and-Documentation-Specialist Document-Management-Specialist Records-Management-Specialist Knowledge-Management-Specialist Data-Management-Specialist Information-Management-Consultant Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job Description Roles & Responsibilities:﻿﻿85% Essential Technical Criteria Provides complex technical support, planning and coordination for End User touch points of the distributed computer environment, including…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:syneos-health-india-private-limited:Site Contracts Specialist (Hungarian speaker) - Sponsor dedicated - Home Based",
-      "title": "Site Contracts Specialist (Hungarian speaker) - Sponsor dedicated - Home Based",
-      "company": "Syneos Health India Private Limited",
-      "location": "Hungary",
-      "url": "https://himalayas.app/jobs/syneos-health-india-private-limited",
-      "tags": "Site-Contracts-Specialist Contracts-Specialist Clinical-Contracts-Manager Contract-Management-Specialist Site-Start-Up-Specialist Site-Contract-Specialist Site-Contracts-Associate Site-Contract-Associate Site-Budget-And-Contract-Specialist Site-Contracts-Administrator Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Site Contracts Specialist (Hungarian speaker) - Sponsor dedicated - Home BasedSyneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:volga-partners:General Medicine SME - AI Evaluation | Medical Students & Professionals (AUS)",
-      "title": "General Medicine SME - AI Evaluation | Medical Students & Professionals (AUS)",
-      "company": "Volga Partners",
-      "location": "Australia",
-      "url": "https://himalayas.app/jobs/volga-partners",
-      "tags": "Medical-AI-Evaluator Clinical-Research-Associate Clinical-Data-Annotator Medical-Reviewer Clinical-Evaluation-Specialist Medical-AI-Evaluation AI-Medical-Evaluation Entry-level Contractor",
-      "source": "Himalayas",
-      "salary": "$15 – $35",
-      "employment_type": "Contractor",
-      "excerpt": "Remote | Australia | Project-Based Independent Contractor Compensation: $15–$35 USD/hour, based on specialty, experience, and project requirements Help Shape the Future of AI in HealthcareWhat if the medical knowledge…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:teamviewer:Enterprise Account Executive - (Remote in Columbus, Ohio)",
-      "title": "Enterprise Account Executive - (Remote in Columbus, Ohio)",
-      "company": "TeamViewer",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/teamviewer",
-      "tags": "Account-Executive Enterprise-Account-Executive SaaS-Sales-Executive Sales-New-Business Strategic-Accounts-Executive Enterprise-Sales-Account-Executive Senior-Enterprise-Account-Executive Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$125k – $150k",
-      "employment_type": "Full Time",
-      "excerpt": "TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:nebius:Technical project manager - Network infrastructure - APAC",
-      "title": "Technical project manager - Network infrastructure - APAC",
-      "company": "Nebius",
-      "location": "American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
-      "url": "https://himalayas.app/jobs/nebius",
-      "tags": "Technical-Project-Manager Infrastructure-Project-Manager Network-Project-Manager Program-Manager Network-Infrastructure-Project-Manager IT-Infrastructure-Project-Manager Network-Delivery-Project-Manager Senior-Infrastructure-Project-Manager Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Nebius:Nebius is leading a new era in cloud infrastructure for the global AI economy.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:southern-new-hampshire-university:Online Adjunct Faculty -Graduate Criminal Justice",
-      "title": "Online Adjunct Faculty -Graduate Criminal Justice",
-      "company": "Southern New Hampshire University",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/southern-new-hampshire-university",
-      "tags": "Adjunct-Faculty Criminal-Justice-Instructor Online-Instructor Lecturer Graduate-Professor Online-Adjunct-Faculty Online-Adjunct-Professor Criminal-Justice-Faculty Criminal-Justice-Educator Online-Faculty Online-Education-Faculty Criminal-Justice-Professor Adjunct-Instructor Mid-level Part Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Part Time",
-      "excerpt": "Southern New Hampshire University is a team of innovators.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:twilio:Fraud Specialist, Supplier Operations & Governance",
-      "title": "Fraud Specialist, Supplier Operations & Governance",
-      "company": "Twilio",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/twilio",
-      "tags": "Fraud-Specialist Telecom-Fraud Fraud-Operations-Specialist Billing-Dispute-Resolution Revenue-Assurance-Specialist Anti-Fraud-Specialist Senior Full Time",
-      "source": "Himalayas",
-      "salary": "CAD 91k – CAD 114k",
-      "employment_type": "Full Time",
-      "excerpt": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:medpace:Regulatory submissions-Start Up & Contract Specialist (dual role)",
-      "title": "Regulatory submissions-Start Up & Contract Specialist (dual role)",
-      "company": "medpace",
-      "location": "Serbia",
-      "url": "https://himalayas.app/jobs/medpace",
-      "tags": "Regulatory-Submissions-Coordinator Contract-Specialist Regulatory-Affairs-Specialist Clinical-Trial-Specialist Regulatory-Submissions-Specialist Regulatory-Submission-Coordinator Regulatory-Documentation-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our European activities are growing rapidly, and we are currently seeking a full-time, home-based Regulatory Submissions Coordinator & Contract Specialist (Dual role) to join our Clinical Operations team, in Serbia.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:verizon-wireless:Supervisor-Sales Call Center Customer Service",
-      "title": "Supervisor-Sales Call Center Customer Service",
-      "company": "Verizon Wireless",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/verizon-wireless",
-      "tags": "Customer-Service-Supervisor Call-Center-Supervisor Customer-Care-Supervisor Customer-Service-Manager Team-Lead Contact-Center-Supervisor Telesales-Supervisor Contact-Centre-Supervisor Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "When you join VerizonYou want more out of a career.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:advocates-for-trans-equality:VP of Campaigns",
-      "title": "VP of Campaigns",
-      "company": "Advocates for Trans Equality",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/advocates-for-trans-equality",
-      "tags": "VP-Of-Campaigns-and-Advocacy Campaign-Director Political-Director Advocacy-Director Field-Director Executive Full Time",
-      "source": "Himalayas",
-      "salary": "$146k – $163k",
-      "employment_type": "Full Time",
-      "excerpt": "Position: VP of Campaigns Department: Advocacy, Strategic Programs Reports to: Executive Chief of Staff Supervises: Director of Organizing FLSA Status: Exempt, Full-Time Union Status: Not eligible for the bargaining…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:duncan-ross:OFFSHORE STRUCTURAL DESIGNER",
-      "title": "OFFSHORE STRUCTURAL DESIGNER",
-      "company": "Duncan & Ross",
-      "location": "United Arab Emirates",
-      "url": "https://himalayas.app/jobs/duncan-ross",
-      "tags": "Structural-Designer Structural-Engineer Structural-Drafter Offshore-Engineer Marine-Structural-Designer Offshore-Design-Engineer Structural-Design-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "We are seeking experienced Offshore Structural Designers with proven hands-on experience in offshore oil & gas EPC projects, particularly offshore platforms, to support structural design, 3D modelling, and detailing…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:bizfirst:Senior Software Engineer - Maritime Optimization",
-      "title": "Senior Software Engineer - Maritime Optimization",
-      "company": "BizFirst",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/bizfirst",
-      "tags": "Software-Engineer Optimization-Engineer Simulation-Engineer Maritime-Software-Developer Software-Optimization-Engineer Senior-Software-Engineer-C++ Senior-Algorithm-Development-Engineer Senior-C++-Software-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "This is a remote position. Summary Job Title: Senior Software Engineer - Maritime Optimization Level: Senior; 5+ years of professional software engineering experience Clearance: Ability to obtain a clearance Work…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:hypr-service:[NON LATAM] Real Estate Transaction Coordinator",
-      "title": "[NON LATAM] Real Estate Transaction Coordinator",
-      "company": "HYPR Service",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/hypr-service",
-      "tags": "Real-Estate-Transaction-Coordinator Real-Estate-Coordinator Transaction-Coordinator Real-Estate-Closing-Coordinator Remote-Real-Estate-Transaction-Coordinator Remote-Transaction-Coordinator Real-Estate-Transaction-Specialist Real-Estate-Transaction-Coordination Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$960 – $1k",
-      "employment_type": "Full Time",
-      "excerpt": "(IMPORTANT: This job is only open to applicants from the Philippines, Egypt, or countries outside the Latin American and Caribbean region.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:the-recording-academy:Staff Attorney",
-      "title": "Staff Attorney",
-      "company": "The Recording Academy",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/the-recording-academy",
-      "tags": "Staff-Attorney Corporate-Lawyer Transactional-Attorney Commercial-Counsel Legal-Counsel Staff-Lawyer Staff-Counsel Staff-Attorney-Criminal-Law Senior-Staff-Attorney Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$96k – $106k",
-      "employment_type": "Full Time",
-      "excerpt": "WHO WE’RE LOOKING FOR The Staff Attorney will support the Chief Legal Officer, Associate General Counsel, Senior Managing Director of Legal Affairs, and overall Legal Affairs team with the Academy’s day-to-day…",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:harris-global-business-services-inc:Senior DevSecOps Engineer",
-      "title": "Senior DevSecOps Engineer",
-      "company": "Harris Global Business Services Inc.",
-      "location": "India",
-      "url": "https://himalayas.app/jobs/harris-global-business-services-inc",
-      "tags": "Senior-DevSecOps-Engineer DevSecOps-Engineer Cloud-Security-Engineer Security-Engineer Platform-Engineer Senior-DevSecOps-Developer Lead-DevSecOps-Engineer Security-DevOps-Engineer DevOps-Security-Engineer DevSecOps-Engineer-Jobs DevSecOps-Solutions-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Business Unit: At ClearDATA, we provide secure, compliant cloud and managed services designed specifically for the healthcare industry.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:airslate:Principal AI Product Manager",
-      "title": "Principal AI Product Manager",
-      "company": "airSlate",
-      "location": "Israel",
-      "url": "https://himalayas.app/jobs/airslate",
-      "tags": "AI-Product-Manager Principal-Product-Manager Product-Manager Technical-Product-Manager Principal-AI-Product-Manager Principal-Product-Manager-AI-ML Senior Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About airSlateairSlate is a global SaaS technology company that develops no-code workflow automation, electronic signature, and document management solutions.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:grafana-labs:Staff Technical Writer | Remote | Ireland",
-      "title": "Staff Technical Writer | Remote | Ireland",
-      "company": "Grafana Labs",
-      "location": "Ireland",
-      "url": "https://himalayas.app/jobs/grafana-labs",
-      "tags": "Technical-Writer Senior-Technical-Writer Documentation-Engineer Documentation-Specialist Documentation-Developer Lead-Technical-Writer Technical-Writing-Lead Senior-Technical-Writer-Jobs Technical-Documentation-Writer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "EUR 92k – EUR 110k",
-      "employment_type": "Full Time",
-      "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
-      "posted_date": "",
-      "first_seen": "2026-10-22T09:56:20.755786+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-rust-developer-frankfurt-222506",
-      "title": "Senior Rust Developer",
-      "company": "workato",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-frankfurt-222506",
-      "tags": "Product & Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(8, 55, 99);&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;color: rgb(8,…",
-      "posted_date": 1792637715,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-rust-developer-munich-8982",
-      "title": "Senior Rust Developer",
-      "company": "workato",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-munich-8982",
-      "tags": "Product & Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(8, 55, 99);&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;color: rgb(8,…",
-      "posted_date": 1792637715,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-rust-developer-berlin-272087",
-      "title": "Senior Rust Developer",
-      "company": "workato",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-berlin-272087",
-      "tags": "Product & Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(8, 55, 99);&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;color: rgb(8,…",
-      "posted_date": 1792637715,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-social-designer-12-month-ftc-london-298252",
-      "title": "Senior Social Designer - 12 month FTC",
-      "company": "oliver",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-social-designer-12-month-ftc-london-298252",
-      "tags": "Client Services/Account Management",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Established in 2004, &lt;/span&gt;&lt;strong&gt;&lt;span…",
-      "posted_date": 1792637716,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-integrated-campaign-manager-181585",
-      "title": "Senior Integrated Campaign Manager",
-      "company": "feedzai",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/feedzai/senior-integrated-campaign-manager-181585",
-      "tags": "Marketing",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Feedzai, we&#39;re building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through…",
-      "posted_date": 1792637715,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:head-of-legal-paris-99470",
-      "title": "Head of Legal",
-      "company": "Lemlist",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemlist/head-of-legal-paris-99470",
-      "tags": "Business Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us 👇🏼 lemlist is the outbound platform for sales teams: find leads, run multichannel campaigns (email, LinkedIn, calls), personalize with AI and book meetings. lempire also builds lemwarm (deliverability), Claap…",
-      "posted_date": 1792636820,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:founding-sales-paris-442063",
-      "title": "Founding Sales",
-      "company": "Lemrock",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/founding-sales-paris-442063",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Who we are Lemrock builds the infrastructure of agentic commerce. Tomorrow, consumers won't just buy on e-commerce websites. They will discover, compare and purchase directly inside conversational AI interfaces like…",
-      "posted_date": 1792636819,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:platform-architect-banking-france-469992",
-      "title": "Platform Architect - Banking",
-      "company": "Eggai",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/eggai/platform-architect-banking-france-469992",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us EggAI is a fast-growing AI consulting and development startup. We build agentic AI solutions for enterprise clients. We are growing in several European markets. The role You will own the design of a shared AI…",
-      "posted_date": 1792636818,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:assistante-chef-de-projet-marketing-alternance-paris-206069",
-      "title": "Assistant·e Chef de Projet Marketing - alternance",
-      "company": "Deliveroo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-206069",
-      "tags": "Sales France",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach,…",
-      "posted_date": 1792626938,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ai-engineer-freelance-bordeaux-296181",
-      "title": "Senior AI Engineer - Freelance",
-      "company": "Mirakl - Labs",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-296181",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating system combines an enterprise…",
-      "posted_date": 1792622730,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ai-engineer-freelance-paris-82276",
-      "title": "Senior AI Engineer - Freelance",
-      "company": "Mirakl - Labs",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-paris-82276",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "About Mirakl: Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy. Today, Mirakl's operating system combines an enterprise…",
-      "posted_date": 1792622730,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -4915,79 +7166,7 @@ window.JOB_DATA = {
       "excerpt": "SEO &amp; Digital Marketing Specialist – Technical SEO, Google Ads &amp; Lead Generation | Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours Experience Level: Mid-Level to Senior Department:…",
       "posted_date": 1792635619,
       "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-named-account-executive-197998",
-      "title": "Senior Named Account Executive",
-      "company": "commercetools",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/commercetools/senior-named-account-executive-197998",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h4&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;About commercetools&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; &lt;p&gt;Real innovation starts with a strong foundation, and at…",
-      "posted_date": 1792637715,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:director-sales-nordics-eastern-europe-amsterdam-410641",
-      "title": "Director, Sales (Nordics & Eastern Europe)",
-      "company": "Ping Identity",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ping-identity/director-sales-nordics-eastern-europe-amsterdam-410641",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "About Ping Identity:&nbsp; At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our…",
-      "posted_date": 1792629926,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-consultant-manager-power-market-advisory-amsterdam-39101",
-      "title": "Senior Consultant / Manager – Power Market Advisory",
-      "company": "Baringa",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/baringa/senior-consultant-manager-power-market-advisory-amsterdam-39101",
-      "tags": "Markets and Transactions",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;Baringa is a…",
-      "posted_date": 1792626935,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:business-development-representative-netherlands-47333",
-      "title": "Business Development Representative",
-      "company": "Paddle",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/paddle/business-development-representative-netherlands-47333",
-      "tags": "Commercial Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re…",
-      "posted_date": 1792626017,
-      "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5005,205 +7184,7 @@ window.JOB_DATA = {
       "excerpt": "General Summary The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of…",
       "posted_date": "2026-10-21T00:00:06+00:00",
       "first_seen": "2026-10-22T04:11:02.465810+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-software-engineer-python-paris-paris-208736",
-      "title": "Senior Software Engineer - Python (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-software-engineer-python-paris-paris-208736",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;We are looking for a Python Senior Software Engineer to join Platform team.&lt;/p&gt; &lt;p&gt;As a Senior Software Engineer, your mission will be to work on designing and delivering essential components that…",
-      "posted_date": 1792616114,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-idf-paris-paris-61563",
-      "title": "Account Executive - IDF (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/account-executive-idf-paris-paris-61563",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;h2&gt;&lt;strong&gt;Vos missions dans l&#39;équipe commerciale&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;90M+ de patients utilisent Doctolib chaque mois. Nous sommes devenus l&#39;OS standard pour les professionnels de…",
-      "posted_date": 1792616114,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:account-executive-mid-market-eur60-80k-bspce-paris-180599",
-      "title": "Account Executive - Mid-market - €60–80K + BSPCE",
-      "company": "Vocca",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/account-executive-mid-market-eur60-80k-bspce-paris-180599",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connect We believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-account-executive-mid-market-and-enterprise-eur70-90k-bspce-paris-164551",
-      "title": "Senior Account Executive - Mid-market and Enterprise - €70–90K + BSPCE",
-      "company": "Vocca",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/senior-account-executive-mid-market-and-enterprise-eur70-90k-bspce-paris-164551",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connect We believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:strategic-account-executive-eu-paris-237303",
-      "title": "Strategic Account Executive - EU",
-      "company": "MakiPeople",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/strategic-account-executive-eu-paris-237303",
-      "tags": "Sales Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Strategic Account Executive, DACH (Paris or London) About Maki Maki is the worlds #1 AI Hiring tool and helps the world's largest companies hire the best people, fast. Nespresso, H&amp;M, Deloitte and other global…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:ai-implementation-intern-paris-305790",
-      "title": "AI Implementation Intern",
-      "company": "MakiPeople",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/ai-implementation-intern-paris-305790",
-      "tags": "Implementation Intern",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Intern",
-      "excerpt": "About MakiPeople Maki builds AI agents that help large companies hire faster and better, from screening to assessment to candidate engagement. Global enterprises use Maki to run hiring at scale, giving recruiters time…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:cheffe-de-projet-hopitaux-project-manager-hospital-paris-248505",
-      "title": "Chef.fe de Projet Hôpitaux / Project Manager Hospital",
-      "company": "Lifen",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-hopitaux-project-manager-hospital-paris-248505",
-      "tags": "Operations Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Chez Lifen, nous pensons que les données médicales ont le potentiel de transformer le système de santé. Mais seulement si elles sont accessibles. Plus de données accessibles → moins de charge administrative, une…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-customer-success-manager-usage-adoption-paris-483821",
-      "title": "Senior Customer Success Manager – Usage & Adoption",
-      "company": "Lifen",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lifen/senior-customer-success-manager-usage-adoption-paris-483821",
-      "tags": "Operations Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Chez Lifen, nous pensons que les données médicales ont le potentiel de transformer le système de santé. Mais seulement si elles sont accessibles. Plus de données accessibles → moins de charge administrative, une…",
-      "posted_date": 1792615225,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:founding-deployment-strategist-erp-ai-paris-114494",
-      "title": "Founding Deployment Strategist [ERP + AI]",
-      "company": "Piston",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/piston/founding-deployment-strategist-erp-ai-paris-114494",
-      "tags": "Remote SAP/ERP Consulting Development Permanent contract (cdi - contrat à durée indéterminée) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent contract (cdi - contrat à durée indéterminée), professional / experienced",
-      "excerpt": "TL;DR We're building the SAP/NetSuite of the AI era for mid-sized companies in the real-world economy, starting with their supply chain operations (buy, sell, stock, produce) Founding deployment strategist : you deploy…",
-      "posted_date": 1792614637,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:product-tech-senior-forward-deployed-engineer-ai-data-paris-302475",
-      "title": "Product & Tech | Senior Forward Deployed Engineer - AI & Data",
-      "company": "Singulier",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/singulier/product-tech-senior-forward-deployed-engineer-ai-data-paris-302475",
-      "tags": "Full time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time",
-      "excerpt": "Singulier is a strategy, transaction advisory and AI transformation consulting firm supporting private equity funds, portfolio companies and established businesses on their most critical strategic and operational…",
-      "posted_date": 1792610422,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:associate-director-sustainability-impact-lyon-france-183472",
-      "title": "Associate Director- Sustainability & Impact (Lyon, France)",
-      "company": "Archimed",
-      "location": "Lyon, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/archimed/associate-director-sustainability-impact-lyon-france-183472",
-      "tags": "Business Analyst Venture Capital & Private Equity Archimed Full time internship",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, internship",
-      "excerpt": "Location : Lyon, France About ARCHIMED: With offices in Europe, North America and Asia, ARCHIMED is a leading investment firm focused exclusively on healthcare industries. Its mix of operational, medical, scientific and…",
-      "posted_date": 1792610410,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5221,7 +7202,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
       "posted_date": 1792616116,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5239,7 +7220,7 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": 1792615222,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5257,7 +7238,7 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": 1792615222,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5275,7 +7256,7 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": 1792615222,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5293,7 +7274,7 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": 1792615222,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5311,7 +7292,7 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": 1792615222,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5329,7 +7310,7 @@ window.JOB_DATA = {
       "excerpt": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year.&nbsp;At Hilo by&nbsp;Aktiia,&nbsp;we're&nbsp;building a world where no lives are lost to its effects — with…",
       "posted_date": 1792614009,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5347,133 +7328,295 @@ window.JOB_DATA = {
       "excerpt": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year.&nbsp;At Hilo by&nbsp;Aktiia,&nbsp;we're&nbsp;building a world where no lives are lost to its effects — with…",
       "posted_date": 1792614009,
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "arbeitnow:staff-machine-learning-engineer-llm-inference-optimization-amsterdam-403133",
-      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-amsterdam-403133",
-      "tags": "ML",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616116,
+      "id": "himalayas:berkeley-research-group:Senior Associate",
+      "title": "Senior Associate",
+      "company": "Berkeley Research Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/berkeley-research-group",
+      "tags": "Healthcare-Compliance-Auditor Healthcare-Consultant Compliance-Auditor Medical-Coding-Auditor Health-Data-Analyst Senior-Associate Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$70k – $115k",
+      "employment_type": "Full Time",
+      "excerpt": "We Do Consulting Differently Are you a graduate from a top-tier university looking to break into the rapidly growing healthcare sector?",
+      "posted_date": "",
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "arbeitnow:senior-software-engineer-ydb-team-amsterdam-499147",
-      "title": "Senior Software Engineer (YDB Team)",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-ydb-team-amsterdam-499147",
-      "tags": "Backend",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616116,
+      "id": "himalayas:netflix:Analytics Engineer 5 - Ads Identity & Signals",
+      "title": "Analytics Engineer 5 - Ads Identity & Signals",
+      "company": "Netflix",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/netflix",
+      "tags": "Analytics-Engineer Data-Engineer Data-Platform-Engineer Identity-Data-Engineer Ads-Data-Engineering Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$330k – $566k",
+      "employment_type": "Full Time",
+      "excerpt": "At Netflix, our mission is to entertain the world.",
+      "posted_date": "",
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-software-engineer-storage-virtualization-team-amsterdam-321814",
-      "title": "Senior Software Engineer (Storage Virtualization Team)",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-storage-virtualization-team-amsterdam-321814",
-      "tags": "Backend",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616116,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-software-engineer-data-platform-c-amsterdam-173297",
-      "title": "Senior Software Engineer (Data Platform, C++)",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-data-platform-c-amsterdam-173297",
-      "tags": "Backend",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616116,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-machine-learning-engineer-llm-inference-optimization-amsterdam-253701",
-      "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-machine-learning-engineer-llm-inference-optimization-amsterdam-253701",
-      "tags": "ML",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616115,
-      "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "arbeitnow:senior-corporate-paralegal-amsterdam-34432",
-      "title": "Senior Corporate Paralegal",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-corporate-paralegal-amsterdam-34432",
-      "tags": "Legal",
-      "source": "Arbeitnow",
+      "id": "himalayas:kontoor-brands:SAP Security & GRC Engineer",
+      "title": "SAP Security & GRC Engineer",
+      "company": "Kontoor Brands",
+      "location": "India",
+      "url": "https://himalayas.app/jobs/kontoor-brands",
+      "tags": "SAP-Security-Engineer GRC-Engineer SAP-GRC-Engineer IT-Security-Engineer SAP-Security-and-GRC-Specialist SAP-GRC-Specialist SAP-Security-Specialist SAP-Security-Analyst Sap-Security-Consultant Mid-level Full Time",
+      "source": "Himalayas",
       "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616115,
+      "employment_type": "Full Time",
+      "excerpt": "Who We Are:Kontoor Brands is a portfolio of three of the world’s most iconic lifestyle, outdoor and workwear brands: Wrangler®, Lee® and Helly Hansen®.",
+      "posted_date": "",
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "arbeitnow:product-data-analyst-amsterdam-428402",
-      "title": "Product Data Analyst",
-      "company": "Nebius",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
-      "tags": "Corporate",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a…",
-      "posted_date": 1792616115,
+      "id": "himalayas:the-wilshire-group:Epic Coding Analyst",
+      "title": "Epic Coding Analyst",
+      "company": "The Wilshire Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/the-wilshire-group",
+      "tags": "Coding-Analyst Epic-Analyst Healthcare-IT-Consultant Health-Information-Management-Analyst Revenue-Cycle-Systems-Analyst Senior Contractor",
+      "source": "Himalayas",
+      "salary": "$65 – $90",
+      "employment_type": "Contractor",
+      "excerpt": "Wilshire hires only the brightest and most experienced professionals in the healthcare revenue cycle management industry.",
+      "posted_date": "",
       "first_seen": "2026-10-21T23:11:38.217925+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:blueprint-ai:Visual and Motion  Designer",
+      "title": "Visual and Motion  Designer",
+      "company": "Blueprint",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/blueprint-ai",
+      "tags": "Visual-and-Motion-Designer Motion-Graphics-Designer Graphic-Designer Visual-Designer Illustrator Video-Motion-Designer Motion-Graphics-Animator Motion-Graphics-Design Motion-Design Senior-Motion-Graphics-Designer Animation-and-Motion-Graphics Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$50 – $55",
+      "employment_type": "Full Time",
+      "excerpt": "About BlueprintBlueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:yelp-inc:Manager, Sales Enablement - Multi Location Sales (US - Remote)",
+      "title": "Manager, Sales Enablement - Multi Location Sales (US - Remote)",
+      "company": "Yelp, Inc",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/yelp-inc",
+      "tags": "Sales-Enablement-Manager Sales-Enablement-Leader Enablement-Manager Sales-Training-Manager Sales-Enablement-Program-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "$150k – $155k",
+      "employment_type": "Full Time",
+      "excerpt": "SummaryYelp is seeking a Sales Enablement Manager to lead our team of Sales Enablement Specialists supporting the Emerging and Partner & Agency Sales teams.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:panopto:Sales Development Representative",
+      "title": "Sales Development Representative",
+      "company": "Panopto",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/panopto",
+      "tags": "Sales-Development-Representative Sales-Development-Specialist Inside-Sales-Representative Outbound-Sales-Representative Lead-Generation-Specialist Sales-Business-Development-Representative Sales-Development-Associate Entry-Level-Sales-Development-Representative B2B-Sales-Development-Representative Sales-Development Sales Entry-level Full Time",
+      "source": "Himalayas",
+      "salary": "$45k – $50k",
+      "employment_type": "Full Time",
+      "excerpt": "Company Overview:At Panopto, we are the most customer-centric learning technology company in the world.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:patterson-companies:Cloud Architect",
+      "title": "Cloud Architect",
+      "company": "Patterson Companies",
+      "location": "Canada",
+      "url": "https://himalayas.app/jobs/patterson-companies",
+      "tags": "Cloud-Architect Cloud-Solutions-Architect Enterprise-Architect Platform-Architect Azure-Architect Cloud-Platform-Architect Cloud-Application-Architect Cloud-Systems-Architect Cloud-Solution-Architect Cloud-Infrastructure-Architect Cloud-Technical-Architect AWS-Cloud-Architect Principal-Cloud-Architect Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$133k – $178k",
+      "employment_type": "Full Time",
+      "excerpt": "Patterson isn't just a place to work, it's a partner that cares about your success.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:aman:Director of Sales and Marketing - Amanyara",
+      "title": "Director of Sales and Marketing - Amanyara",
+      "company": "AMAN",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/aman",
+      "tags": "Director-Of-Sales-and-Marketing Sales-Director Marketing-Director Director-Of-Revenue-Management Sales-and-Marketing-Director Head-of-Sales-and-Marketing Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Join our dynamic corporate team and become part of Aman Group.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:commercetools:Senior Named Account Executive",
+      "title": "Senior Named Account Executive",
+      "company": "commercetools",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/commercetools",
+      "tags": "Account-Executive Enterprise-Account-Executive Named-Account-Executive Sales-Executive Enterprise-Sales-Manager Senior-Account-Executive Senior-Sales-Account-Executive Senior-Strategic-Account-Executive Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$150k – $165k",
+      "employment_type": "Full Time",
+      "excerpt": "About commercetoolsReal innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:tanium:Director of Strategic Accounts - Emerging Enterprise",
+      "title": "Director of Strategic Accounts - Emerging Enterprise",
+      "company": "Tanium",
+      "location": "United Kingdom",
+      "url": "https://himalayas.app/jobs/tanium",
+      "tags": "Director-Of-Strategic-Accounts Strategic-Account-Director Enterprise-Sales-Director Enterprise-Account-Executive Strategic-Accounts-Director Director-Of-Strategic-Account-Management Director-Of-Enterprise-Accounts Enterprise-Account-Director Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "DSA – Emerging EnterpriseThe BasicsAs a Director of Strategic Accounts (DSA) on the Tanium field sales team, you will be responsible for generating opportunities to position the Tanium platform within an assigned…",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:stryker:Contract Activation Analyst",
+      "title": "Contract Activation Analyst",
+      "company": "Stryker",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/stryker",
+      "tags": "Contracts-Activation Pricing-Analyst Revenue-Operations-Analyst Contract-Management-Specialist Contracts-Operations-Analyst Contract-Analyst Contracts-Analyst Contracting-Operations-Analyst Contract-Operations-Associate Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$64k – $123k",
+      "employment_type": "Full Time",
+      "excerpt": "Work Flexibility: RemoteIn this role, you will help ensure accurate contract pricing, support revenue optimization efforts, and provide the insights that enable informed business decisions.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:imagine-pediatrics:Patient Engagement Associate II",
+      "title": "Patient Engagement Associate II",
+      "company": "Imagine Pediatrics",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/imagine-pediatrics",
+      "tags": "Patient-Experience-Associate Patient-Advocate Care-Coordinator Community-Health-Workers Healthcare-Customer-Service-Representative Patient-Engagement-Specialist Patient-Relations-Associate Patient-Services-Associate Entry-level Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$24 – $26",
+      "employment_type": "Full Time",
+      "excerpt": "Who We AreImagine Pediatrics is a tech enabled, pediatrician led medical group reimagining care for children with special health care needs.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Junior"
+      ]
+    },
+    {
+      "id": "himalayas:southern-new-hampshire-university:Online Adjunct Faculty - Computer Science- Full Stack Application Development",
+      "title": "Online Adjunct Faculty - Computer Science- Full Stack Application Development",
+      "company": "Southern New Hampshire University",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/southern-new-hampshire-university",
+      "tags": "Computer-Science-Instructor Adjunct-Faculty Full-Stack-Development-Instructor Software-Engineering-Instructor Adjunct-Faculty-Computer-Science Online-Adjunct-Professor Online-Adjunct-Faculty Online-Computer-Science-Instructor Online-Programming-Instructor Software-Development-Instructor Mid-level Part Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Part Time",
+      "excerpt": "Southern New Hampshire University is a team of innovators.",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Full Stack"
+      ]
+    },
+    {
+      "id": "himalayas:concurrent-technologies-corporation:Water Infrastructure & Resilience Engineer (Civil/Environmental/Mechanical)",
+      "title": "Water Infrastructure & Resilience Engineer (Civil/Environmental/Mechanical)",
+      "company": "Concurrent Technologies Corporation",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/concurrent-technologies-corporation",
+      "tags": "Water-Infrastructure-Engineering Water-Resources-Engineer Environmental-Engineer Civil-Engineer Resilience-Engineering Water-Infrastructure-Architect Water-Wastewater-Engineer Hydrology-Engineer Water-Systems-Engineer Water-Engineer Urban-Infrastructure-Engineer Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$89k – $135k",
+      "employment_type": "Full Time",
+      "excerpt": "Water Infrastructure & Resilience Engineer (Civil/Environmental/Mechanical) Concurrent Technologies CorporationRemote position (United States) Minimum Clearance Required: N/A Clearance Level Must Be Able to Obtain:…",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:codezyng-private-limited:Business Development Consultant",
+      "title": "Business Development Consultant",
+      "company": "Codezyng Private Limited",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/codezyng-private-limited",
+      "tags": "Business-Development-Consultant Business-Development-Specialist Sales-Consultant Business-Development-Consulting Business-Development-Advisor Business-Development-Strategy-Consultant Business-Development-Professional Business-Development Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "This is a remote position. We are seeking a motivated and well-connected Business Development Consultant with a strong professional network and proven experience in identifying business opportunities, generating leads,…",
+      "posted_date": "",
+      "first_seen": "2026-10-21T23:11:38.217925+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5491,313 +7634,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since…",
       "posted_date": "Wed, 21 Oct 2026 12:54:56 +0000",
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ai-engineer-freelance-paris-110658",
-      "title": "Senior AI Engineer - Freelance",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-paris-110658",
-      "tags": "Tech",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to…",
-      "posted_date": 1792605321,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ai-engineer-freelance-bordeaux-325712",
-      "title": "Senior AI Engineer - Freelance",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-bordeaux-325712",
-      "tags": "Tech",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to…",
-      "posted_date": 1792605321,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:assistante-marketing-digital-filtr-b-stage-europe-paris-382213",
-      "title": "Assistant.e marketing digital Filtr F/H/NB - Stage",
-      "company": "sonymusicentertainment",
-      "location": "Europe, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sonymusicentertainment/assistante-marketing-digital-filtr-b-stage-europe-paris-382213",
-      "tags": "SME France",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;Sony Music Entertainment, recherche un.e assistant.e marketing digital Filtr F/H au sein de son pôle Digital.&lt;/p&gt; &lt;p&gt;Dans le cadre de votre stage, vous participez aux missions…",
-      "posted_date": 1792605320,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:manager-key-accounts-hotels-paris-5138",
-      "title": "Manager, Key Accounts - Hotels",
-      "company": "airbnb",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airbnb/manager-key-accounts-hotels-paris-5138",
-      "tags": "Sales",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San…",
-      "posted_date": 1792605318,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:remote-team-lead-customer-success-southern-europe-123734",
-      "title": "Team Lead Customer Success - Southern Europe",
-      "company": "Constructor",
-      "location": "Remote - France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-team-lead-customer-success-southern-europe-123734",
-      "tags": "Customer Success Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About You You're a jack-of-all-trades with a passion for cool technology and interacting with people and making them happy. You're a self-starter who's good at triaging problems and working on the most important one.…",
-      "posted_date": 1792604416,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:propulsion-ait-engineer-bordeaux-486743",
-      "title": "Propulsion AIT Engineer",
-      "company": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-ait-engineer-bordeaux-486743",
-      "tags": "MAIT Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a highly talented Propulsion AIT Engineer to help us in our mission by leading Assembly, Integration and Test activities on…",
-      "posted_date": 1792604415,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:electrical-technician-bordeaux-125904",
-      "title": "Electrical Technician",
-      "company": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/electrical-technician-bordeaux-125904",
-      "tags": "MAIT Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and…",
-      "posted_date": 1792604415,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:gestionnaire-de-reseaux-dooh-montreuil-482319",
-      "title": "Gestionnaire de Réseaux DOOH",
-      "company": "GROUPE CAMPUS",
-      "location": "Montreuil",
-      "url": "https://www.arbeitnow.fr/jobs/companies/groupe-campus/gestionnaire-de-reseaux-dooh-montreuil-482319",
-      "tags": "System and Network Administration Cdi - contrat à durée indéterminée professionnel / expérimenté",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
-      "excerpt": "Groupe Campus, c'est une agence qui sait rester jeune au contact des étudiants ! Une agence de communication 360° spécialisée sur la cible étudiante parce qu'on est comme eux, des idées et des projets pleins la tête...…",
-      "posted_date": 1792598443,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:signalling-security-specialist-paris-142621",
-      "title": "Signalling Security Specialist",
-      "company": "P1 Security",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/signalling-security-specialist-paris-142621",
-      "tags": "Remote Consulting Engineering Permanent employment professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Permanent employment, professional / experienced",
-      "excerpt": "About the Role As a Telecom Signalling Security Analyst , you will combine customer-facing delivery with hands-on technical execution in sensitive telecom environments. You will: Support and operate P1 Security…",
-      "posted_date": 1792598443,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-ios-engineer-kmp-pos-paris-455101",
-      "title": "Senior iOS Engineer (KMP) - POS",
-      "company": "SumUp",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/senior-ios-engineer-kmp-pos-paris-455101",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "Team description The Order Taking squad owns core ordering experiences within SumUp's Point of Sale app, including the shopping bag, checkout, the catalog experience within ordering, open orders, table management and…",
-      "posted_date": 1792597530,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:assistante-chef-de-projet-marketing-alternance-paris-7229",
-      "title": "Assistant·e Chef de Projet Marketing - alternance",
-      "company": "Deliveroo ",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-7229",
-      "tags": "",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across…",
-      "posted_date": 1792597530,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:ingenieur-conception-mecanique-experimente-eaunes-465062",
-      "title": "Ingénieur Conception Mécanique expérimenté",
-      "company": "SUD AUTOMATION",
-      "location": "Eaunes",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sud-automation/ingenieur-conception-mecanique-experimente-eaunes-465062",
-      "tags": "Engineering Cdi - contrat à durée indéterminée professionnel / expérimenté",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
-      "excerpt": "Basée au sud de TOULOUSE, SUD AUTOMATION, PME innovante à taille humaine, conçoit, développe et installe pour de grands comptes des domaines de l’Automobile, de l’Aérospatial, de la Défense de l’Energie et de…",
-      "posted_date": 1792596688,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:conseiller-en-gestion-de-patrimoine-independant-h-f-clichy-197069",
-      "title": "Conseiller en Gestion de Patrimoine indépendant (H/F)",
-      "company": "Serenilife Group",
-      "location": "Clichy",
-      "url": "https://www.arbeitnow.fr/jobs/companies/serenilife-group/conseiller-en-gestion-de-patrimoine-independant-h-f-clichy-197069",
-      "tags": "Private Banking Auto-entrepreneur/indépendant freelance professionnel / expérimenté",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Auto-entrepreneur/indépendant, freelance, professionnel / expérimenté",
-      "excerpt": "À propos de nous Serenilife Group est un cabinet de courtage en assurance qui accompagne particuliers et indépendants (freelances IT, professions de santé libérales) sur leur protection et leur épargne. Pour accompagner…",
-      "posted_date": 1792594850,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:ingenieur-systemes-reseaux-paris-454753",
-      "title": "Ingénieur Systèmes & Réseaux",
-      "company": "ANETSYS",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anetsys/ingenieur-systemes-reseaux-paris-454753",
-      "tags": "Engineering Cdi - contrat à durée indéterminée débutant",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Cdi - contrat à durée indéterminée, débutant",
-      "excerpt": "Présentation de l’entreprise Enracinée dans la région de la Marne depuis sa fondation en 2019, ANETSYS incarne une entreprise dynamique du secteur informatique, basée à Reims. Son savoir-faire s'étend largement dans ce…",
-      "posted_date": 1792594850,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:analyste-soc-n3-paris-17603",
-      "title": "Analyste SOC N3",
-      "company": "ANETSYS",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anetsys/analyste-soc-n3-paris-17603",
-      "tags": "Engineering Cdi - contrat à durée indéterminée professionnel / expérimenté",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
-      "excerpt": "Présentation de l’entreprise Basée à Reims, ANETSYS est une entreprise de conseil et d’ingénierie informatique spécialisée dans la cybersécurité. Nous accompagnons des organisations publiques et privées sur des…",
-      "posted_date": 1792594850,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-outsourced-sales-manager-vinted-go-acquisition-428716",
-      "title": "Senior Outsourced Sales Manager: Vinted Go Acquisition",
-      "company": "Vinteden",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vinteden/senior-outsourced-sales-manager-vinted-go-acquisition-428716",
-      "tags": "Business & Commercial",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span…",
-      "posted_date": 1792594515,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:accounts-payable-specialist-paris-300749",
-      "title": "Accounts Payable Specialist",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/accounts-payable-specialist-paris-300749",
-      "tags": "Operations Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and…",
-      "posted_date": 1792593618,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5815,7 +7652,7 @@ window.JOB_DATA = {
       "excerpt": "About SeeSicht Gmbh SeeSicht is a small family office of AI-first companies. We build companies that are profitable today and keep them for the long term — not a venture builder chasing funding rounds. Every project is…",
       "posted_date": 1792624654,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5833,7 +7670,7 @@ window.JOB_DATA = {
       "excerpt": "Looking for a role where you can use your ML skills to redefine how an entire industry solves core problems? We have that! Zerolook ($1.9M raised in August 2026, founded by former Google Flights and Kayak execs) is…",
       "posted_date": 1792600249,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5851,7 +7688,7 @@ window.JOB_DATA = {
       "excerpt": "Über YOO Sali. Wir sind YOO, die Basler Digitalagentur. Wir entwickeln digitale Lösungen, die Prozesse vereinfachen und Teams produktiver machen. Dafür arbeiten bei uns Menschen aus unterschiedlichsten Disziplinen eng…",
       "posted_date": 1792598443,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5869,7 +7706,7 @@ window.JOB_DATA = {
       "excerpt": "................ Für ein langfristiges und technologisch anspruchsvolles Transformationsprogramm suchen wir für unseren Kunden aus Bern zwei erfahrene ICT Integrationsarchitekten (Fachapplikationen). In dieser Rolle…",
       "posted_date": 1792594851,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5887,7 +7724,7 @@ window.JOB_DATA = {
       "excerpt": "We make it GmbH ist ein national in der Schweiz agierendes Unternehmen, welches dank langjähriger und erfolgreicher Erfahrung über eine hohe Kompetenz im Personaldienstleistungsbereich verfügt. Konzentration der…",
       "posted_date": 1792610254,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5905,7 +7742,7 @@ window.JOB_DATA = {
       "excerpt": "Wir suchen für einen unserer Kunden einen erfahrenen Python & Cloud Native Software Engineer. Als Senior Software Engineer übernimmst du eine zentrale technische Rolle in einem agilen Entwicklungsteam der Telekom. Neben…",
       "posted_date": 1792594850,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5923,7 +7760,7 @@ window.JOB_DATA = {
       "excerpt": "Innosuisse, l’Agence suisse pour l’encouragement de l’innovation, soutient l’innovation fondée sur la science pour la Suisse de demain et aide les start-up et les PME à saisir les opportunités de l’avenir et à être…",
       "posted_date": 1792594850,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5941,7 +7778,7 @@ window.JOB_DATA = {
       "excerpt": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and…",
       "posted_date": 1792593618,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5959,7 +7796,7 @@ window.JOB_DATA = {
       "excerpt": "................ Für ein anspruchsvolles Infrastruktur-Transformationsprojekt in Basel suchen wir eine:n erfahrene: H3C Expert . Im Rahmen des Projekts wird eine bestehende Server-, Storage- und…",
       "posted_date": 1792593062,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5977,7 +7814,7 @@ window.JOB_DATA = {
       "excerpt": "Looking for a role that allows you to architect an engine serving billions of queries per month at sub-second latency? We have that! Zerolook ($1.9M raised in August '26, founded by former Google Flights and Kayak…",
       "posted_date": 1792593062,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -5995,136 +7832,9 @@ window.JOB_DATA = {
       "excerpt": "................ Für ein langfristiges und technologisch anspruchsvolles Transformationsprogramm suchen wir für unseren Kunden aus Bern mehrere erfahrene In diesem Projekt unterstützt du die agile Umsetzung eines…",
       "posted_date": 1792591279,
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-director-global-commissioning-handover-amsterdam-12723",
-      "title": "Senior Director, Global Commissioning & Handover",
-      "company": "Volta",
-      "location": "Netherlands - Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/volta/senior-director-global-commissioning-handover-amsterdam-12723",
-      "tags": "Delivery Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI…",
-      "posted_date": 1792604417,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:founding-account-executive-ma-and-advisory-amsterdam-392848",
-      "title": "Founding Account Executive, M&A and Advisory",
-      "company": "Ideals",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ideals/founding-account-executive-ma-and-advisory-amsterdam-392848",
-      "tags": "Key Accounts Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Get to know us Ideals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000…",
-      "posted_date": 1792604416,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:sales-development-representative-benelux-amsterdam-185586",
-      "title": "Sales Development Representative - BeNeLux",
-      "company": "Monday.com",
-      "location": "Amsterdam (Remote)",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mondaycom/sales-development-representative-benelux-amsterdam-185586",
-      "tags": "Revenue Growth Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "monday.com is the AI work platform powering the most ambitious teams. 250,000+ customers across departments use us to bring people, workflows, and AI agents together on one flexible platform where AI doesn't just…",
-      "posted_date": 1792604416,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:product-manager-oracle-hcm-consultant-amsterdam-135478",
-      "title": "Product Manager - Oracle HCM Consultant",
-      "company": "Infosys Consulting Europe",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/infosys-consulting-europe/product-manager-oracle-hcm-consultant-amsterdam-135478",
-      "tags": "Management Consulting Workforce Transformation",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "HR Transformation &amp; HR Cloud Advisory Consultant Oracle HCM Levels: Principal You want to boost your career and collaborate with expert, talented colleagues to solve and deliver against our clients' most important…",
-      "posted_date": 1792596014,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-outsourced-sales-manager-vinted-go-acquisition-159757",
-      "title": "Senior Outsourced Sales Manager: Vinted Go Acquisition",
-      "company": "Vinteden",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-outsourced-sales-manager-vinted-go-acquisition-159757",
-      "tags": "Business & Commercial",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span…",
-      "posted_date": 1792594515,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:lead-backend-engineer-incident-management-amsterdam-85632",
-      "title": "Lead Backend Engineer, Incident Management",
-      "company": "Vinteden",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/lead-backend-engineer-incident-management-amsterdam-85632",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span…",
-      "posted_date": 1792594515,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "arbeitnow:android-engineer-frontend-technologies-amsterdam-302688",
-      "title": "Android Engineer, Frontend Technologies",
-      "company": "Vinteden",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/android-engineer-frontend-technologies-amsterdam-302688",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span…",
-      "posted_date": 1792594515,
-      "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Android",
-        "Frontend"
       ]
     },
     {
@@ -6140,7 +7850,7 @@ window.JOB_DATA = {
       "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired…",
       "posted_date": "2026-10-21T14:06:17-04:00",
       "first_seen": "2026-10-21T19:59:06.144101+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6158,7 +7868,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Paoli, Pennsylvania URL: https://duckduckgo.com Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in…",
       "posted_date": "Wed, 21 Oct 2026 13:46:32 +0000",
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -6176,7 +7886,7 @@ window.JOB_DATA = {
       "excerpt": "Eintritt: Ab sofort oder nach Vereinbarung Arbeitsort: Wallisellen Aufgaben Beratung und Unterstützung von Führungskräften in sämtlichen HR-Themen Verantwortung für den Rekrutierungsprozess Begleitung von Entwicklungs-,…",
       "posted_date": 1792587650,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6194,7 +7904,7 @@ window.JOB_DATA = {
       "excerpt": "................ For our banking client in Zurich , we are looking for an experienced Senior AI-Native Software Engineer / Coach to drive the transformation of software development through the practical application of…",
       "posted_date": 1792584061,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6212,7 +7922,7 @@ window.JOB_DATA = {
       "excerpt": "Tätigkeiten: Planung und Umsetzung von Marketingaktivitäten unter Berücksichtigung des Mediaplans Entwicklung und Gestaltung von Marketingunterlagen und verschiedenen Inhalten für die Kommunikationskanäle Betreuung der…",
       "posted_date": 1792584059,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6230,7 +7940,7 @@ window.JOB_DATA = {
       "excerpt": "Für unseren Kunden im Bankenumfeld suchen wir einen erfahrenen Senior Software Engineer. Du unterstützt die Weiterentwicklung und den Betrieb der Zahlungsverkehrsapplikationen EBICS, SWIFT und MBCLT. Dabei arbeitest du…",
       "posted_date": 1792582273,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6248,7 +7958,7 @@ window.JOB_DATA = {
       "excerpt": "Wir bieten für die Promotion der Angebote von Home Office Club Schweiz, die Möglichkeit als Promo / Admin / Social Media Quereinsteiger-/in mitzuarbeiten. Aufgaben Remote Job / Home Office Job / von zu Hause arbeiten…",
       "posted_date": 1792576875,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6266,7 +7976,7 @@ window.JOB_DATA = {
       "excerpt": "Ihre Schwerpunkte Verantwortlich für die Ausbildung und Betreuung der Lernenden Eigenverantwortliche Abwicklung der gesamten Personaladministration von A bis Z Unterstützung bei der Betreuung und Rekrutierung von…",
       "posted_date": 1792573426,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6284,7 +7994,7 @@ window.JOB_DATA = {
       "excerpt": "Für unseren Kunden mit Sitz in Luzern suchen wir eine Fachperson Digitalisierung (Abteilung Finanz- und Rechnungswesen). Ihre Aufgaben im Bereich Digitalisierung Sie treiben die Digitalisierung im Finanz- und…",
       "posted_date": 1792573425,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6302,61 +8012,7 @@ window.JOB_DATA = {
       "excerpt": "Innosuisse, die schweizerische Agentur für Innovationsförderung, fördert wissenschaftsbasierte Innovation für die Schweiz von morgen und hilft Start-ups und KMU, die Chancen der Zukunft zu nutzen und international…",
       "posted_date": 1792573425,
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:c005491-senior-engineer-network-ns-mon-2-nov-brunssum-104830",
-      "title": "C005491 Senior Engineer (Network) (NS) - MON 2 Nov",
-      "company": "Emw",
-      "location": "Brunssum, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/emw/c005491-senior-engineer-network-ns-mon-2-nov-brunssum-104830",
-      "tags": "Computer & Network Security AAS Contract",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "Deadline Date: Monday 2 November 2026 Requirement: Senior Engineer (Network) Location: Brunssum, NL Full Time On-Site: Yes Time On-Site: 100% Total Scope of the request (hours): 270 Required Start Date: 7 December 2026…",
-      "posted_date": 1792585207,
-      "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:c005486-senior-engineer-devsecops-ns-mon-2-nov-brunssum-482101",
-      "title": "C005486 Senior Engineer (DevSecOps) (NS) - MON 2 Nov",
-      "company": "Emw",
-      "location": "Brunssum, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/emw/c005486-senior-engineer-devsecops-ns-mon-2-nov-brunssum-482101",
-      "tags": "Computer & Network Security AAS Contract",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "Deadline Date: Monday 2 November 2026 Requirement: Senior Engineer (DevSecOps) Location: Brunssum, NL Full Time On-Site: Yes Time On-Site: 100% Total Scope of the request (hours): 270 Required Start Date: 7 December…",
-      "posted_date": 1792585207,
-      "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:scientific-product-manager-amsterdam-436063",
-      "title": "Scientific Product Manager",
-      "company": "Cuspai",
-      "location": "Amsterdam, NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/cuspai/scientific-product-manager-amsterdam-436063",
-      "tags": "Product Management Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock…",
-      "posted_date": 1792582816,
-      "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6374,7 +8030,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-21T15:00:37.126828+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6392,7 +8048,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support…",
       "posted_date": "Wed, 21 Oct 2026 07:31:25 +0000",
       "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6410,7 +8066,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting…",
       "posted_date": "Wed, 21 Oct 2026 07:31:06 +0000",
       "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6428,242 +8084,7 @@ window.JOB_DATA = {
       "excerpt": "Wir sind ein 2011 gegründetes Spin-off der ETH Zürich mit Startup-Spirit. Mit unserer SaaS-Lösung quitt übernehmen wir in der Schweiz, Deutschland und England die korrekte Anstellung privater Arbeitskräfte für…",
       "posted_date": 1792571464,
       "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:industrial-software-engineer-railway-applications-80-100-regensdorf-310451",
-      "title": "Industrial Software Engineer - Railway Applications (m/w/d) 80-100%",
-      "company": "Traila",
-      "location": "Regensdorf",
-      "url": "https://www.arbeitnow.ch/jobs/companies/traila/industrial-software-engineer-railway-applications-80-100-regensdorf-310451",
-      "tags": "Embedded Systems Firmware Development Indefinite contract (unbefristeter arbeitsvertrag) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "excerpt": "About Traila At Traila, we are dedicated to shaping the future of rail transport through cutting-edge technology. Since our founding in 2017, we have been driven by a passion for sustainability and excellence. We…",
-      "posted_date": 1792586853,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:kosmetikerin-brow-stylistin-50-100-ab-sofort-lucerne-383106",
-      "title": "Kosmetikerin / Brow Stylistin (m/w/d) 50 - 100% ab sofort",
-      "company": "Lovely Brows GmbH",
-      "location": "Lucerne",
-      "url": "https://www.arbeitnow.ch/jobs/companies/lovely-brows-gmbh/kosmetikerin-brow-stylistin-50-100-ab-sofort-lucerne-383106",
-      "tags": "Beauty Wellness Unbefristeter arbeitsvertrag berufserfahren",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "excerpt": "Wir sind ein Kosmetikunternehmen mit Filialen in Bern, Luzern, Biel, Solothurn, Thun und Winterthur. Für die Filiale in Luzern suchen wir eine Kosmetikerin / Brow Stylistin 50 - 100% ab sofort. Aufgaben Wir bieten Ihnen…",
-      "posted_date": 1792569675,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:ui-software-engineer-80-100-schlieren-311928",
-      "title": "UI Software Engineer (f/m/d) - 80-100%",
-      "company": "Tethys Robotics AG",
-      "location": "Schlieren",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tethys-robotics-ag/ui-software-engineer-80-100-schlieren-311928",
-      "tags": "Web Development Indefinite contract (unbefristeter arbeitsvertrag) professional / experienced",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "excerpt": "Tethys Robotics develops innovative robotic solutions for subsea inspection & investigation operations in challenging conditions. We serve governmental organizations, large asset operators and industrial service…",
-      "posted_date": 1792564251,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:polygrafin-oder-mediamatikerin-60-100-risch-rotkreuz-474724",
-      "title": "Polygraf:in oder Mediamatiker:in (60-100%)",
-      "company": "ANDERHUB DRUCK-SERVICE AG",
-      "location": "Risch-Rotkreuz",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anderhub-druck-service-ag/polygrafin-oder-mediamatikerin-60-100-risch-rotkreuz-474724",
-      "tags": "Media Screen and Web Design Unbefristeter arbeitsvertrag",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Unbefristeter arbeitsvertrag",
-      "excerpt": "Wir sind ein grafischer Familienbetrieb in zweiter Generation mit rund 20 Mitarbeitenden. Unsere Kundschaft ist anspruchsvoll und fordernd. Mit einem bestens ausgebildeten, motivierten Team und moderner Infrastruktur…",
-      "posted_date": 1792562448,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:fullstack-web-developer-zurich-298773",
-      "title": "Fullstack Web Developer",
-      "company": "Auterion",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-298773",
-      "tags": "Engineering",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are looking for a hands-on Fullstack Web Developer to join our Web Apps team, in our Zürich office. In this role you will have the opportunity to…",
-      "posted_date": 1792562116,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Full Stack",
-        "Web"
-      ]
-    },
-    {
-      "id": "arbeitnow:software-engineer-java-schiphol-rijk-414666",
-      "title": "Software Engineer - Java",
-      "company": "Schubergphilis",
-      "location": "Schiphol-Rijk",
-      "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/software-engineer-java-schiphol-rijk-414666",
-      "tags": "Technology",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;blockquote&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&lt;span data-ccp-parastyle=&quot;No Spacing&quot;&gt;Work on the mission-critical Java back end&lt;/span&gt;&lt;/span&gt;&lt;/blockquote&gt;…",
-      "posted_date": 1792572915,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:carrier-account-executive-eindhoven-205938",
-      "title": "Carrier Account Executive",
-      "company": "Ctrlchain",
-      "location": "Eindhoven, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ctrlchain/carrier-account-executive-eindhoven-205938",
-      "tags": "Logistics and Supply Chain Carrier Relationships Full time mid-senior",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, mid-senior",
-      "excerpt": "Description Do you have experience managing carrier networks and want to directly&nbsp;impact&nbsp;commercial success? At&nbsp;CtrlChain,&nbsp;we’re&nbsp;looking for a driven&nbsp;Carrier Account Executive&nbsp;to…",
-      "posted_date": 1792563615,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-data-engineering-consultant-utrecht-151402",
-      "title": "Senior Data Engineering Consultant",
-      "company": "Conflux",
-      "location": "Utrecht, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-data-engineering-consultant-utrecht-151402",
-      "tags": "BigData Republic Experienced fulltime permanent",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime permanent",
-      "excerpt": "Als Senior Data Engineering Consultant bij BigData Republic adviseer je toonaangevende organisaties in Nederland over complexe data-vraagstukken. Je combineert hands-on engineering met een adviserende rol: je schrijft…",
-      "posted_date": 1792560696,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-front-end-consultant-angular-utrecht-49787",
-      "title": "Senior Front End Consultant (Angular)",
-      "company": "Conflux",
-      "location": "Utrecht, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-front-end-consultant-angular-utrecht-49787",
-      "tags": "Divotion Experienced fulltime permanent",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime permanent",
-      "excerpt": "Leid complexe Angular-omgevingen naar een hoger niveau Als Senior Front-end Development Consultant bij Divotion ben jij inhoudelijk richtinggevend binnen Angular-trajecten. Je helpt organisaties met complexe front-end…",
-      "posted_date": 1792560696,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Frontend"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-front-end-consultant-react-utrecht-76711",
-      "title": "Senior Front End Consultant (React)",
-      "company": "Conflux",
-      "location": "Utrecht, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-front-end-consultant-react-utrecht-76711",
-      "tags": "Divotion Experienced fulltime permanent",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime permanent",
-      "excerpt": "Leid complexe React-omgevingen naar een hoger niveau. Als Senior Front-end Development Consultant bij Divotion ben jij inhoudelijk richtinggevend binnen React-trajecten. Je helpt organisaties met complexe front-end…",
-      "posted_date": 1792560696,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Frontend"
-      ]
-    },
-    {
-      "id": "arbeitnow:projectleider-cybersecurity-congres-rdi-amersfoort-382488",
-      "title": "Projectleider Cybersecurity Congres | RDI",
-      "company": "Berenschot Groep B.V.",
-      "location": "Amersfoort, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/projectleider-cybersecurity-congres-rdi-amersfoort-382488",
-      "tags": "Interim management Senior executive temporary",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Senior executive, temporary",
-      "excerpt": "Omschrijving Wij zijn voor de Rijksinspectie Digitale Infrastructuur (RDI ) op zoek naar een ervaren Projectleider . De RDI zet zich in voor een veilig verbonden Nederland en werkt aan actuele thema’s zoals…",
-      "posted_date": 1792560695,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-cosmetic-chemist-soest-240767",
-      "title": "Senior Cosmetic Chemist",
-      "company": "Keune Haircosmetics Manufacturing B.V.",
-      "location": "Soest, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keune-haircosmetics-manufacturing-bv/senior-cosmetic-chemist-soest-240767",
-      "tags": "Research & Innovation Experienced fulltime fixed term",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime fixed term",
-      "excerpt": "We are looking for an experienced Senior Cosmetic Chemist for our KEUNE Beauty Solutions team. You combine excellent formulation skills with the confidence to tackle development projects independently. You will remain…",
-      "posted_date": 1792560695,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-accountmanager-zorg-ict-utrecht-379012",
-      "title": "Senior Accountmanager Zorg & ICT",
-      "company": "IG&H",
-      "location": "Utrecht, Utrecht, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/igh/senior-accountmanager-zorg-ict-utrecht-379012",
-      "tags": "Beter Healthcare Experienced fulltime fixed term",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime fixed term",
-      "excerpt": "Je opent nieuwe deuren bij zorgorganisaties en bouwt vanuit vertrouwen aan nieuwe samenwerkingen. Wil jij bijdragen aan dienstverlening in de zorg die er echt toe doet? Krijg jij energie van het leggen van nieuwe…",
-      "posted_date": 1792560695,
-      "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6681,189 +8102,27 @@ window.JOB_DATA = {
       "excerpt": "Risk Analyst / Risk Manager â Remote Enterprise Risk | Compliance | Governance | Financial &amp; Operational Risk Position Type: Full-Time, Remote Working Hours: U.S. Client Business Hours (with flexibility for…",
       "posted_date": "2026-10-20T08:00:05+00:00",
       "first_seen": "2026-10-21T09:55:55.365530+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "arbeitnow:account-executive-german-speaking-switzerland-26743",
-      "title": "Account Executive (German Speaking)",
-      "company": "Deepgram",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/deepgram/account-executive-german-speaking-switzerland-26743",
-      "tags": "Sales - AE Full Time",
-      "source": "Arbeitnow",
+      "id": "himalayas:scalejet:PPC Manager",
+      "title": "PPC Manager",
+      "company": "ScaleJet",
+      "location": "Israel",
+      "url": "https://himalayas.app/jobs/scalejet",
+      "tags": "Amazon-PPC-Manager PPC-Manager Digital-Marketing-Manager Amazon-Advertising-Manager Amazon-Seller-Account-Manager PPC-Advertising-Manager PPC-Campaign-Manager PPC-Management Paid-Search-Manager Paid-Search-Campaign-Manager PPC-Campaign-Management Paid-Ads-Manager Manager Full Time",
+      "source": "Himalayas",
       "salary": "",
       "employment_type": "Full Time",
-      "excerpt": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice…",
-      "posted_date": 1792539615,
+      "excerpt": "About the jobOur Client, an international e-commerce company with a strong presence in the USA, is looking for a highly skilled and experienced professional to fill an immediate opening for Amazon PPC Manager for a…",
+      "posted_date": "",
       "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-director-patient-advocacy-communications-lead-emea-zug-73404",
-      "title": "Senior Director, Patient Advocacy & Communications Lead, EMEA",
-      "company": "Scholarrock",
-      "location": "Zug",
-      "url": "https://www.arbeitnow.ch/jobs/companies/scholarrock/senior-director-patient-advocacy-communications-lead-emea-zug-73404",
-      "tags": "Patient Advocacy Full-Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Scholar Rock is delivering muscle-targeted breakthroughs to transform the treatment of spinal muscular atrophy (SMA) and other rare neuromuscular diseases where muscle atrophy remains a critical unmet need. As a global…",
-      "posted_date": 1792537782,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:staff-software-engineer-java-billing-geneva-129814",
-      "title": "Staff Software Engineer (Java) - Billing",
-      "company": "Sonarsource",
-      "location": "Geneva",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-software-engineer-java-billing-geneva-129814",
-      "tags": "Storefront Employee / Full-Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Employee / Full-Time",
-      "excerpt": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted…",
-      "posted_date": 1792537782,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:major-account-manager-italy-geneva-144641",
-      "title": "Major Account Manager - Italy",
-      "company": "Sonarsource",
-      "location": "Geneva",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/major-account-manager-italy-geneva-144641",
-      "tags": "Sales EMEA Full-time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full-time",
-      "excerpt": "Who is Sonar? Sonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted…",
-      "posted_date": 1792537781,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:english-to-german-switzerland-review-lead-for-ui-marketing-product-content-zurich-switzerland-195762",
-      "title": "English to German (Switzerland) Review Lead for UI, Marketing & Product Content",
-      "company": "Welo Global",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/welo-global/english-to-german-switzerland-review-lead-for-ui-marketing-product-content-zurich-switzerland-195762",
-      "tags": "Translation & Localization Freelance-Remote",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Freelance-Remote",
-      "excerpt": "About Welo Global &nbsp; Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure,…",
-      "posted_date": 1792537778,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-partner-solutions-engineer-emea-478598",
-      "title": "Senior Partner Solutions Engineer - EMEA",
-      "company": "talkdesk2",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/talkdesk2/senior-partner-solutions-engineer-emea-478598",
-      "tags": "Solution Engineering & Shared Services",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;The Sr. Partner Solutions Engineer is a highly experienced technical lead responsible for driving the growth and technical enablement of our key partners (Telcos, Global Systems Integrators, Resellers and BPOs)…",
-      "posted_date": 1792551315,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-google-ads-specialist-international-e-commerce-remote-asap-290385",
-      "title": "Senior Google Ads Specialist | International E-commerce | Remote ASAP",
-      "company": "EnnovationHUB",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ennovationhub/senior-google-ads-specialist-international-e-commerce-remote-asap-290385",
-      "tags": "Marketing Remote Student school fulltime permanent",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Student school, fulltime permanent",
-      "excerpt": "ennovationHUB is a rapidly growing international e-commerce group operating in the home &amp; living category, with a strong focus on furniture. From our hubs in Belgrade, Barcelona, and London, we serve customers…",
-      "posted_date": 1792549881,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:graduate-fpga-engineer-2027-start-amsterdam-296913",
-      "title": "Graduate FPGA Engineer (2027 Start)",
-      "company": "Optiverus",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/optiverus/graduate-fpga-engineer-2027-start-amsterdam-296913",
-      "tags": "Hardware",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p data-local-id=&quot;6618a4c09482&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-block=&quot;true&quot; data-pm-slice=&quot;1 1…",
-      "posted_date": 1792540520,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-financial-controller-rotterdam-194687",
-      "title": "Senior Financial Controller",
-      "company": "MVRDV",
-      "location": "Rotterdam , Zuid-Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mvrdv/senior-financial-controller-rotterdam-194687",
-      "tags": "Finance & Operations Experienced fulltime fixed term",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Experienced, fulltime fixed term",
-      "excerpt": "MVRDV zoekt een Senior Financial Controller om ons Finance &amp; Operations team in Rotterdam te versterken. Je bent de financiële rechterhand van onze Head of Finance en de dagelijkse sparringpartner voor Project…",
-      "posted_date": 1792539098,
-      "first_seen": "2026-10-21T04:10:41.078660+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:junior-business-data-analyst-lausanne-187365",
-      "title": "Junior Business Data Analyst",
-      "company": "Pix4D",
-      "location": "Lausanne, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/pix4d/junior-business-data-analyst-lausanne-187365",
-      "tags": "Finance Computer Software Full time entry",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full time, entry",
-      "excerpt": "PIX4D is seeking a talented Business Data Analyst to bridge Finance, Product Management and Commercial Operations (Sales and Marketing), develop complex analytical tools to drive strategic decisions and optimize…",
-      "posted_date": 1792527619,
-      "first_seen": "2026-10-20T23:42:50.147678+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
       ]
     },
     {
@@ -6879,7 +8138,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and…",
       "posted_date": "Tue, 20 Oct 2026 18:10:55 +0000",
       "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -6897,277 +8156,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary We are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring…",
       "posted_date": "Tue, 20 Oct 2026 17:54:13 +0000",
       "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:network-customer-support-engineer-zurich-416749",
-      "title": "Network Customer Support Engineer",
-      "company": "Point One Navigation",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/point-one-navigation/network-customer-support-engineer-zurich-416749",
-      "tags": "Customer Success Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Location: Zurich, Paris or Munich Language: Fluency in a two European languages in addition to English. About Us Point One Navigation is building the future of precise location. Our mission is to deliver a unified…",
-      "posted_date": 1792518044,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:sr-talent-people-partner-zurich-10806",
-      "title": "Sr Talent & People Partner",
-      "company": "Rivia",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivia/sr-talent-people-partner-zurich-10806",
-      "tags": "People Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About Rivia Rivia is a technology company building a data engine that powers the future of clinical trial intelligence. Rivia was founded on the belief that new drugs can be brought to market more successfully with a…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-campus-recruiter-amsterdam-216692",
-      "title": "Senior Campus Recruiter",
-      "company": "Imc",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/imc/senior-campus-recruiter-amsterdam-216692",
-      "tags": "Human Resources",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;Ready to shape the future of talent acquisition in a global trading firm? As a Senior Campus Recruiter, you&#39;ll be the driving force behind spotting and bringing the top 1% of talent from Europe&#39;s…",
-      "posted_date": 1792518936,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-jetbrains-air-agentic-development-in-ides-amsterdam-247685",
-      "title": "Senior Product Manager – JetBrains Air (Agentic Development in IDEs)",
-      "company": "jetbrains",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/jetbrains/senior-product-manager-jetbrains-air-agentic-development-in-ides-amsterdam-247685",
-      "tags": "AI DevTools Experience Product",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "&lt;p&gt;Are you comfortable navigating complex software systems, working with coding agents, and defining what makes developer tools actually useful? Do you want to shape how developers and AI work together inside…",
-      "posted_date": 1792518931,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:full-stack-engineer-amsterdam-329815",
-      "title": "Full Stack Engineer",
-      "company": "Mytomorrows",
-      "location": "Amsterdam HQ",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mytomorrows/full-stack-engineer-amsterdam-329815",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About myTomorrows myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options. We strive to enable earlier and better treatment access by bridging the gap…",
-      "posted_date": 1792518044,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Full Stack"
-      ]
-    },
-    {
-      "id": "arbeitnow:marketing-events-planner-the-hague-417632",
-      "title": "Marketing Events Planner",
-      "company": "Robin Radar",
-      "location": "Delft",
-      "url": "https://www.arbeitnow.nl/jobs/companies/robin-radar/marketing-events-planner-the-hague-417632",
-      "tags": "Commercial Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Bring our brand to life on the global stage – keeping our event presence sharp from ideation to post-event cleanup. As our Marketing Events Planner, you lead the end-to-end execution of our local and international…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:strategic-partnerships-lead-amsterdam-126893",
-      "title": "Strategic Partnerships Lead",
-      "company": "Datasnipper",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/strategic-partnerships-lead-amsterdam-126893",
-      "tags": "Revenue Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About DataSnipper Audit is the bedrock of the global economy. DataSnipper builds the AI that auditors and finance teams rely on to do that work with confidence: agents designed around how audits are actually performed,…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:engineering-manager-billing-monetization-amsterdam-8860",
-      "title": "Engineering Manager, Billing & Monetization",
-      "company": "Datasnipper",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/engineering-manager-billing-monetization-amsterdam-8860",
-      "tags": "Engineering Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About the role Every customer's path through DataSnipper, from first sign-up to first agent run to renewal, runs on systems your team owns. We are hiring an Engineering Manager in our Amsterdam office to lead Billing…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:social-creative-stage-amsterdam-152316",
-      "title": "Social Creative stage",
-      "company": "Crisp",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/social-creative-stage-amsterdam-152316",
-      "tags": "Internships - HQ Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Als stagiair Social Creative heb je een schermtijd die je liever niet hardop zegt en ben je altijd op de hoogte van de laatste social media trends. Van feta-ovenpasta tot knapperige aardappelsalade en van chopped…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:digital-marketing-stage-amsterdam-85572",
-      "title": "Digital Marketing stage",
-      "company": "Crisp",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/digital-marketing-stage-amsterdam-85572",
-      "tags": "Internships - HQ Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Crisp is een van de snelst groeiende scale-ups in Europa en digitale marketing speelt daarin een cruciale rol. Daarom zijn we op zoek naar een stagiair die onze online marketeers helpt om zoveel mogelijk nieuwe klanten…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:first-line-technical-support-specialist-dutch-speaking-utrecht-313198",
-      "title": "First Line Technical Support Specialist (Dutch Speaking)",
-      "company": "Rentman",
-      "location": "Utrecht",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/first-line-technical-support-specialist-dutch-speaking-utrecht-313198",
-      "tags": "CX Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-transport-equipment-utrecht-393883",
-      "title": "Senior Product Manager Transport (Equipment)",
-      "company": "Rentman",
-      "location": "Utrecht",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/senior-product-manager-transport-equipment-utrecht-393883",
-      "tags": "R&D Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:av-industry-expert-german-speaking-utrecht-373433",
-      "title": "AV Industry Expert (German-speaking)",
-      "company": "Rentman",
-      "location": "Utrecht",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/av-industry-expert-german-speaking-utrecht-373433",
-      "tags": "CX Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:customer-success-manager-benelux-utrecht-45224",
-      "title": "Customer Success Manager - Benelux",
-      "company": "Rentman",
-      "location": "Utrecht",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/customer-success-manager-benelux-utrecht-45224",
-      "tags": "CX Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "arbeitnow:devops-engineer-utrecht-94038",
-      "title": "DevOps Engineer",
-      "company": "Rentman",
-      "location": "Utrecht",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/devops-engineer-utrecht-94038",
-      "tags": "R&D Full Time",
-      "source": "Arbeitnow",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About us Rentman is a B2B SaaS scale-up building a smart, powerful operations management platform to support event and media production teams. Our users plan everything from small shoots to massive festivals in 70+…",
-      "posted_date": 1792518043,
-      "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7185,7 +8174,7 @@ window.JOB_DATA = {
       "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired…",
       "posted_date": "2026-10-20T13:39:57-04:00",
       "first_seen": "2026-10-20T20:21:51.204632+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7203,7 +8192,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Bulgaria URL: https://vertexmg.com Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You…",
       "posted_date": "Tue, 20 Oct 2026 11:32:37 +0000",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7221,7 +8210,7 @@ window.JOB_DATA = {
       "excerpt": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This…",
       "posted_date": "2026-10-20T07:41:37-04:00",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7239,7 +8228,7 @@ window.JOB_DATA = {
       "excerpt": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This…",
       "posted_date": "2026-10-20T07:40:27-04:00",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7257,7 +8246,7 @@ window.JOB_DATA = {
       "excerpt": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This…",
       "posted_date": "2026-10-20T07:39:48-04:00",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7275,7 +8264,7 @@ window.JOB_DATA = {
       "excerpt": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer…",
       "posted_date": "2026-10-19T16:00:04+00:00",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7293,7 +8282,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-20T16:39:26.131922+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7311,7 +8300,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, US, Ohio Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living…",
       "posted_date": "Tue, 20 Oct 2026 07:31:04 +0000",
       "first_seen": "2026-10-20T11:14:53.526886+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7329,7 +8318,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, US, Texas Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living…",
       "posted_date": "Tue, 20 Oct 2026 07:31:00 +0000",
       "first_seen": "2026-10-20T11:14:53.526886+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7347,7 +8336,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit…",
       "posted_date": "Tue, 20 Oct 2026 07:30:57 +0000",
       "first_seen": "2026-10-20T11:14:53.526886+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7365,7 +8354,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a…",
       "posted_date": "2026-10-18T19:00:02+00:00",
       "first_seen": "2026-10-19T20:28:46.114096+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7383,7 +8372,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's…",
       "posted_date": "2026-10-18T18:00:01+00:00",
       "first_seen": "2026-10-19T20:28:46.114096+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -7401,7 +8390,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-19T20:28:46.114096+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7419,7 +8408,7 @@ window.JOB_DATA = {
       "excerpt": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know…",
       "posted_date": "2026-10-17T16:04:29",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7437,7 +8426,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: https://growthminded.co About the role You'll own the data layer underneath InsightsOS and EngageOS, the products that turn booking, CRM, ad, and financial data from multi-location brands into…",
       "posted_date": "Mon, 19 Oct 2026 12:47:58 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7455,7 +8444,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Germany Düsseldorf Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn…",
       "posted_date": "Mon, 19 Oct 2026 10:01:21 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7473,7 +8462,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are…",
       "posted_date": "Mon, 19 Oct 2026 09:29:00 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -7491,7 +8480,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Clover Health is investing in our fraud detection and investigation capabilities and is seeking a Director, AI-Enabled Fraud Prevention &amp; Investigations to join our Legal department as a…",
       "posted_date": "Mon, 19 Oct 2026 07:31:11 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7509,7 +8498,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote (US) &nbsp; About the Role As a Freelance Marketo Email Specialist, you'll build, test, and launch email programs in Marketo for a range of client brands. This is a hands-on, execution-only contract…",
       "posted_date": "Mon, 19 Oct 2026 07:31:25 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7527,7 +8516,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and…",
       "posted_date": "Mon, 19 Oct 2026 09:21:57 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -7545,9 +8534,27 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and…",
       "posted_date": "Mon, 19 Oct 2026 09:17:52 +0000",
       "first_seen": "2026-10-19T14:30:22.254694+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:micro1:Mechanical Engineering Expert (MSc. or PhD)",
+      "title": "Mechanical Engineering Expert (MSc. or PhD)",
+      "company": "micro1",
+      "location": "Remote",
+      "url": "https://himalayas.app/jobs/micro1",
+      "tags": "Mechanical-Engineering-Specialist Mechanical-Engineer Mechanical-Design-Engineer Ingénieur-En-Génie-Mécanique Mechanical-Engineering-Consulting Mechanical-Engineering Ingénieur-En-Mécanique Mechanical-Machinery-Specialist Mechanical-Engineering-Jobs Mid-level Senior Contractor",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Contractor",
+      "excerpt": "Mechanical Engineering Expert (MSc. or PhD)Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if…",
+      "posted_date": "",
+      "first_seen": "2026-10-19T14:30:22.254694+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -7563,7 +8570,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative…",
       "posted_date": "Sun, 18 Oct 2026 07:31:05 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7581,7 +8588,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle…",
       "posted_date": "Sun, 18 Oct 2026 07:31:05 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7599,7 +8606,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote- USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost…",
       "posted_date": "Sun, 18 Oct 2026 07:31:05 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7617,7 +8624,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative…",
       "posted_date": "Sun, 18 Oct 2026 07:30:59 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7635,7 +8642,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron,…",
       "posted_date": "Sun, 18 Oct 2026 07:30:58 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7653,7 +8660,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York City; Remote Squarespace is seeking a talented Staff Software Engineer to support and evolve the systems at the core core of our monetization platform: billing, payments and orders. In this role,…",
       "posted_date": "Sun, 18 Oct 2026 07:30:58 +0000",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7671,7 +8678,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;p&gt;&lt;span&gt;At Curtins, we&#39;re an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.&lt;/span&gt;&lt;/p&gt;&lt;p…",
       "posted_date": "2026-10-17T08:00:50+00:00",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -7689,7 +8696,7 @@ window.JOB_DATA = {
       "excerpt": "Packmatic is the leading digital platform for packaging procurement. We connect companies with a Europe-wide network of packaging suppliers â fast, transparent and data-driven. With Packa , we have built a new…",
       "posted_date": "2026-10-17T08:00:42+00:00",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7707,7 +8714,7 @@ window.JOB_DATA = {
       "excerpt": "Remote, Brazil, Full Time, Individual Contributor, +3 years of experience Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned…",
       "posted_date": "2026-10-17T08:00:32+00:00",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7725,25 +8732,7 @@ window.JOB_DATA = {
       "excerpt": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word…",
       "posted_date": "2026-10-17T08:00:25+00:00",
       "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:improvado:RevOps Manager",
-      "title": "RevOps Manager",
-      "company": "Improvado",
-      "location": "Costa Rica",
-      "url": "https://himalayas.app/jobs/improvado",
-      "tags": "Revenue-Operations-Manager Sales-Operations-Manager GTM-Operations-Manager Business-Operations-Manager RevOps-Manager RevOps-Management Manager Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About ImprovadoImprovado is an AI-powered marketing data platform built for mid-market and enterprise teams.",
-      "posted_date": "",
-      "first_seen": "2026-10-18T10:44:23.434184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7761,7 +8750,7 @@ window.JOB_DATA = {
       "excerpt": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know…",
       "posted_date": "2026-10-17T01:09:20+00:00",
       "first_seen": "2026-10-18T05:37:02.890937+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7779,7 +8768,7 @@ window.JOB_DATA = {
       "excerpt": "We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker…",
       "posted_date": "2026-10-16T17:55:35+00:00",
       "first_seen": "2026-10-17T19:08:42.001364+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend",
         "Full Stack"
@@ -7798,7 +8787,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-17T19:08:42.001364+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7816,7 +8805,7 @@ window.JOB_DATA = {
       "excerpt": "About Self Bill Pro: Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly benefits billing. We provide a…",
       "posted_date": "2026-10-16T16:00:39+00:00",
       "first_seen": "2026-10-17T16:15:02.175778+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7834,7 +8823,7 @@ window.JOB_DATA = {
       "excerpt": "Yopeso has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 employees across five locations, we are dedicated to…",
       "posted_date": "2026-10-16T16:00:33+00:00",
       "first_seen": "2026-10-17T16:15:02.175778+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7852,7 +8841,7 @@ window.JOB_DATA = {
       "excerpt": "AboutÂ theÂ Company: KodlandÂ isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology.…",
       "posted_date": "2026-10-16T16:00:26+00:00",
       "first_seen": "2026-10-17T16:15:02.175778+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7870,7 +8859,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, US About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining…",
       "posted_date": "Sat, 17 Oct 2026 07:30:54 +0000",
       "first_seen": "2026-10-17T08:26:15.416621+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7888,7 +8877,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they…",
       "posted_date": "Sat, 17 Oct 2026 07:30:50 +0000",
       "first_seen": "2026-10-17T08:26:15.416621+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7906,7 +8895,7 @@ window.JOB_DATA = {
       "excerpt": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize…",
       "posted_date": "2026-10-16T00:00:56+00:00",
       "first_seen": "2026-10-17T03:53:05.067963+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7924,7 +8913,7 @@ window.JOB_DATA = {
       "excerpt": "The Role We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The…",
       "posted_date": "2026-10-16T00:00:50+00:00",
       "first_seen": "2026-10-17T03:53:05.067963+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7942,7 +8931,7 @@ window.JOB_DATA = {
       "excerpt": "Voltus represents the potential of us to better manage energy through simple, cost and risk-free demand response programs. Our commercial and industrial customers earn cash by letting us maximize the value of their…",
       "posted_date": "2026-10-16T00:00:43+00:00",
       "first_seen": "2026-10-17T03:53:05.067963+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7960,7 +8949,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-17T03:53:05.067963+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7978,7 +8967,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer…",
       "posted_date": "Fri, 16 Oct 2026 14:21:11 +0000",
       "first_seen": "2026-10-16T17:15:23.523221+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -7996,7 +8985,7 @@ window.JOB_DATA = {
       "excerpt": "Allego is a rapidly growing SaaS technology company in the Boston area and creator of the market-leading Revenue Enablement Platform. Our technology helps Go-To-Market teams build the skills and access the knowledge…",
       "posted_date": "2026-10-15T16:00:21+00:00",
       "first_seen": "2026-10-16T17:15:23.523221+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8014,7 +9003,7 @@ window.JOB_DATA = {
       "excerpt": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature…",
       "posted_date": "2026-10-15T16:00:03+00:00",
       "first_seen": "2026-10-16T17:15:23.523221+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -8032,7 +9021,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-16T17:15:23.523221+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8050,7 +9039,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company…",
       "posted_date": "Fri, 16 Oct 2026 07:31:00 +0000",
       "first_seen": "2026-10-16T12:13:39.160568+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8068,7 +9057,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300…",
       "posted_date": "Fri, 16 Oct 2026 07:30:50 +0000",
       "first_seen": "2026-10-16T12:13:39.160568+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8086,7 +9075,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, Colorado, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data…",
       "posted_date": "Fri, 16 Oct 2026 07:30:50 +0000",
       "first_seen": "2026-10-16T12:13:39.160568+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8104,7 +9093,7 @@ window.JOB_DATA = {
       "excerpt": "Company Profile: Our client was founded to provide high quality professional &amp; personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates. The…",
       "posted_date": "2026-10-15T08:00:17+00:00",
       "first_seen": "2026-10-16T12:13:39.160568+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -8122,7 +9111,7 @@ window.JOB_DATA = {
       "excerpt": "We are seeking a Project and Quality Administrator (Quality Systems) to provide project administration and data coordination support across multiple active projects. The role will maintain accurate project records,…",
       "posted_date": "2026-10-15T08:00:11+00:00",
       "first_seen": "2026-10-16T12:13:39.160568+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8140,7 +9129,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Australia URL: https://www.askablelabs.com/ We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you…",
       "posted_date": "Fri, 16 Oct 2026 00:50:53 +0000",
       "first_seen": "2026-10-16T01:04:52.871595+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8158,7 +9147,7 @@ window.JOB_DATA = {
       "excerpt": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo…",
       "posted_date": "2026-10-15T00:00:19+00:00",
       "first_seen": "2026-10-16T01:04:52.871595+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "React Native"
       ]
@@ -8176,7 +9165,7 @@ window.JOB_DATA = {
       "excerpt": "\\n \\n $100,000 - $120,000 a year Akicita Federal, LLC is a growing 8(a) small business that delivers healthcare, professional, and administrative services to federal agencies. We're adding a contracts manager to help us…",
       "posted_date": "2026-10-15T00:00:13+00:00",
       "first_seen": "2026-10-16T01:04:52.871595+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8194,7 +9183,7 @@ window.JOB_DATA = {
       "excerpt": "\\n \\n $100,000 - $120,000 a year Akicita Federal, LLC is a growing 8(a) small business serving federal agencies. We're looking for someone who has been the go-to contact for a federal client: the person the agency calls…",
       "posted_date": "2026-10-15T00:00:05+00:00",
       "first_seen": "2026-10-16T01:04:52.871595+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8212,7 +9201,7 @@ window.JOB_DATA = {
       "excerpt": "Make videos about brands you love and get paid, no social following required! Hello! We’d love for you to join our platform!👋 Sign up (it's free) and create videos about brands you love across beauty, food &amp; drink,…",
       "posted_date": "2026-10-15T14:12:21-04:00",
       "first_seen": "2026-10-15T22:02:54.469569+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8230,7 +9219,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: London URL: http://www.medify.co.uk Remote | Full-Time | UK&nbsp; About Us At Medify, we’re on a mission to widen access to medicine and healthcare careers through world-class digital learning experiences.…",
       "posted_date": "Thu, 15 Oct 2026 13:59:07 +0000",
       "first_seen": "2026-10-15T18:08:13.309041+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8248,7 +9237,7 @@ window.JOB_DATA = {
       "excerpt": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired…",
       "posted_date": "2026-10-15T10:14:32-04:00",
       "first_seen": "2026-10-15T18:08:13.309041+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8266,7 +9255,7 @@ window.JOB_DATA = {
       "excerpt": "UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences. We develop private villa retreats in beautiful locations around the world, each with high-end…",
       "posted_date": "2026-10-14T16:00:05+00:00",
       "first_seen": "2026-10-15T18:08:13.309041+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8284,7 +9273,7 @@ window.JOB_DATA = {
       "excerpt": "Remote | Independent Contractor | Get certified for future project opportunities Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps…",
       "posted_date": "2026-10-14T14:44:21+00:00",
       "first_seen": "2026-10-15T18:08:13.309041+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8302,7 +9291,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Canada This is Engineering at Lattice Lattice’s Engineering team is continuously working to better both our product and our craft. We use a modern, cutting-edge tech stack and love experimenting…",
       "posted_date": "Thu, 15 Oct 2026 07:31:21 +0000",
       "first_seen": "2026-10-15T13:14:07.202858+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8320,7 +9309,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the…",
       "posted_date": "Thu, 15 Oct 2026 07:31:21 +0000",
       "first_seen": "2026-10-15T13:14:07.202858+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8338,7 +9327,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Canada (Remote) About the Role: An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case…",
       "posted_date": "Thu, 15 Oct 2026 07:31:14 +0000",
       "first_seen": "2026-10-15T13:14:07.202858+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8356,25 +9345,7 @@ window.JOB_DATA = {
       "excerpt": "Join Our Global Customer Engagement Network Company: Ultimate Marketing LLC Location: Worldwide | Remote Employment Type: Independent Contractor (1099 for eligible U.S. contractors) Compensation: Performance-Based |…",
       "posted_date": "2026-10-14T01:31:49+00:00",
       "first_seen": "2026-10-15T07:12:12.584189+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:thehivecareers:Chief Information Security Officer (CISO) — Insurance & Investments",
-      "title": "Chief Information Security Officer (CISO) — Insurance & Investments",
-      "company": "TheHiveCareers",
-      "location": "Bermuda",
-      "url": "https://himalayas.app/jobs/thehivecareers",
-      "tags": "Chief-Information-Security-Officer Head-of-Information-Security Head-Of-Cybersecurity Information-Security-Director Chief-Information-Security-Officer-(CISO) CISO CISO-Security-and-Compliance Information-Security-and-Cyber-Risk Executive Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Job SummaryThe Chief Information Security Officer (CISO) is the executive responsible for protecting the organization's information, technology infrastructure, applications, data, and digital services from cyber threats…",
-      "posted_date": "",
-      "first_seen": "2026-10-14T18:25:10.764142+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8392,7 +9363,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - India About the Team The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI…",
       "posted_date": "Wed, 14 Oct 2026 07:31:00 +0000",
       "first_seen": "2026-10-14T13:30:25.676731+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8410,7 +9381,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 14 Oct 2026 07:30:48 +0000",
       "first_seen": "2026-10-14T13:30:25.676731+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8428,7 +9399,7 @@ window.JOB_DATA = {
       "excerpt": "OUR MISSION We exist to create a more connected, compassionate, and confident experience for people with cancer and those who care for them. We make it easier to get answers, access high-quality care quickly, and feel…",
       "posted_date": "2026-10-13T08:00:11+00:00",
       "first_seen": "2026-10-14T13:30:25.676731+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8446,7 +9417,7 @@ window.JOB_DATA = {
       "excerpt": "This is a remote financial-services seat built around warm leads and a training system. If you are competitive and willing to be coached, it can become a long-term career. If you want a job with no conversations, it…",
       "posted_date": "2026-10-13T08:00:04+00:00",
       "first_seen": "2026-10-14T13:30:25.676731+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8464,7 +9435,7 @@ window.JOB_DATA = {
       "excerpt": "Remote Language Projects – Native &amp; Fluent Speakers Remote | Independent Contractor iMerit, an EXL Company, is looking for native or fluent speakers of Burmese, Persian, Khmer, Maltese, and Slovenian for upcoming…",
       "posted_date": "2026-10-14T00:32:03-04:00",
       "first_seen": "2026-10-14T07:21:01.939767+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8482,7 +9453,7 @@ window.JOB_DATA = {
       "excerpt": "AI Trainer Remote | Independent Contractor Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the…",
       "posted_date": "2026-10-14T00:29:00-04:00",
       "first_seen": "2026-10-14T07:21:01.939767+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8500,7 +9471,7 @@ window.JOB_DATA = {
       "excerpt": "Your Opportunity As a Principal Engineer , you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical…",
       "posted_date": "2026-10-13T00:00:18+00:00",
       "first_seen": "2026-10-14T01:42:50.970609+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -8518,7 +9489,7 @@ window.JOB_DATA = {
       "excerpt": "Description BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is…",
       "posted_date": "2026-10-13T00:00:06+00:00",
       "first_seen": "2026-10-14T01:42:50.970609+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8527,34 +9498,16 @@ window.JOB_DATA = {
       "id": "himalayas:mindrift:CFD Engineer - AI Trainer",
       "title": "CFD Engineer - AI Trainer",
       "company": "Mindrift",
-      "location": "Canada",
+      "location": "Serbia",
       "url": "https://himalayas.app/jobs/mindrift",
-      "tags": "Computational-Fluid-Dynamics-Engineer Simulation-Engineer AI-Trainer Freelance-CFD-Engineering-AI-Trainer Freelance-CAD-and-Simulation-Engineering-AI-Trainer Freelance-Engineering-AI-Trainer CFD-Instructor CFD-Engineering Mid-level Part Time",
+      "tags": "Computational-Fluid-Dynamics-Engineer AI-Trainer Simulation-Engineer Mechanical-Engineer Aerospace-Engineer Freelance-CFD-Engineering-AI-Trainer Freelance-CAD-and-Simulation-Engineering-AI-Trainer Freelance-Engineering-AI-Trainer CFD-Instructor CFD-Engineering Mid-level Part Time",
       "source": "Himalayas",
-      "salary": "CAD 39 – CAD 39",
+      "salary": "$31 – $31",
       "employment_type": "Part Time",
       "excerpt": "About the role Help train and evaluate AI agents on expert-level fluid simulation tasks.",
       "posted_date": "",
       "first_seen": "2026-10-14T01:42:50.970609+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:mindrift:CAD Engineer - AI Trainer",
-      "title": "CAD Engineer - AI Trainer",
-      "company": "Mindrift",
-      "location": "Egypt",
-      "url": "https://himalayas.app/jobs/mindrift",
-      "tags": "Cad-Engineer Mechanical-Engineer Aerospace-Engineer AI-Trainer Freelance-CAD-and-Simulation-Engineering-AI-Trainer Freelance-Mechanical-CAD-and-Simulation-AI-Trainer Senior Part Time",
-      "source": "Himalayas",
-      "salary": "$9 – $9",
-      "employment_type": "Part Time",
-      "excerpt": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours.",
-      "posted_date": "",
-      "first_seen": "2026-10-13T22:29:06.432720+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8572,7 +9525,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-13T22:29:06.432720+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8590,7 +9543,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. &nbsp;…",
       "posted_date": "Wed, 16 Sep 2026 12:24:17 +0000",
       "first_seen": "2026-10-13T17:27:24.279347+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8608,7 +9561,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-10-13T06:06:11-04:00",
       "first_seen": "2026-10-13T17:27:24.279347+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -8626,7 +9579,7 @@ window.JOB_DATA = {
       "excerpt": "QuickMail is a cold email and LinkedIn outreach platform for markets you can't afford to burn. Our customers can't easily replace leads that land in spam, which is why deliverability matters more to us than anything…",
       "posted_date": "2026-10-12T16:20:10+00:00",
       "first_seen": "2026-10-13T17:27:24.279347+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8644,7 +9597,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-13T17:27:24.279347+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -8662,7 +9615,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, US Senior Talent Acquisition Partner (Contract) Location: Remote (required to live in one of the following states: AZ, CA, CO, FL, GA, IL, MI, MN, NY, NC, TX, UT, VT) Duration: 6 month contract…",
       "posted_date": "Tue, 13 Oct 2026 07:30:53 +0000",
       "first_seen": "2026-10-13T09:10:34.132934+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8680,7 +9633,7 @@ window.JOB_DATA = {
       "excerpt": "SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. Trusted by allied governments, militaries, enterprises, and research institutions…",
       "posted_date": "2026-10-12T00:00:04+00:00",
       "first_seen": "2026-10-13T01:11:17.396548+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8698,7 +9651,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI…",
       "posted_date": "Mon, 12 Oct 2026 16:38:01 +0000",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8716,7 +9669,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: General Information: Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world. …………………………………………………………………………… About the Role: Lead in high…",
       "posted_date": "Mon, 12 Oct 2026 16:28:34 +0000",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8734,7 +9687,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: We are looking for Salesforce Developers for a global company. Their goal is to accelerate Salesforce delivery across Flows, Lightning Web Components, and Apex while using AI copilots and agents to improve…",
       "posted_date": "Mon, 12 Oct 2026 16:21:23 +0000",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8752,7 +9705,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Summary We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce…",
       "posted_date": "Mon, 12 Oct 2026 13:52:56 +0000",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -8770,7 +9723,7 @@ window.JOB_DATA = {
       "excerpt": "Set your own hours, take inbound banking card calls from home, and earn up to $350 in certification bonuses. The contract has a pool of 20,000+ hours of work available every month. Earnings at a Glance $15.00–$17.00 per…",
       "posted_date": "2026-10-12T11:35:50-04:00",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8788,7 +9741,7 @@ window.JOB_DATA = {
       "excerpt": "ð Why Midnite? Midnite is a next-generation sports betting and gaming platform built for a new wave of players. We combine sharp product thinking, bold brand, and fast execution to create experiences that feel…",
       "posted_date": "2026-10-11T16:00:03+00:00",
       "first_seen": "2026-10-12T18:51:07.082817+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8806,7 +9759,7 @@ window.JOB_DATA = {
       "excerpt": "Looking for Philippines-based candidates Job Role: Marketing and Sales Administrator Compensation range: $1,500 AUD - $2,000 AUD / Monthly Engagement type: Independent Contractor Agreement Work Schedule: This role is…",
       "posted_date": "2026-10-11T08:00:06+00:00",
       "first_seen": "2026-10-12T08:55:30.891902+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8824,7 +9777,7 @@ window.JOB_DATA = {
       "excerpt": "About DEUNA &nbsp;ð§¡ &nbsp; DEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce…",
       "posted_date": "2026-10-11T00:00:05+00:00",
       "first_seen": "2026-10-12T01:06:22.036844+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8842,7 +9795,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production…",
       "posted_date": "Sun, 11 Oct 2026 07:31:07 +0000",
       "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8860,7 +9813,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production…",
       "posted_date": "Sun, 11 Oct 2026 07:31:07 +0000",
       "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -8878,25 +9831,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY; Remote, US (Hub cities) Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company…",
       "posted_date": "Sun, 11 Oct 2026 07:30:56 +0000",
       "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:155006",
-      "title": "IT Engineer",
-      "company": "Elevenlabs",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/155006-it-engineer-2",
-      "tags": "DevOps & Infrastructure Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and…",
-      "posted_date": "2026-10-22T06:03:50+00:00",
-      "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8914,7 +9849,7 @@ window.JOB_DATA = {
       "excerpt": "Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical,…",
       "posted_date": "2026-10-10T08:00:08+00:00",
       "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -8932,7 +9867,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-11T12:28:47.679741+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8950,7 +9885,7 @@ window.JOB_DATA = {
       "excerpt": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS…",
       "posted_date": "2026-10-10T00:00:17+00:00",
       "first_seen": "2026-10-11T05:10:57.721231+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -8968,7 +9903,7 @@ window.JOB_DATA = {
       "excerpt": "Location : 100% remote (Ohio residency required) Classification : Full-time, exempt Reports to : School Leader Pay Range : $40.00 - $48.00 per hour Welcome to Miaplaza! Our vision is to elevate online learning by…",
       "posted_date": "2026-10-10T00:00:11+00:00",
       "first_seen": "2026-10-11T05:10:57.721231+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -8986,7 +9921,7 @@ window.JOB_DATA = {
       "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and…",
       "posted_date": "2026-10-10T00:00:05+00:00",
       "first_seen": "2026-10-11T05:10:57.721231+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9004,7 +9939,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in…",
       "posted_date": "2026-10-09T13:09:18+00:00",
       "first_seen": "2026-10-10T15:09:07.815711+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9022,7 +9957,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000…",
       "posted_date": "Sat, 10 Oct 2026 07:31:08 +0000",
       "first_seen": "2026-10-10T08:17:50.912646+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9040,7 +9975,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: India (remote) Machine Learning Engineer IV – (Computer Vision) We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and…",
       "posted_date": "Sat, 10 Oct 2026 07:30:40 +0000",
       "first_seen": "2026-10-10T08:17:50.912646+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9058,9 +9993,27 @@ window.JOB_DATA = {
       "excerpt": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent…",
       "posted_date": "2026-10-09T08:00:04+00:00",
       "first_seen": "2026-10-10T08:17:50.912646+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend"
+      ]
+    },
+    {
+      "id": "himalayas:truvani:Video Editor REMOTE",
+      "title": "Video Editor REMOTE",
+      "company": "Truvani",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/truvani",
+      "tags": "Video-Editing Video-Editor Social-Media-Video-Editor Content-Creator Motion-Graphics Remote-Video-Editor Remote-Video-Editing Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Craft Story-Driven Ads: Use raw footage, voiceovers, and product shots to produce high-performing short-form video ads for Instagram and TikTok reels.",
+      "posted_date": "",
+      "first_seen": "2026-10-10T08:17:50.912646+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -9076,7 +10029,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace…",
       "posted_date": "Fri, 09 Oct 2026 13:49:21 +0000",
       "first_seen": "2026-10-09T16:00:43.714226+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9094,7 +10047,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:54:14-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -9112,7 +10065,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:53:42-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -9130,7 +10083,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:53:14-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9148,7 +10101,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:52:05-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9166,7 +10119,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:51:39-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9184,7 +10137,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:51:16-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9202,7 +10155,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:50:55-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9220,7 +10173,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:49:29-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9238,7 +10191,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:48:51-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9256,7 +10209,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:48:01-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9274,7 +10227,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:47:21-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -9292,7 +10245,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:46:31-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -9310,7 +10263,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent…",
       "posted_date": "2026-10-08T12:45:56-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9328,7 +10281,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:45:18-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9346,7 +10299,7 @@ window.JOB_DATA = {
       "excerpt": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your…",
       "posted_date": "2026-10-08T12:44:55-04:00",
       "first_seen": "2026-10-08T21:55:10.545791+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9364,7 +10317,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace…",
       "posted_date": "Thu, 08 Oct 2026 11:41:36 +0000",
       "first_seen": "2026-10-08T16:16:33.995880+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9382,7 +10335,25 @@ window.JOB_DATA = {
       "excerpt": "Einleitung Wir suchen ab sofort tatkrÃ¤ftige UnterstÃ¼tzung fÃ¼r unser Team&nbsp; in Vollzeit !&nbsp; FÃ¼r unsere âTierhalterbesitzer:innen bist du der erste Anlaufpunkt und das beruhigende LÃ¤cheln am Telefon. Du…",
       "posted_date": "2026-10-07T16:00:05+00:00",
       "first_seen": "2026-10-08T16:16:33.995880+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:mindrift:Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "company": "Mindrift",
+      "location": "Israel",
+      "url": "https://himalayas.app/jobs/mindrift",
+      "tags": "Mechanical-Engineer CAD-Designer Simulation-Engineer Mechanical-CAD-Designer Freelance-Mechanical-CAD-and-Simulation-AI-Trainer Freelance-CAD-and-Simulation-Engineering-AI-Trainer Senior Part Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Part Time",
+      "excerpt": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours.",
+      "posted_date": "",
+      "first_seen": "2026-10-08T16:16:33.995880+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9400,7 +10371,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: India (remote) Role Purpose We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in…",
       "posted_date": "Thu, 08 Oct 2026 07:31:21 +0000",
       "first_seen": "2026-10-08T08:40:59.594823+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9418,7 +10389,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Austria (remote) Machine Learning Engineer&nbsp; We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition…",
       "posted_date": "Thu, 08 Oct 2026 07:31:21 +0000",
       "first_seen": "2026-10-08T08:40:59.594823+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9436,7 +10407,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA About the Role Abnormal AI protects organizations from the most sophisticated email and collaboration attacks using behavioral AI. Security is not a bolt-on at Abnormal; it is core to the…",
       "posted_date": "Thu, 08 Oct 2026 07:31:00 +0000",
       "first_seen": "2026-10-08T08:40:59.594823+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9454,7 +10425,7 @@ window.JOB_DATA = {
       "excerpt": "The Project Manager is a client-facing role at the center of everything we do. Running high-impact A/B tests requires coordination across many disciplinesâresearch, strategy, design, copywriting, development, QA,…",
       "posted_date": "2026-10-06T19:35:42+00:00",
       "first_seen": "2026-10-07T21:52:18.475897+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9472,7 +10443,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-10-07T08:31:06-04:00",
       "first_seen": "2026-10-07T16:15:12.603743+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9490,7 +10461,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we…",
       "posted_date": "Wed, 07 Oct 2026 07:31:00 +0000",
       "first_seen": "2026-10-07T08:25:17.987508+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9508,7 +10479,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron,…",
       "posted_date": "Wed, 07 Oct 2026 07:30:53 +0000",
       "first_seen": "2026-10-07T08:25:17.987508+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9526,7 +10497,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace…",
       "posted_date": "Tue, 06 Oct 2026 13:25:57 +0000",
       "first_seen": "2026-10-06T16:40:45.630713+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9544,7 +10515,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx ,…",
       "posted_date": "2026-10-06T12:31:27-04:00",
       "first_seen": "2026-10-06T16:40:45.630713+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9562,7 +10533,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-10-06T09:07:56-04:00",
       "first_seen": "2026-10-06T16:40:45.630713+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -9580,7 +10551,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We…",
       "posted_date": "2026-10-05T13:00:02+00:00",
       "first_seen": "2026-10-06T16:40:45.630713+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9598,7 +10569,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote (USA - San Francisco, CA) PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform…",
       "posted_date": "Tue, 06 Oct 2026 07:31:16 +0000",
       "first_seen": "2026-10-06T09:58:44.588264+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9616,7 +10587,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Argentina Remote Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth…",
       "posted_date": "Tue, 06 Oct 2026 07:31:05 +0000",
       "first_seen": "2026-10-06T09:58:44.588264+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9634,7 +10605,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to…",
       "posted_date": "Tue, 06 Oct 2026 07:31:05 +0000",
       "first_seen": "2026-10-06T09:58:44.588264+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -9652,7 +10623,7 @@ window.JOB_DATA = {
       "excerpt": "About Fortanix In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber…",
       "posted_date": "2026-10-04T16:00:03+00:00",
       "first_seen": "2026-10-05T22:26:14.074759+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9670,7 +10641,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single…",
       "posted_date": "Mon, 05 Oct 2026 07:31:29 +0000",
       "first_seen": "2026-10-05T15:45:58.796942+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9688,7 +10659,7 @@ window.JOB_DATA = {
       "excerpt": "Help Shape the Future of AI — From Anywhere AI is revolutionising how we interact with technology. From news feeds to navigation, machine learning can tailor our digital experiences to meet our needs — anytime,…",
       "posted_date": "2026-10-05T06:02:36-04:00",
       "first_seen": "2026-10-05T15:45:58.796942+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9706,7 +10677,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx ,…",
       "posted_date": "2026-10-05T06:02:13-04:00",
       "first_seen": "2026-10-05T15:45:58.796942+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9724,7 +10695,7 @@ window.JOB_DATA = {
       "excerpt": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is.…",
       "posted_date": "2026-10-03T20:20:32+00:00",
       "first_seen": "2026-10-04T21:07:43.883335+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9742,7 +10713,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-10-02T13:30:06",
       "first_seen": "2026-10-04T12:06:35.907226+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "React Native",
         "Android",
@@ -9762,7 +10733,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe…",
       "posted_date": "Sun, 04 Oct 2026 07:31:08 +0000",
       "first_seen": "2026-10-04T12:06:35.907226+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9780,7 +10751,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-03T17:50:57.623526+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9798,7 +10769,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-03T13:12:31.734166+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9816,7 +10787,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Humane World for Animals URL: https://humaneworld.org The general salary range for this full-time position is $80,000 – 115,000. Salary offers will be commensurate with experience, qualifications, skills,…",
       "posted_date": "Fri, 02 Oct 2026 17:39:45 +0000",
       "first_seen": "2026-10-02T18:17:21.917991+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9834,7 +10805,7 @@ window.JOB_DATA = {
       "excerpt": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.…",
       "posted_date": "2026-09-30T13:15:26",
       "first_seen": "2026-10-02T12:14:30.423452+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "React Native",
         "Android",
@@ -9854,7 +10825,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital is seeking participants for a data collection study in India. Project Cassia is about collecting Live Photos of printed text and handwritten text on various materials and locations, in Bangla, Gujarati,…",
       "posted_date": "2026-10-01T10:46:31-04:00",
       "first_seen": "2026-10-01T18:45:12.463026+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9872,7 +10843,7 @@ window.JOB_DATA = {
       "excerpt": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build…",
       "posted_date": "2026-10-01T10:04:06-04:00",
       "first_seen": "2026-10-01T18:45:12.463026+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9890,7 +10861,7 @@ window.JOB_DATA = {
       "excerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the…",
       "posted_date": "2026-09-30T18:24:42+00:00",
       "first_seen": "2026-10-01T18:45:12.463026+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9908,7 +10879,7 @@ window.JOB_DATA = {
       "excerpt": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the…",
       "posted_date": "2026-09-30T16:13:39+00:00",
       "first_seen": "2026-10-01T18:45:12.463026+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9926,7 +10897,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco, CA or Remote (U.S.) Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by…",
       "posted_date": "Thu, 01 Oct 2026 07:30:56 +0000",
       "first_seen": "2026-10-01T12:51:17.701156+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9944,7 +10915,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC or Remote (EST or CST) About the role: Hex’s legal function has gone from zero to a fully operating system in under a year. Now we need someone to own and scale the operating layer so it holds as the…",
       "posted_date": "Thu, 01 Oct 2026 07:30:56 +0000",
       "first_seen": "2026-10-01T12:51:17.701156+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9962,7 +10933,7 @@ window.JOB_DATA = {
       "excerpt": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This…",
       "posted_date": "2026-10-01T02:51:42-04:00",
       "first_seen": "2026-10-01T12:51:17.701156+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9980,7 +10951,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-10-01T12:51:17.701156+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -9998,7 +10969,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-30T19:00:29.607997+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10016,7 +10987,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative…",
       "posted_date": "Wed, 30 Sep 2026 07:31:24 +0000",
       "first_seen": "2026-09-30T13:30:47.057594+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10034,7 +11005,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: United States, Remote Job Title: Principal Software Engineer, AI&nbsp; Location : Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by…",
       "posted_date": "Wed, 30 Sep 2026 07:31:24 +0000",
       "first_seen": "2026-09-30T13:30:47.057594+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10052,7 +11023,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote (United States) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically…",
       "posted_date": "Wed, 30 Sep 2026 07:31:24 +0000",
       "first_seen": "2026-09-30T13:30:47.057594+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10070,7 +11041,25 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative…",
       "posted_date": "Wed, 30 Sep 2026 07:31:24 +0000",
       "first_seen": "2026-09-30T13:30:47.057594+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bjak:Lead, Special Projects",
+      "title": "Lead, Special Projects",
+      "company": "Bjak",
+      "location": "Singapore",
+      "url": "https://himalayas.app/jobs/bjak",
+      "tags": "Special-Projects-Director Special-Projects-Manager Lead-Project-Manager Project-Manager-Lead Project-Management-Lead Strategic-Project-Lead Manager Director Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native.",
+      "posted_date": "",
+      "first_seen": "2026-09-30T06:30:06.148053+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10088,7 +11077,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Hong Kong, Hong Kong SAR, Hong Kong URL: http://hrplus.tech About the Role: Are you a talented and driven Web Developer looking to join a young and energetic team? Look no further! Our client, a…",
       "posted_date": "Tue, 29 Sep 2026 19:13:52 +0000",
       "first_seen": "2026-09-29T20:36:15.267770+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Web",
         "Junior"
@@ -10107,7 +11096,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote - Americas, El Salvador URL: http://bondex.app We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new…",
       "posted_date": "Tue, 29 Sep 2026 19:13:52 +0000",
       "first_seen": "2026-09-29T20:36:15.267770+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -10125,7 +11114,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx,…",
       "posted_date": "2026-09-29T13:14:42-04:00",
       "first_seen": "2026-09-29T20:36:15.267770+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10143,7 +11132,7 @@ window.JOB_DATA = {
       "excerpt": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx,…",
       "posted_date": "2026-09-29T13:14:12-04:00",
       "first_seen": "2026-09-29T20:36:15.267770+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10161,7 +11150,7 @@ window.JOB_DATA = {
       "excerpt": "AI Analyst Help Shape the Future of AI — From Anywhere AI is revolutionising how we interact with technology. From news feeds to navigation, machine learning can tailor our digital experiences to meet our needs —…",
       "posted_date": "2026-09-29T13:13:38-04:00",
       "first_seen": "2026-09-29T20:36:15.267770+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10179,7 +11168,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Ghent - Belgium URL: https://www.twikey.com/jobs Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and…",
       "posted_date": "Thu, 17 Sep 2026 10:51:23 +0000",
       "first_seen": "2026-09-29T15:35:21.943316+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10197,7 +11186,7 @@ window.JOB_DATA = {
       "excerpt": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the…",
       "posted_date": "2026-09-29T08:14:54-04:00",
       "first_seen": "2026-09-29T15:35:21.943316+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10215,7 +11204,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: San Francisco Bay Area (or Remote U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone…",
       "posted_date": "Tue, 29 Sep 2026 07:30:41 +0000",
       "first_seen": "2026-09-29T08:13:07.000394+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10233,7 +11222,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast,…",
       "posted_date": "Tue, 29 Sep 2026 07:30:41 +0000",
       "first_seen": "2026-09-29T08:13:07.000394+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10251,7 +11240,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote, USA Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch.&nbsp; With a mission to make SMS your number one…",
       "posted_date": "Tue, 29 Sep 2026 07:30:41 +0000",
       "first_seen": "2026-09-29T08:13:07.000394+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10269,7 +11258,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Helsinki URL: http://airapps.com Framer Website Designer (Onsite – Presidio, San Francisco) About Air Apps At Air Apps, we believe in thinking bigger and moving faster. We’re a family-founded company on a…",
       "posted_date": "Mon, 28 Sep 2026 22:12:46 +0000",
       "first_seen": "2026-09-29T01:40:57.965604+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10287,7 +11276,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Bosnia And Herzegovina URL: http://wisevu.com Description Wisevu™, along with our sister agencies Homevu™ and charitymarketing.com ™, has been providing industry-leading digital marketing services to…",
       "posted_date": "Mon, 28 Sep 2026 22:12:45 +0000",
       "first_seen": "2026-09-29T01:40:57.965604+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10305,7 +11294,7 @@ window.JOB_DATA = {
       "excerpt": "About the Role Elite Editing is seeking experienced freelance journalists and content professionals to support our growing customer reference and case study programs. We call this our Storyteller role, and we are…",
       "posted_date": "2026-09-28T13:00:31-04:00",
       "first_seen": "2026-09-28T21:45:31.298721+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10323,7 +11312,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron,…",
       "posted_date": "Mon, 28 Sep 2026 07:31:05 +0000",
       "first_seen": "2026-09-28T15:12:02.816238+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10341,7 +11330,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Portugal - Remote Be Part of Building the Future Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron,…",
       "posted_date": "Mon, 28 Sep 2026 07:31:05 +0000",
       "first_seen": "2026-09-28T15:12:02.816238+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10359,28 +11348,9 @@ window.JOB_DATA = {
       "excerpt": "Job Title: Director, Payment Integrity Reports To: Vice President, Operations This is an exempt position reporting to the Vice President, Operations. The Director of Payment Integrity is responsible for the Quality…",
       "posted_date": "2026-09-26T16:00:26+00:00",
       "first_seen": "2026-09-27T18:11:55.301257+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
-      ]
-    },
-    {
-      "id": "himalayas:powerprozesse:Senior Backend-Entwickler – Agents (100% Remote in Deutschland)",
-      "title": "Senior Backend-Entwickler – Agents (100% Remote in Deutschland)",
-      "company": "Powerprozesse",
-      "location": "Germany",
-      "url": "https://himalayas.app/jobs/powerprozesse",
-      "tags": "Backend-Engineer Software-Engineer AI-Engineer Full-Stack-Developer Remote-Senior-Backend-Engineer Remote-Backend-Developer Senior-Backend-Development Senior-Backend-Engineering Senior Full Time",
-      "source": "Himalayas",
-      "salary": "EUR 5k – EUR 6k",
-      "employment_type": "Full Time",
-      "excerpt": "Wir suchen Senior Developer, die in unserem vollständig remoten Team an unseren Agenten arbeiten.",
-      "posted_date": "",
-      "first_seen": "2026-09-25T22:08:06.005502+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend",
-        "Full Stack"
       ]
     },
     {
@@ -10396,7 +11366,7 @@ window.JOB_DATA = {
       "excerpt": "Danish Speaking Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging the gap between high-caliber talent and global industry…",
       "posted_date": "2026-09-24T16:00:06+00:00",
       "first_seen": "2026-09-25T18:23:55.867863+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10414,7 +11384,7 @@ window.JOB_DATA = {
       "excerpt": "OPPORTUNITY: ACCOUNT MANAGER Minimum 3 years of experience working in account management within a social, creative, or integrated agency Freelance role, with possibilities of it becoming a Full Time position BKMN is a…",
       "posted_date": "2026-09-25T02:36:13-04:00",
       "first_seen": "2026-09-25T07:27:59.942263+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10432,7 +11402,7 @@ window.JOB_DATA = {
       "excerpt": "Buscamos un/a MecÃ¡nico/a Automotriz con experiencia en diagnÃ³stico tÃ©cnico, mantenimiento y reparaciÃ³n de vehÃ­culos multimarca. La persona serÃ¡ responsable de analizar las fallas de los vehÃ­culos que ingresan al…",
       "posted_date": "2026-09-24T00:00:07+00:00",
       "first_seen": "2026-09-25T01:18:38.147911+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10450,7 +11420,7 @@ window.JOB_DATA = {
       "excerpt": "Location: Remote Engagement: Independent Contractor | Project-Based iMerit, an EXL company, is looking for Video Data Annotators to support an AI training project. Youâll review video footage and annotate actions,…",
       "posted_date": "2026-09-23T21:40:19+00:00",
       "first_seen": "2026-09-24T22:11:56.746555+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10468,7 +11438,7 @@ window.JOB_DATA = {
       "excerpt": "Stack .NET Developer / Algorithm Engineer – Backend Focus. Remote We are looking for an experienced Full Stack .Net Developer, very strong on backend with some experience on F/E (react)to join our team and work on core…",
       "posted_date": "2026-09-24T10:57:36-04:00",
       "first_seen": "2026-09-24T18:56:21.542117+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -10486,7 +11456,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-24T18:56:21.542117+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10504,7 +11474,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: We are looking for a Salesforce Platform Lead for a global company. Their goal is to own the Salesforce platform as a product, improving release health, security, engineering standards, reusable patterns,…",
       "posted_date": "Thu, 24 Sep 2026 14:45:20 +0000",
       "first_seen": "2026-09-24T14:47:33.297589+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10522,7 +11492,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time…",
       "posted_date": "2026-09-23T14:00:02+00:00",
       "first_seen": "2026-09-24T14:47:33.297589+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10540,7 +11510,7 @@ window.JOB_DATA = {
       "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the…",
       "posted_date": "2026-09-23T00:00:10+00:00",
       "first_seen": "2026-09-24T04:11:48.993076+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10558,7 +11528,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Minnesota URL: https://www.steuartnutrition.com/ About us Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on…",
       "posted_date": "Wed, 23 Sep 2026 15:03:18 +0000",
       "first_seen": "2026-09-23T16:35:08.408974+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10576,7 +11546,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-23T16:35:08.408974+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10594,7 +11564,7 @@ window.JOB_DATA = {
       "excerpt": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online…",
       "posted_date": "2026-09-21T12:55:11",
       "first_seen": "2026-09-23T11:12:45.698181+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Android"
       ]
@@ -10612,7 +11582,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: United States, Remote About Glean: &nbsp; Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale…",
       "posted_date": "Wed, 23 Sep 2026 07:31:13 +0000",
       "first_seen": "2026-09-23T11:12:45.698181+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10630,7 +11600,7 @@ window.JOB_DATA = {
       "excerpt": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.…",
       "posted_date": "2026-09-23T06:49:46-04:00",
       "first_seen": "2026-09-23T11:12:45.698181+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -10648,7 +11618,7 @@ window.JOB_DATA = {
       "excerpt": "Polly English is an online English teaching company based in Singapore. We specialize in teaching English to students aged 3 to 18 across Asia, using interactive courseware inspired by Oxford Thinkers and delivered…",
       "posted_date": "2026-09-23T02:51:34-04:00",
       "first_seen": "2026-09-23T11:12:45.698181+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10666,7 +11636,7 @@ window.JOB_DATA = {
       "excerpt": "Gana dinero grabando actividades de tu vida diaria Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil. Puedes grabar tareas que ya realizas…",
       "posted_date": "2026-09-22T00:00:13+00:00",
       "first_seen": "2026-09-23T00:12:12.100532+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10684,7 +11654,7 @@ window.JOB_DATA = {
       "excerpt": "About Magic Eden and Dicey Magic Eden reached unicorn status in just 9 months after launch, one of the fastest in history. We built a category-defining NFT marketplace from scratch and proved we know how to move fast.…",
       "posted_date": "2026-09-22T00:00:07+00:00",
       "first_seen": "2026-09-23T00:12:12.100532+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -10702,601 +11672,7 @@ window.JOB_DATA = {
       "excerpt": "Hi! Iâm Hannah and I lead People Operations here at Ashby. I joined over four years ago as the first People hire and Iâm excited that our People Ops team is growing! The People Operations team supports Ashby…",
       "posted_date": "2026-09-21T16:00:11+00:00",
       "first_seen": "2026-09-22T18:40:06.584872+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153842",
-      "title": "Director, AI Solutions",
-      "company": "Wpromote",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153842-director-ai-solutions",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "The Role We’re looking for a Director of AI Solutions to join our AI team at Wpromote , reporting into the Head of AI Strategy &amp; Innovation. You'll be responsible for AI solutions that automate real workflows,…",
-      "posted_date": "2026-10-22T04:45:25+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153839",
-      "title": "Director, Earned and Owned Strategy",
-      "company": "Wpromote",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153839-director-earned-and-owned-strategy",
-      "tags": "SEO Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "The Role We are looking for a Director of Earned &amp; Owned Strategy to lead enterprise-level organic growth initiatives across a portfolio of brands, with a strong focus on local strategy and multi-location…",
-      "posted_date": "2026-10-22T04:45:24+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153845",
-      "title": "Principal Software Engineer, Infrastructure Security",
-      "company": "OpenAI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153845-principal-software-engineer-infrastructure-security",
-      "tags": "Cybersecurity Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About the Team Security is at the foundation of OpenAI ’s mission to ensure that artificial general intelligence benefits all of humanity. The Security team protects OpenAI’s technology, people, and products. We are…",
-      "posted_date": "2026-10-22T04:45:22+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153841",
-      "title": "Principal Security Engineer, Infrastructure Security",
-      "company": "OpenAI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153841-principal-security-engineer-infrastructure-security",
-      "tags": "Cybersecurity Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About the Team Security is at the foundation of OpenAI ’s mission to ensure that artificial general intelligence benefits all of humanity. The Security team protects OpenAI’s technology, people, and products. We are…",
-      "posted_date": "2026-10-22T04:45:21+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153844",
-      "title": "Principal AI Engineer",
-      "company": "Able",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/153844-principal-ai-engineer",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things—so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many…",
-      "posted_date": "2026-10-22T04:45:18+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153838",
-      "title": "Account Director, Digital Native New Business",
-      "company": "OpenAI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About the team OpenAI ’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business…",
-      "posted_date": "2026-10-22T04:45:16+00:00",
-      "first_seen": "2026-09-21T23:06:03.111932+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153822",
-      "title": "Account Executive, eComm",
-      "company": "StackAdapt",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153822-account-executive-ecomm",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing…",
-      "posted_date": "2026-10-22T06:00:11+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153829",
-      "title": "Design Engineer, Site",
-      "company": "infisical",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/153829-design-engineer-site",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of…",
-      "posted_date": "2026-10-22T05:55:10+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153826",
-      "title": "Enterprise Account Executive",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153826-enterprise-account-executive-22",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of…",
-      "posted_date": "2026-10-22T05:55:09+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153802",
-      "title": "Digital Media Planner (Direct IO - B2B)",
-      "company": "Wpromote",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153802-digital-media-planner-direct-io-b2b",
-      "tags": "Marketing & Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "The Role We're looking for a Digital Media Planner (Direct IO - B2B) to own publisher direct and partner media for one of Wpromote 's largest B2B accounts: a leading financial software company whose products span…",
-      "posted_date": "2026-10-22T04:45:23+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153831",
-      "title": "Senior Integrated Campaign Manager",
-      "company": "Feedzai",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153831-senior-integrated-campaign-manager",
-      "tags": "Marketing & Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "At Feedzai , we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in…",
-      "posted_date": "2026-10-22T04:45:19+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153834",
-      "title": "Director, Sales (Middle East)",
-      "company": "Ping Identity",
-      "location": "France",
-      "url": "https://jobicy.com/jobs/153834-director-sales-middle-east",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our…",
-      "posted_date": "2026-10-22T04:45:15+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153833",
-      "title": "Solutions Engineer",
-      "company": "infisical",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153833-solutions-engineer",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of…",
-      "posted_date": "2026-10-22T04:45:14+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153830",
-      "title": "Director, Partner Programs, Enablement, and Operations",
-      "company": "Ping Identity",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153830-director-partner-programs-enablement-and-operations",
-      "tags": "Product & Operations Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our…",
-      "posted_date": "2026-10-22T04:45:12+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153804",
-      "title": "Senior Software Engineer",
-      "company": "UpGuard",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/153804-senior-software-engineer-5",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just…",
-      "posted_date": "2026-10-22T04:45:10+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153803",
-      "title": "Senior Product Designer (Full Remote - UK)",
-      "company": "EverAI",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk",
-      "tags": "Web, UI & UX Design Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At…",
-      "posted_date": "2026-10-22T04:45:09+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153798",
-      "title": "Senior Product Designer (Full Remote - Netherlands)",
-      "company": "EverAI",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/153798-senior-product-designer-full-remote-netherlands",
-      "tags": "Web, UI & UX Design Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At…",
-      "posted_date": "2026-10-22T04:45:08+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153799",
-      "title": "Software Engineer",
-      "company": "UpGuard",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/153799-software-engineer-10",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just…",
-      "posted_date": "2026-10-22T04:45:06+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153795",
-      "title": "Director, IT",
-      "company": "Life360",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153795-director-it",
-      "tags": "DevOps & Infrastructure Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they…",
-      "posted_date": "2026-10-22T04:45:05+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153824",
-      "title": "Product Manager, AI Transformation & Salesforce",
-      "company": "Goodleap",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153824-product-manager-ai-transformation-salesforce",
-      "tags": "Product & Operations Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About GoodLeap : GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps, roofing,…",
-      "posted_date": "2026-10-22T04:40:30+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153807",
-      "title": "Kansas- Remote Mental Health Licensed Therapist, 1099 Contractor",
-      "company": "Headspace",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153807-kansas-remote-mental-health-licensed-therapist-1099-contractor-2",
-      "tags": "Healthcare & Medical Contract",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "About the Remote Licensed Therapist (1099 Contractor) role at Headspace : Headspace is currently seeking part-time, independently licensed contractor therapists to provide direct, virtual care as part of a…",
-      "posted_date": "2026-10-22T04:40:25+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153808",
-      "title": "Creative (Graphic Designer)",
-      "company": "Superside",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
-      "tags": "Creative & Design Contract",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "Superside is looking for a talented Graphic Designer to join our global creative team. You'll create standout visual work for some of the world's most ambitious brands: from brand identity and campaign design to digital…",
-      "posted_date": "2026-10-22T04:40:20+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153823",
-      "title": "AI Software Engineer",
-      "company": "Zone &#038; Co",
-      "location": "Czechia",
-      "url": "https://jobicy.com/jobs/153823-ai-software-engineer",
-      "tags": "Software Engineering Contract",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Contract",
-      "excerpt": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by…",
-      "posted_date": "2026-10-22T04:40:16+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153816",
-      "title": "Account Executive",
-      "company": "Zone &#038; Co",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/153816-account-executive-22",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by…",
-      "posted_date": "2026-10-22T04:40:15+00:00",
-      "first_seen": "2026-09-21T19:11:19.294464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153777",
-      "title": "Sales Manager - Net New Sales",
-      "company": "CoderPad",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153777-sales-manager-net-new-sales",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "CoderPad 's mission is to create a more inclusive and strong tech community. How? By improving the technical interviewing experience with tools that allow for standardization and consistency, while reducing bias and…",
-      "posted_date": "2026-10-22T05:55:12+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153788",
-      "title": "Marketing Specialist, Public Sector (Federal + SLED)",
-      "company": "DeleteMe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153788-marketing-specialist-public-sector-federal-sled",
-      "tags": "Marketing & Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web —…",
-      "posted_date": "2026-10-22T04:40:26+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153787",
-      "title": "Enterprise Account Manager",
-      "company": "Spreedly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153787-enterprise-account-manager",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Us: Spreedly is the world's leading Open Payments Platform. Founded in 2007 and headquartered in Durham, NC, the company gives mid-market and enterprise businesses the infrastructure to connect to any payment…",
-      "posted_date": "2026-10-22T04:40:19+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153785",
-      "title": "Lifecycle Marketing Manager",
-      "company": "DeleteMe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153785-lifecycle-marketing-manager",
-      "tags": "Marketing & Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web —…",
-      "posted_date": "2026-10-22T04:40:18+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153786",
-      "title": "Enterprise Solution Engineer (Pre-Sales)",
-      "company": "Zip",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153786-enterprise-solution-engineer-pre-sales",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can…",
-      "posted_date": "2026-10-22T04:40:13+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153790",
-      "title": "Partner Business Manager",
-      "company": "DeleteMe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153790-partner-business-manager",
-      "tags": "Business Development Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web —…",
-      "posted_date": "2026-10-22T04:35:30+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153793",
-      "title": "Privacy Advisor",
-      "company": "DeleteMe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153793-privacy-advisor",
-      "tags": "Cybersecurity Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "DeleteMe is the leader in proactive privacy protection. We help Individuals, Families, Businesses and Security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII)…",
-      "posted_date": "2026-10-22T04:35:29+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153789",
-      "title": "Lead Revenue Operations Analyst",
-      "company": "Spreedly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153789-lead-revenue-operations-analyst",
-      "tags": "Product & Operations Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Us: Spreedly is the world's leading Open Payments Platform. Founded in 2007 and headquartered in Durham, NC, the company gives mid-market and enterprise businesses the infrastructure to connect to any payment…",
-      "posted_date": "2026-10-22T04:35:26+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:153791",
-      "title": "Enterprise Account Executive - Central",
-      "company": "Zip",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153791-enterprise-account-executive-central-3",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can…",
-      "posted_date": "2026-10-22T04:35:23+00:00",
-      "first_seen": "2026-09-21T13:48:21.836363+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11314,28 +11690,10 @@ window.JOB_DATA = {
       "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not…",
       "posted_date": "2026-09-20T00:00:25+00:00",
       "first_seen": "2026-09-21T00:00:35.819351+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend",
         "Backend"
-      ]
-    },
-    {
-      "id": "himalayas:thehivecareers:Chief Sustainability Officer (CSO)",
-      "title": "Chief Sustainability Officer (CSO)",
-      "company": "TheHiveCareers",
-      "location": "Barbados",
-      "url": "https://himalayas.app/jobs/thehivecareers",
-      "tags": "Chief-Sustainability-Officer Head-Of-Sustainability Sustainability-Director Sustainability-Executive VP-Of-Sustainability VP-Sustainability Sustainability-Leadership Executive Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Position Overview The Chief Sustainability Officer (CSO) is responsible for leading the organization's environmental, social, and governance (ESG) strategy and sustainability initiatives.",
-      "posted_date": "",
-      "first_seen": "2026-09-20T15:49:05.581793+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
       ]
     },
     {
@@ -11351,7 +11709,7 @@ window.JOB_DATA = {
       "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise.…",
       "posted_date": "2026-09-19T00:00:16+00:00",
       "first_seen": "2026-09-20T00:52:40.535168+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11369,7 +11727,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-19T17:52:58.717685+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11387,7 +11745,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-18T14:16:13.485470+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11405,7 +11763,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and…",
       "posted_date": "2026-09-16T19:00:02+00:00",
       "first_seen": "2026-09-17T20:06:21.957090+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11423,7 +11781,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-17T20:06:21.957090+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11441,7 +11799,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-16T13:19:15.676753+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11459,7 +11817,7 @@ window.JOB_DATA = {
       "excerpt": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of…",
       "posted_date": "2026-09-15T00:00:26+00:00",
       "first_seen": "2026-09-16T01:12:12.460940+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11477,7 +11835,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-15T18:49:30.590096+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11495,7 +11853,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-15T09:54:01.085501+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11513,7 +11871,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-14T20:50:15.792184+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11531,7 +11889,7 @@ window.JOB_DATA = {
       "excerpt": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the…",
       "posted_date": "2026-09-12T16:00:10+00:00",
       "first_seen": "2026-09-13T18:43:53.793793+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11549,7 +11907,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and…",
       "posted_date": "2026-09-12T14:00:03+00:00",
       "first_seen": "2026-09-13T15:58:19.554337+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11567,7 +11925,7 @@ window.JOB_DATA = {
       "excerpt": "&lt;h3&gt;Marketing Student Assistant&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Are you studying marketing, communications or business and looking for a student job where you can build hands-on marketing experience and see how…",
       "posted_date": "2026-09-11T08:00:08+00:00",
       "first_seen": "2026-09-12T10:26:43.667653+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11585,7 +11943,7 @@ window.JOB_DATA = {
       "excerpt": "GiveWellâs mission is to help people in need as much as we can by researching the most costâeffective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will…",
       "posted_date": "2026-09-11T00:00:23+00:00",
       "first_seen": "2026-09-12T00:00:40.038573+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11603,7 +11961,7 @@ window.JOB_DATA = {
       "excerpt": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials.…",
       "posted_date": "2026-09-10T16:00:15+00:00",
       "first_seen": "2026-09-11T18:18:22.384578+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11621,25 +11979,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-11T18:18:22.384578+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:rapid7:Security Operations Analyst II",
-      "title": "Security Operations Analyst II",
-      "company": "Rapid7",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/rapid7",
-      "tags": "Security-Operations-Analyst Cybersecurity-Analyst SOC-Analyst Incident-Response-Analyst Threat-Hunting-Analyst Security-Operations-(SOC)-Analyst Security-Operations-Center-Analyst Security-Operations-Specialist Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "$82k – $110k",
-      "employment_type": "Full Time",
-      "excerpt": "As a Security Operations Analyst, you will play a critical role in enhancing our security posture and elevating customer confidence in Rapid7 products and services.",
-      "posted_date": "",
-      "first_seen": "2026-09-10T21:29:51.886499+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11657,7 +11997,7 @@ window.JOB_DATA = {
       "excerpt": "Libertex Group Overview Established in 1997, the Libertex Group is an international powerhouse with over 28 years of financial markets expertise. Over the years, the Libertex Group has helped shape the online trading…",
       "posted_date": "2026-09-08T14:57:50+00:00",
       "first_seen": "2026-09-10T14:11:23.417698+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11675,7 +12015,7 @@ window.JOB_DATA = {
       "excerpt": "As we grow so does our team. Weâre looking for a Quality Dispense Technician to join our team. We are looking for a practical person, who enjoys problem solving and wants to offer exceptional customer service, no…",
       "posted_date": "2026-09-08T13:51:19+00:00",
       "first_seen": "2026-09-10T14:11:23.417698+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11693,7 +12033,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-09T14:18:06.684448+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11711,7 +12051,7 @@ window.JOB_DATA = {
       "excerpt": "",
       "posted_date": "",
       "first_seen": "2026-09-06T18:58:13.309670+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11729,7 +12069,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you…",
       "posted_date": "2026-08-30T21:00:01+00:00",
       "first_seen": "2026-08-31T21:52:10.801381+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11747,7 +12087,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific…",
       "posted_date": "Fri, 28 Aug 2026 14:51:27 +0000",
       "first_seen": "2026-08-28T17:14:40.894961+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -11765,7 +12105,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by…",
       "posted_date": "2026-08-27T09:00:02+00:00",
       "first_seen": "2026-08-28T17:14:40.894961+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11783,7 +12123,7 @@ window.JOB_DATA = {
       "excerpt": "Apply Description Job Summary: The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS) projects. This role plays a…",
       "posted_date": "2026-08-25T21:34:13+00:00",
       "first_seen": "2026-08-28T17:14:40.894961+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11801,7 +12141,7 @@ window.JOB_DATA = {
       "excerpt": "Blackbird Interactive is a creative-fueled, future-driven, independent game studio where the best talent in the industry can find long-term careers to help grow their abilities while working on a wide range of projects,…",
       "posted_date": "2026-08-27T00:00:23+00:00",
       "first_seen": "2026-08-28T04:07:42.904946+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11819,7 +12159,7 @@ window.JOB_DATA = {
       "excerpt": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical…",
       "posted_date": "2026-08-27T00:00:17+00:00",
       "first_seen": "2026-08-28T04:07:42.904946+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11837,7 +12177,7 @@ window.JOB_DATA = {
       "excerpt": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun…",
       "posted_date": "2026-08-25T07:00:03+00:00",
       "first_seen": "2026-08-26T07:52:46.482942+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -11855,7 +12195,7 @@ window.JOB_DATA = {
       "excerpt": "More than one million people in the United States today are fighting blood cancer. While a traditional allogeneic stem cell transplant has been the best hope for many, the transplant itself can prove fatal or lead to…",
       "posted_date": "2026-08-22T16:00:15+00:00",
       "first_seen": "2026-08-23T16:31:26.702895+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -11873,299 +12213,11 @@ window.JOB_DATA = {
       "excerpt": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y…",
       "posted_date": "2026-08-22T00:00:12+00:00",
       "first_seen": "2026-08-23T01:44:15.392464+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend",
         "Backend",
         "Full Stack"
-      ]
-    },
-    {
-      "id": "jobicy:151347",
-      "title": "Business Development Representative",
-      "company": "Kinsta",
-      "location": "EMEA,  Czechia",
-      "url": "https://jobicy.com/jobs/151347-business-development-representative-8",
-      "tags": "Business Development Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Kinsta is one of the top-managed WordPress hosting companies, with a growing club of 120,000+ businesses including startups, universities and Fortune 500 firms. We're motivated by excellent quality, and proud to have…",
-      "posted_date": "2026-10-22T04:40:29+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151338",
-      "title": "Scout Junior Quality Coordinator - Spanish (Mexico)",
-      "company": "Welo Global",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
-      "tags": "QA & Testing Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "MAIN PURPOSE OF THE ROLE Are you a search engine guru? Can you find what you're looking for with just a few keywords? We have a unique opportunity for you to put your skills to the test! Welocalize is looking for an…",
-      "posted_date": "2026-10-22T04:40:23+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "jobicy:151333",
-      "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-      "company": "Welo Global",
-      "location": "Brazil",
-      "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-      "tags": "QA & Testing Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "MAIN PURPOSE OF THE ROLE Are you a search engine guru? Can you find what you're looking for with just a few keywords? We have a unique opportunity for you to put your skills to the test! Welocalize is looking for an…",
-      "posted_date": "2026-10-22T04:40:22+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "jobicy:151336",
-      "title": "Director of Business Development",
-      "company": "Hello Alice",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151336-director-of-business-development",
-      "tags": "Business Development Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "DIRECTOR OF BUSINESS DEVELOPMENT Work with a Purpose: At Hello Alice we are about equal access fueled by technology and powered by everyone who believes that diverse small business participation isn’t just the right…",
-      "posted_date": "2026-10-22T04:40:12+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151329",
-      "title": "Engineering Manager, Product Engineering",
-      "company": "Boulevard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151329-engineering-manager-product-engineering",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Who is Boulevard ? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter…",
-      "posted_date": "2026-10-22T04:40:10+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151325",
-      "title": "Strategic Enterprise Account Executive",
-      "company": "Proof",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151325-strategic-enterprise-account-executive",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Proof is the world's first identity-assured transaction management platform and we are on a mission to digitize trust for all of life’s most critical transactions. Developed by the same market leaders and experts who…",
-      "posted_date": "2026-10-22T04:35:24+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151337",
-      "title": "Technical Lead Manager",
-      "company": "Homebound",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151337-technical-lead-manager",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Us: Homebound is on a mission to make it possible for anyone, anywhere, to build a home using technology. Created by an experienced team of construction, real estate, design, and technology experts, Homebound is…",
-      "posted_date": "2026-10-22T04:35:21+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151326",
-      "title": "Director of Engineering, Data",
-      "company": "Boulevard",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151326-director-of-engineering-data",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Who is Boulevard ? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter…",
-      "posted_date": "2026-10-22T04:35:20+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151323",
-      "title": "International Tax Manager",
-      "company": "Liftoff",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151323-international-tax-manager",
-      "tags": "Finance & Accounting Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize…",
-      "posted_date": "2026-10-22T04:35:17+00:00",
-      "first_seen": "2026-08-21T20:30:52.197179+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151300",
-      "title": "Support Engineer (AMER)",
-      "company": "Supabase",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/151300-support-engineer-amer",
-      "tags": "Technical Support Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are…",
-      "posted_date": "2026-10-22T04:40:08+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151292",
-      "title": "Licensed Psychiatric Nurse Practitioner",
-      "company": "Headway.co",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151292-licensed-psychiatric-nurse-practitioner",
-      "tags": "Healthcare & Medical Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental…",
-      "posted_date": "2026-10-22T04:40:07+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151308",
-      "title": "Senior Software Engineer – Backend (USA Only - 100% Remote)",
-      "company": "Close",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151308-senior-software-engineer-backend-usa-only-100-remote",
-      "tags": "Software Engineering Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No…",
-      "posted_date": "2026-10-22T04:35:16+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "jobicy:151305",
-      "title": "Support Engineer (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/151305-support-engineer-apac",
-      "tags": "Technical Support Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are…",
-      "posted_date": "2026-10-22T04:35:14+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151301",
-      "title": "Account Executive",
-      "company": "Valerie Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151301-account-executive-8",
-      "tags": "Sales Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "About the Company Valerie Health is the AI front office for independent provider groups. We are reimagining how independent practices operate by using AI to modernize patient/provider communication, enhance care, and…",
-      "posted_date": "2026-10-22T04:35:13+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151296",
-      "title": "Licensed Psychiatrist",
-      "company": "Headway.co",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151296-licensed-psychiatrist",
-      "tags": "Healthcare & Medical Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental…",
-      "posted_date": "2026-10-22T04:35:12+00:00",
-      "first_seen": "2026-08-21T13:51:41.740285+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:sedgwick:Case Management Associate",
-      "title": "Case Management Associate",
-      "company": "Sedgwick",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/sedgwick",
-      "tags": "Case-Management-Associate Claims-Associate Medical-Claims-Specialist Workers-Compensation-Claims-Specialist Disability-Claims-Specialist Case-Management-Assistant Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "$18 – $20",
-      "employment_type": "Full Time",
-      "excerpt": "By joining Sedgwick, you'll be part of something truly meaningful.",
-      "posted_date": "",
-      "first_seen": "2026-08-21T03:07:52.865259+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
       ]
     },
     {
@@ -12181,25 +12233,7 @@ window.JOB_DATA = {
       "excerpt": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the…",
       "posted_date": "2026-08-20T00:00:15+00:00",
       "first_seen": "2026-08-21T01:41:33.034768+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "jobicy:151141",
-      "title": "AWS Data Engineer (Associate)",
-      "company": "Mactores",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151141-aws-data-engineer-associate",
-      "tags": "Data Science & Analytics Full-Time",
-      "source": "Jobicy",
-      "salary": "",
-      "employment_type": "Full-Time",
-      "excerpt": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy…",
-      "posted_date": "2026-10-22T04:40:27+00:00",
-      "first_seen": "2026-08-19T23:27:18.079677+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12217,7 +12251,7 @@ window.JOB_DATA = {
       "excerpt": "About Engine At Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change…",
       "posted_date": "2026-08-18T16:00:57+00:00",
       "first_seen": "2026-08-19T16:36:38.723638+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12235,7 +12269,7 @@ window.JOB_DATA = {
       "excerpt": "**This position is based in Germany with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides…",
       "posted_date": "2026-08-18T16:00:30+00:00",
       "first_seen": "2026-08-19T16:36:38.723638+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12253,9 +12287,27 @@ window.JOB_DATA = {
       "excerpt": "About Dreem Health, by Sunrise Dreem Health is Americaâs leading digital sleep clinic. Powered by Sunriseâs technology, Dreem Health makes sleep care simple â replacing long waits and in-lab sleep studies with…",
       "posted_date": "2026-08-18T16:00:22+00:00",
       "first_seen": "2026-08-19T16:36:38.723638+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
+      ]
+    },
+    {
+      "id": "himalayas:xsolla:Senior Backend Engineer",
+      "title": "Senior Backend Engineer",
+      "company": "Xsolla",
+      "location": "Russian Federation",
+      "url": "https://himalayas.app/jobs/xsolla",
+      "tags": "Backend-Engineer Platform-Engineer Software-Engineer Senior-Backend-Engineering Senior-Backend-Development Senior-Java-Backend-Engineer Remote-Senior-Backend-Engineer Senior-Backend-Engineer-(Java-Kotlin) Senior-Ruby-Backend-Engineer Senior Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "ABOUT US Xsolla is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry.",
+      "posted_date": "",
+      "first_seen": "2026-08-19T16:36:38.723638+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
       ]
     },
     {
@@ -12271,7 +12323,25 @@ window.JOB_DATA = {
       "excerpt": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected…",
       "posted_date": "2026-08-18T08:00:07+00:00",
       "first_seen": "2026-08-19T08:43:33.496083+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:foxelli-group:CRO Specialist | DTC E-commerce | 100% Remote EU",
+      "title": "CRO Specialist | DTC E-commerce | 100% Remote EU",
+      "company": "Foxelli Group ",
+      "location": "Albania, Andorra, Armenia, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Estonia, France, Georgia, Germany, Greece, Italy, Kosovo, Latvia, Lithuania, Moldova, North Macedonia, Romania, Serbia, Slovenia, South Africa, Spain, Thailand, United Kingdom",
+      "url": "https://himalayas.app/jobs/foxelli-group",
+      "tags": "Ecommerce-CRO-Specialist CRO-Specialist Ecommerce-Growth-Specialist Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "EUR 2k – EUR 3k",
+      "employment_type": "Full Time",
+      "excerpt": "At Foxelli, we’re building more than e-commerce brands - we’re building a tribe of thoughtful humans: AI enthusiasts, curious builders, and ambitious minds who care about doing meaningful work together.",
+      "posted_date": "",
+      "first_seen": "2026-08-19T03:02:26.278695+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12289,7 +12359,7 @@ window.JOB_DATA = {
       "excerpt": "Legal Services NYC (LSNYC) fights poverty and seeks racial, social and economic justice for low-income New Yorkers. For over 50 years, we have challenged systemic injustices that trap people in poverty and provided…",
       "posted_date": "2026-08-17T16:00:38+00:00",
       "first_seen": "2026-08-18T16:36:56.439216+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12307,7 +12377,7 @@ window.JOB_DATA = {
       "excerpt": "Position Summary: Review, draft, negotiate and track a variety of legal agreements including confidentiality disclosure agreements (CDA), initial clinical trial agreements (CTA), amendments to the clinical trial…",
       "posted_date": "2026-08-17T08:00:35+00:00",
       "first_seen": "2026-08-18T08:42:41.420526+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12325,7 +12395,7 @@ window.JOB_DATA = {
       "excerpt": "About us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling…",
       "posted_date": "2026-08-17T08:00:03+00:00",
       "first_seen": "2026-08-18T08:42:41.420526+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12343,7 +12413,7 @@ window.JOB_DATA = {
       "excerpt": "Crystalia Glass LLC is a leading provider of premium glass products, dedicated to transforming spaces with elegance and sophistication. With a commitment to craftsmanship and innovation, we specialize in designing and…",
       "posted_date": "2026-08-12T16:55:55+00:00",
       "first_seen": "2026-08-17T23:27:27.877635+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12361,7 +12431,7 @@ window.JOB_DATA = {
       "excerpt": "The DrillOps Field Deployment Lead is comfortable in the rig environment and has advanced knowledge and access to the IT infrastructure at the wellsite. The DrillOps Field Deployment Lead is essentially responsible for…",
       "posted_date": "2026-08-12T22:34:19+00:00",
       "first_seen": "2026-08-17T15:29:56.239959+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -12379,7 +12449,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Remote URL: https://www.samsara.com/ About the role: Samsara (NYSE: IOT) sits at the center of hardware, software, AI, and the physical world. The platform processes 25+ trillion data points annually from…",
       "posted_date": "Mon, 17 Aug 2026 13:57:14 +0000",
       "first_seen": "2026-08-17T14:33:11.457541+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12397,7 +12467,7 @@ window.JOB_DATA = {
       "excerpt": "Overview Physical Superintelligence is a startup with roots at Google, NVIDIA, Harvard, Meta, MIT, Oxford, Johns Hopkins, Cambridge, and the Perimeter Institute building AI systems to discover new physics at scale. We…",
       "posted_date": "2026-08-16T00:00:23+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12415,7 +12485,7 @@ window.JOB_DATA = {
       "excerpt": "The FreedomPay Commerce Platform is the technology of choice for many of the largest companies across the globe in retail, hospitality, lodging, gaming, sports and entertainment, foodservice, education, healthcare and…",
       "posted_date": "2026-08-16T00:00:16+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12433,7 +12503,7 @@ window.JOB_DATA = {
       "excerpt": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise.…",
       "posted_date": "2026-08-16T00:00:10+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Backend"
       ]
@@ -12451,10 +12521,28 @@ window.JOB_DATA = {
       "excerpt": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent…",
       "posted_date": "2026-08-16T00:00:03+00:00",
       "first_seen": "2026-08-17T01:40:15.831881+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend",
         "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:instride-health:Billing Coordinator",
+      "title": "Billing Coordinator",
+      "company": "InStride Health",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/instride-health",
+      "tags": "Medical-Billing-Specialist Billing-Coordinator Medical-Biller Healthcare-Billing-Specialist Insurance-Claims-Specialist Billing-Support-Coordinator Medical-Billing-Coordinator Billing-And-Collections-Coordinator Healthcare-Billing-Coordinator Billing-Administrator Mid-level Full Time",
+      "source": "Himalayas",
+      "salary": "$52k – $58k",
+      "employment_type": "Full Time",
+      "excerpt": "About UsInStride Health’s mission is to deliver specialty anxiety and OCD care that works for every kid, teen, young adult, and family who needs it.",
+      "posted_date": "",
+      "first_seen": "2026-08-16T18:35:39.216474+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
       ]
     },
     {
@@ -12470,7 +12558,7 @@ window.JOB_DATA = {
       "excerpt": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This…",
       "posted_date": "2026-08-15T00:00:25+00:00",
       "first_seen": "2026-08-16T01:42:13.601157+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
@@ -12488,7 +12576,25 @@ window.JOB_DATA = {
       "excerpt": "Position Type : Full-time Location: Philippines (Remote) Schedule: Mon-Fri, EST About the Company Our client is a global leader in swimming pool technology, specializing in robotic pool cleaners, pool safety products,…",
       "posted_date": "2026-08-14T16:00:49+00:00",
       "first_seen": "2026-08-15T16:30:41.519497+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:bjak:Lead Engineer - Wealth Management App",
+      "title": "Lead Engineer - Wealth Management App",
+      "company": "Bjak",
+      "location": "South Korea",
+      "url": "https://himalayas.app/jobs/bjak",
+      "tags": "UI-Engineering-Lead Lead-Software-Development-Engineer Senior-Engineering-Lead Senior-Lead-Engineer Lead-Software-Engineering Senior Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+      "posted_date": "",
+      "first_seen": "2026-08-15T06:47:03.509986+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12506,7 +12612,7 @@ window.JOB_DATA = {
       "excerpt": "Vacancy Number: 043183 Agency: Department of Health Number of Vacancies: 1 Work Unit: Primary Health Care â Business Support Location: Alice Springs Primary Objective: Under the general direction of the Fleet Officer…",
       "posted_date": "2026-08-13T20:09:23+00:00",
       "first_seen": "2026-08-14T20:35:26.456153+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12524,7 +12630,7 @@ window.JOB_DATA = {
       "excerpt": "Sobre a Stone: Somos muito mais do que uma empresa de maquininhas! A Stone Ã© uma empresa de tecnologia e serviÃ§os financeiros focada no(a) cliente. Nascemos com o propÃ³sito de ser protagonistas na transformaÃ§Ã£o da…",
       "posted_date": "2026-08-12T16:01:22+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12542,7 +12648,7 @@ window.JOB_DATA = {
       "excerpt": "Sobre a Stone: Somos muito mais do que uma empresa de maquininhas! A Stone Ã© uma empresa de tecnologia e serviÃ§os financeiros focada no(a) cliente. Nascemos com o propÃ³sito de ser protagonistas na transformaÃ§Ã£o da…",
       "posted_date": "2026-08-12T16:01:04+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12560,7 +12666,7 @@ window.JOB_DATA = {
       "excerpt": "About Us Established in 2018, Bybit is one of the worldâs leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by…",
       "posted_date": "2026-08-12T16:00:24+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12578,45 +12684,27 @@ window.JOB_DATA = {
       "excerpt": "Job Description The Surveyor I is an entry or junior-level position for new graduates and/or those candidates with less than five (5) years of experience in an applicable industry. The Surveyor I, under a direct…",
       "posted_date": "2026-08-12T16:00:12+00:00",
       "first_seen": "2026-08-13T17:00:55.115520+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Junior"
       ]
     },
     {
-      "id": "remoteok:1136447",
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "location": "Remote - US",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
-      "tags": "dev design embedded sys admin infosec architecture testing devops cloud exec engineer digital nomad",
-      "source": "RemoteOK",
-      "salary": "",
-      "employment_type": "",
-      "excerpt": "At Evolve, weâre on a mission to make vacation rental easy for everyone. Our high-performing, customer-obsessed team runs on curiosity, communication, and accountabilityâworking together to create exceptional…",
-      "posted_date": "2026-08-12T00:00:23+00:00",
-      "first_seen": "2026-08-13T02:25:45.878909+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "id": "himalayas:the-cigna-group:Agile Product Manager, Global Health Benefits - Cigna Healthcare - Remote",
+      "title": "Agile Product Manager, Global Health Benefits - Cigna Healthcare - Remote",
+      "company": "The Cigna Group",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/the-cigna-group",
+      "tags": "Agile-Product-Management Product-Management Product-Owner Healthcare-Product-Management Digital-Health-Product Remote-Senior-Technical-Product-Manager-–-Healthcare Remote-Senior-Product-Manager Agile-Product-Manager Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$99k – $165k",
+      "employment_type": "Full Time",
+      "excerpt": "Cigna Healthcare Global Health Benefits is looking for an Agile Product Manager to help shape products that support international health benefits.",
+      "posted_date": "",
+      "first_seen": "2026-08-06T04:17:22.030463+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
-      ]
-    },
-    {
-      "id": "himalayas:liberty-university:Quality Analyst Engineer Apprentice",
-      "title": "Quality Analyst Engineer Apprentice",
-      "company": "Liberty University",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/liberty-university",
-      "tags": "QA-Analyst QA-Apprentice Quality-Analyst Junior-Quality-Analyst Entry-Level-Quality-Assurance-Engineer Junior-QA-Engineer Quality-Assurance-Engineer Entry-Level-QA-Engineer Associate-QA-Engineer Quality-Assurance-Intern Entry-level Intern",
-      "source": "Himalayas",
-      "salary": "$12 – $19",
-      "employment_type": "Intern",
-      "excerpt": "The Apprentice assists in providing a high level of technical support for their assigned business unit.",
-      "posted_date": "",
-      "first_seen": "2026-08-05T11:24:37.994792+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
       ]
     },
     {
@@ -12632,135 +12720,27 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; This…",
       "posted_date": "Wed, 05 Aug 2026 05:52:46 +0000",
       "first_seen": "2026-08-05T08:44:06.903719+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
     },
     {
-      "id": "himalayas:bright-vision-technologies:Backend Application Engineer",
-      "title": "Backend Application Engineer",
-      "company": "Bright Vision Technologies",
+      "id": "himalayas:delan-associates:Python Engineer with APIGEE",
+      "title": "Python Engineer with APIGEE",
+      "company": "Delan Associates",
       "location": "United States",
-      "url": "https://himalayas.app/jobs/bright-vision-technologies",
-      "tags": "Backend-Engineer Platform-Engineer Distributed-Systems-Engineer Software-Engineer Backend-Services-Engineer Product-Backend-Engineer Backend-Engineering Application-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$120k – $175k",
-      "employment_type": "Full Time",
-      "excerpt": "Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations.",
-      "posted_date": "",
-      "first_seen": "2026-07-30T05:47:06.303805+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Backend"
-      ]
-    },
-    {
-      "id": "himalayas:cruciallogics:Principal Consultant- Collaboration & Migration Strategy (SPO, Power Platform)",
-      "title": "Principal Consultant- Collaboration & Migration Strategy (SPO, Power Platform)",
-      "company": "CrucialLogics",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/cruciallogics",
-      "tags": "Microsoft-365-Consultant Sharepoint-Consultant Power-Platform-Consultant Principal-Consultant Cloud-Migration-Consultant Microsoft-Power-Platform-Consultant Power-Platform-Solution-Architect Senior-Power-Platform-Architect Enterprise-Power-Platform-Consultant Power-Platform-Consulting Senior-Power-Platform-Lead Power-Platform-Architect Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "About CrucialLogics Inc. We secure your business using native Microsoft technologies you already own.",
-      "posted_date": "",
-      "first_seen": "2026-07-24T03:19:44.337406+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:3500-square:Senior IT Architectural Engineering Services",
-      "title": "Senior IT Architectural Engineering Services",
-      "company": "3500 Square",
-      "location": "Puerto Rico, United States",
-      "url": "https://himalayas.app/jobs/3500-square",
-      "tags": "IT-Architect Enterprise-Architect System-Architect Cloud-Architect Security-Architect Senior-IT-Architect Senior-Architecture-Engineer Senior-IT-Engineering Senior-IT-Enterprise-Architect Technical-Architect Senior Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "Senior IT Architect | IT Architectural Engineering ServicesLocation: Remote – Available across U.",
-      "posted_date": "",
-      "first_seen": "2026-07-24T03:19:44.337406+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:cozey:Ambassadeur.rice du bonheur client",
-      "title": "Ambassadeur.rice du bonheur client",
-      "company": "Cozey",
-      "location": "Canada",
-      "url": "https://himalayas.app/jobs/cozey",
-      "tags": "Customer-Service-Ambassador Customer-Experience-Advocate Customer-Service Customer-Support-Specialist Client-Services-Advisor Agent-De-Service-Client Conseil-Client Conseiller-Client Entry-level Full Time",
-      "source": "Himalayas",
-      "salary": "CAD 50k – CAD 50k",
-      "employment_type": "Full Time",
-      "excerpt": "À propos de Cozey Cozey n'est pas seulement une entreprise de meubles ; nous sommes des précurseurs dans l'amélioration des espaces de vie à travers le Canada et les États-Unis.",
-      "posted_date": "",
-      "first_seen": "2026-07-23T21:10:33.301712+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Junior"
-      ]
-    },
-    {
-      "id": "himalayas:aefis-llc:UI/UX Developer",
-      "title": "UI/UX Developer",
-      "company": "AEFIS, LLC",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/aefis-llc",
-      "tags": "UI-UX-Developer Front-End-Developer UI-Developer Web-Developer UX-Developer UX-UI-Front-End-Developer UI-UX-Engineer UI-UX-Development UI-Frontend-Developer UI-Designer UI-Engineer Mid-level Full Time",
-      "source": "Himalayas",
-      "salary": "",
-      "employment_type": "Full Time",
-      "excerpt": "ABOUT OUR COMPANYWe are a young and energetic software company, currently seeking to grow our amazing team!",
-      "posted_date": "",
-      "first_seen": "2026-07-23T04:18:59.676667+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Frontend"
-      ]
-    },
-    {
-      "id": "himalayas:pierce:ServiceNow IRM Consultant",
-      "title": "ServiceNow IRM Consultant",
-      "company": "Pierce",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/pierce",
-      "tags": "ServiceNow-IRM-Consultant Risk-Management-Consultant Compliance-Consultant IT-Consultant ServiceNow-Developer ServiceNow-Consultant ServiceNow-Implementation-Consultant ServiceNow-Technical-Consultant ServiceNow-Senior-Consultant Senior Contractor",
+      "url": "https://himalayas.app/jobs/delan-associates",
+      "tags": "Python-Engineer DevOps-Engineer Platform-Engineer Cloud-Engineer APIGEE-Developer Python-Software-Engineer Python-Backend-Engineer Python-Engineering Developer Mid-level Contractor",
       "source": "Himalayas",
       "salary": "",
       "employment_type": "Contractor",
-      "excerpt": "The ServiceNow IRM (Integrated Risk Management) Consultant at Pierce Technology Corp will be responsible for implementing and optimizing the ServiceNow IRM suite to help organizations manage risk effectively and ensure…",
+      "excerpt": "US Citizen to have Security ClearanceWe need python with Apigee experience is needed.",
       "posted_date": "",
-      "first_seen": "2026-07-22T22:08:56.509598+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "first_seen": "2026-07-24T03:19:44.337406+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
-        "Other"
-      ]
-    },
-    {
-      "id": "himalayas:bright-vision-technologies:QA Engineer – Automation",
-      "title": "QA Engineer – Automation",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "url": "https://himalayas.app/jobs/bright-vision-technologies",
-      "tags": "QA-Engineer Automation-Testing SDET Quality-Assurance-Engineer Senior-Automation-QA-Engineer Senior-QA-Automation-Engineer Senior Full Time",
-      "source": "Himalayas",
-      "salary": "$115k – $130k",
-      "employment_type": "Full Time",
-      "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
-      "posted_date": "",
-      "first_seen": "2026-07-19T04:24:34.708615+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
-      "categories": [
-        "Other"
+        "Backend"
       ]
     },
     {
@@ -12776,7 +12756,79 @@ window.JOB_DATA = {
       "excerpt": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive,…",
       "posted_date": "2026-10-07T01:11:09",
       "first_seen": "2026-07-09T11:15:34.875646+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:scalejet:Amazon Brand Manager",
+      "title": "Amazon Brand Manager",
+      "company": "ScaleJet",
+      "location": "Poland",
+      "url": "https://himalayas.app/jobs/scalejet",
+      "tags": "Amazon-Brand-Manager ECommerce-Manager Amazon-Seller Digital-Marketing-Manager Product-Launch-Specialist Amazon-Brand-Growth-Manager Amazon-Marketing-Manager Brand-Manager Marketplace-Brand-Manager Manager Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "Our client, an eco-friendly Home & Kitchen brand, is looking for a talented and ambitious professional and an Amazon nerd looking to exponentially improve himself or herself personally, professionally, and spiritually…",
+      "posted_date": "",
+      "first_seen": "2026-06-27T03:59:29.701309+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:elsevier:Senior Software Engineer I",
+      "title": "Senior Software Engineer I",
+      "company": "Elsevier",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/elsevier",
+      "tags": "Software-Engineer Backend-Engineer AI-Engineer Platform-Engineer Senior-Software-Engineer-Jobs Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$87k – $144k",
+      "employment_type": "Full Time",
+      "excerpt": "Senior Software Engineer I – Search and AI Platform About the TeamOur team is dedicated to unlocking the rich knowledge embedded within Elsevier’s content through our rich data platform; this empowers researchers,…",
+      "posted_date": "",
+      "first_seen": "2026-06-15T05:03:28.639576+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Backend"
+      ]
+    },
+    {
+      "id": "himalayas:bjak:Executive, Office of the CEO",
+      "title": "Executive, Office of the CEO",
+      "company": "Bjak",
+      "location": "Singapore",
+      "url": "https://himalayas.app/jobs/bjak",
+      "tags": "Office-Of-CEO Office-Of-The-CEO CEO-Executive Executive-Office Executive-Chief-Of-Staff Operations-and-Office-Of-The-CEO Executive Full Time",
+      "source": "Himalayas",
+      "salary": "",
+      "employment_type": "Full Time",
+      "excerpt": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native.",
+      "posted_date": "",
+      "first_seen": "2026-06-08T05:57:06.869027+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "id": "himalayas:kilpatrick-townsend:Sr Commercial Financial Services Litigation Attorney – Financial Institutions, L",
+      "title": "Sr Commercial Financial Services Litigation Attorney – Financial Institutions, L",
+      "company": "Kilpatrick Townsend",
+      "location": "United States",
+      "url": "https://himalayas.app/jobs/kilpatrick-townsend",
+      "tags": "Litigation-Attorney Commercial-Litigation-Attorney Financial-Services-Litigation Real-Estate-Litigation-Attorney Secured-Creditor-Remedies-Counsel Financial-Services-Legal-Counsel Financial-Services-Attorney Senior-Civil-Litigation-Attorney Senior-Litigation-Attorney Financial-Services-Lawyer Senior-Litigation-Counsel Complex-Commercial-Litigation-Attorney Senior Full Time",
+      "source": "Himalayas",
+      "salary": "$295k – $315k",
+      "employment_type": "Full Time",
+      "excerpt": "Job SummaryWe are seeking highly skilled Senior Litigation Attorneys with 8+ years of experience to join our Litigation Practice Group in our Charlotte (CHR), Dallas (DAL), Los Angeles (LA), New York (NY), Raleigh…",
+      "posted_date": "",
+      "first_seen": "2026-06-03T21:54:42.334168+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12794,7 +12846,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC and TLV URL: http://a.team/ai-jobs?utm_source=wwr&amp;utm_medium=post&amp;utm_campaign=wwrai Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find…",
       "posted_date": "Sun, 16 Jun 2024 18:08:52 +0000",
       "first_seen": "2026-06-01T16:44:31.953223+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12812,7 +12864,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print…",
       "posted_date": "Thu, 14 May 2026 09:14:28 +0000",
       "first_seen": "2026-05-14T10:26:10.825469+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12830,7 +12882,7 @@ window.JOB_DATA = {
       "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and…",
       "posted_date": "2026-10-14T20:33:44",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Full Stack"
       ]
@@ -12848,7 +12900,7 @@ window.JOB_DATA = {
       "excerpt": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This…",
       "posted_date": "2026-10-11T20:17:27",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Frontend"
       ]
@@ -12866,7 +12918,7 @@ window.JOB_DATA = {
       "excerpt": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while…",
       "posted_date": "2026-10-08T21:47:32",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12884,7 +12936,7 @@ window.JOB_DATA = {
       "excerpt": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics…",
       "posted_date": "2026-10-04T16:53:34",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12902,7 +12954,7 @@ window.JOB_DATA = {
       "excerpt": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has…",
       "posted_date": "2026-10-02T20:01:00",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12920,7 +12972,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A·Team, we’ve turned this vision into reality…",
       "posted_date": "Sun, 16 Jun 2024 17:30:51 +0000",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
@@ -12938,7 +12990,7 @@ window.JOB_DATA = {
       "excerpt": "Headquarters: Brooklyn, NY URL: https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021 Shopify developers love to freelance with Storetasker. Endless, quality clients: from…",
       "posted_date": "Mon, 13 May 2024 03:14:30 +0000",
       "first_seen": "2026-05-11T04:50:07.297735+00:00",
-      "last_seen": "2026-10-22T09:56:20.755786+00:00",
+      "last_seen": "2026-10-22T15:01:14.836057+00:00",
       "categories": [
         "Other"
       ]
