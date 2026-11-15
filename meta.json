@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-15T16:53:11.532487+00:00",
-  "total_jobs": 753,
-  "live_count": 753,
+  "last_updated": "2026-11-15T21:34:52.264846+00:00",
+  "total_jobs": 733,
+  "live_count": 733,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 16
     },
     "WeWorkRemotely": {
-      "scanned": 177,
-      "matched": 177
+      "scanned": 182,
+      "matched": 182
     },
     "Arbeitnow": {
       "scanned": 300,
@@ -34,8 +34,7 @@
       "matched": 79
     },
     "Hacker News": {
-      "scanned": 25,
-      "matched": 25
+      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Read timed out. (read timeout=20)"
     }
   }
 }
