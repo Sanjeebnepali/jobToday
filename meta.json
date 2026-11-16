@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-15T21:34:52.264846+00:00",
-  "total_jobs": 733,
-  "live_count": 733,
+  "last_updated": "2026-11-16T01:42:37.214389+00:00",
+  "total_jobs": 763,
+  "live_count": 763,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
@@ -10,8 +10,8 @@
       "matched": 16
     },
     "WeWorkRemotely": {
-      "scanned": 182,
-      "matched": 182
+      "scanned": 180,
+      "matched": 180
     },
     "Arbeitnow": {
       "scanned": 300,
@@ -30,11 +30,12 @@
       "matched": 97
     },
     "Himalayas": {
-      "scanned": 79,
-      "matched": 79
+      "scanned": 86,
+      "matched": 86
     },
     "Hacker News": {
-      "error": "HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Read timed out. (read timeout=20)"
+      "scanned": 25,
+      "matched": 25
     }
   }
 }
