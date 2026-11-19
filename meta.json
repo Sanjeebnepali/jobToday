@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-19T12:42:07.357903+00:00",
-  "total_jobs": 713,
-  "live_count": 713,
+  "last_updated": "2026-11-19T21:16:30.220351+00:00",
+  "total_jobs": 711,
+  "live_count": 711,
   "retained_count": 0,
   "retention_hours": 10,
   "sources": {
     "Remotive": {
-      "scanned": 16,
-      "matched": 16
+      "scanned": 15,
+      "matched": 15
     },
     "WeWorkRemotely": {
-      "scanned": 128,
-      "matched": 128
+      "scanned": 140,
+      "matched": 140
     },
     "Arbeitnow": {
       "scanned": 300,
@@ -22,16 +22,16 @@
       "matched": 50
     },
     "Working Nomads": {
-      "scanned": 37,
-      "matched": 37
+      "scanned": 36,
+      "matched": 36
     },
     "RemoteOK": {
       "scanned": 97,
       "matched": 97
     },
     "Himalayas": {
-      "scanned": 85,
-      "matched": 85
+      "scanned": 73,
+      "matched": 73
     },
     "Hacker News": {
       "scanned": 25,
